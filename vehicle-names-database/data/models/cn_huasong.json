@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "model:huasong:7",
+      "brand": "Huasong",
+      "names": {"en": "Huasong 7", "zh-CN": "华颂7", "zh-TW": "Huasong 7", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "华晨集团中大型商务MPV,搭载宝马技术2.0T发动机,销量惨淡后停产",
+      "verified": "verified"
+    }
+  ]
+}

@@ -87,13 +87,13 @@
     {
       "id": "model:jeep:patriot",
       "brand": "Jeep",
-      "names": {"en": "Patriot", "zh-CN": "Patriot", "zh-TW": "Patriot", "ja": "パトリオット"},
+      "names": {"en": "Patriot", "zh-CN": "自由客/Patriot", "zh-TW": "Patriot", "ja": "パトリオット"},
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2007–2017",
-      "note": "与Compass同平台的入门SUV",
+      "note": "与Compass同平台的入门SUV;中国市场进口名「自由客」(2011-2016)",
       "verified": "verified"
     },
     {
@@ -166,6 +166,18 @@
       "status": "current",
       "years": "2024–present",
       "note": "Jeep首款全球纯电车型,豪华纯电SUV(STLA Large平台,双电机约600马力),2024年5月发布、2025年起交付",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:grand-commander",
+      "brand": "Jeep",
+      "names": {"en": "Grand Commander", "zh-CN": "大指挥官", "zh-TW": "Grand Commander", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "广汽菲克Jeep国产中大型SUV(2018年上市,官方英文名Commander,区别于2006-2010款Commander),三排七座;五座版「指挥官」(2018-2020)并入本词条",
       "verified": "verified"
     }
   ]

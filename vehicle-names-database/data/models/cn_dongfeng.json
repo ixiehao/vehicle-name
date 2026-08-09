@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:dongfeng:shuaike",
+      "brand": "Dongfeng",
+      "names": {"en": "Dongfeng Shuaike", "zh-CN": "帅客", "zh-TW": "帥客", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2020",
+      "note": "郑州日产「东风」品牌紧凑型MPV(7座)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dongfeng:ruiqi",
+      "brand": "Dongfeng",
+      "names": {"en": "Dongfeng Ruiqi", "zh-CN": "锐骐", "zh-TW": "銳騏", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "郑州日产「东风」品牌皮卡,与日产D22技术同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dongfeng:ruiqi-6",
+      "brand": "Dongfeng",
+      "names": {"en": "Dongfeng Ruiqi 6", "zh-CN": "锐骐6", "zh-TW": "銳騏6", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "郑州日产「东风」品牌皮卡(锐骐换代车型)",
+      "verified": "verified"
+    }
+  ]
+}

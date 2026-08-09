@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:bisu:m3",
+      "brand": "Bisu",
+      "names": {"en": "Bisu M3", "zh-CN": "比速M3", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "比速M3紧凑型MPV,2016年上市,比速品牌首批车型之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bisu:t3",
+      "brand": "Bisu",
+      "names": {"en": "Bisu T3", "zh-CN": "比速T3", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "比速T3小型SUV,2016年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bisu:t5",
+      "brand": "Bisu",
+      "names": {"en": "Bisu T5", "zh-CN": "比速T5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "比速T5中型7座SUV,2017年上市",
+      "verified": "verified"
+    }
+  ]
+}

@@ -83,6 +83,78 @@
       "years": "2024–present",
       "note": "2024年10月发布的入门纯电SUV(MEB平台),定位低于Enyaq;大陆/台湾截至2026年均未上市",
       "verified": "verified"
+    },
+    {
+      "id": "model:skoda:yeti",
+      "brand": "Škoda",
+      "names": {"en": "Yeti", "zh-CN": "野帝", "zh-TW": "Yeti", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2017",
+      "note": "斯柯达首款SUV,全球2009年发布;大陆由上汽大众斯柯达国产,名「野帝」(2013–2017)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:rapid-spaceback",
+      "brand": "Škoda",
+      "names": {"en": "Rapid Spaceback", "zh-CN": "昕动", "zh-TW": "Rapid Spaceback", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "昕锐的两厢版,2014年国产上市(大陆特供)", 
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:rapid",
+      "brand": "Škoda",
+      "names": {"en": "Rapid", "zh-CN": "昕锐", "zh-TW": "Rapid", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "紧凑型轿车,2013年国产上市,与大众桑塔纳/捷达同平台;海外Rapid与大陆昕锐同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:kamiq",
+      "brand": "Škoda",
+      "names": {"en": "Kamiq", "zh-CN": "柯米克", "zh-TW": "Kamiq", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "小型SUV,2018年国产上市(大陆版与海外Kamiq不同源),含柯米克GT衍生",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:kodiaq-gt",
+      "brand": "Škoda",
+      "names": {"en": "Kodiaq GT", "zh-CN": "柯迪亚克GT", "zh-TW": "Kodiaq GT", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "柯迪亚克的轿跑SUV版,2019年国产上市(大陆特供)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:superb-combi",
+      "brand": "Škoda",
+      "names": {"en": "Superb Combi", "zh-CN": "速尊", "zh-TW": "Superb Combi", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "速派的旅行版,2013年起以进口形式引入,名「速尊」;2018年前后停售",
+      "verified": "verified"
     }
   ]
 }

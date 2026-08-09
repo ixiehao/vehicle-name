@@ -9,7 +9,7 @@
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "1998–2025",
-      "note": "北美2018年停售,欧洲2025年停产;中国长安福特版生产至2025年",
+      "note": "北美2018年停售,欧洲2025年停产;中国长安福特版生产至2025年;另有跨界版「福克斯Active」(2020年上市)",
       "verified": "verified"
     },
     {
@@ -105,7 +105,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "1975–present",
-      "note": "属F系列(1948年起);美国销量冠军,F-250以上为Super Duty",
+      "note": "属F系列(1948年起);美国销量冠军,F-250以上为Super Duty;2017年起以「F-150猛禽(Raptor)」名义进口中国",
       "verified": "verified"
     },
     {
@@ -249,7 +249,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "1965–present",
-      "note": "江铃福特国产「全顺」;另有Transit Connect/Custom等衍生",
+      "note": "江铃福特国产「全顺」;2010年起衍生「新世代全顺」,2023年推出换代「全顺T8」;另有Transit Connect/Custom等衍生",
       "verified": "verified"
     },
     {
@@ -322,6 +322,90 @@
       "status": "discontinued",
       "years": "1992–2011",
       "note": "北美警用与出租车主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ford:evos",
+      "brand": "Ford",
+      "names": {"en": "EVOS", "zh-CN": "EVOS", "zh-TW": "EVOS", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "长安福特国产中型跨界SUV,2021年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ford:everest",
+      "brand": "Ford",
+      "names": {"en": "Everest", "zh-CN": "撼路者", "zh-TW": "Everest", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "江铃福特国产中型硬派SUV(非承载式车身)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ford:mondeo-zhisheng",
+      "brand": "Ford",
+      "names": {"en": "Mondeo Zhisheng", "zh-CN": "致胜", "zh-TW": "Mondeo Zhisheng", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2014",
+      "note": "即国产第二代蒙迪欧,官方名「蒙迪欧-致胜」,简称致胜;2013年换代后回归「蒙迪欧」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ford:tourneo",
+      "brand": "Ford",
+      "names": {"en": "Tourneo", "zh-CN": "途睿欧", "zh-TW": "Tourneo", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "江铃福特国产「途睿欧」(Tourneo),商用兼家用MPV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ford:territory",
+      "brand": "Ford",
+      "names": {"en": "Territory", "zh-CN": "领界", "zh-TW": "Territory", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "江铃福特国产紧凑SUV「领界」(Territory)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ford:equator-sport",
+      "brand": "Ford",
+      "names": {"en": "Equator Sport", "zh-CN": "领睿", "zh-TW": "Equator Sport", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "江铃福特国产中型SUV「领睿」(Equator Sport)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ford:equator",
+      "brand": "Ford",
+      "names": {"en": "Equator", "zh-CN": "领裕", "zh-TW": "Equator", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "江铃福特国产中大型SUV「领裕」(Equator)",
       "verified": "verified"
     }
   ]

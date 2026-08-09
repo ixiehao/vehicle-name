@@ -1,0 +1,124 @@
+{
+  "models": [
+    {
+      "id": "model:fengon:330",
+      "brand": "Fengon",
+      "names": {"en": "Fengon 330", "zh-CN": "330", "zh-TW": "330", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "东风风光330紧凑型MPV(2013年上市),低价微面升级车型;近期无改款,在售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:fengon:350",
+      "brand": "Fengon",
+      "names": {"en": "Fengon 350", "zh-CN": "350", "zh-TW": "350", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "东风风光350紧凑型MPV(2015年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fengon:360",
+      "brand": "Fengon",
+      "names": {"en": "Fengon 360", "zh-CN": "360", "zh-TW": "360", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2017",
+      "note": "东风风光360紧凑型MPV(2014年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fengon:370",
+      "brand": "Fengon",
+      "names": {"en": "Fengon 370", "zh-CN": "370", "zh-TW": "370", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "东风风光370紧凑型MPV(2015年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fengon:500",
+      "brand": "Fengon",
+      "names": {"en": "Fengon 500", "zh-CN": "500", "zh-TW": "500", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "东风风光500小型SUV(2020年上市);近期无改款,在售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:fengon:580",
+      "brand": "Fengon",
+      "names": {"en": "Fengon 580", "zh-CN": "580", "zh-TW": "580", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "东风风光580中型SUV(2016年上市),风光品牌销量支柱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fengon:580-pro",
+      "brand": "Fengon",
+      "names": {"en": "Fengon 580 Pro", "zh-CN": "580Pro", "zh-TW": "580 Pro", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "东风风光580Pro中型SUV(2019年上市),为580的改款升级版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fengon:s560",
+      "brand": "Fengon",
+      "names": {"en": "Fengon S560", "zh-CN": "S560", "zh-TW": "S560", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "东风风光S560紧凑型SUV(2017年上市);近期无改款,在售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:fengon:ix5",
+      "brand": "Fengon",
+      "names": {"en": "Fengon ix5", "zh-CN": "ix5", "zh-TW": "ix5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "东风风光ix5紧凑型轿跑SUV(2018年上市),溜背跨界造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fengon:ix7",
+      "brand": "Fengon",
+      "names": {"en": "Fengon ix7", "zh-CN": "ix7", "zh-TW": "ix7", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "东风风光ix7中大型SUV(2019年上市),风光旗舰SUV",
+      "verified": "verified"
+    }
+  ]
+}

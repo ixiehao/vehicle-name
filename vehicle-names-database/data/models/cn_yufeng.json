@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "model:dongfeng-yufeng:yufeng",
+      "brand": "Dongfeng Yufeng",
+      "names": {"en": "Dongfeng Yufeng", "zh-CN": "御风", "zh-TW": "禦風", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "东风御风轻型客车(厢式/商旅),东风汽车旗下",
+      "verified": "verified"
+    }
+  ]
+}

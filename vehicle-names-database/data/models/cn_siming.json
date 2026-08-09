@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "model:siming:ciimo",
+      "brand": "Siming",
+      "names": {"en": "Siming (CIIMO)", "zh-CN": "思铭", "zh-TW": "思銘", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "东风本田思铭紧凑型轿车,基于第八代思域(2006款)改进,2012年上市",
+      "verified": "verified"
+    }
+  ]
+}

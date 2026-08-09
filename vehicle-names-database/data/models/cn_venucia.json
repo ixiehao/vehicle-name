@@ -1,0 +1,148 @@
+{
+  "models": [
+    {
+      "id": "model:venucia:d50",
+      "brand": "Venucia",
+      "names": {"en": "Venucia D50", "zh-CN": "启辰D50", "zh-TW": "Venucia D50", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2017",
+      "note": "启辰品牌首款车型,紧凑型轿车,基于日产颐达平台;2012年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:d60",
+      "brand": "Venucia",
+      "names": {"en": "Venucia D60", "zh-CN": "启辰D60", "zh-TW": "Venucia D60", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "启辰D60紧凑型轿车,基于日产轩逸平台,燃油/纯电(e30)版;2017年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:m50v",
+      "brand": "Venucia",
+      "names": {"en": "Venucia M50V", "zh-CN": "启辰M50V", "zh-TW": "Venucia M50V", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "启辰紧凑型MPV(7座),基于日产NV200平台;2017年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:r30",
+      "brand": "Venucia",
+      "names": {"en": "Venucia R30", "zh-CN": "启辰R30", "zh-TW": "Venucia R30", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2017",
+      "note": "启辰微型两厢车,基于日产玛驰平台;2014年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:r50",
+      "brand": "Venucia",
+      "names": {"en": "Venucia R50", "zh-CN": "启辰R50", "zh-TW": "Venucia R50", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2016",
+      "note": "启辰两厢车,基于日产骐达平台,与D50同源;2012年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:r50x",
+      "brand": "Venucia",
+      "names": {"en": "Venucia R50X", "zh-CN": "启辰R50X", "zh-TW": "Venucia R50X", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "R50的跨界版,基于日产骐达平台;2013年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:t60",
+      "brand": "Venucia",
+      "names": {"en": "Venucia T60", "zh-CN": "启辰T60", "zh-TW": "Venucia T60", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "启辰小型SUV;2018年11月上市;另有T60EV纯电版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:t70",
+      "brand": "Venucia",
+      "names": {"en": "Venucia T70", "zh-CN": "启辰T70", "zh-TW": "Venucia T70", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "启辰首款SUV,紧凑型,基于日产逍客平台;2015年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:t70x",
+      "brand": "Venucia",
+      "names": {"en": "Venucia T70X", "zh-CN": "启辰T70X", "zh-TW": "Venucia T70X", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "T70升级版,紧凑型SUV,外观与配置升级;2015年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:t90",
+      "brand": "Venucia",
+      "names": {"en": "Venucia T90", "zh-CN": "启辰T90", "zh-TW": "Venucia T90", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "启辰中型轿跑SUV;2016年底上市,约2022年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:v",
+      "brand": "Venucia",
+      "names": {"en": "Venucia V", "zh-CN": "启辰大V", "zh-TW": "Venucia V", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "启辰大V紧凑型SUV,基于启辰VSA平台;2021年上市;另有DD-i插混版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:venucia:xing",
+      "brand": "Venucia",
+      "names": {"en": "Venucia Xing", "zh-CN": "启辰星", "zh-TW": "Venucia Xing", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "启辰星紧凑型SUV,基于启辰VSA平台,启辰首款自主平台车型;2020年上市",
+      "verified": "verified"
+    }
+  ]
+}

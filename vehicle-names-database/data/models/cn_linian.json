@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "model:linian:s1",
+      "brand": "Linian",
+      "names": {"en": "Linian S1", "zh-CN": "理念S1", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2016",
+      "note": "广汽本田理念S1紧凑型轿车,合资自主品牌首款车型,基于本田City(2008款)",
+      "verified": "verified"
+    }
+  ]
+}

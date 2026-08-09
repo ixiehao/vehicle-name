@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:borgward:bx7",
+      "brand": "Borgward",
+      "names": {"en": "Borgward BX7", "zh-CN": "BX7", "zh-TW": "BX7", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "中型SUV,宝沃品牌复活后的首款量产车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:borgward:bx5",
+      "brand": "Borgward",
+      "names": {"en": "Borgward BX5", "zh-CN": "BX5", "zh-TW": "BX5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "紧凑型SUV,宝沃品牌主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:borgward:bx3",
+      "brand": "Borgward",
+      "names": {"en": "Borgward BX3", "zh-CN": "BX3", "zh-TW": "BX3", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "小型SUV,宝沃品牌末期推出的入门SUV",
+      "verified": "pending"
+    }
+  ]
+}

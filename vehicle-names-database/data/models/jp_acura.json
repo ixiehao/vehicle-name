@@ -143,6 +143,30 @@
       "years": "1996–2012",
       "note": "前身为 Acura Legend(1986–1995);日本市场以本田 Legend 销售;被 RLX 取代",
       "verified": "verified"
+    },
+    {
+      "id": "model:acura:cdx",
+      "brand": "Acura",
+      "names": {"en": "CDX", "zh-CN": "CDX", "zh-TW": "CDX(阿庫拉)", "ja": "アキュラCDX"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "广汽讴歌国产紧凑SUV(基于本田缤智平台),讴歌在华首款国产车;2022年讴歌退出中国市场而停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:tlxl",
+      "brand": "Acura",
+      "names": {"en": "TLX-L", "zh-CN": "TLX-L", "zh-TW": "TLX-L(阿庫拉)", "ja": "アキュラTLX-L"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "广汽讴歌国产的中型轿车,TLX的中国加长版;2020年停产,讴歌2022年退出中国市场",
+      "verified": "verified"
     }
   ]
 }

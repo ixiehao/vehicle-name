@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "model:gac-group:qizhi-phev",
+      "brand": "GAC Group",
+      "names": {"en": "GAC Mitsubishi Qizhi PHEV", "zh-CN": "祺智PHEV", "zh-TW": "Qizhi PHEV", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "广汽三菱祺智PHEV插电混动紧凑型SUV(2018-2021),基于传祺GS4 PHEV换标,广汽三菱渠道销售",
+      "verified": "verified"
+    }
+  ]
+}

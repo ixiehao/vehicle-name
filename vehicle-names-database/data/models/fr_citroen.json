@@ -227,6 +227,78 @@
       "years": "1955–1975",
       "note": "雪铁龙经典旗舰「女神」(Déesse),液压气动悬挂闻名;DS品牌名即源自此车",
       "verified": "verified"
+    },
+    {
+      "id": "model:citroen:c4-quatre",
+      "brand": "Citroën",
+      "names": {"en": "C4 C-Quatre", "zh-CN": "C4世嘉", "zh-TW": "C4 C-Quatre", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "东风雪铁龙紧凑轿车,世嘉换代车型;实际已停产,停产年份待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:citroen:c-quatre",
+      "brand": "Citroën",
+      "names": {"en": "C-Quatre", "zh-CN": "世嘉", "zh-TW": "C-Quatre", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2016",
+      "note": "东风雪铁龙C4中国版,含两厢/三厢版,被C4世嘉取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:citroen:elysee",
+      "brand": "Citroën",
+      "names": {"en": "Elysée", "zh-CN": "爱丽舍", "zh-TW": "Elysée", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2019",
+      "note": "东风雪铁龙入门紧凑轿车,曾为国内出租车常见车型,2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:citroen:c2",
+      "brand": "Citroën",
+      "names": {"en": "C2", "zh-CN": "C2", "zh-TW": "C2", "ja": "C2"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2014",
+      "note": "东风雪铁龙小型两厢车,与标致206同平台,2014年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:citroen:c3-xr",
+      "brand": "Citroën",
+      "names": {"en": "C3-XR", "zh-CN": "C3-XR", "zh-TW": "C3-XR", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "东风雪铁龙中国特供小型SUV;实际已停产,停产年份待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:citroen:c4-l",
+      "brand": "Citroën",
+      "names": {"en": "C4L", "zh-CN": "C4L", "zh-TW": "C4L", "ja": "C4L"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2020",
+      "note": "东风雪铁龙紧凑轿车,加长版C4,2020年停产",
+      "verified": "verified"
     }
   ]
 }

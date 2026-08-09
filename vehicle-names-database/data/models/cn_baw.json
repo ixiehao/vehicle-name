@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:baw:212",
+      "brand": "BAW",
+      "names": {"en": "BAW 212", "zh-CN": "212", "zh-TW": "BAW 212", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1966–present",
+      "note": "经典轻型越野车BJ212,1966年投产,中国汽车工业符号;2024年新一代212(T01)上市,现由BAW生产销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baw:bw007",
+      "brand": "BAW",
+      "names": {"en": "BAW BW007", "zh-CN": "BW007", "zh-TW": "BAW BW007", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "中型硬派SUV(2015年上市),源自勇士平台;约2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baw:t01",
+      "brand": "BAW",
+      "names": {"en": "212 T01", "zh-CN": "212 T01", "zh-TW": "212 T01", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "新212换代款中大型硬派SUV(2024年8月上市,代号T01),非承载式车身,搭载2.0T发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baw:warrior",
+      "brand": "BAW",
+      "names": {"en": "BAW Warrior", "zh-CN": "勇士", "zh-TW": "BAW Warrior", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2020",
+      "note": "中型硬派越野车,军用勇士民用化产品,2007年前后上市;2020年前后停产",
+      "verified": "pending"
+    }
+  ]
+}

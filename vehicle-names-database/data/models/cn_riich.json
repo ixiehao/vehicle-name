@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:riich:g3",
+      "brand": "Riich",
+      "names": {"en": "Riich G3", "zh-CN": "瑞麒G3", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2014",
+      "note": "瑞麒G3紧凑型轿车,基于奇瑞A3平台,2011年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:riich:g5",
+      "brand": "Riich",
+      "names": {"en": "Riich G5", "zh-CN": "瑞麒G5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2013",
+      "note": "瑞麒G5中型轿车,瑞麒品牌旗舰车型之一,2009年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:riich:g6",
+      "brand": "Riich",
+      "names": {"en": "Riich G6", "zh-CN": "瑞麒G6", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2014",
+      "note": "瑞麒G6中大型轿车,瑞麒品牌旗舰车型,2010年首发亮相,2011年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:riich:x1",
+      "brand": "Riich",
+      "names": {"en": "Riich X1", "zh-CN": "瑞麒X1", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2012",
+      "note": "瑞麒X1小型SUV/跨界车,基于奇瑞A1平台,2009年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:riich:m1",
+      "brand": "Riich",
+      "names": {"en": "Riich M1", "zh-CN": "瑞麒M1", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2011",
+      "note": "瑞麒M1微型两厢车,2009年上市",
+      "verified": "verified"
+    }
+  ]
+}

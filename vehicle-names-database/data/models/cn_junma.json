@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "id": "model:junma:s70",
+      "brand": "Junma",
+      "names": {"en": "Junma S70", "zh-CN": "君马S70", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "君马S70中型SUV,2017年上市,君马首款车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:junma:seek5",
+      "brand": "Junma",
+      "names": {"en": "Junma SEEK 5", "zh-CN": "君马SEEK 5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2019",
+      "note": "君马SEEK 5(赛克5)中型7座SUV,2018年上市,君马第二款车型",
+      "verified": "verified"
+    }
+  ]
+}

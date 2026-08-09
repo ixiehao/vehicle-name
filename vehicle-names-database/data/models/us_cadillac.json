@@ -239,6 +239,42 @@
       "years": "1986–1992",
       "note": "全尺寸后驱豪华轿车",
       "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:sls",
+      "brand": "Cadillac",
+      "names": {"en": "SLS", "zh-CN": "SLS赛威", "zh-TW": "SLS", "ja": "SLS"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2013",
+      "note": "上海通用国产中大型轿车,赛威为STS/DeVille的中国特供加长版;2013年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:cts",
+      "brand": "Cadillac",
+      "names": {"en": "CTS", "zh-CN": "CTS", "zh-TW": "CTS", "ja": "CTS"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2018",
+      "note": "中型/中大型运动轿车,进口与上海通用国产并行;2018年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:gt4",
+      "brand": "Cadillac",
+      "names": {"en": "GT4", "zh-CN": "GT4", "zh-TW": "GT4", "ja": "GT4"},
+      "segment": "class:cn:a",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "上汽通用国产紧凑型轿跑SUV(2023年上市),凯迪拉克最入门车型",
+      "verified": "verified"
     }
   ]
 }

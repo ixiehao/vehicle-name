@@ -4,9 +4,9 @@
 
 English: [vehicle-names-database/README.en.md](vehicle-names-database/README.en.md) · 中文: [vehicle-names-database/README.md](vehicle-names-database/README.md)
 
-![Data version](https://img.shields.io/badge/data-v1.3.0-2ea44f)
-![Brands](https://img.shields.io/badge/brands-103-blue)
-![Models](https://img.shields.io/badge/models-1356-blue)
+![Data version](https://img.shields.io/badge/data-v1.1.0-2ea44f)
+![Brands](https://img.shields.io/badge/brands-164-blue)
+![Models](https://img.shields.io/badge/models-2041-blue)
 ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)
 ![CI](https://img.shields.io/github/actions/workflow/status/vehiclename/vehiclename/validate.yml?label=validate)
 

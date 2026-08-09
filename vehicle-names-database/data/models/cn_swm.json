@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:swm:x7",
+      "brand": "SWM",
+      "names": {"en": "SWM X7", "zh-CN": "X7", "zh-TW": "X7", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2021",
+      "note": "SWM斯威X7中型SUV(2016年上市),SWM品牌入华首款车型,7座布局",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:g01",
+      "brand": "SWM",
+      "names": {"en": "SWM G01", "zh-CN": "G01", "zh-TW": "G01", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "SWM斯威G01紧凑型SUV(2018年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:x3",
+      "brand": "SWM",
+      "names": {"en": "SWM X3", "zh-CN": "X3", "zh-TW": "X3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "SWM斯威X3紧凑型SUV(2019年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:x2",
+      "brand": "SWM",
+      "names": {"en": "SWM X2", "zh-CN": "X2", "zh-TW": "X2", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2020–2021",
+      "note": "SWM斯威X2小型SUV",
+      "verified": "pending"
+    }
+  ]
+}

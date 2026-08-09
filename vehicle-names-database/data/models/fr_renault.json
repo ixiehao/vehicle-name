@@ -21,7 +21,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2013–present",
-      "note": "小型跨界SUV,基于Clio平台;中国版曾由东风雷诺国产为「科雷缤」",
+      "note": "小型跨界SUV,基于Clio平台;中国2015年起曾以进口「卡缤」销售,后由东风雷诺国产为「科雷缤」(2019起)",
       "verified": "verified"
     },
     {
@@ -250,6 +250,18 @@
       "status": "discontinued",
       "years": "1992–2024",
       "note": "A级城市小车,2025年以纯电Twingo E-Tech复活(2025-2026)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:renault:fluence",
+      "brand": "Renault",
+      "names": {"en": "Fluence", "zh-CN": "风朗", "zh-TW": "Fluence", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2018",
+      "note": "紧凑型轿车,以进口形式引入中国,名「风朗」;2018年前后停售",
       "verified": "verified"
     }
   ]

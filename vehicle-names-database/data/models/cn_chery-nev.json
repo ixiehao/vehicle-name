@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:chery-nev:eq",
+      "brand": "Chery NEV",
+      "names": {"en": "Chery eQ", "zh-CN": "奇瑞eQ", "zh-TW": "Chery eQ", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2014–2020",
+      "note": "奇瑞新能源首款纯电动微型车(2014年上市),基于奇瑞QQ改装,官方名奇瑞eQ;约2020年停售,由小蚂蚁接棒",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:ant",
+      "brand": "Chery NEV",
+      "names": {"en": "Chery eQ1 (Ant)", "zh-CN": "小蚂蚁", "zh-TW": "Chery eQ1", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2017–present",
+      "note": "奇瑞新能源A00级纯电微型车(2017年上市),官方名eQ1(小蚂蚁),品牌代表作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:qq-ice-cream",
+      "brand": "Chery NEV",
+      "names": {"en": "Chery QQ Ice Cream", "zh-CN": "QQ冰淇淋", "zh-TW": "QQ Ice Cream", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "A00级纯电微型车(2021年上市),对标五菱宏光MINIEV,官方英文名QQ Ice Cream,海外部分市场称iCar",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:eq5",
+      "brand": "Chery NEV",
+      "names": {"en": "Chery eQ5", "zh-CN": "大蚂蚁", "zh-TW": "Chery eQ5", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2023",
+      "note": "中型纯电SUV(2020年上市),官方名eQ5(大蚂蚁),基于@LIFE全铝纯电平台;约2023年停售",
+      "verified": "verified"
+    }
+  ]
+}

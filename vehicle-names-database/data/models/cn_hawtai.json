@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:hawtai:santa-fe",
+      "brand": "Hawtai",
+      "names": {"en": "Hawtai Santa Fe", "zh-CN": "圣达菲", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2015",
+      "note": "紧凑型SUV,基于现代Santa Fe一代平台技术,华泰主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hawtai:santa-fe-classic",
+      "brand": "Hawtai",
+      "names": {"en": "Hawtai Santa Fe Classic", "zh-CN": "圣达菲经典", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "紧凑型SUV,圣达菲改款后更名销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hawtai:boliger",
+      "brand": "Hawtai",
+      "names": {"en": "Hawtai Boliger", "zh-CN": "宝利格", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2017",
+      "note": "中型SUV,外观借鉴保时捷卡宴风格,华泰高端SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hawtai:lusheng-e70",
+      "brand": "Hawtai",
+      "names": {"en": "Hawtai Lusheng E70", "zh-CN": "路盛E70", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2017",
+      "note": "紧凑型轿车,华泰主力轿车",
+      "verified": "verified"
+    }
+  ]
+}

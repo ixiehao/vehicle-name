@@ -623,6 +623,66 @@
       "years": "1970–1973, 1999–2018",
       "note": "初代(1970–1973)为 360cc 双座越野车;二代(1999–2018)为 K-car 厢式车(与 Acty 同平台)",
       "verified": "verified"
+    },
+    {
+      "id": "model:honda:avancier",
+      "brand": "Honda",
+      "names": {"en": "Avancier", "zh-CN": "冠道", "zh-TW": "Avancier", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "广汽本田中型SUV,与东风本田UR-V为姊妹车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:greiz",
+      "brand": "Honda",
+      "names": {"en": "Greiz", "zh-CN": "哥瑞", "zh-TW": "Greiz", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "东风本田中国特供紧凑轿车,锋范(City)姊妹车;实际已停产,停产年份待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:honda:zhixing",
+      "brand": "Honda",
+      "names": {"en": "Integra (型格)", "zh-CN": "型格", "zh-TW": "Integra", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "广汽本田Integra,思域姊妹车,中国特供",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:ur-v",
+      "brand": "Honda",
+      "names": {"en": "UR-V", "zh-CN": "UR-V", "zh-TW": "UR-V", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "东风本田中型SUV,与广汽本田冠道为姊妹车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:honda:gienia",
+      "brand": "Honda",
+      "names": {"en": "Gienia", "zh-CN": "竞瑞", "zh-TW": "Gienia", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "东风本田哥瑞两厢版,中国特供;实际已停产,停产年份待核实",
+      "verified": "pending"
     }
   ]
 }

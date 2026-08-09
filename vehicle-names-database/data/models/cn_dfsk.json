@@ -1,0 +1,136 @@
+{
+  "models": [
+    {
+      "id": "model:dfsk:c31",
+      "brand": "DFSK",
+      "names": {"en": "DFSK C31", "zh-CN": "C31", "zh-TW": "C31", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "东风小康C31微卡(单排)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:c32",
+      "brand": "DFSK",
+      "names": {"en": "DFSK C32", "zh-CN": "C32", "zh-TW": "C32", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "东风小康C32微卡(双排)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:c35",
+      "brand": "DFSK",
+      "names": {"en": "DFSK C35", "zh-CN": "C35", "zh-TW": "C35", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "东风小康C35微面",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:c37",
+      "brand": "DFSK",
+      "names": {"en": "DFSK C37", "zh-CN": "C37", "zh-TW": "C37", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "东风小康C37微面",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:c56",
+      "brand": "DFSK",
+      "names": {"en": "DFSK C56", "zh-CN": "C56", "zh-TW": "C56", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "东风小康C56微面/面包车(2021年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:k01",
+      "brand": "DFSK",
+      "names": {"en": "DFSK K01", "zh-CN": "K01", "zh-TW": "K01", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "东风小康K01微型货车(单排)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:k05s",
+      "brand": "DFSK",
+      "names": {"en": "DFSK K05S", "zh-CN": "K05S", "zh-TW": "K05S", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "东风小康K05S微型货车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:k07",
+      "brand": "DFSK",
+      "names": {"en": "DFSK K07", "zh-CN": "K07", "zh-TW": "K07", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "东风小康K07微面(面包车),经典车型,约2015年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:k07ii",
+      "brand": "DFSK",
+      "names": {"en": "DFSK K07 II", "zh-CN": "K07II", "zh-TW": "K07II", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "东风小康K07II微面(K07二代),约2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:k07s",
+      "brand": "DFSK",
+      "names": {"en": "DFSK K07S", "zh-CN": "K07S", "zh-TW": "K07S", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "东风小康K07S微面",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dfsk:v29",
+      "brand": "DFSK",
+      "names": {"en": "DFSK V29", "zh-CN": "V29", "zh-TW": "V29", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "东风小康V29微面,约2015年停产",
+      "verified": "verified"
+    }
+  ]
+}

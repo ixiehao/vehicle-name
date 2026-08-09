@@ -594,6 +594,30 @@
       "years": "1991–2002",
       "note": "小型SUV,1991年首发;2010年起海外RVR指ASX;官方历史资料库收录",
       "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:lancer-ex",
+      "brand": "Mitsubishi",
+      "names": {"en": "Lancer EX", "zh-CN": "翼神", "zh-TW": "Lancer EX", "ja": "ランサーEX"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2016",
+      "note": "东南三菱国产紧凑轿车(官方名Lancer EX,与蓝瑟同属Lancer车系);2016年随东南三菱业务收缩停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:fadis",
+      "brand": "Mitsubishi",
+      "names": {"en": "Fadis", "zh-CN": "风迪思", "zh-TW": "Fadis", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "东南三菱国产紧凑轿车,与翼神为姊妹车(共用Lancer EX平台);2016年停产",
+      "verified": "verified"
     }
   ]
 }

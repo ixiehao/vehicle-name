@@ -1,0 +1,112 @@
+{
+  "models": [
+    {
+      "id": "model:coway:c3",
+      "brand": "Coway",
+      "names": {"en": "Coway C3", "zh-CN": "C3", "zh-TW": "C3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2017",
+      "note": "凯翼C3紧凑型轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:coway:c3r",
+      "brand": "Coway",
+      "names": {"en": "Coway C3R", "zh-CN": "C3R", "zh-TW": "C3R", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2017",
+      "note": "凯翼C3R紧凑型两厢轿车,C3两厢版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:coway:e3",
+      "brand": "Coway",
+      "names": {"en": "Coway E3", "zh-CN": "E3", "zh-TW": "E3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "凯翼E3紧凑型轿车,C3系列改款车型",
+      "verified": "pending"
+    },
+    {
+      "id": "model:coway:v3",
+      "brand": "Coway",
+      "names": {"en": "Coway V3", "zh-CN": "V3", "zh-TW": "V3", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "凯翼V3紧凑型MPV(7座)",
+      "verified": "pending"
+    },
+    {
+      "id": "model:coway:x3",
+      "brand": "Coway",
+      "names": {"en": "Coway X3", "zh-CN": "X3", "zh-TW": "X3", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "凯翼X3小型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:coway:x5",
+      "brand": "Coway",
+      "names": {"en": "Coway X5", "zh-CN": "X5", "zh-TW": "X5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "凯翼X5紧凑型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:coway:xuanjie",
+      "brand": "Coway",
+      "names": {"en": "Coway Xuanjie", "zh-CN": "炫界", "zh-TW": "炫界", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "凯翼炫界紧凑型SUV(2020年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:coway:xuandu",
+      "brand": "Coway",
+      "names": {"en": "Coway Xuandu", "zh-CN": "轩度", "zh-TW": "軒度", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "凯翼轩度紧凑型轿车(2021年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:coway:kunlun",
+      "brand": "Coway",
+      "names": {"en": "Coway Kunlun", "zh-CN": "昆仑", "zh-TW": "崑崙", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "凯翼昆仑中型SUV(2023年上市)",
+      "verified": "verified"
+    }
+  ]
+}

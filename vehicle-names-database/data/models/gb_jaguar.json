@@ -179,6 +179,30 @@
       "years": "1992–1994",
       "note": "中置引擎超级跑车,1992年时世界最快量产车,限量约281台",
       "verified": "verified"
+    },
+    {
+      "id": "model:jaguar:xel",
+      "brand": "Jaguar",
+      "names": {"en": "Jaguar XEL", "zh-CN": "捷豹XEL", "zh-TW": "捷豹XEL", "ja": "ジャガーXEL"},
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "奇瑞捷豹路虎国产中型轿车(2017年12月上市),XE加长轴距版,中国市场专属",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jaguar:xfl",
+      "brand": "Jaguar",
+      "names": {"en": "Jaguar XFL", "zh-CN": "捷豹XFL", "zh-TW": "捷豹XFL", "ja": "ジャガーXFL"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "奇瑞捷豹路虎国产中大型轿车(2016年8月上市),XF加长轴距版,中国市场专属",
+      "verified": "verified"
     }
   ]
 }

@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:rely:v5",
+      "brand": "Rely",
+      "names": {"en": "Rely V5", "zh-CN": "威麟V5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2014",
+      "note": "威麟V5紧凑型MPV(7座),源自奇瑞东方之子Cross,2009年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:rely:x5",
+      "brand": "Rely",
+      "names": {"en": "Rely X5", "zh-CN": "威麟X5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2013",
+      "note": "威麟X5中型硬派SUV,2010年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:rely:h3",
+      "brand": "Rely",
+      "names": {"en": "Rely H3", "zh-CN": "威麟H3", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2012",
+      "note": "威麟H3轻型客车,2010年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:rely:h5",
+      "brand": "Rely",
+      "names": {"en": "Rely H5", "zh-CN": "威麟H5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2012",
+      "note": "威麟H5轻型客车,2010年上市",
+      "verified": "verified"
+    }
+  ]
+}

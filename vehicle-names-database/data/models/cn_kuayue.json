@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:changan-kuayue:xinbao-mini",
+      "brand": "Changan Kuayue",
+      "names": {"en": "Changan Kuayue Xinbao Mini", "zh-CN": "新豹MINI", "zh-TW": "新豹MINI", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2021",
+      "note": "长安跨越新豹MINI微卡(单排)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:changan-kuayue:xinbao-t3",
+      "brand": "Changan Kuayue",
+      "names": {"en": "Changan Kuayue Xinbao T3", "zh-CN": "新豹T3", "zh-TW": "新豹T3", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "长安跨越新豹T3微卡(单排/双排)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:changan-kuayue:kuayue-wang",
+      "brand": "Changan Kuayue",
+      "names": {"en": "Changan Kuayue Wang", "zh-CN": "跨越王", "zh-TW": "跨越王", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "长安跨越王微卡系列(含X3/X5等衍生)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:changan-kuayue:v3",
+      "brand": "Changan Kuayue",
+      "names": {"en": "Changan Kuayue V3", "zh-CN": "长安V3", "zh-TW": "長安V3", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "长安跨越V3微面",
+      "verified": "verified"
+    },
+    {
+      "id": "model:changan-kuayue:v5",
+      "brand": "Changan Kuayue",
+      "names": {"en": "Changan Kuayue V5", "zh-CN": "长安V5", "zh-TW": "長安V5", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "长安跨越V5微面",
+      "verified": "verified"
+    }
+  ]
+}

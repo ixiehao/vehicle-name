@@ -21,7 +21,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "1985–present",
-      "note": "中型轿车,现款DN8;中国历代国产名索纳塔/御翔/领翔",
+      "note": "中型轿车,现款DN8;中国历代国产名索纳塔/御翔/领翔;另有索纳塔插电混动版(2018-,phev)并入本条",
       "verified": "verified"
     },
     {
@@ -299,6 +299,150 @@
       "years": "1996–2008",
       "note": "双门轿跑,中国称「酷派」;欧洲名Coupe,韩国名Tuscani;被Veloster接续",
       "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:elantra-n",
+      "brand": "Hyundai",
+      "names": {"en": "Elantra N", "zh-CN": "伊兰特N", "zh-TW": "Elantra N", "ja": "エラントラ N"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "伊兰特高性能版,2022年起在中国市场销售,与普通伊兰特同车系",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:rohens",
+      "brand": "Hyundai",
+      "names": {"en": "Genesis", "zh-CN": "劳恩斯", "zh-TW": "Genesis", "ja": "ジェネシス"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2015",
+      "note": "Genesis初代(BH)中国进口名,后更名捷恩斯(见model:hyundai:genesis-sedan)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:genesis-coupe",
+      "brand": "Hyundai",
+      "names": {"en": "Genesis Coupe", "zh-CN": "劳恩斯-酷派", "zh-TW": "Genesis Coupe", "ja": "ジェネシスクーペ"},
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2015",
+      "note": "Genesis双门跑车中国进口名,基于劳恩斯平台,与劳恩斯轿车同代销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:mistra",
+      "brand": "Hyundai",
+      "names": {"en": "Mistra", "zh-CN": "名图", "zh-TW": "Mistra", "ja": "ミストラ"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "北京现代中型轿车,2013年上市,定位介于伊兰特与索纳塔之间",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:custo",
+      "brand": "Hyundai",
+      "names": {"en": "Custo", "zh-CN": "库斯途", "zh-TW": "Custo", "ja": "クスト"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "北京现代中大型MPV,2021年上市,主打家用七座",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:yuedong",
+      "brand": "Hyundai",
+      "names": {"en": "Elantra", "zh-CN": "悦动", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2020",
+      "note": "伊兰特二代(HD)中国国产名,曾与伊兰特/朗动同堂销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:langdong",
+      "brand": "Hyundai",
+      "names": {"en": "Elantra", "zh-CN": "朗动", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2017",
+      "note": "伊兰特三代中国国产名,与悦动/领动同堂销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:lingdong",
+      "brand": "Hyundai",
+      "names": {"en": "Elantra", "zh-CN": "领动", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "伊兰特四代中国国产名,领动插电混动版(2019-)并入本条",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:grand-santa-fe",
+      "brand": "Hyundai",
+      "names": {"en": "Grand Santa Fe", "zh-CN": "格越", "zh-TW": "Grand Santa Fe", "ja": "グランドサンタフェ"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "Grand Santa Fe长轴版中国进口名,三排中大型SUV,与胜达(见model:hyundai:santa-fe)区分",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:ruiyi",
+      "brand": "Hyundai",
+      "names": {"en": "Accent", "zh-CN": "瑞奕", "zh-TW": "Accent", "ja": "アクセント"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2016",
+      "note": "瑞纳两厢版,北京现代小型车,2014-2016年销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:festa",
+      "brand": "Hyundai",
+      "names": {"en": "Lafesta", "zh-CN": "菲斯塔", "zh-TW": "Lafesta", "ja": "ラフェスタ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "北京现代紧凑运动轿车,2018年上市,英文名LA FESTA",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hyundai:yixing",
+      "brand": "Hyundai",
+      "names": {"en": "Elantra", "zh-CN": "逸行", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "segment": "class:cn:a",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "现代紧凑旅行车,2018-2020年销售,基于悦动平台衍生",
+      "verified": "pending"
     }
   ]
 }

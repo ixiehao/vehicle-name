@@ -299,6 +299,18 @@
       "years": "1980–1991",
       "note": "四驱系统的开山之作,1980年代WRC赛场传奇",
       "verified": "verified"
+    },
+    {
+      "id": "model:audi:a5l",
+      "brand": "Audi",
+      "names": {"en": "A5L", "zh-CN": "奥迪A5L", "zh-TW": "A5L", "ja": "A5L(エーファイブエル)"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "一汽奥迪国产长轴版A5(B10),2025年上市;另有A5L Sportback掀背版同属本系列",
+      "verified": "verified"
     }
   ]
 }

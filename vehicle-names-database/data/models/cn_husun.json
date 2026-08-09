@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "model:husun:h2",
+      "brand": "Husun",
+      "names": {"en": "Husun H2", "zh-CN": "H2", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "北汽幻速紧凑型MPV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:h2v",
+      "brand": "Husun",
+      "names": {"en": "Husun H2V", "zh-CN": "H2V", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "北汽幻速微面/面包车,H2的商用/货运版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:h3",
+      "brand": "Husun",
+      "names": {"en": "Husun H3", "zh-CN": "H3", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "北汽幻速紧凑型MPV,七座布局",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:s2",
+      "brand": "Husun",
+      "names": {"en": "Husun S2", "zh-CN": "S2", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "北汽幻速小型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:s3",
+      "brand": "Husun",
+      "names": {"en": "Husun S3", "zh-CN": "S3", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2020",
+      "note": "北汽幻速小型SUV,七座布局,幻速品牌销量支柱车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:s5",
+      "brand": "Husun",
+      "names": {"en": "Husun S5", "zh-CN": "S5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "北汽幻速紧凑型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:s6",
+      "brand": "Husun",
+      "names": {"en": "Husun S6", "zh-CN": "S6", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "北汽幻速紧凑型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:s7",
+      "brand": "Husun",
+      "names": {"en": "Husun S7", "zh-CN": "S7", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "北汽幻速中型SUV,七座布局,幻速品牌旗舰车型",
+      "verified": "verified"
+    }
+  ]
+}

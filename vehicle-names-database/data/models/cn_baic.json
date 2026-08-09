@@ -1,0 +1,276 @@
+{
+  "models": [
+    {
+      "id": "model:baic:eu5",
+      "brand": "BAIC",
+      "names": {
+        "en": "BEIJING-EU5",
+        "zh-CN": "北京EU5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2018–present",
+      "note": "北汽新能源紧凑型纯电轿车(2018年上市,网约车/出租车市场主力,品牌统一后称BEIJING-EU5)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:u5",
+      "brand": "BAIC",
+      "names": {
+        "en": "BEIJING-U5",
+        "zh-CN": "北京U5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "北京汽车紧凑型轿车(2019年上市,由绅宝D50更名而来,含U5 PLUS版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:u7",
+      "brand": "BAIC",
+      "names": {
+        "en": "BEIJING-U7",
+        "zh-CN": "北京U7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "北京汽车中型轿车(2018年上市,前身绅宝智道,定位接替绅宝D70)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:x3",
+      "brand": "BAIC",
+      "names": {
+        "en": "BEIJING-X3",
+        "zh-CN": "北京X3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "北京汽车小型SUV(2020年上市,由绅宝X35更名而来)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:x5",
+      "brand": "BAIC",
+      "names": {
+        "en": "BEIJING-X5",
+        "zh-CN": "北京X5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "北京汽车紧凑型SUV(2019年上市,由绅宝X55/智行更名而来,2021年前后停产)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:x7",
+      "brand": "BAIC",
+      "names": {
+        "en": "BEIJING-X7",
+        "zh-CN": "北京X7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "北京汽车中型SUV(2020年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:mofang",
+      "brand": "BAIC",
+      "names": {
+        "en": "Magic Cube",
+        "zh-CN": "魔方",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "北京汽车紧凑型SUV(2022年上市,搭载华为鸿蒙智能座舱)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:e-series",
+      "brand": "BAIC",
+      "names": {
+        "en": "E-Series",
+        "zh-CN": "E系列",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "北京汽车小型两厢/三厢车(2012年上市,后由绅宝D20接替)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:zhixing",
+      "brand": "BAIC",
+      "names": {
+        "en": "Zhixing",
+        "zh-CN": "智行",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2019",
+      "note": "北京汽车紧凑型SUV(2018年上市,绅宝X55换代车型,后更名北京X5)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:d20",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova D20",
+        "zh-CN": "绅宝D20",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "北汽绅宝小型两厢/三厢车(2014年上市,源自北汽E系列平台)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:d50",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova D50",
+        "zh-CN": "绅宝D50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "北汽绅宝紧凑型轿车(2014年上市,2019年由北京U5接替)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:d70",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova D70",
+        "zh-CN": "绅宝D70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2017",
+      "note": "北汽绅宝品牌首款车型,中型轿车,源自萨博9-5技术平台(2013年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:x25",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova X25",
+        "zh-CN": "绅宝X25",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "北汽绅宝小型SUV(2015年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:x35",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova X35",
+        "zh-CN": "绅宝X35",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "北汽绅宝小型SUV(2016年上市,后由北京X3接替)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:x55",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova X55",
+        "zh-CN": "绅宝X55",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "北汽绅宝紧凑型SUV(2015年上市,后继车型为智行/北京X5)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic:x65",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova X65",
+        "zh-CN": "绅宝X65",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2016",
+      "note": "北汽绅宝品牌首款SUV,紧凑型(2015年上市,2016年停产)",
+      "verified": "verified"
+    }
+  ]
+}

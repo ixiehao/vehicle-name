@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "id": "model:hanteng:x7",
+      "brand": "Hanteng",
+      "names": {"en": "Hanteng X7", "zh-CN": "X7", "zh-TW": "X7", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "汉腾X7紧凑型SUV(2016年上市),汉腾汽车首款车型;随品牌陷入停产约2019年退市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hanteng:x5",
+      "brand": "Hanteng",
+      "names": {"en": "Hanteng X5", "zh-CN": "X5", "zh-TW": "X5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "汉腾X5紧凑型SUV(2017年上市);随品牌陷入停产约2019年退市",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "models": [
+    {
+      "id": "model:tianjin-faw:xiali",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Xiali", "zh-CN": "夏利", "zh-TW": "Xiali", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–2014",
+      "note": "中国汽车史传奇微型轿车,1986年首车下线,含夏利N5/N7等系列车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tianjin-faw:weizhi-v2",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Weizhi V2", "zh-CN": "威志V2", "zh-TW": "Weizhi V2", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2015",
+      "note": "微型两厢车(天津一汽威志系列)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tianjin-faw:weizhi-v5",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Weizhi V5", "zh-CN": "威志V5", "zh-TW": "Weizhi V5", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2016",
+      "note": "小型轿车(威志系列换代车型)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tianjin-faw:senya-m80",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Senya M80", "zh-CN": "森雅M80", "zh-TW": "Senya M80", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2016",
+      "note": "紧凑型MPV,技术源自大发Xenia(森雅系列首款车型)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tianjin-faw:senya-s80",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Senya S80", "zh-CN": "森雅S80", "zh-TW": "Senya S80", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2016",
+      "note": "紧凑型MPV/SUV跨界(森雅M80的SUV化版本)",
+      "verified": "pending"
+    },
+    {
+      "id": "model:tianjin-faw:senya-r7",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Senya R7", "zh-CN": "森雅R7", "zh-TW": "Senya R7", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2021",
+      "note": "小型SUV(森雅系列首款SUV车型)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tianjin-faw:senya-r9",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Senya R9", "zh-CN": "森雅R9", "zh-TW": "Senya R9", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "紧凑型SUV(森雅品牌旗舰SUV)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tianjin-faw:jiabao-v70-ii",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Jiabao V70 II", "zh-CN": "佳宝V70 II代", "zh-TW": "Jiabao V70 II", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2017",
+      "note": "微面(微型面包车),佳宝系列微客",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tianjin-faw:xiali-n7",
+      "brand": "Tianjin FAW",
+      "names": {"en": "Xiali N7", "zh-CN": "夏利N7", "zh-TW": "Xiali N7", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "夏利系列小型SUV(2013年上市,天津一汽夏利家族);停产年份待核实",
+      "verified": "pending"
+    }
+  ]
+}

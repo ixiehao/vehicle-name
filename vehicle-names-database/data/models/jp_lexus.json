@@ -191,6 +191,18 @@
       "years": "2009-2018",
       "note": "日本市场专属混动轿车(HS 250h);2018年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:lexus:ct",
+      "brand": "Lexus",
+      "names": {"en": "CT", "zh-CN": "CT", "zh-TW": "CT", "ja": "CT"},
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:hev",
+      "status": "discontinued",
+      "years": "2010-2022",
+      "note": "紧凑型混动两厢车(CT 200h),曾以进口身份在中国销售;2022年停产",
+      "verified": "verified"
     }
   ]
 }

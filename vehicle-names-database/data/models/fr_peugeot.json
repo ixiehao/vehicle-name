@@ -239,6 +239,30 @@
       "years": "1998–2016",
       "note": "205的继任,含敞篷版206 CC;部分市场以206+延续生产",
       "verified": "verified"
+    },
+    {
+      "id": "model:peugeot:207",
+      "brand": "Peugeot",
+      "names": {"en": "207", "zh-CN": "207", "zh-TW": "207", "ja": "207"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2014",
+      "note": "东风标致国产207,含三厢/两厢版,2014年停产;欧洲版2006年先行上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:peugeot:301",
+      "brand": "Peugeot",
+      "names": {"en": "301", "zh-CN": "301", "zh-TW": "301", "ja": "301"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "东风标致紧凑三厢轿车,面向中国市场;实际已停产,停产年份待核实",
+      "verified": "pending"
     }
   ]
 }

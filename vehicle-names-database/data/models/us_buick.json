@@ -33,7 +33,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2007–present",
-      "note": "中国版「昂科旗」(2019年起国产)",
+      "note": "中国版「昂科旗」(2019年起国产);早期进口版中文名「昂科雷」(2008–2019)",
       "verified": "verified"
     },
     {
@@ -154,6 +154,66 @@
       "status": "discontinued",
       "years": "1990–2012",
       "note": "北美2005年停产;中国版「林荫大道」2007–2012",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:velite-5",
+      "brand": "Buick",
+      "names": {"en": "Velite 5", "zh-CN": "VELITE 5", "zh-TW": "Velite 5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:erev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "别克首款新能源车型,增程式(EREV);上汽通用国产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:gl6",
+      "brand": "Buick",
+      "names": {"en": "GL6", "zh-CN": "别克GL6", "zh-TW": "GL6", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "上汽通用国产紧凑六座MPV,2017年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:velite-6",
+      "brand": "Buick",
+      "names": {"en": "Velite 6", "zh-CN": "微蓝6", "zh-TW": "Velite 6", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "上汽通用国产「微蓝」新能源家族,以纯电为主,另有插混版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:encore-plus",
+      "brand": "Buick",
+      "names": {"en": "Encore Plus", "zh-CN": "昂科拉PLUS", "zh-TW": "Encore Plus", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "中国特供小型SUV,2023年上市;注意与昂科拉/昂科拉GX区分",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:excelle-gt",
+      "brand": "Buick",
+      "names": {"en": "Excelle GT", "zh-CN": "阅朗", "zh-TW": "Excelle GT", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "英朗旅行版,上汽通用国产,2020年停产",
       "verified": "verified"
     }
   ]

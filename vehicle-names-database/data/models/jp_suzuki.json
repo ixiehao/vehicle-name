@@ -405,7 +405,7 @@
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2001–2007",
-      "note": "紧凑两厢车/三厢,全球战略车,SX4前身;大陆昌河铃木利亚纳为Aerio Sedan贴牌;官方历史资料库收录",
+      "note": "紧凑两厢车/三厢,全球战略车,SX4前身;大陆昌河铃木利亚纳为Aerio Sedan贴牌(2013年改款名利亚纳A6);官方历史资料库收录",
       "verified": "verified"
     },
     {
@@ -442,6 +442,42 @@
       "status": "discontinued",
       "years": "2017–2022",
       "note": "SUV风格K-car跨界车,复古设计;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:lingyang",
+      "brand": "Suzuki",
+      "names": {"en": "Lingyang", "zh-CN": "羚羊", "zh-TW": "羚羊", "ja": "リンヤン"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2011",
+      "note": "长安铃木羚羊,基于第三代Suzuki Swift(Cultus)平台的中国特供三厢轿车,1.3L发动机,2000年上市,2004年改款,2011年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:fengyu",
+      "brand": "Suzuki",
+      "names": {"en": "S-Cross", "zh-CN": "锋驭", "zh-TW": "S-Cross", "ja": "Sクロス"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "长安铃木锋驭,即第三代SX4 S-Cross的中国版,2013年底上市,1.6L/1.4T动力;2017年中期改款后更名骁途;2018年随长安铃木合资结束停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:qiyue",
+      "brand": "Suzuki",
+      "names": {"en": "Alivio", "zh-CN": "启悦", "zh-TW": "Alivio", "ja": "アリーヴィオ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "长安铃木启悦,基于Suzuki Alivio全球平台的中国特供三厢轿车(海外同款名Ciaz),1.6L发动机;2014年上市,2018年随长安铃木合资结束停产",
       "verified": "verified"
     }
   ]

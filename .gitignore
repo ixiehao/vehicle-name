@@ -17,3 +17,6 @@ Thumbs.db
 .vscode/
 *.swp
 *~
+
+# --- Design assets (local only, not part of the data repo) ---
+github-intro-cover/

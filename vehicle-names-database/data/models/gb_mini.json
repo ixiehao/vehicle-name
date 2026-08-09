@@ -83,6 +83,18 @@
       "years": "2012–2015",
       "note": "Coupé的敞篷版,双座,2015年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:mini:jcw",
+      "brand": "MINI",
+      "names": {"en": "MINI John Cooper Works", "zh-CN": "MINI JCW", "zh-TW": "MINI JCW", "ja": "ミニ ジョン・クーパー・ワークス"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "John Cooper Works高性能系列(Cooper的JCW版本),中国市场2015年起随F56代引入,含JCW三门/五门及GP限量版等",
+      "verified": "pending"
     }
   ]
 }

@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:sol:a5",
+      "brand": "Sol",
+      "names": {"en": "Sol A5", "zh-CN": "思皓A5", "zh-TW": "Sol A5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "思皓品牌紧凑型掀背轿车,由江淮嘉悦A5换标而来",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sol:x8",
+      "brand": "Sol",
+      "names": {"en": "Sol X8", "zh-CN": "思皓X8", "zh-TW": "Sol X8", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "思皓品牌中型SUV(7座)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sol:qx",
+      "brand": "Sol",
+      "names": {"en": "Sol QX", "zh-CN": "思皓QX", "zh-TW": "Sol QX", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "思皓品牌紧凑型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sol:e10x",
+      "brand": "Sol",
+      "names": {"en": "Sol E10X", "zh-CN": "思皓E10X", "zh-TW": "Sol E10X", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "思皓品牌纯电动微型车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:sol:e50a",
+      "brand": "Sol",
+      "names": {"en": "Sol E50A", "zh-CN": "思皓E50A", "zh-TW": "Sol E50A", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "思皓品牌纯电紧凑型轿车(思皓A5的纯电版)",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:yema:f12",
+      "brand": "Yema",
+      "names": {"en": "Yema F12", "zh-CN": "F12", "zh-TW": "F12", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "小型SUV,野马早期车型,基于F99平台改进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yema:t70",
+      "brand": "Yema",
+      "names": {"en": "Yema T70", "zh-CN": "T70", "zh-TW": "T70", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "紧凑型SUV,野马销量支柱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yema:t80",
+      "brand": "Yema",
+      "names": {"en": "Yema T80", "zh-CN": "T80", "zh-TW": "T80", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "中型SUV,野马旗舰SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yema:spica",
+      "brand": "Yema",
+      "names": {"en": "Yema Spica", "zh-CN": "斯派卡", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "紧凑型MPV(7座),野马品牌首款MPV",
+      "verified": "verified"
+    }
+  ]
+}

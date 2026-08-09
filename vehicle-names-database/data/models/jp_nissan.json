@@ -635,6 +635,54 @@
       "years": "1977–1992",
       "note": "日产前驱轿车;北美 1982 年起销售;后继 Altima(参考维基)",
       "verified": "verified"
+    },
+    {
+      "id": "model:nissan:paladin",
+      "brand": "Nissan",
+      "names": {"en": "Paladin", "zh-CN": "帕拉丁", "zh-TW": "Paladin", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2014",
+      "note": "郑州日产国产硬派SUV,基于Terrano/Pathfinder平台,2014年前后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nissan:quest",
+      "brand": "Nissan",
+      "names": {"en": "Quest", "zh-CN": "贵士", "zh-TW": "Quest", "ja": "クエスト"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "日产进口中大型MPV,大陆曾以「贵士」销售;北美版实际已停产,年份/状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:nissan:terra",
+      "brand": "Nissan",
+      "names": {"en": "Terra", "zh-CN": "途达", "zh-TW": "Terra", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "郑州日产生产、东风日产销售的中型硬派SUV,与Navara(D23)同平台",
+      "verified": "pending"
+    },
+    {
+      "id": "model:nissan:livina",
+      "brand": "Nissan",
+      "names": {"en": "Livina", "zh-CN": "骊威", "zh-TW": "Livina", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2020",
+      "note": "东风日产紧凑两厢/MPV,2020年停产",
+      "verified": "verified"
     }
   ]
 }

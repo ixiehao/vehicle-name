@@ -59,6 +59,42 @@
       "years": "1997–2017",
       "note": "旗舰豪华轿车(基于奔驰E级技术,含加长版),2017年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:actyon",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Actyon", "zh-CN": "双龙爱腾", "zh-TW": "雙龍Actyon", "ja": "サンヨン・アクティオン"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2016",
+      "note": "进口紧凑SUV(英文名Actyon),中国市场名爱腾;另有皮卡版Actyon Sports,2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:rodius",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Rodius", "zh-CN": "双龙路帝", "zh-TW": "雙龍Rodius", "ja": "サンヨン・ロディウス"},
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2016",
+      "note": "进口MPV(英文名Rodius),最多9座布局;2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:rexton-w",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Rexton W", "zh-CN": "双龙雷斯特W", "zh-TW": "雙龍Rexton W", "ja": "サンヨン・レックスターンW"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "进口中大型SUV,第二代Rexton的改款版,中国市场名雷斯特W;2018年停产",
+      "verified": "verified"
     }
   ]
 }

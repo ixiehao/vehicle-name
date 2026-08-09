@@ -1,0 +1,148 @@
+{
+  "models": [
+    {
+      "id": "model:jinbei:haishi",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei Haishi", "zh-CN": "海狮", "zh-TW": "海獅", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1989–present",
+      "note": "金杯海狮轻客,金杯经典车型,源自丰田Hiace技术,多次改款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:grace",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei Grace", "zh-CN": "阁瑞斯", "zh-TW": "閣瑞斯", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "金杯阁瑞斯商务MPV(轻客),源自丰田Granvia技术,英文名Grace",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:kuaijin",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei Kuaijin", "zh-CN": "快运", "zh-TW": "快運", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "金杯快运系列轻客,工具车定位(新海狮快运/阁瑞斯快运)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:xiaohaishi-x30",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei X30", "zh-CN": "小海狮X30", "zh-TW": "小海獅X30", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "金杯小海狮X30微面/轻客",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:xinhaishi-s",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei Xinhaishi S", "zh-CN": "新海狮S", "zh-TW": "新海獅S", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "金杯新海狮S微面/轻客",
+      "verified": "pending"
+    },
+    {
+      "id": "model:jinbei:xinhaishi-x30l",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei X30L", "zh-CN": "新海狮X30L", "zh-TW": "新海獅X30L", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "金杯新海狮X30L微面/轻客,长轴加长版",
+      "verified": "pending"
+    },
+    {
+      "id": "model:jinbei:haixing-t20",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei T20", "zh-CN": "海星T20", "zh-TW": "海星T20", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "金杯海星T20微卡,海星系列",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:t3",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei T3", "zh-CN": "T3", "zh-TW": "T3", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "金杯T3微卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:t5",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei T5", "zh-CN": "T5", "zh-TW": "T5", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "金杯T5微卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:750",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei 750", "zh-CN": "750", "zh-TW": "750", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "华晨金杯750紧凑型MPV(7座家用)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:f50",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei F50", "zh-CN": "F50", "zh-TW": "F50", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "金杯F50紧凑型MPV(7座家用)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:zhishang-s30",
+      "brand": "Jinbei",
+      "names": {"en": "Jinbei S30", "zh-CN": "智尚S30", "zh-TW": "智尚S30", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "金杯智尚S30小型SUV,金杯乘用车系列",
+      "verified": "verified"
+    }
+  ]
+}

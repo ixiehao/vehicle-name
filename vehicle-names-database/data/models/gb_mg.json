@@ -21,7 +21,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2020–present",
-      "note": "紧凑型轿车(第三代2020),含MG5 EV纯电旅行版(欧洲)",
+      "note": "紧凑型轿车(第三代2020),含MG5天蝎座衍生(2022)与MG5 EV纯电旅行版(欧洲)",
       "verified": "verified"
     },
     {
@@ -82,6 +82,78 @@
       "status": "current",
       "years": "2023–present",
       "note": "纯电双座敞篷跑车(剪刀门),2023年上市,出口欧洲",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:one",
+      "brand": "MG",
+      "names": {"en": "MG ONE", "zh-CN": "MG ONE", "zh-TW": "MG ONE", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "全新紧凑型SUV,2021年12月上市,基于上汽SIGMA架构,燃油版1.5T",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:mg6",
+      "brand": "MG",
+      "names": {"en": "MG 6", "zh-CN": "名爵6", "zh-TW": "MG 6", "ja": "エムジー6"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "紧凑型轿车(大掀背造型),2010年首代上市,现款为第三代;含名爵6新能源插混版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:pilot",
+      "brand": "MG",
+      "names": {"en": "MG Pilot", "zh-CN": "名爵领航", "zh-TW": "MG Pilot", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "紧凑型SUV,2020年上市,海外名MG Pilot;含名爵领航新能源插混版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:mg3sw",
+      "brand": "MG",
+      "names": {"en": "MG 3SW", "zh-CN": "名爵3SW", "zh-TW": "MG 3SW", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2014",
+      "note": "小型跨界风格两厢车(上汽名爵),2014年前后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:gs",
+      "brand": "MG",
+      "names": {"en": "MG GS", "zh-CN": "名爵锐腾", "zh-TW": "MG GS", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "紧凑型SUV,2015年上市,海外名MG GS;2019年由名爵HS接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:gt",
+      "brand": "MG",
+      "names": {"en": "MG GT", "zh-CN": "名爵锐行", "zh-TW": "MG GT", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "紧凑型轿车,基于MG5,海外名MG GT;2018年前后停产",
       "verified": "verified"
     }
   ]

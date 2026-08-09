@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "id": "model:youngman-lotus:l3",
+      "brand": "Youngman Lotus",
+      "names": {"en": "Youngman Lotus L3", "zh-CN": "莲花L3", "zh-TW": "蓮花L3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2015",
+      "note": "青年莲花L3紧凑型轿车,基于莲花工程底盘调校,含两厢版L3两厢",
+      "verified": "verified"
+    },
+    {
+      "id": "model:youngman-lotus:l5",
+      "brand": "Youngman Lotus",
+      "names": {"en": "Youngman Lotus L5", "zh-CN": "莲花L5", "zh-TW": "蓮花L5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2015",
+      "note": "青年莲花L5紧凑型轿车,莲花L5 Sportback为两厢版",
+      "verified": "verified"
+    }
+  ]
+}

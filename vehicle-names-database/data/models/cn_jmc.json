@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "model:jmc:baodian",
+      "brand": "JMC",
+      "names": {"en": "JMC Baodian", "zh-CN": "宝典", "zh-TW": "寶典", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "中型皮卡,江铃经典皮卡,多次改款延续生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jmc:yuhu-5",
+      "brand": "JMC",
+      "names": {"en": "JMC Yuhu 5", "zh-CN": "域虎5", "zh-TW": "域虎5", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2021",
+      "note": "中型皮卡,域虎系列;域虎3(2018–2020)并入本条",
+      "verified": "pending"
+    },
+    {
+      "id": "model:jmc:yuhu-7",
+      "brand": "JMC",
+      "names": {"en": "JMC Yuhu 7", "zh-CN": "域虎7", "zh-TW": "域虎7", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "中型皮卡,2022款在售,域虎系列主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jmc:teshun",
+      "brand": "JMC",
+      "names": {"en": "JMC Teshun", "zh-CN": "特顺", "zh-TW": "特順", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "轻客,基于福特全顺技术平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jmc:fushun",
+      "brand": "JMC",
+      "names": {"en": "JMC Fushun", "zh-CN": "福顺", "zh-TW": "福順", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "轻客,江铃新一代轻客产品",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jmc:yusheng-s330",
+      "brand": "JMC",
+      "names": {"en": "JMC Yusheng S330", "zh-CN": "驭胜S330", "zh-TW": "馭勝S330", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "紧凑型SUV,销量低迷,2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jmc:yusheng-s350",
+      "brand": "JMC",
+      "names": {"en": "JMC Yusheng S350", "zh-CN": "驭胜S350", "zh-TW": "馭勝S350", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2021",
+      "note": "中型硬派SUV,驭胜系列首款车型,非承载式车身",
+      "verified": "pending"
+    },
+    {
+      "id": "model:jmc:e100b",
+      "brand": "JMC",
+      "names": {"en": "JMC E100B", "zh-CN": "E100B", "zh-TW": "E100B", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "纯电微型车,江铃新能源早期车型",
+      "verified": "verified"
+    }
+  ]
+}

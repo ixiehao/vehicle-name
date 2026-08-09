@@ -143,6 +143,42 @@
       "years": "1996–2002",
       "note": "英菲尼迪首款 SUV,基于日产 Pathfinder/Terrano",
       "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:esq",
+      "brand": "Infiniti",
+      "names": {"en": "ESQ", "zh-CN": "ESQ", "zh-TW": "ESQ", "ja": "インフィニティESQ"},
+      "segment": "class:eu:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "进口小型SUV,基于日产Juke打造,中国市场专属命名;2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:jx",
+      "brand": "Infiniti",
+      "names": {"en": "JX", "zh-CN": "JX", "zh-TW": "JX", "ja": "インフィニティJX"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2013",
+      "note": "英菲尼迪首款三排中大型SUV(即JX35),现QX60的前身;2013年改名QX60",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:qx30",
+      "brand": "Infiniti",
+      "names": {"en": "QX30", "zh-CN": "QX30", "zh-TW": "QX30", "ja": "インフィニティQX30"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "基于奔驰GLA平台(与Q30同源)的紧凑SUV,大陆曾以进口方式销售;已停产",
+      "verified": "pending"
     }
   ]
 }

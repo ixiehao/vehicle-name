@@ -85,16 +85,28 @@
       "verified": "pending"
     },
     {
-      "id": "model:faw:xiali",
+      "id": "model:faw:junpai-a50",
       "brand": "FAW",
-      "names": {"en": "Xiali", "zh-CN": "夏利", "zh-TW": "Xiali", "ja": "—"},
-      "segment": "class:cn:a0",
+      "names": {"en": "Junpai A50", "zh-CN": "骏派A50", "zh-TW": "Junpai A50", "ja": "—"},
+      "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "1986–2015",
-      "note": "天津一汽经典国民车(源自大发Charade技术),2015年停产;夏利属一汽集团体系",
-      "verified": "verified"
+      "years": "2018–2021",
+      "note": "骏派(Junpai)子品牌紧凑型轿车;已停产,年份待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:faw:junpai-a70",
+      "brand": "FAW",
+      "names": {"en": "Junpai A70", "zh-CN": "骏派A70", "zh-TW": "Junpai A70", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "骏派(Junpai)子品牌紧凑型轿车;已停产,年份待核实",
+      "verified": "pending"
     }
   ]
 }

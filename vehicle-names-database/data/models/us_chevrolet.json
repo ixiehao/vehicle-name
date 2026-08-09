@@ -299,6 +299,102 @@
       "years": "1995–present",
       "note": "全尺寸厢式货车",
       "verified": "verified"
+    },
+    {
+      "id": "model:chevrolet:lova-rv",
+      "brand": "Chevrolet",
+      "names": {"en": "Lova RV", "zh-CN": "乐风RV", "zh-TW": "Lova RV", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "上汽通用雪佛兰小型休旅车,2015年上市,2018年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chevrolet:seeker",
+      "brand": "Chevrolet",
+      "names": {"en": "Seeker", "zh-CN": "星迈罗", "zh-TW": "Seeker", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "上汽通用国产紧凑SUV「星迈罗」(Seeker),2022年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chevrolet:epica",
+      "brand": "Chevrolet",
+      "names": {"en": "Epica", "zh-CN": "景程", "zh-TW": "Epica", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "上汽通用雪佛兰「景程」(Epica),2015年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chevrolet:orlando",
+      "brand": "Chevrolet",
+      "names": {"en": "Orlando", "zh-CN": "沃兰多", "zh-TW": "Orlando", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "上汽通用国产紧凑MPV「沃兰多」(Orlando),2018年上市",
+      "verified": "pending"
+    },
+    {
+      "id": "model:chevrolet:captiva",
+      "brand": "Chevrolet",
+      "names": {"en": "Captiva", "zh-CN": "科帕奇", "zh-TW": "Captiva", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2017",
+      "note": "上汽通用国产中型SUV「科帕奇」(Captiva),2017年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chevrolet:cavalier",
+      "brand": "Chevrolet",
+      "names": {"en": "Cavalier", "zh-CN": "科沃兹", "zh-TW": "Cavalier", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "上汽通用雪佛兰紧凑轿车「科沃兹」(Cavalier),2016年上市",
+      "verified": "pending"
+    },
+    {
+      "id": "model:chevrolet:monza",
+      "brand": "Chevrolet",
+      "names": {"en": "Monza", "zh-CN": "科鲁泽", "zh-TW": "Monza", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "上汽通用雪佛兰紧凑轿车「科鲁泽」(Monza),注意与科鲁兹(Cruze)区分",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chevrolet:sail",
+      "brand": "Chevrolet",
+      "names": {"en": "Sail", "zh-CN": "赛欧", "zh-TW": "Sail", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2018",
+      "note": "原为别克品牌(2001),2005年起改挂雪佛兰标;2018年停产",
+      "verified": "verified"
     }
   ]
 }

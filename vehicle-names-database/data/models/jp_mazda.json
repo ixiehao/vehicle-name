@@ -611,6 +611,57 @@
       "years": "1999–2015",
       "note": "紧凑MPV,海外名Mazda5;官方历史资料库收录",
       "verified": "verified"
+    },
+    {
+      "id": "model:mazda:ruyi",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda6",
+        "zh-CN": "马自达6(睿翼)",
+        "zh-TW": "Mazda6",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2014",
+      "note": "马自达6第二代在大陆的名称(一汽马自达),2009年上市,2014年由阿特兹(第三代)接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:xingcheng",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda3",
+        "zh-CN": "马自达3(星骋)",
+        "zh-TW": "Mazda3",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2014",
+      "note": "马自达3第二代在大陆的名称(长安马自达),2011年上市,两厢/三厢均有;2014年由昂克赛拉(第三代)接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:mazda8",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda8",
+        "zh-CN": "马自达8",
+        "zh-TW": "Mazda8",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2016",
+      "note": "中大型MPV,一汽马自达国产(海外对应Mazda MPV第三代),2016年前后停产",
+      "verified": "verified"
     }
   ]
 }

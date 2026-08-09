@@ -95,6 +95,30 @@
       "years": "1959-present",
       "note": "轻型卡车(平头轻卡);现行款为马自达Titan贴牌(2017起)",
       "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:taga",
+      "brand": "Isuzu",
+      "names": {"en": "TAGA", "zh-CN": "达咖(TAGA)", "zh-TW": "TAGA", "ja": "TAGA"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "江西五十铃生产的皮卡,2017年上市,与D-MAX同平台;2021年推出改款TAGA H",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:t17",
+      "brand": "Isuzu",
+      "names": {"en": "T17", "zh-CN": "庆铃T17", "zh-TW": "T17", "ja": "T17"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "庆铃五十铃生产的皮卡(基于五十铃TF系列技术),2017年上市,2023年仍推出新款",
+      "verified": "verified"
     }
   ]
 }

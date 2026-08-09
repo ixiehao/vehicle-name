@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "id": "model:yutong:t7",
+      "brand": "Yutong",
+      "names": {"en": "Yutong T7", "zh-CN": "T7", "zh-TW": "T7", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "宇通T7轻型客车(中巴),自主高端公务车,2016年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:yutong:cl6",
+      "brand": "Yutong",
+      "names": {"en": "Yutong CL6", "zh-CN": "CL6", "zh-TW": "CL6", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "宇通CL6轻型客车,乘用化小巴车型,2021年上市",
+      "verified": "verified"
+    }
+  ]
+}

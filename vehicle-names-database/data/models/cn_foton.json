@@ -1,0 +1,112 @@
+{
+  "models": [
+    {
+      "id": "model:foton:jiatu-ix5",
+      "brand": "Foton",
+      "names": {"en": "Foton Gratour ix5", "zh-CN": "伽途ix5", "zh-TW": "伽途ix5", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "福田伽途ix5紧凑型MPV(2016年上市),伽途乘用车系列,5座",
+      "verified": "verified"
+    },
+    {
+      "id": "model:foton:jiatu-ix7",
+      "brand": "Foton",
+      "names": {"en": "Foton Gratour ix7", "zh-CN": "伽途ix7", "zh-TW": "伽途ix7", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "福田伽途ix7紧凑型MPV(2016年上市),伽途乘用车系列,7座",
+      "verified": "verified"
+    },
+    {
+      "id": "model:foton:tuyano",
+      "brand": "Foton",
+      "names": {"en": "Foton Tunland V", "zh-CN": "图雅诺", "zh-TW": "圖雅諾", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "福田图雅诺轻客(厢式/商旅)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:foton:fengjing",
+      "brand": "Foton",
+      "names": {"en": "Foton Fengjing", "zh-CN": "风景", "zh-TW": "風景", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2009–present",
+      "note": "福田风景系列轻客,经典车型,多次改款延续生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:foton:fengjing-g7",
+      "brand": "Foton",
+      "names": {"en": "Foton Fengjing G7", "zh-CN": "风景G7", "zh-TW": "風景G7", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "福田风景G7轻客,风景系列新车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:foton:mengpaike-e",
+      "brand": "Foton",
+      "names": {"en": "Foton MP-X E", "zh-CN": "蒙派克E", "zh-TW": "蒙派克E", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2020",
+      "note": "福田蒙派克E商务MPV(轻客),MP-X系列,源自丰田海狮技术平台",
+      "verified": "pending"
+    },
+    {
+      "id": "model:foton:xiangling-m",
+      "brand": "Foton",
+      "names": {"en": "Foton Xiangling M", "zh-CN": "祥菱M", "zh-TW": "祥菱M", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "福田祥菱M微卡(微面式货车)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:foton:xiangling-s",
+      "brand": "Foton",
+      "names": {"en": "Foton Xiangling S", "zh-CN": "祥菱S", "zh-TW": "祥菱S", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "福田祥菱S微卡(微面式货车)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:foton:xiangling-v",
+      "brand": "Foton",
+      "names": {"en": "Foton Xiangling V", "zh-CN": "祥菱V", "zh-TW": "祥菱V", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "福田祥菱V微卡(微面式货车)",
+      "verified": "verified"
+    }
+  ]
+}

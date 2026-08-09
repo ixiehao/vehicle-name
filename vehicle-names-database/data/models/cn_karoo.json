@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:karoo:youyou",
+      "brand": "Karoo",
+      "names": {"en": "Karoo Youyou", "zh-CN": "优优", "zh-TW": "優優", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2015",
+      "note": "开瑞优优微面,开瑞品牌早期车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:karoo:youyou-2",
+      "brand": "Karoo",
+      "names": {"en": "Karoo Youyou 2", "zh-CN": "优优2代", "zh-TW": "優優2代", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "开瑞优优2代微面,优优换代车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:karoo:youjin",
+      "brand": "Karoo",
+      "names": {"en": "Karoo Youjin", "zh-CN": "优劲", "zh-TW": "優勁", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "开瑞优劲微卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:karoo:youya",
+      "brand": "Karoo",
+      "names": {"en": "Karoo Youya", "zh-CN": "优雅", "zh-TW": "優雅", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2015",
+      "note": "开瑞优雅微面/MPV,开瑞品牌早期车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:karoo:youya-2",
+      "brand": "Karoo",
+      "names": {"en": "Karoo Youya 2", "zh-CN": "优雅2代", "zh-TW": "優雅2代", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "开瑞优雅2代微面,优雅换代车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:karoo:k50",
+      "brand": "Karoo",
+      "names": {"en": "Karoo K50", "zh-CN": "K50", "zh-TW": "K50", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "开瑞K50紧凑型MPV(7座家用)",
+      "verified": "pending"
+    },
+    {
+      "id": "model:karoo:k60",
+      "brand": "Karoo",
+      "names": {"en": "Karoo K60", "zh-CN": "K60", "zh-TW": "K60", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "开瑞K60紧凑型SUV/MPV跨界(7座)",
+      "verified": "verified"
+    }
+  ]
+}

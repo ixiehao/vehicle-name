@@ -1,0 +1,148 @@
+{
+  "models": [
+    {
+      "id": "model:lifan:320",
+      "brand": "Lifan",
+      "names": {"en": "Lifan 320", "zh-CN": "320", "zh-TW": "320", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2015",
+      "note": "微型两厢车,外观模仿MINI造型,力帆早期入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:330",
+      "brand": "Lifan",
+      "names": {"en": "Lifan 330", "zh-CN": "330", "zh-TW": "330", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "微型两厢车,力帆320的改款换代车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:520",
+      "brand": "Lifan",
+      "names": {"en": "Lifan 520", "zh-CN": "520", "zh-TW": "520", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "紧凑型轿车,力帆首款轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:620",
+      "brand": "Lifan",
+      "names": {"en": "Lifan 620", "zh-CN": "620", "zh-TW": "620", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2017",
+      "note": "紧凑型轿车,力帆主力车型,销量最大的轿车之一",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:720",
+      "brand": "Lifan",
+      "names": {"en": "Lifan 720", "zh-CN": "720", "zh-TW": "720", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2017",
+      "note": "中型轿车,力帆首款B级轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:820",
+      "brand": "Lifan",
+      "names": {"en": "Lifan 820", "zh-CN": "820", "zh-TW": "820", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "中大型轿车,力帆旗舰轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:x50",
+      "brand": "Lifan",
+      "names": {"en": "Lifan X50", "zh-CN": "X50", "zh-TW": "X50", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2017",
+      "note": "小型SUV,力帆SUV产品线入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:x60",
+      "brand": "Lifan",
+      "names": {"en": "Lifan X60", "zh-CN": "X60", "zh-TW": "X60", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2019",
+      "note": "紧凑型SUV,力帆首款SUV,曾出口海外市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:x80",
+      "brand": "Lifan",
+      "names": {"en": "Lifan X80", "zh-CN": "X80", "zh-TW": "X80", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "中型SUV,力帆旗舰SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:xuanlang",
+      "brand": "Lifan",
+      "names": {"en": "Lifan Xuanlang", "zh-CN": "轩朗", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "紧凑型7座MPV,力帆MPV产品线主力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:maiwei",
+      "brand": "Lifan",
+      "names": {"en": "Lifan Maiwei", "zh-CN": "迈威", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "小型7座SUV,主打三四线市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lifan:letu",
+      "brand": "Lifan",
+      "names": {"en": "Lifan Letu", "zh-CN": "乐途", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "紧凑型MPV/微面,主打多功能车市场",
+      "verified": "verified"
+    }
+  ]
+}

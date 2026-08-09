@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "model:soueast:v3-lingyue",
+      "brand": "Soueast",
+      "names": {"en": "Soueast V3 Lingyue", "zh-CN": "V3菱悦", "zh-TW": "V3 Lingyue", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2015",
+      "note": "东南V3菱悦紧凑型轿车(2008年上市),源自三菱Lancer平台技术;约2015年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:soueast:v5-lingzhi",
+      "brand": "Soueast",
+      "names": {"en": "Soueast V5 Lingzhi", "zh-CN": "V5菱致", "zh-TW": "V5 Lingzhi", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2017",
+      "note": "东南V5菱致紧凑型轿车(2012年上市);约2017年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:soueast:v6-lingshi",
+      "brand": "Soueast",
+      "names": {"en": "Soueast V6 Lingshi", "zh-CN": "V6菱仕", "zh-TW": "V6 Lingshi", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "东南V6菱仕紧凑型两厢车(2013年上市),为V5菱致的两厢版;约2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:soueast:a5-yiwu",
+      "brand": "Soueast",
+      "names": {"en": "Soueast A5 Yiwu", "zh-CN": "A5翼舞", "zh-TW": "A5 Yiwu", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "东南A5翼舞紧凑型轿车(2018年上市);受东南汽车经营困境影响,在售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:soueast:dx3",
+      "brand": "Soueast",
+      "names": {"en": "Soueast DX3", "zh-CN": "DX3", "zh-TW": "DX3", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2021",
+      "note": "东南DX3小型SUV(2016年上市),曾为东南销量支柱",
+      "verified": "verified"
+    },
+    {
+      "id": "model:soueast:dx5",
+      "brand": "Soueast",
+      "names": {"en": "Soueast DX5", "zh-CN": "DX5", "zh-TW": "DX5", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "东南DX5小型SUV(2019年上市);受东南汽车经营困境影响,在售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:soueast:dx7",
+      "brand": "Soueast",
+      "names": {"en": "Soueast DX7", "zh-CN": "DX7", "zh-TW": "DX7", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2021",
+      "note": "东南DX7紧凑型SUV(2015年上市),为东南首款SUV;停产时间待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:soueast:delica",
+      "brand": "Soueast",
+      "names": {"en": "Soueast Delica", "zh-CN": "得利卡", "zh-TW": "Delica", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2015",
+      "note": "东南得利卡MPV/厢式车(1996年投产),源自三菱Delica技术;约2015年停产",
+      "verified": "verified"
+    }
+  ]
+}

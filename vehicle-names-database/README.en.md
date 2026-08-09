@@ -33,8 +33,8 @@ The database covers four areas of automotive terminology, each with names in 4 l
 |---------|---------|-------|
 | **Vehicle classes** `vehicle_classes` | CN/EU/JP/US classification systems + body styles + powertrain types | 6 subsystems |
 | **Glossary** `glossary` | 10 categories: powertrain, transmission, chassis, braking, safety, driver assist, new energy, body, lighting/comfort, tire/wheel | 72 terms |
-| **Brands** `brands` | 103 mainstream brands grouped by country | 103 entries |
-| **Models** `models` | Current + discontinued models (split per brand, with production years & status) | continuously growing |
+| **Brands** `brands` | 164 mainstream brands grouped by country | 164 entries |
+| **Models** `models` | Current + discontinued models (split per brand, with production years & status) | 2041 entries |
 | **Cross-market aliases** `cross_market` | Same car under different names in different markets | 24 groups |
 
 Goals:
@@ -181,13 +181,20 @@ Full responsibility and privacy statements: [DISCLAIMER.md](DISCLAIMER.md) and [
 
 ---
 
-## 9. Changelog
+## 9. Release Notes
+
+**v1.1.0 (2026-08-09) — First official release**, key updates:
+
+- **Data scale**: brands 63 → 164 (16 country groups), models 84 → 2041 (historical models since 1955 plus current models).
+- **Open source**: CC BY-SA 4.0 license, code-of-conduct / security / privacy / disclaimer docs, bilingual contribution guides, plus GitHub Issue/PR templates and a CI validation workflow.
+- **Project structure**: data split under `data/`, build & validation scripts `scripts/build.py` / `scripts/validate.py`, artifacts output to `dist/`.
+- **Fields enhanced**: models now carry `status` (current/discontinued/concept) and `years` (production years).
+
+### Changelog
 
 See [CHANGELOG.md](CHANGELOG.md).
 
 | Version | Date | Notes |
 |---------|------|-------|
-| 1.3.0 | 2026-08-09 | Major expansion: 37 brands added (Lotus, Bugatti, Lancia, Abarth, Pagani, Rivian, Lucid, Aion, Leapmotor, Neta, Voyah, IM, Arcfox, AITO, GAC, etc.) + 161 models; 103 brands, 1356 models |
-| 1.2.0 | 2026-08-09 | Added Škoda/GMC/Xiaomi brands; filled 21 missing models (NIO Firefly, Li Auto i8/i6, smart #5, XPeng P7+, Lincoln Z, Tesla Semi, etc.); verified & closed 35 pending items (16 left); 1195 models |
-| 1.1.0 | 2026-08-09 | Open-source restructure: split data files, build tooling, multilingual docs; large model-data expansion |
+| 1.1.0 | 2026-08-09 | Project vehiclename with internationalized naming vehicle-names-database; open-source restructure (license/CI/templates); brands expanded to 164, models expanded to 2041 |
 | 1.0.0 | 2026-08-09 | Initial release: class systems, 72 terms, 63 brands, 84 models, 24 alias groups |

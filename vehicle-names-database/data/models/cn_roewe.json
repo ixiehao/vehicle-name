@@ -33,7 +33,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2016–present",
-      "note": "紧凑型SUV,2022年第三代;含eRX5插混与RX5 MAX衍生(并入本条)",
+      "note": "紧凑型SUV,2022年第三代;含eRX5/RX5 eMAX插混与RX5 MAX衍生(并入本条)",
       "verified": "verified"
     },
     {
@@ -142,6 +142,66 @@
       "status": "current",
       "years": "2020–present",
       "note": "中大型MPV(7座),燃油与EV版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:roewe:clever",
+      "brand": "Roewe",
+      "names": {"en": "Roewe Clever", "zh-CN": "科莱威", "zh-TW": "Roewe Clever", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "上汽荣威微型纯电两厢车(2020年上市);现售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:roewe:roewe-950",
+      "brand": "Roewe",
+      "names": {"en": "Roewe 950", "zh-CN": "荣威950", "zh-TW": "Roewe 950", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2020",
+      "note": "上汽荣威中大型轿车(与别克君越同平台,2012年上市);约2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:roewe:e950",
+      "brand": "Roewe",
+      "names": {"en": "Roewe e950", "zh-CN": "荣威e950", "zh-TW": "Roewe e950", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "荣威950插电混动版(中大型轿车,2016年上市);约2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:roewe:rx3",
+      "brand": "Roewe",
+      "names": {"en": "Roewe RX3", "zh-CN": "荣威RX3", "zh-TW": "Roewe RX3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "上汽荣威紧凑型SUV(2017年上市,2021年改款RX3 PRO);现售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:roewe:w5",
+      "brand": "Roewe",
+      "names": {"en": "Roewe W5", "zh-CN": "荣威W5", "zh-TW": "Roewe W5", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2017",
+      "note": "上汽荣威中型硬派SUV(非承载式车身,2011年上市);约2017年停产",
       "verified": "verified"
     }
   ]

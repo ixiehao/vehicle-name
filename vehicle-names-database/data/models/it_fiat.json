@@ -215,6 +215,42 @@
       "years": "2000–present",
       "note": "小型厢式车/MPV,第三代(2022–)基于标致/雪铁龙平台,含纯电E-Doblò",
       "verified": "verified"
+    },
+    {
+      "id": "model:fiat:viaggio",
+      "brand": "Fiat",
+      "names": {"en": "Fiat Viaggio", "zh-CN": "菲翔", "zh-TW": "飛雅特Viaggio", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "广汽菲亚特首款国产车型,紧凑型轿车,基于Dodge Dart平台;2018年随广汽菲亚特经营收缩停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:ottimo",
+      "brand": "Fiat",
+      "names": {"en": "Fiat Ottimo", "zh-CN": "致悦", "zh-TW": "飛雅特Ottimo", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "菲翔的两厢版,广汽菲亚特国产;2018年前后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:freemont",
+      "brand": "Fiat",
+      "names": {"en": "Fiat Freemont", "zh-CN": "菲跃", "zh-TW": "飛雅特Freemont", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2017",
+      "note": "中型7座SUV,以进口形式引入(欧洲名Freemont,基于道奇酷威);2017年前后停售",
+      "verified": "verified"
     }
   ]
 }

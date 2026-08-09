@@ -143,6 +143,18 @@
       "years": "2022–present",
       "note": "中国市场专属中型轿车,2022年3月上市;量产英文名Lincoln Z(概念阶段称Zephyr),2024年起增混动版;台湾未导入",
       "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:mkc",
+      "brand": "Lincoln",
+      "names": {"en": "MKC", "zh-CN": "MKC", "zh-TW": "MKC", "ja": "MKC"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "紧凑型豪华SUV,中国以进口形式销售(2015-2019);2020年被Corsair「冒险家」取代",
+      "verified": "verified"
     }
   ]
 }

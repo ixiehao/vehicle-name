@@ -1,0 +1,160 @@
+{
+  "models": [
+    {
+      "id": "model:forthing:jingyi-x3",
+      "brand": "Forthing",
+      "names": {"en": "Forthing Jingyi X3", "zh-CN": "景逸X3", "zh-TW": "Jingyi X3", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "东风风行景逸X3小型SUV(2014年上市),景逸家族入门SUV,尺寸略小于主流紧凑SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:jingyi-x5",
+      "brand": "Forthing",
+      "names": {"en": "Forthing Jingyi X5", "zh-CN": "景逸X5", "zh-TW": "Jingyi X5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "东风风行景逸X5紧凑型SUV(2013年上市),景逸系列主力SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:jingyi-x6",
+      "brand": "Forthing",
+      "names": {"en": "Forthing Jingyi X6", "zh-CN": "景逸X6", "zh-TW": "Jingyi X6", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2018",
+      "note": "东风风行景逸X6紧凑型7座SUV(2017年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:jingyi-s50",
+      "brand": "Forthing",
+      "names": {"en": "Forthing Jingyi S50", "zh-CN": "景逸S50", "zh-TW": "Jingyi S50", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "东风风行景逸S50紧凑型轿车(2014年上市),主打家用与网约车市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:lingzhi",
+      "brand": "Forthing",
+      "names": {"en": "Forthing Lingzhi", "zh-CN": "菱智", "zh-TW": "Lingzhi", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "东风风行菱智中型MPV(2001年上市),源自三菱Space Gear技术,风行经典商务MPV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:lingzhi-plus",
+      "brand": "Forthing",
+      "names": {"en": "Forthing Lingzhi Plus", "zh-CN": "菱智PLUS", "zh-TW": "Lingzhi Plus", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "东风风行菱智PLUS中型MPV(2021年上市),菱智的升级版本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:cm7",
+      "brand": "Forthing",
+      "names": {"en": "Forthing CM7", "zh-CN": "CM7", "zh-TW": "CM7", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "东风风行CM7中大型MPV(2014年上市),风行商务MPV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:s500",
+      "brand": "Forthing",
+      "names": {"en": "Forthing S500", "zh-CN": "S500", "zh-TW": "S500", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "东风风行S500紧凑型家用MPV(2015年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:sx6",
+      "brand": "Forthing",
+      "names": {"en": "Forthing SX6", "zh-CN": "SX6", "zh-TW": "SX6", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "东风风行SX6紧凑型7座SUV(2016年上市),车身接近MPV风格,兼具大空间属性",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:t5",
+      "brand": "Forthing",
+      "names": {"en": "Forthing T5", "zh-CN": "T5", "zh-TW": "T5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "东风风行T5紧凑型SUV(2018年上市),风行T系列主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:t5l",
+      "brand": "Forthing",
+      "names": {"en": "Forthing T5L", "zh-CN": "T5L", "zh-TW": "T5L", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "东风风行T5L中型7座SUV(2019年上市),T5的加长版;停产时间待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:forthing:t5-evo",
+      "brand": "Forthing",
+      "names": {"en": "Forthing T5 EVO", "zh-CN": "T5 EVO", "zh-TW": "T5 EVO", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "东风风行T5 EVO紧凑型SUV(2020年上市),主打运动造型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:forthing:youting",
+      "brand": "Forthing",
+      "names": {"en": "Forthing Youting", "zh-CN": "风行游艇", "zh-TW": "Youting", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "东风风行游艇紧凑型家用MPV(2022年上市)",
+      "verified": "verified"
+    }
+  ]
+}

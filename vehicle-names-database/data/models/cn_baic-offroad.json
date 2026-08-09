@@ -1,0 +1,106 @@
+{
+  "models": [
+    {
+      "id": "model:baic-offroad:bj20",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ20",
+        "zh-CN": "北京BJ20",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2021",
+      "note": "北京越野紧凑型SUV,城市风格硬派造型(2016年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:bj30",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ30",
+        "zh-CN": "北京BJ30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "北京越野紧凑型SUV,轻越野定位(2021年上市,2024年换代,含混动版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:bj40",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ40",
+        "zh-CN": "北京BJ40",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "北京越野硬派越野SUV,非承载式车身(2013年上市,含城市猎人/刀锋英雄等版本)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:bj60",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ60",
+        "zh-CN": "北京BJ60",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "北京越野中大型硬派SUV,非承载式车身(2022年上市,后续推出增程混动版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:bj80",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ80",
+        "zh-CN": "北京BJ80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "北京越野中大型硬派SUV,非承载式车身,外观风格类奔驰G级(2017年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:bj90",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ90",
+        "zh-CN": "北京BJ90",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "北京越野大型SUV,基于奔驰GLS同源底盘(2019年上市,含3.0T/4.0T版本)",
+      "verified": "verified"
+    }
+  ]
+}

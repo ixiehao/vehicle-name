@@ -45,7 +45,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2000–present",
-      "note": "中型轿车,现款为2018年第三代(SPA平台);中国曾产S60L加长版",
+      "note": "中型轿车,现款为2018年第三代(SPA平台);中国曾产S60L加长版,另有T8插电混动版(2019年起售)",
       "verified": "verified"
     },
     {
@@ -57,7 +57,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2016–present",
-      "note": "行政级轿车,接替S80;中国由大庆工厂产S90L加长版",
+      "note": "行政级轿车,接替S80;中国由大庆工厂产S90L加长版,另有T8插电混动版(2019年起售)",
       "verified": "verified"
     },
     {
@@ -262,6 +262,18 @@
       "status": "discontinued",
       "years": "1961–1973",
       "note": "经典双门跑车,英剧《圣徒》座驾而闻名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volvo:xc-classic",
+      "brand": "Volvo",
+      "names": {"en": "XC Classic", "zh-CN": "XC Classic", "zh-TW": "XC Classic", "ja": "XC Classic"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2016",
+      "note": "老款(第一代)XC90的中国特供复产版,国产销售,与新一代XC90并行销售;2016年停产",
       "verified": "verified"
     }
   ]

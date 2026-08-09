@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:enze:737",
+      "brand": "Enze",
+      "names": {"en": "Enze 737", "zh-CN": "英致737", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "潍柴英致737紧凑型MPV,2015年上市,英致品牌首款车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:enze:g3",
+      "brand": "Enze",
+      "names": {"en": "Enze G3", "zh-CN": "英致G3", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "潍柴英致G3小型SUV,2014年上市,英致品牌首款SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:enze:g5",
+      "brand": "Enze",
+      "names": {"en": "Enze G5", "zh-CN": "英致G5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "潍柴英致G5紧凑型SUV,2015年上市",
+      "verified": "verified"
+    }
+  ]
+}

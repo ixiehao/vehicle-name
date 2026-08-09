@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:landwind:x2",
+      "brand": "Landwind",
+      "names": {"en": "Landwind X2", "zh-CN": "陆风X2", "zh-TW": "Landwind X2", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "小型SUV,陆风汽车入门级车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:landwind:x5",
+      "brand": "Landwind",
+      "names": {"en": "Landwind X5", "zh-CN": "陆风X5", "zh-TW": "Landwind X5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2019",
+      "note": "紧凑型SUV,陆风主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:landwind:x7",
+      "brand": "Landwind",
+      "names": {"en": "Landwind X7", "zh-CN": "陆风X7", "zh-TW": "Landwind X7", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "紧凑型SUV,外观与路虎极光高度相似,曾引发商标纠纷",
+      "verified": "verified"
+    },
+    {
+      "id": "model:landwind:x8",
+      "brand": "Landwind",
+      "names": {"en": "Landwind X8", "zh-CN": "陆风X8", "zh-TW": "Landwind X8", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2019",
+      "note": "中型硬派SUV,非承载式车身,主打越野",
+      "verified": "verified"
+    }
+  ]
+}

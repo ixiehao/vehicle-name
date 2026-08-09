@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:liebao:heijingang",
+      "brand": "Liebao",
+      "names": {"en": "Liebao Heijingang", "zh-CN": "猎豹黑金刚", "zh-TW": "Liebao Heijingang", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2015",
+      "note": "中型越野车,源自三菱帕杰罗V31/V33技术授权,长丰猎豹经典车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:liebao:6481",
+      "brand": "Liebao",
+      "names": {"en": "Liebao 6481", "zh-CN": "猎豹6481", "zh-TW": "Liebao 6481", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "中型越野车,CJY6481系列,与黑金刚同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:liebao:feiteng",
+      "brand": "Liebao",
+      "names": {"en": "Liebao Feiteng", "zh-CN": "猎豹飞腾", "zh-TW": "Liebao Feiteng", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2014",
+      "note": "紧凑型越野SUV,源自三菱帕杰罗iO平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:liebao:q6",
+      "brand": "Liebao",
+      "names": {"en": "Liebao Q6", "zh-CN": "猎豹Q6", "zh-TW": "Liebao Q6", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "中型越野SUV,非承载式车身,硬派风格",
+      "verified": "verified"
+    },
+    {
+      "id": "model:liebao:cs10",
+      "brand": "Liebao",
+      "names": {"en": "Liebao CS10", "zh-CN": "猎豹CS10", "zh-TW": "Liebao CS10", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "紧凑型SUV,猎豹向城市SUV转型之作",
+      "verified": "verified"
+    },
+    {
+      "id": "model:liebao:cs9",
+      "brand": "Liebao",
+      "names": {"en": "Liebao CS9", "zh-CN": "猎豹CS9", "zh-TW": "Liebao CS9", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "小型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:liebao:mattu",
+      "brand": "Liebao",
+      "names": {"en": "Liebao Mattu", "zh-CN": "猎豹Mattu", "zh-TW": "Liebao Mattu", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "紧凑型SUV,猎豹品牌高端化尝试",
+      "verified": "verified"
+    }
+  ]
+}

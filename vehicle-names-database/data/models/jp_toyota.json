@@ -33,7 +33,7 @@
       "powertrain": "pt:hev",
       "status": "current",
       "years": "1994-present",
-      "note": "大陆官方名「RAV4荣放」(一汽丰田);广汽丰田姊妹车威兰达Wildlander;现售XA50(2018起)",
+      "note": "大陆官方名「RAV4荣放」(一汽丰田),另有插混版「双擎E+」(2020起);广汽丰田姊妹车威兰达Wildlander(2020起,含插混版「威兰达新能源」);现售XA50(2018起)",
       "verified": "verified"
     },
     {
@@ -189,7 +189,7 @@
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2002-present",
-      "note": "东南亚/台湾称Vios,泰国称Yaris Ativ;大陆名「威驰」(一汽丰田)",
+      "note": "东南亚/台湾称Vios,泰国称Yaris Ativ;大陆名「威驰」(一汽丰田),另有2016-2022两厢版「威驰FS」",
       "verified": "verified"
     },
     {
@@ -694,6 +694,138 @@
       "status": "discontinued",
       "years": "1995-2001",
       "note": "为日本自卫队开发的超大型四驱车(俗称「日版悍马」),民用版BXD20;含四轮转向与门式车桥",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:sienta",
+      "brand": "Toyota",
+      "names": {"en": "Sienta", "zh-CN": "—", "zh-TW": "Sienta", "ja": "シエンタ"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003-2022",
+      "note": "日本家用紧凑MPV,2003-2022共两代;台湾版Sienta由国瑞汽车本地化生产(2016起),与日本版外观配置有别;大陆未官方引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:yarisl-zhixiang",
+      "brand": "Toyota",
+      "names": {"en": "YARiS L", "zh-CN": "YARiS L 致享", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017-2022",
+      "note": "广汽丰田中国特供小型三厢轿车,致炫的姊妹车(三厢版);2022年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:yarisl-zhixuan",
+      "brand": "Toyota",
+      "names": {"en": "YARiS L", "zh-CN": "YARiS L 致炫", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2022",
+      "note": "广汽丰田小型两厢车,致享的姊妹车(两厢版);另有跨界版致炫X;2022年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:allion",
+      "brand": "Toyota",
+      "names": {"en": "Allion", "zh-CN": "亚洲狮", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "一汽丰田中国特供A+级轿车,基于TNGA平台,定位介于卡罗拉与亚洲龙之间;仅2.0L自然吸气",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:lingshang",
+      "brand": "Toyota",
+      "names": {"en": "Levin", "zh-CN": "凌尚", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "广汽丰田中国特供A+级轿车,雷凌的姊妹款(定位在雷凌之上),与一汽丰田亚洲狮同级;仅2.0L自然吸气",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:previa",
+      "brand": "Toyota",
+      "names": {"en": "Previa", "zh-CN": "普瑞维亚", "zh-TW": "Previa", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000-2020",
+      "note": "Estima的出口版名称(日本名エスティマ);大陆以进口方式销售称「普瑞维亚」,对应第二代起;2020年前后停售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:coaster",
+      "brand": "Toyota",
+      "names": {"en": "Coaster", "zh-CN": "柯斯达", "zh-TW": "Coaster", "ja": "コースター"},
+      "segment": "class:jp:normal",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2000-present",
+      "note": "中型客车,车系1969年起;大陆由四川一汽丰田自2000年起生产,多用于公务/商务接待",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:crown-kluger",
+      "brand": "Toyota",
+      "names": {"en": "Crown Kluger", "zh-CN": "皇冠陆放", "zh-TW": "—", "ja": "クラウンクルーガー"},
+      "segment": "class:us:midsize",
+      "body_style": "body:suv",
+      "powertrain": "pt:hev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "一汽丰田汉兰达姊妹车,挂「皇冠」子品牌标识,与皇冠轿车为不同车系;以2.5L双擎为主,2023年加推2.0T版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:corolla-huaguan",
+      "brand": "Toyota",
+      "names": {"en": "Corolla EX", "zh-CN": "花冠", "zh-TW": "Corolla Altis", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004-2016",
+      "note": "第九代卡罗拉的中国名(一汽丰田),2007年后称「花冠EX」,与新一代卡罗拉同堂销售至2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:ez",
+      "brand": "Toyota",
+      "names": {"en": "E'Z", "zh-CN": "逸致", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011-2016",
+      "note": "广汽丰田紧凑型MPV(英文E'Z),基于卡罗拉平台,提供5/7座;2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:toyota:levin",
+      "brand": "Toyota",
+      "names": {"en": "Levin", "zh-CN": "雷凌", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014-present",
+      "note": "广汽丰田卡罗拉姊妹车(中国特供),2014年国产;动力含1.2T/1.5L及双擎混动版",
       "verified": "verified"
     }
   ]

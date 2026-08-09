@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:gonow:xinglang",
+      "brand": "Gonow",
+      "names": {"en": "Gonow Xinglang", "zh-CN": "吉奥星朗", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "广汽吉奥星朗紧凑型MPV,2013年上市,广汽吉奥首款乘用车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gonow:shuaibao",
+      "brand": "Gonow",
+      "names": {"en": "Gonow Shuaibao", "zh-CN": "吉奥帅豹", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2014",
+      "note": "吉奥帅豹中型SUV,2010年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gonow:aoxuan-g5",
+      "brand": "Gonow",
+      "names": {"en": "Gonow Aoxuan G5", "zh-CN": "吉奥奥轩G5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2015",
+      "note": "吉奥奥轩G5中型SUV,2011年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gonow:aoxuan-gx5",
+      "brand": "Gonow",
+      "names": {"en": "Gonow Aoxuan GX5", "zh-CN": "吉奥奥轩GX5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "吉奥奥轩GX5中型SUV,2012年上市,奥轩G5的改款车型",
+      "verified": "verified"
+    }
+  ]
+}

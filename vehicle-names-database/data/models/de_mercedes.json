@@ -455,6 +455,18 @@
       "years": "1954–1963",
       "note": "鸥翼门经典传奇跑车;Roadster敞篷版(1957–1963)同属本系列",
       "verified": "verified"
+    },
+    {
+      "id": "model:mercedes-benz:viano",
+      "brand": "Mercedes-Benz",
+      "names": {"en": "Viano", "zh-CN": "唯雅诺", "zh-TW": "Viano", "ja": "メルセデス・ベンツ ビアノ"},
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2016",
+      "note": "中大型豪华MPV,福建奔驰生产销售,2016年停产;为V级的前代乘用版车型",
+      "verified": "verified"
     }
   ]
 }

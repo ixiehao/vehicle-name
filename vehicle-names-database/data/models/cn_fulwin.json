@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:fulwin:t9",
+      "brand": "Fulwin",
+      "names": {"en": "Fulwin T9", "zh-CN": "风云T9", "zh-TW": "Fulwin T9", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "风云(Fulwin)系列2023年重启后首款车型,中型插混SUV(2024年上市),搭载鲲鹏超能混动C-DM",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fulwin:a8",
+      "brand": "Fulwin",
+      "names": {"en": "Fulwin A8", "zh-CN": "风云A8", "zh-TW": "Fulwin A8", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "风云(Fulwin)系列插混轿车(2024年上市,A+级),艾瑞泽8插混版;奇瑞主品牌下另有同车型条目",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fulwin:t6",
+      "brand": "Fulwin",
+      "names": {"en": "Fulwin T6", "zh-CN": "风云T6", "zh-TW": "Fulwin T6", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "紧凑型插混SUV(2024年上市),基于探索06平台开发",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fulwin:t10",
+      "brand": "Fulwin",
+      "names": {"en": "Fulwin T10", "zh-CN": "风云T10", "zh-TW": "Fulwin T10", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "中大型插混SUV(2024年上市),提供6/7座布局",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fulwin:t8",
+      "brand": "Fulwin",
+      "names": {"en": "Fulwin T8", "zh-CN": "风云T8", "zh-TW": "Fulwin T8", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "中型插混SUV(2025年2月上市),基于瑞虎8平台,提供5/7座",
+      "verified": "verified"
+    }
+  ]
+}

@@ -51,13 +51,13 @@
     {
       "id": "model:dodge:journey",
       "brand": "Dodge",
-      "names": {"en": "Journey", "zh-CN": "Journey", "zh-TW": "Journey", "ja": "ジャーニー"},
+      "names": {"en": "Journey", "zh-CN": "酷威/Journey", "zh-TW": "Journey", "ja": "ジャーニー"},
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2009–2020",
-      "note": "2020年停产",
+      "note": "2020年停产;中国市场进口名「酷威」(2009-2016)",
       "verified": "verified"
     },
     {

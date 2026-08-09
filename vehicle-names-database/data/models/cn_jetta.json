@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:jetta:va3",
+      "brand": "Jetta",
+      "names": {"en": "Jetta VA3", "zh-CN": "捷达VA3", "zh-TW": "Jetta VA3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "一汽-大众捷达品牌紧凑型轿车,源自大众PQ25平台,原捷达车型的正统延续;2019年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jetta:vs5",
+      "brand": "Jetta",
+      "names": {"en": "Jetta VS5", "zh-CN": "捷达VS5", "zh-TW": "Jetta VS5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "一汽-大众捷达品牌首款SUV,紧凑型,基于大众MQB平台;2019年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jetta:vs7",
+      "brand": "Jetta",
+      "names": {"en": "Jetta VS7", "zh-CN": "捷达VS7", "zh-TW": "Jetta VS7", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "一汽-大众捷达品牌中型SUV,基于大众MQB平台;2020年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jetta:vs8",
+      "brand": "Jetta",
+      "names": {"en": "Jetta VS8", "zh-CN": "捷达VS8", "zh-TW": "Jetta VS8", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "一汽-大众捷达品牌中型SUV,基于大众MQB平台;2025年发布/上市",
+      "verified": "pending"
+    }
+  ]
+}

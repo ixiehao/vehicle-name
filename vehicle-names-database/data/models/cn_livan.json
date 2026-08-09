@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:livan:x3-pro",
+      "brand": "Livan",
+      "names": {"en": "Livan X3 PRO", "zh-CN": "睿蓝X3 PRO", "zh-TW": "Livan X3 PRO", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "小型燃油SUV,原吉利远景X3 PRO换标;睿蓝品牌2022年成立后上市,2024款在售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:livan:7",
+      "brand": "Livan",
+      "names": {"en": "Livan 7", "zh-CN": "睿蓝7", "zh-TW": "Livan 7", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "紧凑型纯电SUV(2023年上市),基于GBRC水晶架构,支持换电",
+      "verified": "verified"
+    },
+    {
+      "id": "model:livan:9",
+      "brand": "Livan",
+      "names": {"en": "Livan 9", "zh-CN": "睿蓝9", "zh-TW": "Livan 9", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中型纯电SUV(2022年上市),提供6/7座,支持换电",
+      "verified": "verified"
+    },
+    {
+      "id": "model:livan:8",
+      "brand": "Livan",
+      "names": {"en": "Livan 8", "zh-CN": "睿蓝8", "zh-TW": "Livan 8", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "纯电MPV(2024年11月上市),提供5/7座,支持换电",
+      "verified": "verified"
+    }
+  ]
+}

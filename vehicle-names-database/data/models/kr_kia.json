@@ -275,6 +275,138 @@
       "years": "2012–2020",
       "note": "旗舰豪华轿车,北美名K900(2012-2020);韩国本土名K9继续销售(2018年改款)",
       "verified": "verified"
+    },
+    {
+      "id": "model:kia:kx-cross",
+      "brand": "Kia",
+      "names": {"en": "KX Cross", "zh-CN": "KX CROSS", "zh-TW": "KX Cross", "ja": "KXクロス"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "东风悦达起亚小型跨界两厢车,2017年上市,基于K2平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:cadenza",
+      "brand": "Kia",
+      "names": {"en": "Cadenza", "zh-CN": "凯尊", "zh-TW": "Cadenza", "ja": "カデンツァ"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2015",
+      "note": "Cadenza中国进口名,中大型轿车,接替欧菲莱斯,2011-2015年销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:k4",
+      "brand": "Kia",
+      "names": {"en": "K4", "zh-CN": "K4(凯绅)", "zh-TW": "K4", "ja": "K4"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "东风悦达起亚中型轿车,2014年上市,2017年改款后中国名凯绅,凯绅并入本条",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:pegas",
+      "brand": "Kia",
+      "names": {"en": "Pegas", "zh-CN": "焕驰", "zh-TW": "Pegas", "ja": "ペガス"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "东风悦达起亚小型轿车,2017年上市,与全球Kia Pegas同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:k2",
+      "brand": "Kia",
+      "names": {"en": "K2", "zh-CN": "K2", "zh-TW": "K2", "ja": "K2"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "东风悦达起亚小型轿车,2011年上市,基于Rio平台的中国专属车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:k3",
+      "brand": "Kia",
+      "names": {"en": "K3", "zh-CN": "K3", "zh-TW": "K3", "ja": "K3"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "东风悦达起亚紧凑轿车,2012年上市,对应Cerato三代;K3S两厢版(2014-2016)并入本条",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:kx5",
+      "brand": "Kia",
+      "names": {"en": "KX5", "zh-CN": "KX5", "zh-TW": "KX5", "ja": "KX5"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "起亚紧凑SUV,2016年上市,即Sportage四代中国名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:kx7",
+      "brand": "Kia",
+      "names": {"en": "KX7", "zh-CN": "KX7", "zh-TW": "KX7", "ja": "KX7"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "东风悦达起亚中型SUV,2017年上市,三排七座布局",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:kx1",
+      "brand": "Kia",
+      "names": {"en": "KX1", "zh-CN": "奕跑", "zh-TW": "KX1", "ja": "KX1"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "东风悦达起亚小型SUV,2018年上市,基于K2平台,代号KX1",
+      "verified": "pending"
+    },
+    {
+      "id": "model:kia:cerato",
+      "brand": "Kia",
+      "names": {"en": "Cerato", "zh-CN": "赛拉图", "zh-TW": "Cerato", "ja": "セラト"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "Cerato初代中国国产名,2005-2015年销售,后被K3接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:kia:vq",
+      "brand": "Kia",
+      "names": {"en": "VQ", "zh-CN": "VQ", "zh-TW": "VQ", "ja": "VQ"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2014",
+      "note": "第三代Sedona/Carnival的开发代号,2007-2014年中国以进口形式销售",
+      "verified": "pending"
     }
   ]
 }

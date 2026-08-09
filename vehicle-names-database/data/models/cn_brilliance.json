@@ -1,0 +1,124 @@
+{
+  "models": [
+    {
+      "id": "model:brilliance:h220",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance H220", "zh-CN": "中华H220", "zh-TW": "Brilliance H220", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2015",
+      "note": "小型两厢车,中华入门级车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:h230",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance H230", "zh-CN": "中华H230", "zh-TW": "Brilliance H230", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "小型轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:h320",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance H320", "zh-CN": "中华H320", "zh-TW": "Brilliance H320", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "紧凑型两厢车,骏捷FRV改款车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:h330",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance H330", "zh-CN": "中华H330", "zh-TW": "Brilliance H330", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "紧凑型轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:h530",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance H530", "zh-CN": "中华H530", "zh-TW": "Brilliance H530", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2018",
+      "note": "紧凑型轿车,中华主力轿车车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:h3",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance H3", "zh-CN": "中华H3", "zh-TW": "Brilliance H3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "紧凑型轿车,运动风格设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:v3",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance V3", "zh-CN": "中华V3", "zh-TW": "Brilliance V3", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "小型SUV,中华销量支柱车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:v5",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance V5", "zh-CN": "中华V5", "zh-TW": "Brilliance V5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "紧凑型SUV,中华首款SUV车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:v6",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance V6", "zh-CN": "中华V6", "zh-TW": "Brilliance V6", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "紧凑型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:v7",
+      "brand": "Brilliance",
+      "names": {"en": "Brilliance V7", "zh-CN": "中华V7", "zh-TW": "Brilliance V7", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "中型SUV,华晨中华末期旗舰车型",
+      "verified": "verified"
+    }
+  ]
+}

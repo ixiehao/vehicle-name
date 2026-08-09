@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:huanghai:qisheng-f1",
+      "brand": "Huanghai",
+      "names": {"en": "Huanghai Qisheng F1", "zh-CN": "旗胜F1", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2015",
+      "note": "中型SUV,黄海首款SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:huanghai:jiaolong",
+      "brand": "Huanghai",
+      "names": {"en": "Huanghai Jiaolong", "zh-CN": "蛟龙", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2015",
+      "note": "中型皮卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:huanghai:n2",
+      "brand": "Huanghai",
+      "names": {"en": "Huanghai N2", "zh-CN": "N2", "zh-TW": "N2", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "中型皮卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:huanghai:n3",
+      "brand": "Huanghai",
+      "names": {"en": "Huanghai N3", "zh-CN": "N3", "zh-TW": "N3", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "中型皮卡,黄海大尺寸皮卡",
+      "verified": "verified"
+    }
+  ]
+}

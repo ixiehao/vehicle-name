@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:hafei:minyi",
+      "brand": "Hafei",
+      "names": {"en": "Hafei Minyi", "zh-CN": "民意", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2015",
+      "note": "微面,哈飞主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hafei:zhongyi-v5",
+      "brand": "Hafei",
+      "names": {"en": "Hafei Zhongyi V5", "zh-CN": "中意V5", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "微面,中意系列改款车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hafei:lubao",
+      "brand": "Hafei",
+      "names": {"en": "Hafei Lubao", "zh-CN": "路宝", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2012",
+      "note": "微型两厢车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hafei:saima",
+      "brand": "Hafei",
+      "names": {"en": "Hafei Saima", "zh-CN": "赛马", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2012",
+      "note": "小型两厢车,源自三菱Dingo技术",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hafei:saibao",
+      "brand": "Hafei",
+      "names": {"en": "Hafei Saibao", "zh-CN": "赛豹", "zh-TW": "—", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2012",
+      "note": "紧凑型轿车",
+      "verified": "verified"
+    }
+  ]
+}

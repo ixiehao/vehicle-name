@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:qoros:qoros-3",
+      "brand": "Qoros",
+      "names": {"en": "Qoros 3", "zh-CN": "观致3", "zh-TW": "觀致3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2021",
+      "note": "紧凑型轿车,观致品牌首款车型,含五门掀背版与3 GT跨界版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qoros:qoros-5",
+      "brand": "Qoros",
+      "names": {"en": "Qoros 5", "zh-CN": "观致5", "zh-TW": "觀致5", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2021",
+      "note": "紧凑型SUV,观致主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qoros:qoros-7",
+      "brand": "Qoros",
+      "names": {"en": "Qoros 7", "zh-CN": "观致7", "zh-TW": "觀致7", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2020–2021",
+      "note": "紧凑型SUV,宝能入主后推出,品牌停摆后停产",
+      "verified": "verified"
+    }
+  ]
+}
