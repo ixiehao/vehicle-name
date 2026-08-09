@@ -1,4 +1,4 @@
-# 多语言汽车车名资料库(Multilingual Automotive Name Database)
+# 多语言汽车车名资料库(Multilingual Vehicle Name Database)
 
 - **版本**:1.3.0 | **更新日期**:2026-08-09
 - **Schema 版本**:1.1.0

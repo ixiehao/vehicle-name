@@ -21,9 +21,11 @@ jobs:
           python-version: "3.11"
 
       - name: Validate data integrity
+        working-directory: vehicle-names-database
         run: python3 scripts/validate.py
 
       - name: Ensure dist/ is in sync with data/
+        working-directory: vehicle-names-database
         run: |
           python3 scripts/build.py
           git diff --exit-code -- dist/ \

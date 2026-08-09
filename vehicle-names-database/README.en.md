@@ -1,4 +1,4 @@
-# Multilingual Automotive Name Database
+# Multilingual Vehicle Name Database
 
 > A structured, multilingual automotive terminology database for both AI agents and humans.
 > Languages: English (`en`), Simplified Chinese (`zh-CN`), Traditional Chinese (`zh-TW`, Taiwan usage), Japanese (`ja`).
@@ -39,8 +39,8 @@ The database covers four areas of automotive terminology, each with names in 4 l
 
 Goals:
 
-- **Human-readable**: `dist/car-names-database.md` — table-based, ready to read or share.
-- **AI-callable**: `dist/car-names-database.json` — fixed schema, directly usable by programs/AI tools.
+- **Human-readable**: `dist/vehicle-names-database.md` — table-based, ready to read or share.
+- **AI-callable**: `dist/vehicle-names-database.json` — fixed schema, directly usable by programs/AI tools.
 - **Community-friendly**: `data/` is split per brand so many people can edit in parallel with minimal merge conflicts.
 
 ---
@@ -48,7 +48,7 @@ Goals:
 ## 2. Repository Layout
 
 ```
-car-names-database/
+vehicle-names-database/
 ├── README.md                    # This document (overview, schema, usage, maintenance)
 ├── README.en.md                 # English version
 ├── CONTRIBUTING.md              # Contribution guide (Chinese)
@@ -72,8 +72,8 @@ car-names-database/
 │   ├── build.py                 #   Merge data/ → dist/ (also generates the MD)
 │   └── validate.py              #   Schema/reference/uniqueness checks
 └── dist/                        # Build outputs (do NOT edit manually)
-    ├── car-names-database.json
-    └── car-names-database.md
+    ├── vehicle-names-database.json
+    └── vehicle-names-database.md
 ```
 
 > `dist/` is a build artifact committed for convenience. All edits belong in `data/`.

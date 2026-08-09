@@ -13,6 +13,8 @@ This project loosely follows Semantic Versioning 2.0.0 (MAJOR.MINOR.PATCH):
 
 ### 新增 Added
 
+- **目录更名(国际化)**:`car-names-database/` → `vehicle-names-database/`,构建产物更名 `dist/vehicle-names-database.json` / `dist/vehicle-names-database.md`,英文标题统一为 *Multilingual Vehicle Name Database*;CI 工作流同步适配。
+
 - **大规模扩充品牌**:新增 37 个品牌,覆盖 16 个国家/地区,品牌总数达 103。
   - 欧洲:路特斯、MG、摩根、卡特汉姆、蓝旗亚、阿巴斯、帕加尼、布加迪、阿尔派、萨博、达契亚、西雅特、Cupra、拉达、塔塔、马恒达、宝腾、Perodua、迈巴赫、阿尔宾娜。
   - 美洲:悍马、庞蒂亚克、奥兹莫比尔、水星、普利茅斯、德罗宁、Rivian、Lucid。
@@ -73,4 +75,4 @@ This project loosely follows Semantic Versioning 2.0.0 (MAJOR.MINOR.PATCH):
 
 - 初始版本。
 - 内容:级别体系 6 类、术语 72 条(10 大类)、品牌 63 个、车型 84 款、跨市场异名 24 组、待核实清单 13 项。
-- 文件:`README.md`、`car-names-database.json`、`car-names-database.md`。
+- 文件:`README.md`、`vehicle-names-database.json`、`vehicle-names-database.md`。

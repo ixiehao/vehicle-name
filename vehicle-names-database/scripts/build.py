@@ -9,8 +9,8 @@ build.py — 合并 data/ 拆分数据,生成 dist/ 合并产物
 
 说明:
     data/ 目录下的文件是唯一数据源(SSOT)。本脚本将它们合并为:
-      - dist/car-names-database.json   机器可读版
-      - dist/car-names-database.md     人类可读版(表格化)
+      - dist/vehicle-names-database.json   机器可读版
+      - dist/vehicle-names-database.md     人类可读版(表格化)
 
     data/models/*.json 中每个文件为一组车型(通常按品牌),文件名不含
     cross_market.json。合并时会按 (brand, id) 排序,保证输出稳定,便于
@@ -88,8 +88,8 @@ def main():
     }
 
     os.makedirs(args.out_dir, exist_ok=True)
-    json_path = os.path.join(args.out_dir, "car-names-database.json")
-    md_path = os.path.join(args.out_dir, "car-names-database.md")
+    json_path = os.path.join(args.out_dir, "vehicle-names-database.json")
+    md_path = os.path.join(args.out_dir, "vehicle-names-database.md")
 
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(merged, f, ensure_ascii=False, indent=2)
@@ -122,7 +122,7 @@ def render_markdown(db):
     pending = db["pending_verification"]
 
     L = []
-    L.append("# 多语言汽车车名资料库(Multilingual Automotive Name Database)")
+    L.append("# 多语言汽车车名资料库(Multilingual Vehicle Name Database)")
     L.append("")
     L.append(f"- **版本**:{meta.get('database_version')} | **更新日期**:{meta.get('updated')}")
     L.append(f"- **Schema 版本**:{db['schema_version']}")

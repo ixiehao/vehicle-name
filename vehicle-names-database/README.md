@@ -1,4 +1,4 @@
-# 多语言汽车车名资料库(Multilingual Automotive Name Database)
+# 多语言汽车车名资料库(Multilingual Vehicle Name Database)
 
 > 面向 AI 与人类的双语/多语可读、结构化可调用的汽车多语言名词资料库。
 > 覆盖语言:英文(`en`)、简体中文(`zh-CN`)、繁体中文(`zh-TW`,以台湾地区用法为主)、日语(`ja`)。
@@ -39,8 +39,8 @@ English version: [README.en.md](README.en.md)
 
 设计目标:
 
-- **人类可读**:`dist/car-names-database.md` 表格化呈现,可直接阅读或分享。
-- **AI 可调用**:`dist/car-names-database.json` 字段统一、层级固定,可直接被程序 / AI 工具读取。
+- **人类可读**:`dist/vehicle-names-database.md` 表格化呈现,可直接阅读或分享。
+- **AI 可调用**:`dist/vehicle-names-database.json` 字段统一、层级固定,可直接被程序 / AI 工具读取。
 - **社区可协作**:`data/` 按品牌拆分文件,多人可并行编辑、互不冲突,PR 审阅友好。
 
 ---
@@ -48,7 +48,7 @@ English version: [README.en.md](README.en.md)
 ## 2. 文件结构
 
 ```
-car-names-database/
+vehicle-names-database/
 ├── README.md                    # 本文档(总览、Schema、调用与维护指南)
 ├── README.en.md                 # 英文版
 ├── CONTRIBUTING.md              # 贡献指南(中文)
@@ -72,8 +72,8 @@ car-names-database/
 │   ├── build.py                 #   合并 data/ → dist/(含 MD 生成)
 │   └── validate.py              #   结构、引用、ID 唯一性校验
 └── dist/                        # 构建产物(勿手动编辑,由 build.py 生成)
-    ├── car-names-database.json  #   机器可读版
-    └── car-names-database.md    #   人类可读版
+    ├── vehicle-names-database.json  #   机器可读版
+    └── vehicle-names-database.md    #   人类可读版
 ```
 
 > `dist/` 为构建产物,提交进仓库方便使用者直接下载;任何修改请在 `data/` 中进行并重新构建。
@@ -204,7 +204,7 @@ python3 scripts/build.py
 ### 8.1 常规用法
 
 ```text
-1. 读取 dist/car-names-database.json,按其 meta.schema_version 确认结构版本。
+1. 读取 dist/vehicle-names-database.json,按其 meta.schema_version 确认结构版本。
 2. 需要某术语多语言名称时,检索 glossary.terms 中 name 字段。
 3. 需要某车型的各地市场名称时,先查 models.list,再查 models.cross_market 是否有异名。
 4. 需要某品牌名时,检索 brands(注意国别与台湾/日本差异)。
