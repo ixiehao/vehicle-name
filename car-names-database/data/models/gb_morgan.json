@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:morgan:3-wheeler",
+      "brand": "Morgan",
+      "names": {"en": "Morgan 3 Wheeler", "zh-CN": "摩根3 Wheeler", "zh-TW": "Morgan 3 Wheeler", "ja": "モーガン・スリーウィーラー"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2021",
+      "note": "三轮复古敞篷跑车(2011年复兴,2021年停产)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:morgan:plus-four",
+      "brand": "Morgan",
+      "names": {"en": "Morgan Plus Four", "zh-CN": "摩根Plus Four", "zh-TW": "Morgan Plus Four", "ja": "モーガン・プラスフォー"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "经典手工打造敞篷跑车(宝马2.0T),2020年换代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:morgan:plus-six",
+      "brand": "Morgan",
+      "names": {"en": "Morgan Plus Six", "zh-CN": "摩根Plus Six", "zh-TW": "Morgan Plus Six", "ja": "モーガン・プラスシックス"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "基于全新CX铝平台(宝马3.0T直六),品牌最快量产车",
+      "verified": "verified"
+    }
+  ]
+}

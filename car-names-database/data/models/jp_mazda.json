@@ -1,0 +1,616 @@
+{
+  "models": [
+    {
+      "id": "model:mazda:mazda2",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda2",
+        "zh-CN": "马自达2",
+        "zh-TW": "Mazda2",
+        "ja": "MAZDA2"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002–present",
+      "note": "日本市场1996-2019年称Demio(デミオ),2019年全球统一MAZDA2;欧洲另有基于丰田Yaris的Mazda2 Hybrid",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:mazda3",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda3",
+        "zh-CN": "马自达3(昂克赛拉)",
+        "zh-TW": "Mazda3",
+        "ja": "MAZDA3"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "日本市场旧称Axela(アクセラ),2019年改名;大陆旧译昂克赛拉,另有三厢版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:mazda6",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda6",
+        "zh-CN": "马自达6(阿特兹)",
+        "zh-TW": "Mazda6",
+        "ja": "MAZDA6"
+      },
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2025",
+      "note": "日本市场旧称Atenza(アテンザ),大陆现款名阿特兹;2025年3月全球停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-3",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-3",
+        "zh-CN": "马自达CX-3",
+        "zh-TW": "Mazda CX-3",
+        "ja": "CX-3"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "基于Mazda2的小型跨界SUV;日本2021年停售,北美2021年停产,仍在部分市场销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-4",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-4",
+        "zh-CN": "马自达CX-4",
+        "zh-TW": "Mazda CX-4",
+        "ja": "CX-4"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2023",
+      "note": "中国特供(一汽马自达),2023年前后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-5",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-5",
+        "zh-CN": "马自达CX-5",
+        "zh-TW": "Mazda CX-5",
+        "ja": "CX-5"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "全球主力紧凑型SUV,大陆由长安马自达生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-8",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-8",
+        "zh-CN": "马自达CX-8",
+        "zh-TW": "Mazda CX-8",
+        "ja": "CX-8"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "三排座中型SUV,亚太市场(日本/中国/澳洲)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-9",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-9",
+        "zh-CN": "马自达CX-9",
+        "zh-TW": "Mazda CX-9",
+        "ja": "CX-9"
+      },
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2023",
+      "note": "三排座大型SUV,北美/中东市场;北美2023年款后停产(部分地区2024年清库),由CX-90接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-30",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-30",
+        "zh-CN": "马自达CX-30",
+        "zh-TW": "Mazda CX-30",
+        "ja": "CX-30"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "介于CX-3与CX-5之间的小型跨界SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-50",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-50",
+        "zh-CN": "马自达CX-50",
+        "zh-TW": "Mazda CX-50",
+        "ja": "CX-50"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "北美/中国市场紧凑型SUV,与CX-5并存",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-60",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-60",
+        "zh-CN": "马自达CX-60",
+        "zh-TW": "Mazda CX-60",
+        "ja": "CX-60"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "基于纵置后驱平台的中型SUV,欧洲/亚太市场,提供PHEV与直六燃油",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-70",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-70",
+        "zh-CN": "马自达CX-70",
+        "zh-TW": "Mazda CX-70",
+        "ja": "CX-70"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "CX-90的两排版,北美/澳洲市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-80",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-80",
+        "zh-CN": "马自达CX-80",
+        "zh-TW": "Mazda CX-80",
+        "ja": "CX-80"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "CX-90的三排版,欧洲/亚太市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-90",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda CX-90",
+        "zh-CN": "马自达CX-90",
+        "zh-TW": "Mazda CX-90",
+        "ja": "CX-90"
+      },
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "旗舰三排SUV,基于纵置后驱平台,北美/中东/澳洲市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:mx-30",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda MX-30",
+        "zh-CN": "马自达MX-30",
+        "zh-TW": "Mazda MX-30",
+        "ja": "MX-30"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "马自达首款量产纯电动(另有转子增程版),基于CX-30,对开式车门",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:roadster",
+      "brand": "Mazda",
+      "names": {
+        "en": "MX-5 / Roadster",
+        "zh-CN": "马自达MX-5",
+        "zh-TW": "MX-5",
+        "ja": "ロードスター"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1989–present",
+      "note": "日本名Roadster;北美称MX-5 Miata,欧洲MX-5;全球最畅销双座敞篷跑车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:carol",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda Carol",
+        "zh-CN": "马自达Carol",
+        "zh-TW": "Mazda Carol",
+        "ja": "キャロル"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1962–present",
+      "note": "日本K-car;第二代起为铃木Alto贴牌车,1990-1994年曾以Autozam Carol销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:flair",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda Flair",
+        "zh-CN": "马自达Flair",
+        "zh-TW": "Mazda Flair",
+        "ja": "フレア"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "日本K-car;铃木Wagon R贴牌车,另有Flair Wagon(铃木Spacia贴牌)与Flair Crossover(铃木Hustler贴牌)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:bt-50",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda BT-50",
+        "zh-CN": "马自达BT-50",
+        "zh-TW": "Mazda BT-50",
+        "ja": "BT-50"
+      },
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "紧凑型皮卡;第三代起基于五十铃D-Max,东南亚/澳洲/中东市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:rx-7",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda RX-7",
+        "zh-CN": "马自达RX-7",
+        "zh-TW": "Mazda RX-7",
+        "ja": "RX-7"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:sports",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–2002",
+      "note": "转子引擎跑车;日本市场初代/二代称Savanna RX-7",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:rx-8",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda RX-8",
+        "zh-CN": "马自达RX-8",
+        "zh-TW": "Mazda RX-8",
+        "ja": "RX-8"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:sports",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2012",
+      "note": "转子引擎跑车,后门对开式四门设计",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:mx-3",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda MX-3",
+        "zh-CN": "马自达MX-3",
+        "zh-TW": "Mazda MX-3",
+        "ja": "MX-3"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–1998",
+      "note": "小型轿跑;日本市场以Autozam AZ-3/Eunos Presso销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:mx-6",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda MX-6",
+        "zh-CN": "马自达MX-6",
+        "zh-TW": "Mazda MX-6",
+        "ja": "MX-6"
+      },
+      "segment": "class:eu:d",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–1997",
+      "note": "Capella/626的轿跑版;日本市场称Capella C2",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:sentia",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda Sentia",
+        "zh-CN": "马自达Sentia",
+        "zh-TW": "Mazda Sentia",
+        "ja": "センティア"
+      },
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–1998",
+      "note": "旗舰轿车;海外市场称Mazda 929",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:lantis",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda Lantis",
+        "zh-CN": "马自达Lantis",
+        "zh-TW": "Mazda Lantis",
+        "ja": "ランティス"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–1994",
+      "note": "Familia姊妹车;欧洲市场称323F,日本另有Cronos三厢版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:millenia",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda Millenia",
+        "zh-CN": "马自达Millenia",
+        "zh-TW": "Mazda Millenia",
+        "ja": "ミレーニア"
+      },
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–2002",
+      "note": "近豪华轿车;欧洲称Xedos 9,日本初期以Eunos 800销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cosmo-sports",
+      "brand": "Mazda",
+      "names": {
+        "en": "Cosmo Sport",
+        "zh-CN": "Cosmo(转子鼻祖)",
+        "zh-TW": "Cosmo",
+        "ja": "コスモスポーツ"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:sports",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–1972",
+      "note": "世界首款量产转子发动机跑车;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:familia",
+      "brand": "Mazda",
+      "names": {
+        "en": "Familia",
+        "zh-CN": "马自达323/福美来",
+        "zh-TW": "Familia",
+        "ja": "ファミリア"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–2003",
+      "note": "重要家用车系,海外名323/Protégé;大陆海南马自达福美来为第八代;Mazda3前身;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:capella",
+      "brand": "Mazda",
+      "names": {
+        "en": "Capella",
+        "zh-CN": "马自达626",
+        "zh-TW": "Capella",
+        "ja": "カペラ"
+      },
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–2002",
+      "note": "中级车系,海外名626;Mazda6前身;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:luce",
+      "brand": "Mazda",
+      "names": {
+        "en": "Luce",
+        "zh-CN": "—",
+        "zh-TW": "Luce",
+        "ja": "ルーチェ"
+      },
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1991",
+      "note": "豪华轿车,后期搭载转子发动机;海外名929;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:savanna",
+      "brand": "Mazda",
+      "names": {
+        "en": "Savanna",
+        "zh-CN": "—",
+        "zh-TW": "Savanna",
+        "ja": "サバンナ"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1978",
+      "note": "转子跑车,海外名RX-3;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:bongo",
+      "brand": "Mazda",
+      "names": {
+        "en": "Bongo",
+        "zh-CN": "—",
+        "zh-TW": "Bongo",
+        "ja": "ボンゴ"
+      },
+      "segment": "class:eu:m",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1966–present",
+      "note": "厢式货车;2019年起为丰田Hiace贴牌;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:chantez",
+      "brand": "Mazda",
+      "names": {
+        "en": "Chantez",
+        "zh-CN": "—",
+        "zh-TW": "Chantez",
+        "ja": "シャンテ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1972–1976",
+      "note": "马自达首款K-car,自研两冲程;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:az-1",
+      "brand": "Mazda",
+      "names": {
+        "en": "AZ-1",
+        "zh-CN": "AZ-1",
+        "zh-TW": "AZ-1",
+        "ja": "AZ-1(エーゼットワン)"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–1995",
+      "note": "中置K-car鸥翼门跑车,与铃木Cara同源;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:cx-7",
+      "brand": "Mazda",
+      "names": {
+        "en": "CX-7",
+        "zh-CN": "CX-7",
+        "zh-TW": "CX-7",
+        "ja": "CX-7"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2012",
+      "note": "马自达CX系列首款SUV;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mazda:premacy",
+      "brand": "Mazda",
+      "names": {
+        "en": "Premacy",
+        "zh-CN": "马自达5",
+        "zh-TW": "Premacy",
+        "ja": "プレマシー"
+      },
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2015",
+      "note": "紧凑MPV,海外名Mazda5;官方历史资料库收录",
+      "verified": "verified"
+    }
+  ]
+}

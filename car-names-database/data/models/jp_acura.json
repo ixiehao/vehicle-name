@@ -1,0 +1,148 @@
+{
+  "models": [
+    {
+      "id": "model:acura:rdx",
+      "brand": "Acura",
+      "names": {"en": "RDX", "zh-CN": "RDX", "zh-TW": "RDX(阿庫拉)", "ja": "アキュラRDX"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "与 CR-V 同平台的紧凑豪华 SUV;大陆广汽讴歌曾国产,2022 年退出中国市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:mdx",
+      "brand": "Acura",
+      "names": {"en": "MDX", "zh-CN": "MDX", "zh-TW": "MDX(阿庫拉)", "ja": "アキュラMDX"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2000–present",
+      "note": "与 Pilot 同平台的三排中大型豪华 SUV,讴歌北美主力车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:tlx",
+      "brand": "Acura",
+      "names": {"en": "TLX", "zh-CN": "TLX", "zh-TW": "TLX(阿庫拉)", "ja": "アキュラTLX"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2025",
+      "note": "TL/TSX 的继任者;第二代 2021 年推出,2025 款为末代、2025 年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:integra",
+      "brand": "Acura",
+      "names": {"en": "Integra", "zh-CN": "Integra", "zh-TW": "Integra(阿庫拉)", "ja": "アキュラ・インテグラ"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1986–2006, 2023–present",
+      "note": "1986–2006 为经典 Integra;2022 年基于第 11 代思域复兴为豪华掀背;2026 年起在日本发售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:adx",
+      "brand": "Acura",
+      "names": {"en": "ADX", "zh-CN": "ADX", "zh-TW": "ADX(阿庫拉)", "ja": "アキュラADX"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "与 HR-V/ZR-V 同平台的全新入门豪华 SUV,2025 年推出",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:zdx",
+      "brand": "Acura",
+      "names": {"en": "ZDX", "zh-CN": "ZDX", "zh-TW": "ZDX(阿庫拉)", "ja": "アキュラZDX"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2009–2013, 2024–2025",
+      "note": "初代为 Crosstour 平台跨界;2024 年以纯电复活(与本田 Prologue 同源),2025 年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:nsx",
+      "brand": "Acura",
+      "names": {"en": "NSX", "zh-CN": "NSX", "zh-TW": "NSX(阿庫拉)", "ja": "アキュラNSX"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–2022",
+      "note": "本田 NSX 的北美版;二代(2016–2022)为 V6+三电机混动",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:ilx",
+      "brand": "Acura",
+      "names": {"en": "ILX", "zh-CN": "ILX", "zh-TW": "ILX(阿庫拉)", "ja": "アキュラILX"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2022",
+      "note": "基于第九代思域的入门豪华轿车,被复兴版 Integra 取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:tl",
+      "brand": "Acura",
+      "names": {"en": "TL", "zh-CN": "TL", "zh-TW": "TL(阿庫拉)", "ja": "アキュラTL"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2014",
+      "note": "四代中型豪华轿车;1996–2003 年间在日本以本田 Saber/Inspire 姊妹车销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:tsx",
+      "brand": "Acura",
+      "names": {"en": "TSX", "zh-CN": "TSX", "zh-TW": "TSX(阿庫拉)", "ja": "アキュラTSX"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2014",
+      "note": "欧洲/日本版雅阁(及思铂睿)的北美贴牌版;2011–2014 另有 Sport Wagon 旅行版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:rlx",
+      "brand": "Acura",
+      "names": {"en": "RLX", "zh-CN": "RLX", "zh-TW": "RLX(阿庫拉)", "ja": "アキュラRLX"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2020",
+      "note": "讴歌旗舰轿车;日本市场以本田 Legend 销售;有 SH-AWD 混动版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:acura:rl",
+      "brand": "Acura",
+      "names": {"en": "RL", "zh-CN": "RL", "zh-TW": "RL(阿庫拉)", "ja": "アキュラRL"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2012",
+      "note": "前身为 Acura Legend(1986–1995);日本市场以本田 Legend 销售;被 RLX 取代",
+      "verified": "verified"
+    }
+  ]
+}

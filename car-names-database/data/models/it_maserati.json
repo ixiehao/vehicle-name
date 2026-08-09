@@ -1,0 +1,160 @@
+{
+  "models": [
+    {
+      "id": "model:maserati:ghibli",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Ghibli", "zh-CN": "玛莎拉蒂Ghibli", "zh-TW": "瑪莎拉蒂Ghibli", "ja": "マセラティ ギブリ"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2023",
+      "note": "现代Ghibli(2013–2023)2023年停产;名称源自1967–1973年经典Ghibli与1992–1998年Ghibli II",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:levante",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Levante", "zh-CN": "玛莎拉蒂Levante", "zh-TW": "瑪莎拉蒂Levante", "ja": "マセラティ レヴァンテ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2024",
+      "note": "品牌首款SUV,2016年交付,2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:quattroporte",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Quattroporte", "zh-CN": "玛莎拉蒂总裁", "zh-TW": "瑪莎拉蒂Quattroporte", "ja": "マセラティ クアトロポルテ"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–2023",
+      "note": "品牌旗舰豪华轿车,1963年首发,历经六代(第六代2013–2023),2023年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:granturismo",
+      "brand": "Maserati",
+      "names": {"en": "Maserati GranTurismo", "zh-CN": "玛莎拉蒂GranTurismo", "zh-TW": "瑪莎拉蒂GranTurismo", "ja": "マセラティ グラントゥーリズモ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "GT轿跑,第一代2007–2019,第二代(M189)2023年起,含纯电版GranTurismo Folgore",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:grancabrio",
+      "brand": "Maserati",
+      "names": {"en": "Maserati GranCabrio", "zh-CN": "玛莎拉蒂GranCabrio", "zh-TW": "瑪莎拉蒂GranCabrio", "ja": "マセラティ グランカブリオ"},
+      "segment": "class:eu:s",
+      "body_style": "body:convertible",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "GranTurismo的敞篷版,第一代2010–2019,第二代2024年起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:mc20",
+      "brand": "Maserati",
+      "names": {"en": "Maserati MC20", "zh-CN": "玛莎拉蒂MC20", "zh-TW": "瑪莎拉蒂MC20", "ja": "マセラティMC20"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "中置引擎超级跑车,搭载Nettuno V6,2020年发布;含敞篷版MC20 Cielo;后继车型MCPura计划2026年投产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:grecale",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Grecale", "zh-CN": "玛莎拉蒂Grecale", "zh-TW": "瑪莎拉蒂Grecale", "ja": "マセラティ グレカーレ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中型SUV,2022年发布,与阿尔法·罗密欧Stelvio共享Giorgio平台;含纯电版Grecale Folgore",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:spyder",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Spyder", "zh-CN": "玛莎拉蒂Spyder", "zh-TW": "瑪莎拉蒂Spyder", "ja": "マセラティ スパイダー"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2007",
+      "note": "2001年推出的敞篷跑车,与Coupé同平台,2007年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:coupe",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Coupé", "zh-CN": "玛莎拉蒂Coupé", "zh-TW": "瑪莎拉蒂Coupé", "ja": "マセラティ クーペ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2007",
+      "note": "3200 GT的继任者,2007年被GranTurismo取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:biturbo",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Biturbo", "zh-CN": "玛莎拉蒂Biturbo", "zh-TW": "瑪莎拉蒂Biturbo", "ja": "マセラティ ビトゥルボ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1994",
+      "note": "1980年代主力车型,首款量产双涡轮增压车;衍生222/422、Spyder、Shamal等变体",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:3200-gt",
+      "brand": "Maserati",
+      "names": {"en": "Maserati 3200 GT", "zh-CN": "玛莎拉蒂3200 GT", "zh-TW": "瑪莎拉蒂3200 GT", "ja": "マセラティ3200GT"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2002",
+      "note": "1998年推出的双门GT,2002年被Coupé取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:khamsin",
+      "brand": "Maserati",
+      "names": {"en": "Maserati Khamsin", "zh-CN": "玛莎拉蒂Khamsin", "zh-TW": "瑪莎拉蒂Khamsin", "ja": "マセラティ カムシン"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1982",
+      "note": "Bertone设计的V8 GT轿跑,1974–1982年间生产(约435辆)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maserati:mc12",
+      "brand": "Maserati",
+      "names": {"en": "Maserati MC12", "zh-CN": "玛莎拉蒂MC12", "zh-TW": "瑪莎拉蒂MC12", "ja": "マセラティMC12"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2005",
+      "note": "基于法拉利Enzo的超级跑车,量产50台,2005年起称霸FIA GT锦标赛",
+      "verified": "verified"
+    }
+  ]
+}

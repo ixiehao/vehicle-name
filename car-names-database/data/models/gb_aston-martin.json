@@ -1,0 +1,172 @@
+{
+  "models": [
+    {
+      "id": "model:aston-martin:db12",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin DB12", "zh-CN": "阿斯顿·马丁DB12", "zh-TW": "奧斯頓馬丁DB12", "ja": "アストンマーティンDB12"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "现售旗舰GT,2023年发布,取代DB11;另有敞篷版DB12 Volante",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:db11",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin DB11", "zh-CN": "阿斯顿·马丁DB11", "zh-TW": "奧斯頓馬丁DB11", "ja": "アストンマーティンDB11"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2023",
+      "note": "DB9的继任者,2016年推出,2023年被DB12取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:vantage",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin Vantage", "zh-CN": "阿斯顿·马丁Vantage", "zh-TW": "奧斯頓馬丁Vantage", "ja": "アストンマーティン ヴァンテージ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "入门级跑车,2005年首代(V8/V12 Vantage),现款为第二代(2018–),2024年改款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:dbs",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin DBS", "zh-CN": "阿斯顿·马丁DBS", "zh-TW": "奧斯頓馬丁DBS", "ja": "アストンマーティンDBS"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2024",
+      "note": "DBS Superleggera(2018–2024),V12旗舰GT;名称另有1967–1972年经典DBS与2007–2012年DBS V12",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:dbx",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin DBX", "zh-CN": "阿斯顿·马丁DBX", "zh-TW": "奧斯頓馬丁DBX", "ja": "アストンマーティンDBX"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "品牌首款SUV,2020年上市;含高性能版DBX 707",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:vanquish",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin Vanquish", "zh-CN": "阿斯顿·马丁Vanquish", "zh-TW": "奧斯頓馬丁Vanquish", "ja": "アストンマーティン ヴァンキッシュ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "V12旗舰GT,2024年发布;名称先例:V12 Vanquish(2001–2007)与Vanquish(2012–2018)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:valkyrie",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin Valkyrie", "zh-CN": "阿斯顿·马丁女武神", "zh-TW": "奧斯頓馬丁Valkyrie", "ja": "アストンマーティン ヴァルキリー"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:hev",
+      "status": "discontinued",
+      "years": "2021–2024",
+      "note": "与红牛F1合作开发的混动Hypercar,限量生产,2021年交付",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:valhalla",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin Valhalla", "zh-CN": "阿斯顿·马丁瓦尔哈拉", "zh-TW": "奧斯頓馬丁Valhalla", "ja": "アストンマーティン ヴァルハラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "中置引擎插电混动超跑,2025年起交付",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:one-77",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin One-77", "zh-CN": "阿斯顿·马丁One-77", "zh-TW": "奧斯頓馬丁One-77", "ja": "アストンマーティン ワン-77"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2012",
+      "note": "限量77台的旗舰超跑,碳纤维车身+V12发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:db9",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin DB9", "zh-CN": "阿斯顿·马丁DB9", "zh-TW": "奧斯頓馬丁DB9", "ja": "アストンマーティンDB9"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2016",
+      "note": "DB7的继任者,经典GT轿跑,2016年被DB11取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:db7",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin DB7", "zh-CN": "阿斯顿·马丁DB7", "zh-TW": "奧斯頓馬丁DB7", "ja": "アストンマーティンDB7"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–2003",
+      "note": "90年代拯救品牌的GT车型,含DB7 Vantage与敞篷版Volante",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:virage",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin Virage", "zh-CN": "阿斯顿·马丁Virage", "zh-TW": "奧斯頓馬丁Virage", "ja": "アストンマーティン ヴィラージュ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–2000",
+      "note": "1989年推出的V8 GT,衍生V8 Vantage等变体;2011–2012年曾短暂复活同名车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:rapide",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin Rapide", "zh-CN": "阿斯顿·马丁Rapide", "zh-TW": "奧斯頓馬丁Rapide", "ja": "アストンマーティン ラピード"},
+      "segment": "class:eu:s",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2020",
+      "note": "品牌四门GT轿车,含Rapide S性能版,2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:lagonda",
+      "brand": "Aston Martin",
+      "names": {"en": "Aston Martin Lagonda", "zh-CN": "阿斯顿·马丁Lagonda", "zh-TW": "奧斯頓馬丁Lagonda", "ja": "アストンマーティン ラゴンダ"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1989",
+      "note": "楔形设计的四门豪华轿车;Lagonda亦为阿斯顿·马丁曾用的子品牌名(2015年Lagonda Taraf)",
+      "verified": "verified"
+    }
+  ]
+}

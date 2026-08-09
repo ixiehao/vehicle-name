@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:pagani:zonda",
+      "brand": "Pagani",
+      "names": {"en": "Pagani Zonda", "zh-CN": "帕加尼Zonda", "zh-TW": "Pagani Zonda", "ja": "パガーニ・ゾンダ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2011",
+      "note": "品牌首款超跑(梅赛德斯AMG V12),含Zonda F/R/Cinque等,后续有复刻定制版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:pagani:huayra",
+      "brand": "Pagani",
+      "names": {"en": "Pagani Huayra", "zh-CN": "帕加尼Huayra", "zh-TW": "Pagani Huayra", "ja": "パガーニ・ウアイラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2023",
+      "note": "Zonda继任者(主动空气动力学,AMG V12双涡轮),含BC/Codalunga等版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:pagani:utopia",
+      "brand": "Pagani",
+      "names": {"en": "Pagani Utopia", "zh-CN": "帕加尼Utopia", "zh-TW": "Pagani Utopia", "ja": "パガーニ・ユートピア"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "第三代旗舰超跑(6.0L AMG V12双涡轮+手动/自动),限量99辆",
+      "verified": "verified"
+    }
+  ]
+}

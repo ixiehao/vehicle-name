@@ -1,0 +1,160 @@
+{
+  "models": [
+    {
+      "id": "model:mclaren:750s",
+      "brand": "McLaren",
+      "names": {"en": "McLaren 750S", "zh-CN": "迈凯伦750S", "zh-TW": "麥拉倫750S", "ja": "マクラーレン750S"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "Super Series旗舰,2023年发布,取代720S;含敞篷Spider版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:720s",
+      "brand": "McLaren",
+      "names": {"en": "McLaren 720S", "zh-CN": "迈凯伦720S", "zh-TW": "麥拉倫720S", "ja": "マクラーレン720S"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2023",
+      "note": "第二代Super Series,2017年推出,2023年被750S取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:artura",
+      "brand": "McLaren",
+      "names": {"en": "McLaren Artura", "zh-CN": "迈凯伦Artura", "zh-TW": "麥拉倫Artura", "ja": "マクラーレン アルトゥーラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:hev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "品牌首款量产混动超跑(V6双涡轮+电机),2021年发布、2022年交付;含敞篷Spider版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:gt",
+      "brand": "McLaren",
+      "names": {"en": "McLaren GT", "zh-CN": "迈凯伦GT", "zh-TW": "麥拉倫GT", "ja": "マクラーレンGT"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2023",
+      "note": "品牌首款GT系列车型,侧重长途舒适性,2023年停产,后续由GTS(2024–)接棒",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:765lt",
+      "brand": "McLaren",
+      "names": {"en": "McLaren 765LT", "zh-CN": "迈凯伦765LT", "zh-TW": "麥拉倫765LT", "ja": "マクラーレン765LT"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2020–2023",
+      "note": "720S的Longtail轻量化限量版,含Spider敞篷版(2021–2023)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:senna",
+      "brand": "McLaren",
+      "names": {"en": "McLaren Senna", "zh-CN": "迈凯伦塞纳", "zh-TW": "麥拉倫Senna", "ja": "マクラーレン セナ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "Ultimate Series限量车型,致敬车神塞纳,限量500台;另有赛道版Senna GTR",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:speedtail",
+      "brand": "McLaren",
+      "names": {"en": "McLaren Speedtail", "zh-CN": "迈凯伦Speedtail", "zh-TW": "麥拉倫Speedtail", "ja": "マクラーレン スピードテール"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:hev",
+      "status": "discontinued",
+      "years": "2019–2020",
+      "note": "三座Hyper-GT,限量106台,最高时速403 km/h,致敬McLaren F1",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:w1",
+      "brand": "McLaren",
+      "names": {"en": "McLaren W1", "zh-CN": "迈凯伦W1", "zh-TW": "麥拉倫W1", "ja": "マクラーレンW1"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:hev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "P1的继任者,混动Hypercar,2024年发布,限量399台,2025年起交付",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:p1",
+      "brand": "McLaren",
+      "names": {"en": "McLaren P1", "zh-CN": "迈凯伦P1", "zh-TW": "麥拉倫P1", "ja": "マクラーレンP1"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:hev",
+      "status": "discontinued",
+      "years": "2013–2015",
+      "note": "Ultimate Series开山之作,混动Hypercar,限量375台,2015年结束生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:mp4-12c",
+      "brand": "McLaren",
+      "names": {"en": "McLaren MP4-12C", "zh-CN": "迈凯伦MP4-12C", "zh-TW": "麥拉倫MP4-12C", "ja": "マクラーレンMP4-12C"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2014",
+      "note": "2010年重启民用车的首款车型(后简称为12C),2014年被650S取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:570s",
+      "brand": "McLaren",
+      "names": {"en": "McLaren 570S", "zh-CN": "迈凯伦570S", "zh-TW": "麥拉倫570S", "ja": "マクラーレン570S"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2021",
+      "note": "Sports Series入门系列,含570GT(2017–2021)与Spider版,2021年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:600lt",
+      "brand": "McLaren",
+      "names": {"en": "McLaren 600LT", "zh-CN": "迈凯伦600LT", "zh-TW": "麥拉倫600LT", "ja": "マクラーレン600LT"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "570S的Longtail轻量化性能版,含Spider版(2019–2021)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mclaren:f1",
+      "brand": "McLaren",
+      "names": {"en": "McLaren F1", "zh-CN": "迈凯伦F1", "zh-TW": "麥拉倫F1", "ja": "マクラーレンF1"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–1998",
+      "note": "三座中置V12传奇超跑,1990年代世界最快量产车,共生产106台",
+      "verified": "verified"
+    }
+  ]
+}

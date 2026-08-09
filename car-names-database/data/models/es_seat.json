@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:seat:ibiza",
+      "brand": "SEAT",
+      "names": {"en": "SEAT Ibiza", "zh-CN": "西雅特Ibiza", "zh-TW": "SEAT Ibiza", "ja": "セアト・イビサ"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1984–present",
+      "note": "品牌主力小型车(第五代2017,大众MQB平台);大陆未引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:seat:leon",
+      "brand": "SEAT",
+      "names": {"en": "SEAT León", "zh-CN": "西雅特León", "zh-TW": "SEAT León", "ja": "セアト・レオン"},
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1999–present",
+      "note": "高尔夫姊妹车(第四代2020),含Cupra性能版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:seat:arona",
+      "brand": "SEAT",
+      "names": {"en": "SEAT Arona", "zh-CN": "西雅特Arona", "zh-TW": "SEAT Arona", "ja": "セアト・アロナ"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "基于Ibiza的小型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:seat:ateca",
+      "brand": "SEAT",
+      "names": {"en": "SEAT Ateca", "zh-CN": "西雅特Ateca", "zh-TW": "SEAT Ateca", "ja": "セアト・アテカ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "品牌首款SUV(与大众途观同平台)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:seat:tarraco",
+      "brand": "SEAT",
+      "names": {"en": "SEAT Tarraco", "zh-CN": "西雅特Tarraco", "zh-TW": "SEAT Tarraco", "ja": "セアト・タラコ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2024",
+      "note": "品牌旗舰中大型SUV(7座),2024年前后停产(西雅特品牌转型)",
+      "verified": "verified"
+    }
+  ]
+}

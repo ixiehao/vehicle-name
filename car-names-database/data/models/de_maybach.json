@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:maybach:57-62",
+      "brand": "Maybach",
+      "names": {"en": "Maybach 57/62", "zh-CN": "迈巴赫57/62", "zh-TW": "Maybach 57/62", "ja": "マイバッハ57/62"},
+      "segment": "class:eu:f",
+      "body_style": "body:limousine",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2013",
+      "note": "梅赛德斯-奔驰复兴迈巴赫品牌后的超豪华轿车(57/62/S Landaulet等),2013年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maybach:s-class",
+      "brand": "Maybach",
+      "names": {"en": "Mercedes-Maybach S-Class", "zh-CN": "迈巴赫S级", "zh-TW": "Maybach S-Class", "ja": "メルセデス・マイバッハSクラス"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "2014年起以「Mercedes-Maybach」子品牌运营,基于S级的超豪华版(S580/S680),含纯电EQS SUV迈巴赫版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:maybach:gls",
+      "brand": "Maybach",
+      "names": {"en": "Mercedes-Maybach GLS", "zh-CN": "迈巴赫GLS", "zh-TW": "Maybach GLS", "ja": "メルセデス・マイバッハGLS"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "基于奔驰GLS的超豪华SUV(2020年上市)",
+      "verified": "verified"
+    }
+  ]
+}

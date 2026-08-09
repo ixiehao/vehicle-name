@@ -1,0 +1,112 @@
+{
+  "models": [
+    {
+      "id": "model:bentley:continental-gt",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Continental GT", "zh-CN": "宾利欧陆GT", "zh-TW": "賓利Continental GT", "ja": "ベントレーコンチネンタルGT"},
+      "segment": "class:eu:f",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "豪华GT轿跑,2003年发布,现款为第四代(2024–);含Supersports等性能版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:continental-gtc",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Continental GTC", "zh-CN": "宾利欧陆GTC", "zh-TW": "賓利Continental GTC", "ja": "ベントレーコンチネンタルGTC"},
+      "segment": "class:eu:f",
+      "body_style": "body:convertible",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "Continental GT的敞篷版,2005年亮相、2006年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:flying-spur",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Flying Spur", "zh-CN": "宾利飞驰", "zh-TW": "賓利飛馳", "ja": "ベントレーフライングスパー"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "四门豪华轿车,最初名为Continental Flying Spur,2013年起更名为Flying Spur;现款为第三代(2019–)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:bentayga",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Bentayga", "zh-CN": "宾利添越", "zh-TW": "賓利Bentayga", "ja": "ベントレーベンテイガ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "品牌首款(超)豪华SUV,2015年发布、2016年交付;含插电混动版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:mulsanne",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Mulsanne", "zh-CN": "宾利慕尚", "zh-TW": "賓利Mulsanne", "ja": "ベントレーミュルザンヌ"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2020",
+      "note": "旗舰豪华轿车;名称源自1980–1992年的初代Mulsanne,2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:arnage",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Arnage", "zh-CN": "宾利雅致", "zh-TW": "賓利雅緻", "ja": "ベントレーアルナージ"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2009",
+      "note": "大众收购宾利后的首款大型豪华轿车,被Mulsanne取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:azure",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Azure", "zh-CN": "宾利雅骏(Azure)", "zh-TW": "賓利Azure", "ja": "ベントレーアズール"},
+      "segment": "class:eu:f",
+      "body_style": "body:convertible",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–2009",
+      "note": "豪华敞篷GT,分两代(1995–2003、2006–2009);大陆「雅骏」为媒体译名,非官方中文名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:turbo-r",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Turbo R", "zh-CN": "宾利Turbo R", "zh-TW": "賓利Turbo R", "ja": "ベントレーターボR"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985–1999",
+      "note": "基于Mulsanne的涡轮增压性能版,1980-90年代宾利运动形象的代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bentley:brooklands",
+      "brand": "Bentley",
+      "names": {"en": "Bentley Brooklands", "zh-CN": "宾利Brooklands", "zh-TW": "賓利Brooklands", "ja": "ベントレーブルックランズ"},
+      "segment": "class:eu:f",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2011",
+      "note": "基于Arnage的双门豪华GT轿跑,限量约550辆;大陆无官方中文名,媒体音译「布鲁克兰」",
+      "verified": "verified"
+    }
+  ]
+}

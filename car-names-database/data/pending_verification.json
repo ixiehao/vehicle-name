@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PV-05",
+    "item": "Genesis(台湾)",
+    "detail": "「捷恩斯」为媒体通行用法,未见总代理官方公告"
+  },
+  {
+    "id": "PV-11",
+    "item": "中国品牌(日本/台湾)",
+    "detail": "吉利、长城、蔚来、小鹏、理想、五菱、红旗的官方进入状态待复核"
+  },
+  {
+    "id": "PV-12",
+    "item": "BYD 汉/唐(台湾)",
+    "detail": "台湾导入状态待核实(2025年起比亚迪已进入台湾,首批以海洋系为主)"
+  },
+  {
+    "id": "PV-17",
+    "item": "model:byd:e2 (BYD)",
+    "detail": "紧凑型纯电两厢,主供出租/网约车;中国市场约2024–2025年退市,停产时间待核实"
+  },
+  {
+    "id": "PV-18",
+    "item": "model:byd:han (BYD)",
+    "detail": "王朝系列旗舰中大型轿车,EV/DM-i/DM-p多动力;海外市场沿用Han;台湾导入状态待核实"
+  },
+  {
+    "id": "PV-19",
+    "item": "model:byd:tang (BYD)",
+    "detail": "王朝系列中型SUV,DM-i/DM-p/EV多动力;初代2015–2018;海外名Tang(欧洲2025年起有改称Sealion 8的报道)"
+  },
+  {
+    "id": "PV-20",
+    "item": "model:byd:yuan-up (BYD)",
+    "detail": "小型纯电SUV;海外称Atto 2(2025年欧洲上市);日本导入状态待核实"
+  },
+  {
+    "id": "PV-21",
+    "item": "model:changan:benben-ev (Changan)",
+    "detail": "A00级纯电微型车(含奔奔E-Star衍生);已停产,停产时间待核实"
+  },
+  {
+    "id": "PV-22",
+    "item": "model:changan:cs95 (Changan)",
+    "detail": "中大型SUV(7座);现售状态待核实"
+  },
+  {
+    "id": "PV-25",
+    "item": "model:chery:fulwin-a9 (Chery)",
+    "detail": "风云(Fulwin)系列中大型轿车,纯电/增程;上市时间以官方为准"
+  },
+  {
+    "id": "PV-29",
+    "item": "model:faw:besturn-x40 (FAW)",
+    "detail": "奔腾(Besturn)子品牌小型SUV;停产年份待核实(约2020–2021)"
+  },
+  {
+    "id": "PV-30",
+    "item": "model:faw:junpai-d60 (FAW)",
+    "detail": "骏派(Junpai)子品牌(一汽天津)小型SUV;停产年份待核实(约2019)"
+  },
+  {
+    "id": "PV-34",
+    "item": "model:hongqi:h7 (Hongqi)",
+    "detail": "红旗品牌复兴首款战略车型(2013年上市);第二代上市时间待核实(约2024–2025)"
+  },
+  {
+    "id": "PV-37",
+    "item": "model:infiniti:qx65 (Infiniti)",
+    "detail": "QX60 的轿跑 SUV 版本,2026 年新发布(待核实上市详情)"
+  },
+  {
+    "id": "PV-43",
+    "item": "model:polestar:polestar-5 (Polestar)",
+    "detail": "纯电大型GT轿车,2025年发布;量产交付进度待核实"
+  },
+  {
+    "id": "PV-44",
+    "item": "model:roewe:ei5 (Roewe)",
+    "detail": "紧凑型纯电旅行车(出租/网约车常见);现售状态待核实"
+  }
+]

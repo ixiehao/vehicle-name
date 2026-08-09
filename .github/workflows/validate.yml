@@ -1,0 +1,30 @@
+name: validate
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate data integrity
+        run: python3 scripts/validate.py
+
+      - name: Ensure dist/ is in sync with data/
+        run: |
+          python3 scripts/build.py
+          git diff --exit-code -- dist/ \
+            || { echo "::error::dist/ 与 data/ 不同步,请先运行 python3 scripts/build.py 并提交 dist/ 产物"; exit 1; }

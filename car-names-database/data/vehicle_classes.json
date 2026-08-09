@@ -1,0 +1,82 @@
+{
+  "cn_segments": [
+    {"id": "class:cn:a00", "level": "A00", "en": "Microcar / City Car", "zh-CN": "微型车(A00级)", "zh-TW": "微型車", "ja": "マイクロカー", "standard": "轴距约2.0-2.3m,车长<4m,排量≤1.0L", "examples": "五菱宏光MINIEV、奇瑞QQ、铃木奥拓", "note": "行业惯例,非强制国标;源自大众内部代号"},
+    {"id": "class:cn:a0", "level": "A0", "en": "Subcompact / Supermini", "zh-CN": "小型车(A0级)", "zh-TW": "小型車", "ja": "スーパーミニ/コンパクト", "standard": "轴距约2.3-2.5m,车长3.7-4.3m,排量1.0-1.5L", "examples": "大众POLO、本田飞度、丰田威驰", "note": ""},
+    {"id": "class:cn:a", "level": "A", "en": "Compact", "zh-CN": "紧凑型车(A级)", "zh-TW": "緊湊型車", "ja": "コンパクトカー", "standard": "轴距约2.5-2.7m,车长4.2-4.6m,排量1.3-2.0L", "examples": "丰田卡罗拉、大众朗逸、日产轩逸", "note": ""},
+    {"id": "class:cn:b", "level": "B", "en": "Mid-size", "zh-CN": "中型车(B级)", "zh-TW": "中型車", "ja": "ミッドサイズ", "standard": "轴距约2.7-2.9m,车长4.5-4.9m,排量1.8-2.5L", "examples": "丰田凯美瑞、大众帕萨特、本田雅阁", "note": ""},
+    {"id": "class:cn:c", "level": "C", "en": "Upper-mid / Executive", "zh-CN": "中大型车(C级)", "zh-TW": "中大型車", "ja": "アッパーミッド", "standard": "轴距约2.8-3.1m,车长4.8-5.05m,排量2.0-3.0L", "examples": "奥迪A6L、宝马5系、奔驰E级", "note": ""},
+    {"id": "class:cn:d", "level": "D", "en": "Large / Full-size", "zh-CN": "大型豪华车(D级)", "zh-TW": "大型豪華車", "ja": "フルサイズ/ラグジュアリー", "standard": "轴距>3.0m,车长>5.0m,排量>3.0L", "examples": "奔驰S级、宝马7系、奥迪A8", "note": "新能源车沿用同尺寸口径(如比亚迪海豚=A0)"}
+  ],
+  "cn_gbt": [
+    {"id": "class:cn:saloon", "en": "Saloon", "zh-CN": "普通乘用车", "zh-TW": "普通乘用車", "ja": "セダン", "note": "三厢轿车:封闭车身、≥4门、≥4侧窗"},
+    {"id": "class:cn:convertible-saloon", "en": "Convertible Saloon", "zh-CN": "活顶乘用车", "zh-TW": "活頂乘用車", "ja": "カブリオレ(セダン型)", "note": "可开启顶盖、保留侧窗"},
+    {"id": "class:cn:pullman", "en": "Pullman Saloon", "zh-CN": "高级乘用车", "zh-TW": "高級乘用車", "ja": "プルマンサルーン", "note": "礼宾级,通常≥6侧窗"},
+    {"id": "class:cn:small-saloon", "en": "Small Saloon", "zh-CN": "小型乘用车", "zh-TW": "小型乘用車", "ja": "スモールセダン", "note": "车长≤4m"},
+    {"id": "class:cn:convertible", "en": "Convertible", "zh-CN": "敞篷车", "zh-TW": "敞篷車", "ja": "オープンカー/コンバーチブル", "note": "可折叠/可拆卸顶篷"},
+    {"id": "class:cn:hatchback", "en": "Hatchback", "zh-CN": "仓背乘用车", "zh-TW": "倉背乘用車", "ja": "ハッチバック", "note": "两厢车,尾部整体上掀"},
+    {"id": "class:cn:wagon", "en": "Station Wagon", "zh-CN": "旅行车", "zh-TW": "旅行車", "ja": "ステーションワゴン", "note": "车顶向后延伸"},
+    {"id": "class:cn:mpv", "en": "Multi-purpose Vehicle", "zh-CN": "多用途乘用车", "zh-TW": "多用途乘用車", "ja": "ミニバン/MPV", "note": "即 MPV,7座以上混合用途"},
+    {"id": "class:cn:short-base", "en": "Short-base Saloon", "zh-CN": "短头乘用车", "zh-TW": "短頭乘用車", "ja": "ショートノーズ", "note": "发动机舱短于车室一半"},
+    {"id": "class:cn:offroad", "en": "Off-road Passenger Car", "zh-CN": "越野乘用车", "zh-TW": "越野乘用車", "ja": "オフロード車", "note": "非公路设计、四驱(即SUV/越野车)"},
+    {"id": "class:cn:special", "en": "Special Purpose Passenger Car", "zh-CN": "专用乘用车", "zh-TW": "專用乘用車", "ja": "特種乘用車", "note": "旅居车、救护车等"},
+    {"id": "class:cn:m1", "en": "M1 (GB/T 15089)", "zh-CN": "M1类(≤9座乘用车)", "zh-TW": "M1類", "ja": "M1クラス", "note": "对应UNECE体系,工信部准入实际使用的分类"}
+  ],
+  "eu_segments": [
+    {"id": "class:eu:a", "segment": "A", "en": "A-segment / Mini cars", "zh-CN": "微型车/城市车", "zh-TW": "微型車/城市車", "ja": "Aセグメント(シティカー)", "length": "约2.7-3.7m", "examples": "Fiat 500、丰田Aygo、大众up!"},
+    {"id": "class:eu:b", "segment": "B", "en": "B-segment / Superminis", "zh-CN": "小型车", "zh-TW": "小型車", "ja": "Bセグメント(スーパーミニ)", "length": "约3.8-4.2m", "examples": "大众Polo、福特Fiesta、本田Jazz"},
+    {"id": "class:eu:c", "segment": "C", "en": "C-segment / Small family", "zh-CN": "紧凑型/家用车", "zh-TW": "緊湊型/家庭用車", "ja": "Cセグメント(コンパクト)", "length": "约4.2-4.6m", "examples": "大众Golf、丰田Corolla、福特Focus"},
+    {"id": "class:eu:d", "segment": "D", "en": "D-segment / Large family", "zh-CN": "中型车", "zh-TW": "中型車", "ja": "Dセグメント(ミドル)", "length": "约4.6-4.9m", "examples": "大众Passat、丰田Camry、宝马3系"},
+    {"id": "class:eu:e", "segment": "E", "en": "E-segment / Executive", "zh-CN": "行政级", "zh-TW": "行政級", "ja": "Eセグメント(エグゼクティブ)", "length": "约4.8-5.0m", "examples": "宝马5系、奔驰E级、奥迪A6"},
+    {"id": "class:eu:f", "segment": "F", "en": "F-segment / Luxury", "zh-CN": "豪华车", "zh-TW": "豪華車", "ja": "Fセグメント(ラグジュアリー)", "length": ">5.0m", "examples": "奔驰S级、宝马7系、奥迪A8、宾利"},
+    {"id": "class:eu:j", "segment": "J", "en": "J-segment / Sport utility", "zh-CN": "运动型多用途车(SUV)", "zh-TW": "運動型多用途車", "ja": "Jセグメント(SUV)", "length": "", "examples": "SUV与越野车"},
+    {"id": "class:eu:m", "segment": "M", "en": "M-segment / Multi-purpose", "zh-CN": "多用途车(MPV)", "zh-TW": "多用途車", "ja": "Mセグメント(MPV)", "length": "", "examples": "厢式多功能车"},
+    {"id": "class:eu:s", "segment": "S", "en": "S-segment / Sports cars", "zh-CN": "跑车", "zh-TW": "跑車", "ja": "Sセグメント(スポーツカー)", "length": "", "examples": "轿跑/跑车"}
+  ],
+  "jp_categories": [
+    {"id": "class:jp:kei", "en": "Kei car / Light motor vehicle", "zh-CN": "轻自动车(K-car)", "zh-TW": "輕自動車", "ja": "軽自動車", "standard": "全长≤3,400mm;全宽≤1,480mm;全高≤2,000mm;排量≤660cc;定员≤4;载货≤350kg", "plate": "黄底黑字(家用)", "note": "历史:360cc(1949)→550cc(1976)→660cc(1990);1998年后取消功率上限;属届出车免车库证明"},
+    {"id": "class:jp:microcar", "en": "Microcar (≤49cc)", "zh-CN": "超微型车", "zh-TW": "微型車", "ja": "ミニカー", "standard": "排量≤49cc", "plate": "淡蓝色", "note": ""},
+    {"id": "class:jp:small", "en": "Small-size motor vehicle", "zh-CN": "小型自动车", "zh-TW": "小型自動車", "ja": "小型自動車", "standard": "全长≤4,700mm;全宽≤1,700mm;全高≤2,000mm;排量≤2,000cc", "plate": "白底绿字(5ナンバー)", "note": "登记车,需车检"},
+    {"id": "class:jp:normal", "en": "Normal-size motor vehicle", "zh-CN": "普通自动车", "zh-TW": "普通自動車", "ja": "普通自動車", "standard": "超出小型自动车任一上限;乘用车私用另限全长≤6m、宽≤2m", "plate": "白底绿字(3ナンバー)", "note": ""}
+  ],
+  "us_epa": [
+    {"id": "class:us:minicompact", "en": "Minicompact", "zh-CN": "超小型", "zh-TW": "超小型", "ja": "ミニコンパクト", "standard": "内部容积<85 ft³(约2,405L)"},
+    {"id": "class:us:subcompact", "en": "Subcompact", "zh-CN": "小型", "zh-TW": "小型", "ja": "サブコンパクト", "standard": "85-99.9 ft³(2,405-2,830L)"},
+    {"id": "class:us:compact", "en": "Compact", "zh-CN": "紧凑型", "zh-TW": "緊湊型", "ja": "コンパクト", "standard": "100-109.9 ft³(2,830-3,110L)"},
+    {"id": "class:us:midsize", "en": "Mid-size", "zh-CN": "中型", "zh-TW": "中型", "ja": "ミッドサイズ", "standard": "110-119.9 ft³(3,115-3,395L)"},
+    {"id": "class:us:large", "en": "Large / Full-size", "zh-CN": "大型/全尺寸", "zh-TW": "大型/全尺寸", "ja": "ラージ(フルサイズ)", "standard": "≥120 ft³(3,400L)"},
+    {"id": "class:us:two-seater", "en": "Two-seater", "zh-CN": "双座车", "zh-TW": "雙座車", "ja": "ツーシーター", "standard": "仅设2座"},
+    {"id": "class:us:minivan", "en": "Minivan", "zh-CN": "多功能休旅车", "zh-TW": "多功能休旅車", "ja": "ミニバン", "standard": "GVWR<8,500 lb"},
+    {"id": "class:us:small-suv", "en": "Small SUV", "zh-CN": "小型SUV", "zh-TW": "小型SUV", "ja": "小型SUV", "standard": "GVWR<6,000 lb"},
+    {"id": "class:us:standard-suv", "en": "Standard SUV", "zh-CN": "标准/大型SUV", "zh-TW": "標準/大型SUV", "ja": "標準SUV", "standard": "GVWR 6,000-10,000 lb"},
+    {"id": "class:us:pickup", "en": "Pickup truck", "zh-CN": "皮卡", "zh-TW": "皮卡/貨卡", "ja": "ピックアップトラック", "standard": "GVWR<6,000 lb(小型)/6,000-8,500 lb(标准)"}
+  ],
+  "body_styles": [
+    {"id": "body:sedan", "en": "Sedan / Saloon", "zh-CN": "轿车(三厢)", "zh-TW": "轎車/房車", "ja": "セダン", "note": "独立后备厢"},
+    {"id": "body:hatchback", "en": "Hatchback", "zh-CN": "掀背车/两厢车", "zh-TW": "掀背車/兩廂車", "ja": "ハッチバック", "note": "尾门一体上掀"},
+    {"id": "body:wagon", "en": "Station Wagon / Estate", "zh-CN": "旅行车", "zh-TW": "旅行車", "ja": "ステーションワゴン", "note": "车顶延伸至尾"},
+    {"id": "body:suv", "en": "SUV (Sport Utility Vehicle)", "zh-CN": "运动型多用途汽车", "zh-TW": "運動型多用途車/休旅車", "ja": "スポーツ用多目的車(SUV)", "note": "多功能/越野"},
+    {"id": "body:crossover", "en": "Crossover", "zh-CN": "跨界车", "zh-TW": "跨界休旅車", "ja": "クロスオーバー", "note": "轿车底盘SUV化"},
+    {"id": "body:mpv", "en": "MPV", "zh-CN": "多用途汽车/商务车", "zh-TW": "多用途車/廂式休旅車", "ja": "ミニバン/MPV", "note": "大空间多功能"},
+    {"id": "body:minivan", "en": "Minivan", "zh-CN": "家用MPV", "zh-TW": "廂型休旅車", "ja": "ミニバン", "note": "美式家用厢式车"},
+    {"id": "body:van", "en": "Van", "zh-CN": "厢式货车/面包车", "zh-TW": "廂型車/廂式貨車", "ja": "バン/ワンボックスカー", "note": "货运/多用途"},
+    {"id": "body:kei-truck", "en": "Kei Truck", "zh-CN": "轻卡", "zh-TW": "輕型貨車", "ja": "軽トラック", "note": "日本K-car货车"},
+    {"id": "body:coupe", "en": "Coupe", "zh-CN": "轿跑车", "zh-TW": "轎跑車", "ja": "クーペ", "note": "双门低车顶"},
+    {"id": "body:convertible", "en": "Convertible / Cabriolet", "zh-CN": "敞篷车", "zh-TW": "敞篷車", "ja": "オープンカー/コンバーチブル", "note": "可折叠顶篷"},
+    {"id": "body:roadster", "en": "Roadster", "zh-CN": "敞篷跑车(双座)", "zh-TW": "敞篷跑車", "ja": "ロードスター", "note": "双座软顶"},
+    {"id": "body:sports", "en": "Sports Car", "zh-CN": "跑车", "zh-TW": "跑車", "ja": "スポーツカー", "note": "运动化车型"},
+    {"id": "body:supercar", "en": "Supercar", "zh-CN": "超级跑车", "zh-TW": "超級跑車", "ja": "スーパーカー", "note": "顶级性能"},
+    {"id": "body:pickup", "en": "Pickup Truck", "zh-CN": "皮卡", "zh-TW": "皮卡/貨卡", "ja": "ピックアップトラック", "note": "货斗式"},
+    {"id": "body:limousine", "en": "Limousine", "zh-CN": "加长豪华轿车", "zh-TW": "禮車/加長型轎車", "ja": "リムジン", "note": "加长行政车"},
+    {"id": "body:rv", "en": "Motor Caravan / RV", "zh-CN": "旅居车/房车", "zh-TW": "露營車/房車", "ja": "キャンピングカー/モーターホーム", "note": "住宿型车辆"},
+    {"id": "body:city-car", "en": "City Car", "zh-CN": "城市微型车", "zh-TW": "城市微型車", "ja": "シティカー", "note": "A段城市代步车"},
+    {"id": "body:quadricycle", "en": "Quadricycle", "zh-CN": "四轮微型车", "zh-TW": "四輪微型車", "ja": "クワドリサイクル", "note": "欧盟L6/L7类"}
+  ],
+  "powertrain_types": [
+    {"id": "pt:hev", "en": "Hybrid Electric Vehicle", "zh-CN": "混合动力汽车", "zh-TW": "油電混合車", "ja": "ハイブリッド車", "abbr": "HEV", "note": "内燃机+电机,不可外接充电"},
+    {"id": "pt:phev", "en": "Plug-in Hybrid Electric Vehicle", "zh-CN": "插电式混合动力汽车", "zh-TW": "插電式油電混合車", "ja": "プラグイン・ハイブリッド車", "abbr": "PHEV", "note": "可外接充电"},
+    {"id": "pt:erev", "en": "Extended-Range Electric Vehicle", "zh-CN": "增程式电动汽车", "zh-TW": "增程式電動車", "ja": "レンジエクステンダー車", "abbr": "EREV", "note": "发动机仅发电"},
+    {"id": "pt:bev", "en": "Battery Electric Vehicle", "zh-CN": "纯电动汽车", "zh-TW": "純電動車", "ja": "純電気自動車", "abbr": "BEV", "note": "纯电驱动"},
+    {"id": "pt:fcev", "en": "Fuel Cell Electric Vehicle", "zh-CN": "燃料电池汽车", "zh-TW": "燃料電池電動車", "ja": "燃料電池自動車", "abbr": "FCEV/FCV", "note": "氢燃料电池"},
+    {"id": "pt:ice", "en": "Internal Combustion Engine", "zh-CN": "内燃机汽车", "zh-TW": "內燃機汽車", "ja": "内燃機関自動車", "abbr": "ICE", "note": "燃油车统称"}
+  ]
+}

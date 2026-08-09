@@ -1,0 +1,148 @@
+{
+  "models": [
+    {
+      "id": "model:lincoln:corsair",
+      "brand": "Lincoln",
+      "names": {"en": "Corsair", "zh-CN": "冒险家", "zh-TW": "Corsair", "ja": "コルセア"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "中国长安林肯国产「冒险家」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:nautilus",
+      "brand": "Lincoln",
+      "names": {"en": "Nautilus", "zh-CN": "航海家", "zh-TW": "Nautilus", "ja": "ノーチラス"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "中国版「航海家」;前身为MKX",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:aviator",
+      "brand": "Lincoln",
+      "names": {"en": "Aviator", "zh-CN": "飞行家", "zh-TW": "Aviator", "ja": "アビエーター"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "中国版「飞行家」(长安林肯国产);历史名号2003–2005",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:navigator",
+      "brand": "Lincoln",
+      "names": {"en": "Navigator", "zh-CN": "领航员", "zh-TW": "Navigator", "ja": "ナビゲーター"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1998–present",
+      "note": "全尺寸豪华SUV;大陆官方名「领航员」;日本市场2017年起停售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:continental",
+      "brand": "Lincoln",
+      "names": {"en": "Continental", "zh-CN": "大陆", "zh-TW": "Continental", "ja": "コンチネンタル"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1939–2002; 2017–2020",
+      "note": "2016年复活至2020年停产;曾为肯尼迪座驾",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:mkz",
+      "brand": "Lincoln",
+      "names": {"en": "MKZ", "zh-CN": "MKZ", "zh-TW": "MKZ", "ja": "MKZ"},
+      "segment": "class:us:midsize",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2020",
+      "note": "前身为Zephyr(2006–2012);2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:mks",
+      "brand": "Lincoln",
+      "names": {"en": "MKS", "zh-CN": "MKS", "zh-TW": "MKS", "ja": "MKS"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2016",
+      "note": "全尺寸轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:mkt",
+      "brand": "Lincoln",
+      "names": {"en": "MKT", "zh-CN": "MKT", "zh-TW": "MKT", "ja": "MKT"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2019",
+      "note": "三排座全尺寸CUV,常作礼宾车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:mkx",
+      "brand": "Lincoln",
+      "names": {"en": "MKX", "zh-CN": "MKX", "zh-TW": "MKX", "ja": "MKX"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2018",
+      "note": "2019年更名Nautilus",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:town-car",
+      "brand": "Lincoln",
+      "names": {"en": "Town Car", "zh-CN": "城市", "zh-TW": "Town Car", "ja": "タウンカー"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–2011",
+      "note": "北美礼宾/出租车经典",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:zephyr",
+      "brand": "Lincoln",
+      "names": {"en": "Zephyr", "zh-CN": "Zephyr", "zh-TW": "Zephyr", "ja": "ゼファー"},
+      "segment": "class:us:midsize",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2012",
+      "note": "MKZ前身;初代Zephyr为1936–1942",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lincoln:z",
+      "brand": "Lincoln",
+      "names": {"en": "Lincoln Z", "zh-CN": "林肯Z", "zh-TW": "林肯Z(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中国市场专属中型轿车,2022年3月上市;量产英文名Lincoln Z(概念阶段称Zephyr),2024年起增混动版;台湾未导入",
+      "verified": "verified"
+    }
+  ]
+}

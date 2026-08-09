@@ -1,0 +1,599 @@
+{
+  "models": [
+    {
+      "id": "model:mitsubishi:outlander",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Outlander",
+        "zh-CN": "欧蓝德",
+        "zh-TW": "Outlander",
+        "ja": "アウトランダー"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2001–present",
+      "note": "紧凑型SUV;日本初代称Airtrek(エアトレック),2003年起用Outlander名;现款提供PHEV,大陆广汽三菱生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:delica-d5",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Delica D:5",
+        "zh-CN": "得利卡D:5",
+        "zh-TW": "Delica",
+        "ja": "デリカD:5"
+      },
+      "segment": "class:eu:m",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "四驱MPV,日本市场;Delica车系自1968年起,大陆早期译名得利卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:eclipse-cross",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Eclipse Cross",
+        "zh-CN": "奕歌",
+        "zh-TW": "Eclipse Cross",
+        "ja": "エクリプスクロス"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2017–present",
+      "note": "紧凑型跨界SUV;大陆官方名奕歌(广汽三菱),提供PHEV版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:asx",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "ASX / RVR / Outlander Sport",
+        "zh-CN": "劲炫ASX",
+        "zh-TW": "ASX",
+        "ja": "RVR"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "小型跨界SUV;日本名RVR,北美称Outlander Sport,欧洲/亚洲称ASX(大陆名劲炫);欧洲2022年款改为雷诺Captur贴牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:mirage",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Mirage / Space Star",
+        "zh-CN": "Mirage",
+        "zh-TW": "Mirage",
+        "ja": "ミラージュ"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "小型车;1978年Mirage名首发,现款为2012年复活的第六代;欧洲称Space Star,另有三厢版Mirage G4/Attrage",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:pajero-sport",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Pajero Sport",
+        "zh-CN": "帕杰罗·劲畅",
+        "zh-TW": "Pajero Sport",
+        "ja": "パジェロスポーツ"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1996–present",
+      "note": "基于Triton皮卡的越野SUV;北美/西语市场称Montero Sport,英国称Shogun Sport",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:delica-mini",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Delica Mini",
+        "zh-CN": "Delica Mini",
+        "zh-TW": "Delica Mini",
+        "ja": "デリカミニ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "K-car MPV,滑门,eK X Space的后继",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:ek-wagon",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "eK Wagon",
+        "zh-CN": "eK Wagon",
+        "zh-TW": "eK Wagon",
+        "ja": "eKワゴン"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "K-car,与日产经NMKV共同开发;跨界版称eK X,纯电版eK X EV(2022-)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:ek-space",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "eK Space",
+        "zh-CN": "eK Space",
+        "zh-TW": "eK Space",
+        "ja": "eKスペース"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "K-car MPV,滑门,与日产经NMKV共同开发",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:xpander",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Xpander",
+        "zh-CN": "Xpander",
+        "zh-TW": "Xpander",
+        "ja": "エクスパンダー"
+      },
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "三排座MPV,印尼/东南亚及新兴市场;跨界版Xpander Cross(2019-)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:triton",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Triton / L200",
+        "zh-CN": "Triton",
+        "zh-TW": "Triton",
+        "ja": "トライトン"
+      },
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1978–present",
+      "note": "中型皮卡;1978年L200名首发,东南亚/欧洲称L200,南美称Strada",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:minicab",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Minicab",
+        "zh-CN": "Minicab",
+        "zh-TW": "Minicab",
+        "ja": "ミニキャブ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:kei-truck",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1966–present",
+      "note": "K-car轻卡/厢式车;现为铃木Carry/Every贴牌,另有纯电版Minicab EV(印尼称L100)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:lancer",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Lancer",
+        "zh-CN": "蓝瑟",
+        "zh-TW": "Lancer",
+        "ja": "ランサー"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–2019",
+      "note": "紧凑型轿车;大陆由东南汽车合资生产菱帅/蓝瑟,台湾名Lancer Fortis/Grand Lancer;2017年后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:lancer-evolution",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Lancer Evolution",
+        "zh-CN": "EVO(蓝瑟EVO)",
+        "zh-TW": "Lancer Evolution",
+        "ja": "ランサーエボリューション"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2016",
+      "note": "WRC冠军血统的高性能四驱轿车,共十代,俗称EVO;2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:galant",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Galant",
+        "zh-CN": "戈蓝",
+        "zh-TW": "Galant",
+        "ja": "ギャラン"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1969–2012",
+      "note": "中型轿车;大陆由东南汽车生产戈蓝;澳洲版称380(2005-2008)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:pajero",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Pajero",
+        "zh-CN": "帕杰罗",
+        "zh-TW": "Pajero",
+        "ja": "パジェロ"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–2021",
+      "note": "经典越野车(1981年首发,1982年量产);北美/西语市场称Montero,俗称山猫;2021年停产,官方宣布将基于新一代Triton复活",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:i-miev",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "i-MiEV",
+        "zh-CN": "i-MiEV",
+        "zh-TW": "i-MiEV",
+        "ja": "i-MiEV(アイ・ミーブ)"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2009–2021",
+      "note": "世界首款量产纯电动车之一,基于轻自动车i;海外称Mitsubishi i-MiEV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:colt",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Colt",
+        "zh-CN": "Colt",
+        "zh-TW": "Colt",
+        "ja": "コルト"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–2014",
+      "note": "小型车(1978-2002为Mirage/Lancer贴牌,2002-2014独立车型);2023-2025年欧洲短暂复活(雷诺Clio贴牌),2025年再度停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:eclipse",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Eclipse",
+        "zh-CN": "Eclipse",
+        "zh-TW": "Eclipse",
+        "ja": "エクリプス"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–2011",
+      "note": "北美市场轿跑,四代车型;车名2017年用于跨界SUV Eclipse Cross",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:3000gt",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "3000GT",
+        "zh-CN": "3000GT",
+        "zh-TW": "3000GT",
+        "ja": "GTO"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–1999",
+      "note": "旗舰跑车;日本市场名GTO,北美3000GT,与道奇Stealth为姊妹车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:fto",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "FTO",
+        "zh-CN": "FTO",
+        "zh-TW": "FTO",
+        "ja": "FTO(エフティーオー)"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1993–1998",
+      "note": "前驱轿跑,日本市场,1994年日本年度车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:starion",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Starion",
+        "zh-CN": "Starion",
+        "zh-TW": "Starion",
+        "ja": "スタリオン"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982–1989",
+      "note": "1980年代涡轮增压轿跑;北美称Starion/Conquest(克莱斯勒贴牌)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:diamante",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Diamante",
+        "zh-CN": "Diamante",
+        "zh-TW": "Diamante",
+        "ja": "ディアマンテ"
+      },
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2005",
+      "note": "旗舰轿车;澳洲版称Magna/Verada",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:proudia",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Proudia",
+        "zh-CN": "Proudia",
+        "zh-TW": "Proudia",
+        "ja": "プロウディア"
+      },
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2016",
+      "note": "豪华轿车;第一代(1999-2001)基于现代Equus,第二代(2012-2016)为日产Fuga贴牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:dignity",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Dignity",
+        "zh-CN": "Dignity",
+        "zh-TW": "Dignity",
+        "ja": "ディグニティ"
+      },
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2016",
+      "note": "超豪华轿车;第一代(1999-2001)基于现代Grandeur,第二代(2012-2016)为日产Cima贴牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:minica",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Minica",
+        "zh-CN": "Minica",
+        "zh-TW": "Minica",
+        "ja": "ミニカ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–2011",
+      "note": "三菱最长寿K-car车系之一(6代);官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:360",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "360",
+        "zh-CN": "—",
+        "zh-TW": "360",
+        "ja": "三菱360"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962–1970",
+      "note": "三菱首款轿车,轻自动车规格;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:debonair",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Debonair",
+        "zh-CN": "迪宝尼(未引入)",
+        "zh-TW": "Debonair",
+        "ja": "デボネア"
+      },
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1999",
+      "note": "三菱旗舰豪华轿车(3代);官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:sigma",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Sigma",
+        "zh-CN": "—",
+        "zh-TW": "Sigma",
+        "ja": "シグマ"
+      },
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1996",
+      "note": "中大型轿车,Galant平台高级版;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:dingo",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Dingo",
+        "zh-CN": "—",
+        "zh-TW": "Dingo",
+        "ja": "ディンゴ"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2003",
+      "note": "小型滑门MPV;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:pajero-mini",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Pajero Mini",
+        "zh-CN": "帕杰罗迷你",
+        "zh-TW": "Pajero Mini",
+        "ja": "パジェロミニ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2012",
+      "note": "K-car越野车,源自Minica平台;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:pajero-io",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Pajero iO",
+        "zh-CN": "帕杰罗IO",
+        "zh-TW": "Pajero iO",
+        "ja": "パジェロイオ"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2008",
+      "note": "小型越野SUV,海外名Montero iO;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:toppo",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Toppo",
+        "zh-CN": "—",
+        "zh-TW": "Toppo",
+        "ja": "トッポ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2004",
+      "note": "高顶K-car厢式车;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:i",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "i",
+        "zh-CN": "三菱i",
+        "zh-TW": "i",
+        "ja": "三菱i(アイ)"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2013",
+      "note": "后中置引擎K-car,i-MiEV前身;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:rvr",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "RVR",
+        "zh-CN": "—",
+        "zh-TW": "RVR",
+        "ja": "RVR(アールブイアール)"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–2002",
+      "note": "小型SUV,1991年首发;2010年起海外RVR指ASX;官方历史资料库收录",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:smart:fortwo",
+      "brand": "Smart",
+      "names": {"en": "fortwo", "zh-CN": "smart fortwo", "zh-TW": "smart fortwo", "ja": "スマート・フォーツー"},
+      "segment": "class:eu:a",
+      "body_style": "body:city-car",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2024",
+      "note": "Smart品牌标志性双座微型车;初代称City-Coupé;日本市场另有K-car规格版smart K;2018年起仅售纯电版(smart EQ fortwo),2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:smart:forfour",
+      "brand": "Smart",
+      "names": {"en": "forfour", "zh-CN": "smart forfour", "zh-TW": "smart forfour", "ja": "スマート・フォーフォー"},
+      "segment": "class:eu:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2021",
+      "note": "四门四座版;第一代2004–2006,第二代2014–2021(与雷诺Twingo同平台),EQ纯电版2019–2021",
+      "verified": "verified"
+    },
+    {
+      "id": "model:smart:hashtag-1",
+      "brand": "Smart",
+      "names": {"en": "#1", "zh-CN": "smart精灵#1", "zh-TW": "smart #1", "ja": "スマート#1"},
+      "segment": "class:eu:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "与吉利合资后的首款纯电紧凑型SUV,中国浙江生产并出口全球;官方中文名「smart精灵#1」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:smart:hashtag-3",
+      "brand": "Smart",
+      "names": {"en": "#3", "zh-CN": "smart精灵#3", "zh-TW": "smart #3", "ja": "スマート#3"},
+      "segment": "class:eu:c",
+      "body_style": "body:coupe",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "#1的轿跑SUV版,官方中文名「smart精灵#3」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:smart:hashtag-5",
+      "brand": "Smart",
+      "names": {"en": "#5", "zh-CN": "smart精灵#5", "zh-TW": "smart #5", "ja": "スマート#5"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "smart精灵系列第三款(继#1/#3),中型纯电SUV(车长4.7米级,800V平台),2024年10月中国上市;含BRABUS性能版,2025年海外上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:smart:roadster",
+      "brand": "Smart",
+      "names": {"en": "Roadster", "zh-CN": "smart Roadster", "zh-TW": "smart Roadster", "ja": "スマート・ロードスター"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2007",
+      "note": "中置后驱双座小跑车,销量不佳未出第二代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:smart:crossblade",
+      "brand": "Smart",
+      "names": {"en": "Crossblade", "zh-CN": "Crossblade", "zh-TW": "Crossblade", "ja": "スマート・クロスブレード"},
+      "segment": "class:eu:a",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2002",
+      "note": "基于fortwo的无风挡/无车门限量版,全球仅2000台",
+      "verified": "verified"
+    }
+  ]
+}

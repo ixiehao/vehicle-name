@@ -1,0 +1,76 @@
+{
+  "models": [
+    {
+      "id": "model:neta:v",
+      "brand": "Neta",
+      "names": {"en": "Neta V", "zh-CN": "哪吒V", "zh-TW": "Neta V(未导入)", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "入门纯电小型SUV(2020年上市,海外亦销售)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:neta:aya",
+      "brand": "Neta",
+      "names": {"en": "Neta AYA", "zh-CN": "哪吒AYA", "zh-TW": "Neta AYA(未导入)", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "哪吒V改款车型(2023年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:neta:x",
+      "brand": "Neta",
+      "names": {"en": "Neta X", "zh-CN": "哪吒X", "zh-TW": "Neta X(未导入)", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "「云河平台」首款车型,紧凑型纯电SUV(2023年上市,哪吒U继任)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:neta:s",
+      "brand": "Neta",
+      "names": {"en": "Neta S", "zh-CN": "哪吒S", "zh-TW": "Neta S(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中大型纯电轿跑(2022年上市,纯电/增程)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:neta:gt",
+      "brand": "Neta",
+      "names": {"en": "Neta GT", "zh-CN": "哪吒GT", "zh-TW": "Neta GT(未导入)", "ja": "—"},
+      "segment": "class:eu:s",
+      "body_style": "body:sports",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "国产纯电双门跑车(2023年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:neta:l",
+      "brand": "Neta",
+      "names": {"en": "Neta L", "zh-CN": "哪吒L", "zh-TW": "Neta L(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "中大型家用SUV(2024年上市,增程/纯电)",
+      "verified": "verified"
+    }
+  ]
+}

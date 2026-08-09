@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "model:isuzu:d-max",
+      "brand": "Isuzu",
+      "names": {"en": "D-MAX", "zh-CN": "D-MAX", "zh-TW": "D-MAX", "ja": "D-MAX(ディーマックス)"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002-present",
+      "note": "中型皮卡,全球销售;大陆由江西五十铃生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:mu-x",
+      "brand": "Isuzu",
+      "names": {"en": "MU-X", "zh-CN": "牧游侠(MU-X)", "zh-TW": "MU-X", "ja": "MU-X(エムユーエックス)"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013-present",
+      "note": "基于D-MAX的非承载式SUV;大陆江西五十铃名「牧游侠」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:trooper",
+      "brand": "Isuzu",
+      "names": {"en": "Trooper", "zh-CN": "竞技者(庆铃)", "zh-TW": "Trooper", "ja": "ビッグホーン"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981-2002",
+      "note": "非承载式大型SUV;日本名Bighorn(ビッグホーン);大陆重庆庆铃曾组装「竞技者」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:gemini",
+      "brand": "Isuzu",
+      "names": {"en": "Gemini", "zh-CN": "—", "zh-TW": "—", "ja": "ジェミニ"},
+      "segment": "class:eu:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974-2000",
+      "note": "紧凑轿车;澳洲称Holden Gemini;日本Piazza/北美Impulse二代与其同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:aska",
+      "brand": "Isuzu",
+      "names": {"en": "Aska", "zh-CN": "—", "zh-TW": "—", "ja": "アスカ"},
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983-2002",
+      "note": "中型轿车;先后基于GM J-car/斯巴鲁Legacy/本田Accord平台;2002年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:impulse",
+      "brand": "Isuzu",
+      "names": {"en": "Impulse", "zh-CN": "—", "zh-TW": "—", "ja": "ピアッツァ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981-1993",
+      "note": "运动轿跑(liftback);日本名Piazza(ピアッツァ),北美称Impulse",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:117-coupe",
+      "brand": "Isuzu",
+      "names": {"en": "117 Coupe", "zh-CN": "—", "zh-TW": "—", "ja": "117クーペ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968-1981",
+      "note": "经典GT轿跑(Giorgetto Giugiaro设计);1981年由Piazza接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:elf",
+      "brand": "Isuzu",
+      "names": {"en": "Elf", "zh-CN": "—", "zh-TW": "—", "ja": "エルフ"},
+      "segment": "class:jp:normal",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1959-present",
+      "note": "轻型卡车(平头轻卡);现行款为马自达Titan贴牌(2017起)",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:polestar:polestar-1",
+      "brand": "Polestar",
+      "names": {"en": "Polestar 1", "zh-CN": "极星1", "zh-TW": "Polestar 1", "ja": "ポールスター1"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "极星首款车型,插混GT跑车,限产约1,500辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:polestar:polestar-2",
+      "brand": "Polestar",
+      "names": {"en": "Polestar 2", "zh-CN": "极星2", "zh-TW": "Polestar 2", "ja": "ポールスター2"},
+      "segment": "class:eu:d",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "纯电五门掀背轿车,基于CMA平台;2024年改款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:polestar:polestar-3",
+      "brand": "Polestar",
+      "names": {"en": "Polestar 3", "zh-CN": "极星3", "zh-TW": "Polestar 3", "ja": "ポールスター3"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "纯电中大型SUV,与沃尔沃EX90同平台(SPA2)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:polestar:polestar-4",
+      "brand": "Polestar",
+      "names": {"en": "Polestar 4", "zh-CN": "极星4", "zh-TW": "Polestar 4", "ja": "ポールスター4"},
+      "segment": "class:eu:c",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "纯电轿跑SUV,无后窗设计,基于SEA架构",
+      "verified": "verified"
+    },
+    {
+      "id": "model:polestar:polestar-5",
+      "brand": "Polestar",
+      "names": {"en": "Polestar 5", "zh-CN": "极星5", "zh-TW": "Polestar 5", "ja": "ポールスター5"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "纯电大型GT轿车,2025年发布;量产交付进度待核实",
+      "verified": "pending"
+    }
+  ]
+}

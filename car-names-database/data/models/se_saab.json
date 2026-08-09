@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:saab:900",
+      "brand": "Saab",
+      "names": {"en": "Saab 900", "zh-CN": "萨博900", "zh-TW": "紳寶900", "ja": "サーブ900"},
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1978–1998",
+      "note": "经典掀背轿车(1980-90年代),含900 Turbo/9000 Aero,1998年由9-3接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:saab:9000",
+      "brand": "Saab",
+      "names": {"en": "Saab 9000", "zh-CN": "萨博9000", "zh-TW": "紳寶9000", "ja": "サーブ9000"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1998",
+      "note": "Type Four平台旗舰轿车(与菲亚特Croma同源),1998年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:saab:9-3",
+      "brand": "Saab",
+      "names": {"en": "Saab 9-3", "zh-CN": "萨博9-3", "zh-TW": "紳寶9-3", "ja": "サーブ9-3"},
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2014",
+      "note": "品牌主力中型车,含SportCombi旅行版;2014年随品牌停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:saab:9-5",
+      "brand": "Saab",
+      "names": {"en": "Saab 9-5", "zh-CN": "萨博9-5", "zh-TW": "紳寶9-5", "ja": "サーブ9-5"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2012",
+      "note": "旗舰行政轿车,2012年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:saab:96",
+      "brand": "Saab",
+      "names": {"en": "Saab 96", "zh-CN": "萨博96", "zh-TW": "紳寶96", "ja": "サーブ96"},
+      "segment": "class:eu:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1960–1980",
+      "note": "前驱双冲程/四冲程V4经典车型,拉力赛场常胜军",
+      "verified": "verified"
+    }
+  ]
+}

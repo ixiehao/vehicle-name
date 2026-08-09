@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:alpine:a110",
+      "brand": "Alpine",
+      "names": {"en": "Alpine A110", "zh-CN": "阿尔派A110", "zh-TW": "Alpine A110", "ja": "アルピーヌA110"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "品牌2017年复兴后的中置后驱跑车(雷诺1.8T),含S/GT/R等版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:alpine:a310",
+      "brand": "Alpine",
+      "names": {"en": "Alpine A310", "zh-CN": "阿尔派A310", "zh-TW": "Alpine A310", "ja": "アルピーヌA310"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–1984",
+      "note": "A110继任的中置后驱轿跑(V6版A310 V6),1984年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:alpine:a290",
+      "brand": "Alpine",
+      "names": {"en": "Alpine A290", "zh-CN": "阿尔派A290", "zh-TW": "Alpine A290", "ja": "アルピーヌA290"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "品牌首款纯电车(基于雷诺5 E-Tech的钢炮版),2024年发布",
+      "verified": "verified"
+    }
+  ]
+}

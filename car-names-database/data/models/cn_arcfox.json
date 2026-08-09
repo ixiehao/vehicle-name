@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:arcfox:alpha-t",
+      "brand": "Arcfox",
+      "names": {"en": "Arcfox αT", "zh-CN": "极狐阿尔法T", "zh-TW": "Arcfox αT(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "极狐首款量产车(2020年上市,北汽蓝谷与麦格纳合资),中大型纯电SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:arcfox:alpha-s",
+      "brand": "Arcfox",
+      "names": {"en": "Arcfox αS", "zh-CN": "极狐阿尔法S", "zh-TW": "Arcfox αS(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "中大型纯电轿车(2021年上市,含华为HI版/Hi先行版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:arcfox:kaola",
+      "brand": "Arcfox",
+      "names": {"en": "Arcfox Kaola", "zh-CN": "极狐考拉", "zh-TW": "Arcfox Kaola(未导入)", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "「亲子车」定位纯电MPV(2023年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:arcfox:alpha-s5",
+      "brand": "Arcfox",
+      "names": {"en": "Arcfox αS5", "zh-CN": "极狐阿尔法S5", "zh-TW": "Arcfox αS5(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "中型纯电轿跑(2024年上市)",
+      "verified": "verified"
+    }
+  ]
+}

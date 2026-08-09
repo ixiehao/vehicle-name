@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:proton:saga",
+      "brand": "Proton",
+      "names": {"en": "Proton Saga", "zh-CN": "宝腾Saga", "zh-TW": "Proton Saga", "ja": "プロトン・サガ"},
+      "segment": "class:eu:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1985–present",
+      "note": "马来西亚国民第一车(1985年上市,现售第四代2019);大陆未引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:proton:persona",
+      "brand": "Proton",
+      "names": {"en": "Proton Persona", "zh-CN": "宝腾Persona", "zh-TW": "Proton Persona", "ja": "プロトン・ペルソナ"},
+      "segment": "class:eu:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "紧凑型轿车(2016年第三代)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:proton:x70",
+      "brand": "Proton",
+      "names": {"en": "Proton X70", "zh-CN": "宝腾X70", "zh-TW": "Proton X70", "ja": "プロトンX70"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "吉利入股后首款车型(吉利博越贴牌),马来西亚市场热销",
+      "verified": "verified"
+    },
+    {
+      "id": "model:proton:x50",
+      "brand": "Proton",
+      "names": {"en": "Proton X50", "zh-CN": "宝腾X50", "zh-TW": "Proton X50", "ja": "プロトンX50"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "紧凑型SUV(吉利缤越贴牌)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:proton:s70",
+      "brand": "Proton",
+      "names": {"en": "Proton S70", "zh-CN": "宝腾S70", "zh-TW": "Proton S70", "ja": "プロトンS70"},
+      "segment": "class:eu:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "紧凑型轿车(吉利帝豪贴牌),2023年上市",
+      "verified": "verified"
+    }
+  ]
+}

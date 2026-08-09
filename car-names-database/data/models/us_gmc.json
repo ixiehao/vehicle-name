@@ -1,0 +1,76 @@
+{
+  "models": [
+    {
+      "id": "model:gmc:sierra",
+      "brand": "GMC",
+      "names": {"en": "Sierra", "zh-CN": "Sierra", "zh-TW": "Sierra(未導入)", "ja": "シエラ"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1988–present",
+      "note": "全尺寸皮卡(1500/2500/3500),与雪佛兰Silverado同平台;2024年起另售纯电Sierra EV;大陆未官方导入(平行进口为主)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gmc:yukon",
+      "brand": "GMC",
+      "names": {"en": "Yukon", "zh-CN": "育空", "zh-TW": "Yukon(未導入)", "ja": "ユーコン"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1992–present",
+      "note": "全尺寸SUV,与雪佛兰Tahoe同平台;2024年由通用道朗格以官方中文名「育空」引入中国,含Denali豪华版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gmc:terrain",
+      "brand": "GMC",
+      "names": {"en": "Terrain", "zh-CN": "Terrain", "zh-TW": "Terrain(未導入)", "ja": "テレイン"},
+      "segment": "class:us:small-suv",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "紧凑型SUV,与雪佛兰Equinox同平台;大陆未官方导入",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gmc:acadia",
+      "brand": "GMC",
+      "names": {"en": "Acadia", "zh-CN": "Acadia", "zh-TW": "Acadia(未導入)", "ja": "アカディア"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "中型三排座SUV,2024年第三代换代(与雪佛兰Traverse同平台);大陆未官方导入",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gmc:canyon",
+      "brand": "GMC",
+      "names": {"en": "Canyon", "zh-CN": "Canyon", "zh-TW": "Canyon(未導入)", "ja": "キャニオン"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "中型皮卡,与雪佛兰Colorado同平台(2023年第三代);大陆未官方导入",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gmc:hummer-ev",
+      "brand": "GMC",
+      "names": {"en": "Hummer EV", "zh-CN": "悍马EV", "zh-TW": "Hummer EV(未導入)", "ja": "ハマーEV"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "悍马以纯电形态复活(2021),皮卡与SUV双形态,基于通用奥特能平台;2024年由道朗格以「悍马EV」引入中国",
+      "verified": "verified"
+    }
+  ]
+}

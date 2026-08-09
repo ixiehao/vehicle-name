@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:hummer:h1",
+      "brand": "Hummer",
+      "names": {"en": "Hummer H1", "zh-CN": "悍马H1", "zh-TW": "Hummer H1", "ja": "ハマーH1"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2006",
+      "note": "军用悍马(HMMWV)民用版,2006年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hummer:h2",
+      "brand": "Hummer",
+      "names": {"en": "Hummer H2", "zh-CN": "悍马H2", "zh-TW": "Hummer H2", "ja": "ハマーH2"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2009",
+      "note": "基于雪佛兰Tahoe平台的民用全尺寸SUV,含皮卡版H2 SUT",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hummer:h3",
+      "brand": "Hummer",
+      "names": {"en": "Hummer H3", "zh-CN": "悍马H3", "zh-TW": "Hummer H3", "ja": "ハマーH3"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2010",
+      "note": "入门级中型SUV(与雪佛兰Colorado同平台),品牌2010年停产时的末代车型;纯电Hummer EV现归GMC品牌",
+      "verified": "verified"
+    }
+  ]
+}

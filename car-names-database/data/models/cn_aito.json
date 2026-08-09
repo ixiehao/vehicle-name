@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:aito:m5",
+      "brand": "AITO",
+      "names": {"en": "AITO M5", "zh-CN": "问界M5", "zh-TW": "AITO M5(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "华为智选车与赛力斯合作首款车型(2022年上市,增程/纯电,鸿蒙座舱)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aito:m7",
+      "brand": "AITO",
+      "names": {"en": "AITO M7", "zh-CN": "问界M7", "zh-TW": "AITO M7(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中大型6座增程SUV(2022年上市,2023年改款热销)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aito:m9",
+      "brand": "AITO",
+      "names": {"en": "AITO M9", "zh-CN": "问界M9", "zh-TW": "AITO M9(未导入)", "ja": "—"},
+      "segment": "class:cn:d",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "旗舰大型SUV(2023年上市,增程/纯电,华为全栈技术),2024年销量爆款",
+      "verified": "verified"
+    }
+  ]
+}

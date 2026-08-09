@@ -1,0 +1,112 @@
+{
+  "models": [
+    {
+      "id": "model:land-rover:range-rover",
+      "brand": "Land Rover",
+      "names": {"en": "Range Rover", "zh-CN": "揽胜", "zh-TW": "攬勝", "ja": "レンジローバー"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1970–present",
+      "note": "品牌旗舰豪华SUV;1970年首发,现款为第五代(L460,2022–);1970–1996年间款式常称 Range Rover Classic",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:range-rover-sport",
+      "brand": "Land Rover",
+      "names": {"en": "Range Rover Sport", "zh-CN": "揽胜运动版", "zh-TW": "攬勝運動版", "ja": "レンジローバースポーツ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "揽胜的运动化衍生车型,第三代(L461)2023年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:range-rover-evoque",
+      "brand": "Land Rover",
+      "names": {"en": "Range Rover Evoque", "zh-CN": "揽胜极光", "zh-TW": "攬勝極光", "ja": "レンジローバーイヴォーク"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "品牌首款紧凑型豪华SUV,第二代(L551)2019年起",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:range-rover-velar",
+      "brand": "Land Rover",
+      "names": {"en": "Range Rover Velar", "zh-CN": "揽胜星脉", "zh-TW": "攬勝星脈", "ja": "レンジローバーヴェラール"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "定位介于Evoque与Sport之间的中大型SUV,2017年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:defender",
+      "brand": "Land Rover",
+      "names": {"en": "Defender", "zh-CN": "卫士", "zh-TW": "衛士", "ja": "ディフェンダー"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1990–present",
+      "note": "前身为路虎Series系列(1948–1985);经典款1990–2016,2020年以全新承载式车身(L663)复活,提供90/110/130轴距版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:series",
+      "brand": "Land Rover",
+      "names": {"en": "Land Rover Series I/II/III", "zh-CN": "路虎系列I/II/III", "zh-TW": "Land Rover Series I/II/III", "ja": "ランドローバーシリーズ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1948–1985",
+      "note": "Defender的前身:1948年首发的初代路虎,历经Series I/II/III,1990年更名Defender",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:discovery",
+      "brand": "Land Rover",
+      "names": {"en": "Discovery", "zh-CN": "发现", "zh-TW": "發現", "ja": "ディスカバリー"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1989–present",
+      "note": "中大型家用SUV,2025年第五代(L462)燃油版停产后将转型电动车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:discovery-sport",
+      "brand": "Land Rover",
+      "names": {"en": "Discovery Sport", "zh-CN": "发现运动版", "zh-TW": "發現運動版", "ja": "ディスカバリースポーツ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "紧凑型SUV,2014年取代Freelander 2的位置",
+      "verified": "verified"
+    },
+    {
+      "id": "model:land-rover:freelander",
+      "brand": "Land Rover",
+      "names": {"en": "Freelander", "zh-CN": "神行者", "zh-TW": "神行者", "ja": "フリーランダー"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2015",
+      "note": "品牌首款紧凑型SUV,含Freelander 2(2006–2014),后被Discovery Sport取代",
+      "verified": "verified"
+    }
+  ]
+}

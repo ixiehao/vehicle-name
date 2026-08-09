@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:bugatti:veyron",
+      "brand": "Bugatti",
+      "names": {"en": "Bugatti Veyron", "zh-CN": "布加迪威航", "zh-TW": "Bugatti Veyron", "ja": "ブガッティ・ヴェイロン"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "大众集团时代首款超跑(8.0L W16四涡轮,407km/h);大陆官方译名「威航」(台湾沿用英文)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bugatti:chiron",
+      "brand": "Bugatti",
+      "names": {"en": "Bugatti Chiron", "zh-CN": "布加迪Chiron", "zh-TW": "Bugatti Chiron", "ja": "ブガッティ・シロン"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2024",
+      "note": "Veyron继任者(W16四涡轮,1500PS),限量500辆,2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bugatti:divo",
+      "brand": "Bugatti",
+      "names": {"en": "Bugatti Divo", "zh-CN": "布加迪Divo", "zh-TW": "Bugatti Divo", "ja": "ブガッティ・ディーヴォ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "Chiron赛道化限量版,限量40辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bugatti:mistral",
+      "brand": "Bugatti",
+      "names": {"en": "Bugatti Mistral", "zh-CN": "布加迪Mistral", "zh-TW": "Bugatti Mistral", "ja": "ブガッティ・ミストラル"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2022–2023",
+      "note": "品牌末代W16敞篷超跑(基于Chiron),限量99辆,2023年交付",
+      "verified": "verified"
+    },
+    {
+      "id": "model:bugatti:tourbillon",
+      "brand": "Bugatti",
+      "names": {"en": "Bugatti Tourbillon", "zh-CN": "布加迪Tourbillon", "zh-TW": "Bugatti Tourbillon", "ja": "ブガッティ・トゥールビヨン"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "Chiron继任者(全新自然吸气V16+三电机插混,约1800PS),2026年起交付",
+      "verified": "verified"
+    }
+  ]
+}

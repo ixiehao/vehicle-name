@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:perodua:myvi",
+      "brand": "Perodua",
+      "names": {"en": "Perodua Myvi", "zh-CN": "Perodua Myvi", "zh-TW": "Perodua Myvi", "ja": "ペロドゥア・マイヴィ"},
+      "segment": "class:eu:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "马来西亚国民神车(常年销量第一,第三代2021);大陆未引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:perodua:axia",
+      "brand": "Perodua",
+      "names": {"en": "Perodua Axia", "zh-CN": "Perodua Axia", "zh-TW": "Perodua Axia", "ja": "ペロドゥア・アクシア"},
+      "segment": "class:eu:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "入门微型车(基于大发Ayla),含Axia E EV纯电试制",
+      "verified": "verified"
+    },
+    {
+      "id": "model:perodua:bezza",
+      "brand": "Perodua",
+      "names": {"en": "Perodua Bezza", "zh-CN": "Perodua Bezza", "zh-TW": "Perodua Bezza", "ja": "ペロドゥア・ベザ"},
+      "segment": "class:eu:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "入门三厢轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:perodua:ativa",
+      "brand": "Perodua",
+      "names": {"en": "Perodua Ativa", "zh-CN": "Perodua Ativa", "zh-TW": "Perodua Ativa", "ja": "ペロドゥア・アティバ"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "品牌首款小型SUV(基于大发Rocky/丰田Raize)",
+      "verified": "verified"
+    }
+  ]
+}

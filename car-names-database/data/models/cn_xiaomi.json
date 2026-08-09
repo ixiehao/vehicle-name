@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:xiaomi:su7",
+      "brand": "Xiaomi",
+      "names": {"en": "Xiaomi SU7", "zh-CN": "小米SU7", "zh-TW": "小米SU7(未導入)", "ja": "シャオミ SU7"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "小米首款量产车,2024年3月上市,纯电中大型轿车(轴距3000mm);后新增SU7 Ultra性能版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xiaomi:yu7",
+      "brand": "Xiaomi",
+      "names": {"en": "Xiaomi YU7", "zh-CN": "小米YU7", "zh-TW": "小米YU7(未導入)", "ja": "シャオミ YU7"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "小米首款SUV,2025年6月上市,纯电中大型轿跑SUV(轴距3000mm)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xiaomi:su7-ultra",
+      "brand": "Xiaomi",
+      "names": {"en": "Xiaomi SU7 Ultra", "zh-CN": "小米SU7 Ultra", "zh-TW": "小米SU7 Ultra(未導入)", "ja": "シャオミ SU7 Ultra"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "SU7巅峰性能版,2025年2月上市;三电机综合1548马力,0–100km/h约1.98秒",
+      "verified": "verified"
+    }
+  ]
+}

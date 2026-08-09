@@ -1,0 +1,160 @@
+{
+  "models": [
+    {
+      "id": "model:buick:regal",
+      "brand": "Buick",
+      "names": {"en": "Regal", "zh-CN": "君威", "zh-TW": "Regal", "ja": "リーガル"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1973–present",
+      "note": "北美2020年停产;中国上汽通用别克「君威」继续生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:gl8",
+      "brand": "Buick",
+      "names": {"en": "GL8", "zh-CN": "别克GL8", "zh-TW": "GL8", "ja": "GL8"},
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1999–present",
+      "note": "中国大陆专属商务MPV;2022年推出GL8世纪(Century)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:enclave",
+      "brand": "Buick",
+      "names": {"en": "Enclave", "zh-CN": "昂科旗", "zh-TW": "Enclave", "ja": "エンクレーブ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "中国版「昂科旗」(2019年起国产)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:encore",
+      "brand": "Buick",
+      "names": {"en": "Encore", "zh-CN": "昂科拉", "zh-TW": "Encore", "ja": "アンコール"},
+      "segment": "class:us:small-suv",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2022",
+      "note": "2022年停产,由Encore GX与Envista接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:encore-gx",
+      "brand": "Buick",
+      "names": {"en": "Encore GX", "zh-CN": "昂科拉GX", "zh-TW": "Encore GX", "ja": "アンコールGX"},
+      "segment": "class:us:small-suv",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "韩国GM Korea制造,北美与中国销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:envision",
+      "brand": "Buick",
+      "names": {"en": "Envision", "zh-CN": "昂科威", "zh-TW": "Envision", "ja": "エンビジョン"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "中国版昂科威S/昂科威Plus;北美亦有销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:envista",
+      "brand": "Buick",
+      "names": {"en": "Envista", "zh-CN": "昂扬", "zh-TW": "Envista", "ja": "エンビスタ"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "中国版「昂扬」(2022年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:lacrosse",
+      "brand": "Buick",
+      "names": {"en": "LaCrosse", "zh-CN": "君越", "zh-TW": "LaCrosse", "ja": "ラクロス"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "北美2019年停产;中国第四代君越(2023款)继续生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:verano",
+      "brand": "Buick",
+      "names": {"en": "Verano", "zh-CN": "威朗", "zh-TW": "Verano", "ja": "ベラーノ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "北美2016年停产;中国威朗Pro(2021款)继续生产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:excelle",
+      "brand": "Buick",
+      "names": {"en": "Excelle", "zh-CN": "英朗", "zh-TW": "Excelle", "ja": "エクセル"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2023",
+      "note": "中国特供车型;2023年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:century",
+      "brand": "Buick",
+      "names": {"en": "Century", "zh-CN": "世纪", "zh-TW": "Century", "ja": "センチュリー"},
+      "segment": "class:us:midsize",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1936–2005",
+      "note": "历史车系,2005年停产;注意与别克GL8世纪(2022)区分",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:skylark",
+      "brand": "Buick",
+      "names": {"en": "Skylark", "zh-CN": "Skylark", "zh-TW": "Skylark", "ja": "スカイラーク"},
+      "segment": "class:us:compact",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953–1998",
+      "note": "1998年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:buick:park-avenue",
+      "brand": "Buick",
+      "names": {"en": "Park Avenue", "zh-CN": "林荫大道", "zh-TW": "Park Avenue", "ja": "パークアベニュー"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2012",
+      "note": "北美2005年停产;中国版「林荫大道」2007–2012",
+      "verified": "verified"
+    }
+  ]
+}

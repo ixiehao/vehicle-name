@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:mg:mg3",
+      "brand": "MG",
+      "names": {"en": "MG 3", "zh-CN": "名爵3", "zh-TW": "MG 3", "ja": "エムジー3"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "小型两厢车;大陆名爵3已停售,海外MG3 Hybrid(2024)在欧洲销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:mg5",
+      "brand": "MG",
+      "names": {"en": "MG 5", "zh-CN": "名爵5", "zh-TW": "MG 5", "ja": "エムジー5"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "紧凑型轿车(第三代2020),含MG5 EV纯电旅行版(欧洲)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:zs",
+      "brand": "MG",
+      "names": {"en": "MG ZS", "zh-CN": "名爵ZS", "zh-TW": "MG ZS", "ja": "エムジーZS"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "小型SUV,2019年增纯电版MG ZS EV(欧洲热销)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:hs",
+      "brand": "MG",
+      "names": {"en": "MG HS", "zh-CN": "名爵HS", "zh-TW": "MG HS", "ja": "エムジーHS"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "紧凑型SUV,含插混版;2024年第二代(海外EHS)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:mg4",
+      "brand": "MG",
+      "names": {"en": "MG4 EV", "zh-CN": "名爵MG4 EV(海外名Mulan)", "zh-TW": "MG4 EV", "ja": "エムジー4"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "纯电紧凑型两厢车(星云平台);大陆内销名「MG MULAN」,海外统一MG4 EV,2023年欧洲销冠级",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:mg7",
+      "brand": "MG",
+      "names": {"en": "MG 7", "zh-CN": "名爵7", "zh-TW": "MG 7", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中国特供中型轿跑轿车(2022年发布,2.0T),历史名号2007–2010",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:cyberster",
+      "brand": "MG",
+      "names": {"en": "MG Cyberster", "zh-CN": "名爵Cyberster", "zh-TW": "MG Cyberster", "ja": "—"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "纯电双座敞篷跑车(剪刀门),2023年上市,出口欧洲",
+      "verified": "verified"
+    }
+  ]
+}

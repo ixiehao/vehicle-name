@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "model:chrysler:300",
+      "brand": "Chrysler",
+      "names": {"en": "300", "zh-CN": "300C", "zh-TW": "300", "ja": "300C"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2023",
+      "note": "2023年停产;中国进口版称「300C」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:pacifica",
+      "brand": "Chrysler",
+      "names": {"en": "Pacifica", "zh-CN": "大捷龙", "zh-TW": "Pacifica", "ja": "パシフィカ"},
+      "segment": "class:us:minivan",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "中国进口版沿用「大捷龙」名称;有插混版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:voyager",
+      "brand": "Chrysler",
+      "names": {"en": "Voyager", "zh-CN": "Voyager", "zh-TW": "Voyager", "ja": "ボイジャー"},
+      "segment": "class:us:minivan",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1988–2007; 2020–2024",
+      "note": "2020年以Pacifica低配版复产,2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:town-and-country",
+      "brand": "Chrysler",
+      "names": {"en": "Town & Country", "zh-CN": "Town & Country", "zh-TW": "Town & Country", "ja": "タウン＆カントリー"},
+      "segment": "class:us:minivan",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2016",
+      "note": "2016年停产,由Pacifica接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:sebring",
+      "brand": "Chrysler",
+      "names": {"en": "Sebring", "zh-CN": "Sebring", "zh-TW": "Sebring", "ja": "セブリング"},
+      "segment": "class:us:midsize",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–2010",
+      "note": "含敞篷版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:200",
+      "brand": "Chrysler",
+      "names": {"en": "200", "zh-CN": "200", "zh-TW": "200", "ja": "200"},
+      "segment": "class:us:midsize",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2017",
+      "note": "2017年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:aspen",
+      "brand": "Chrysler",
+      "names": {"en": "Aspen", "zh-CN": "Aspen", "zh-TW": "Aspen", "ja": "アスペン"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2009",
+      "note": "与道奇Durango同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:pt-cruiser",
+      "brand": "Chrysler",
+      "names": {"en": "PT Cruiser", "zh-CN": "PT漫步者", "zh-TW": "PT Cruiser", "ja": "PTクルーザー"},
+      "segment": "class:us:compact",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2010",
+      "note": "复古造型;大陆译名「PT漫步者」",
+      "verified": "verified"
+    }
+  ]
+}

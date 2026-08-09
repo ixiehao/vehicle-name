@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:lotus:elise",
+      "brand": "Lotus",
+      "names": {"en": "Lotus Elise", "zh-CN": "路特斯Elise", "zh-TW": "蓮花Elise", "ja": "ロータス・エリーゼ"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2021",
+      "note": "中置后驱轻量化跑车,初代S1(1996),2021年停产;大陆译名随品牌2011年更名「路特斯」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lotus:exige",
+      "brand": "Lotus",
+      "names": {"en": "Lotus Exige", "zh-CN": "路特斯Exige", "zh-TW": "蓮花Exige", "ja": "ロータス・エキシージ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2021",
+      "note": "基于Elise的硬顶强化版,2021年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lotus:evora",
+      "brand": "Lotus",
+      "names": {"en": "Lotus Evora", "zh-CN": "路特斯Evora", "zh-TW": "蓮花Evora", "ja": "ロータス・エヴォーラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2021",
+      "note": "2+2中置跑车(丰田3.5L V6),2021年停产,由Emira接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lotus:emira",
+      "brand": "Lotus",
+      "names": {"en": "Lotus Emira", "zh-CN": "路特斯Emira", "zh-TW": "蓮花Emira", "ja": "ロータス・エミーラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "品牌末代燃油跑车(丰田3.5机械增压/AMG 2.0T),2021年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lotus:eletre",
+      "brand": "Lotus",
+      "names": {"en": "Lotus Eletre", "zh-CN": "路特斯Eletre", "zh-TW": "蓮花Eletre", "ja": "ロータス・エレトレ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "吉利入股后的首款纯电SUV(SEA架构,中国武汉工厂生产),2022年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lotus:emeya",
+      "brand": "Lotus",
+      "names": {"en": "Lotus Emeya", "zh-CN": "路特斯Emeya", "zh-TW": "蓮花Emeya", "ja": "ロータス・エメヤ"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "纯电大型GT轿车(SEA架构),2024年起交付",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lotus:esprit",
+      "brand": "Lotus",
+      "names": {"en": "Lotus Esprit", "zh-CN": "路特斯Esprit", "zh-TW": "蓮花Esprit", "ja": "ロータス・エスプリ"},
+      "segment": "class:eu:s",
+      "body_style": "body:sports",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–2004",
+      "note": "经典楔形中置跑车(詹姆斯·邦德《海底城》座驾),2004年停产",
+      "verified": "verified"
+    }
+  ]
+}

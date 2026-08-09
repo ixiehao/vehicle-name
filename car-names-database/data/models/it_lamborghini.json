@@ -1,0 +1,160 @@
+{
+  "models": [
+    {
+      "id": "model:lamborghini:revuelto",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Revuelto", "zh-CN": "兰博基尼Revuelto", "zh-TW": "藍寶堅尼Revuelto", "ja": "ランボルギーニ レヴエルト"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "V12+三电机插电混动旗舰,2023年发布,接替Aventador",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:temerario",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Temerario", "zh-CN": "兰博基尼Temerario", "zh-TW": "藍寶堅尼Temerario", "ja": "ランボルギーニ テメラリオ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "V8双涡轮插电混动,2024年发布,接替Huracán,2025年交付",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:urus",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Urus", "zh-CN": "兰博基尼Urus", "zh-TW": "藍寶堅尼Urus", "ja": "ランボルギーニ ウルス"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "品牌首款现代SUV,2017年发布、2018年交付;含插混版Urus SE(2024–)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:huracan",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Huracán", "zh-CN": "兰博基尼Huracán", "zh-TW": "藍寶堅尼Huracán", "ja": "ランボルギーニ ウラカン"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2024",
+      "note": "V10自然吸气跑车,2014年推出,含EVO、STO等版本,2024年停产,由Temerario接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:aventador",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Aventador", "zh-CN": "兰博基尼Aventador", "zh-TW": "藍寶堅尼Aventador", "ja": "ランボルギーニ アヴェンタドール"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2022",
+      "note": "V12自然吸气旗舰,含SVJ、Ultimae等版本,2022年停产,由Revuelto接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:gallardo",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Gallardo", "zh-CN": "兰博基尼Gallardo", "zh-TW": "藍寶堅尼Gallardo", "ja": "ランボルギーニ ガヤルド"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2013",
+      "note": "V10入门超跑,品牌最畅销车型之一,2013年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:murcielago",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Murciélago", "zh-CN": "兰博基尼Murciélago", "zh-TW": "藍寶堅尼Murciélago", "ja": "ランボルギーニ ムルシエラゴ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2010",
+      "note": "大众/奥迪入主后首款V12旗舰,2010年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:diablo",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Diablo", "zh-CN": "兰博基尼Diablo", "zh-TW": "藍寶堅尼Diablo", "ja": "ランボルギーニ ディアブロ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2001",
+      "note": "Countach的继任者,V12超级跑车,2001年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:countach",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Countach", "zh-CN": "兰博基尼Countach", "zh-TW": "藍寶堅尼Countach", "ja": "ランボルギーニ カウンタック"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–1990",
+      "note": "楔形设计开创者的V12超级跑车;2021–2022年曾限量复活Countach LPI 800-4",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:miura",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Miura", "zh-CN": "兰博基尼Miura", "zh-TW": "藍寶堅尼Miura", "ja": "ランボルギーニ ミウラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1973",
+      "note": "公认的首款中置引擎量产超级跑车,1966年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:jalpa",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Jalpa", "zh-CN": "兰博基尼Jalpa", "zh-TW": "藍寶堅尼Jalpa", "ja": "ランボルギーニ ヤルパ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1988",
+      "note": "V8中置入门超跑,1988年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:silhouette",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Silhouette", "zh-CN": "兰博基尼Silhouette", "zh-TW": "藍寶堅尼Silhouette", "ja": "ランボルギーニ シルエット"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976–1979",
+      "note": "V8中置敞篷跑车,产量极少(约52台)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lamborghini:urraco",
+      "brand": "Lamborghini",
+      "names": {"en": "Lamborghini Urraco", "zh-CN": "兰博基尼Urraco", "zh-TW": "藍寶堅尼Urraco", "ja": "ランボルギーニ ウラッコ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1979",
+      "note": "V8中置入门车型,含P250/P300/P200等版本,1979年停产",
+      "verified": "verified"
+    }
+  ]
+}

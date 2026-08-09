@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "model:delorean:dmc-12",
+      "brand": "DeLorean",
+      "names": {"en": "DeLorean DMC-12", "zh-CN": "德罗宁DMC-12", "zh-TW": "DeLorean DMC-12", "ja": "デロリアンDMC-12"},
+      "segment": "class:eu:s",
+      "body_style": "body:sports",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1983",
+      "note": "不锈钢鸥翼门跑车(电影《回到未来》座驾),约9000辆;品牌2024年推纯电概念车DeLorean Alpha5",
+      "verified": "verified"
+    }
+  ]
+}

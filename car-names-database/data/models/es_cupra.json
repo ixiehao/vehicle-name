@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:cupra:formentor",
+      "brand": "Cupra",
+      "names": {"en": "Cupra Formentor", "zh-CN": "Cupra Formentor", "zh-TW": "Cupra Formentor", "ja": "クプラ・フォーメンター"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "Cupra独立品牌后首款专属车型(溜背SUV),含VZ5(奥迪五缸)性能版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cupra:born",
+      "brand": "Cupra",
+      "names": {"en": "Cupra Born", "zh-CN": "Cupra Born", "zh-TW": "Cupra Born", "ja": "クプラ・ボーン"},
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "品牌首款纯电车(大众MEB平台,大众ID.3姊妹车)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cupra:ateca",
+      "brand": "Cupra",
+      "names": {"en": "Cupra Ateca", "zh-CN": "Cupra Ateca", "zh-TW": "Cupra Ateca", "ja": "クプラ・アテカ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2024",
+      "note": "品牌独立前的首款Cupra车型(西雅特Ateca性能版),2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cupra:tavascan",
+      "brand": "Cupra",
+      "names": {"en": "Cupra Tavascan", "zh-CN": "Cupra Tavascan", "zh-TW": "Cupra Tavascan", "ja": "クプラ・タバスカン"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "纯电轿跑SUV(大众MEB平台),2023年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cupra:terramar",
+      "brand": "Cupra",
+      "names": {"en": "Cupra Terramar", "zh-CN": "Cupra Terramar", "zh-TW": "Cupra Terramar", "ja": "クプラ・テラマー"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "品牌末代燃油平台SUV(轻混/插混),2024年发布",
+      "verified": "verified"
+    }
+  ]
+}

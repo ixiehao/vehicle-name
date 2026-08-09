@@ -1,0 +1,361 @@
+{
+  "models": [
+    {
+      "id": "model:daihatsu:move",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Move",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ムーヴ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1995-present",
+      "note": "大发主力K-car掀背车;现行LA150系(2023起);大陆未引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:move-canbus",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Move Canbus",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ムーヴキャンバス"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016-present",
+      "note": "Move车系复古方盒风格派生K-car",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:mira",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Mira",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ミラ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980-2018",
+      "note": "老牌K-car车系;后继车型为Mira e:S",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:mira-es",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Mira e:S",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ミライース"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011-present",
+      "note": "Mira后继K-car;丰田Pixis Epoch同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:tanto",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Tanto",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "タント"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003-present",
+      "note": "高顶K-car MPV;现行LA650系(2022起)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:cast",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Cast",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "キャスト"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015-2023",
+      "note": "K-car掀背;丰田Pixis Joy同源;2023年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:copen",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Copen",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "コペン"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002-present",
+      "note": "K-car敞篷小跑车;第一代2002-2012,第二代LA400(2014起);丰田Copen GR Sport同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:atrai",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Atrai",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "アトレー"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1981-present",
+      "note": "K-car厢式商用车(4ナンバー);现行S700(2021起)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:hijet",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Hijet",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ハイゼット"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:kei-truck",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1960-present",
+      "note": "K-car货车Hijet Truck/厢式Hijet Cargo;丰田Pixis Truck/Van同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:rocky",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Rocky",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ロッキー"
+      },
+      "segment": "class:us:small-suv",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "小型跨界SUV(A200/DNGA平台);丰田Raize同源;另有过往非承载式Rocky(1990-1998)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:taft",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Taft",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "タフト"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020-present",
+      "note": "K-car跨界风格(LA900系);初代Taft(F10,1974-1984)为迷你越野车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:terios",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Terios",
+        "zh-CN": "特锐",
+        "zh-TW": "Terios",
+        "ja": "テリオス"
+      },
+      "segment": "class:us:small-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1997-present",
+      "note": "小型SUV;大陆曾由天津华利组装「特锐」(2003-2006);现行J200与丰田Rush同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:boon",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Boon",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ブーン"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004-2023",
+      "note": "紧凑掀背车;丰田Passo(2004-2023)同源,海外称Sirion;2023年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:materia",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Materia",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "マテリア"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2012",
+      "note": "盒式紧凑车(风格类似丰田bB);2012年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:esse",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Esse",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "エッセ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005-2011",
+      "note": "轻型K-car掀背;2011年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:fellow",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Fellow",
+        "zh-CN": "—",
+        "zh-TW": "Fellow",
+        "ja": "フェロー"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1988",
+      "note": "大发K-car主力车系,Max前身;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:max",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Max",
+        "zh-CN": "—",
+        "zh-TW": "Max",
+        "ja": "マックス"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1981–1995",
+      "note": "K-car厢式车,Fellow Max后续;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:charade",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Charade",
+        "zh-CN": "夏利(技术引进)",
+        "zh-TW": "Charade",
+        "ja": "シャレード"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1977–2000",
+      "note": "重要小型车(3代);大陆夏利轿车基于Charade技术国产化(1986起);官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:cuore",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Cuore",
+        "zh-CN": "—",
+        "zh-TW": "Cuore",
+        "ja": "クオーレ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–2013",
+      "note": "重要K-car小型车,海外名Mira/Domino;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:yrv",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "YRV",
+        "zh-CN": "—",
+        "zh-TW": "YRV",
+        "ja": "YRV(ワイアールブイ)"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000–2005",
+      "note": "小型MPV风格车;官方历史资料库收录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:opti",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Opti",
+        "zh-CN": "—",
+        "zh-TW": "Opti",
+        "ja": "オプティ"
+      },
+      "segment": "class:jp:kei",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2002",
+      "note": "K-car小型车;官方历史资料库收录",
+      "verified": "verified"
+    }
+  ]
+}

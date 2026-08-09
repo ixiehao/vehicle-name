@@ -1,0 +1,76 @@
+{
+  "models": [
+    {
+      "id": "model:aion:s",
+      "brand": "Aion",
+      "names": {"en": "Aion S", "zh-CN": "埃安S", "zh-TW": "Aion S(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "广汽埃安首款量产轿车(2019年上市),含S Max/纯电与Aion S Plus;台湾/日本未导入",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aion:y",
+      "brand": "Aion",
+      "names": {"en": "Aion Y", "zh-CN": "埃安Y", "zh-TW": "Aion Y(未导入)", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "紧凑型纯电SUV(2021年上市,含Y Plus),网约车市场常见",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aion:v",
+      "brand": "Aion",
+      "names": {"en": "Aion V", "zh-CN": "埃安V", "zh-TW": "Aion V(未导入)", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "紧凑型纯电SUV(2020年上市,2024年第二代,2025年出口欧洲)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aion:lx",
+      "brand": "Aion",
+      "names": {"en": "Aion LX", "zh-CN": "埃安LX", "zh-TW": "Aion LX(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "品牌首款纯电中型SUV(2019年上市),含LX Plus",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aion:hyper-gt",
+      "brand": "Aion",
+      "names": {"en": "Aion Hyper GT", "zh-CN": "昊铂GT", "zh-TW": "Aion Hyper GT(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "昊铂(Hyper)高端子品牌纯电轿跑(2023年上市,旋翼门)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aion:hyper-ssr",
+      "brand": "Aion",
+      "names": {"en": "Aion Hyper SSR", "zh-CN": "昊铂SSR", "zh-TW": "Aion Hyper SSR(未导入)", "ja": "—"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "国产纯电超级跑车(2023年上市,电动蝴蝶门)",
+      "verified": "verified"
+    }
+  ]
+}

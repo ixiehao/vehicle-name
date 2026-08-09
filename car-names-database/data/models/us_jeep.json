@@ -1,0 +1,172 @@
+{
+  "models": [
+    {
+      "id": "model:jeep:wrangler",
+      "brand": "Jeep",
+      "names": {"en": "Wrangler", "zh-CN": "牧马人", "zh-TW": "Wrangler", "ja": "ラングラー"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1986–present",
+      "note": "传承自CJ/威利斯MB(1941);中国进口「牧马人」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:grand-cherokee",
+      "brand": "Jeep",
+      "names": {"en": "Grand Cherokee", "zh-CN": "大切诺基", "zh-TW": "Grand Cherokee", "ja": "グランドチェロキー"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1992–present",
+      "note": "中国进口「大切诺基」;有长轴Grand Cherokee L",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:cherokee",
+      "brand": "Jeep",
+      "names": {"en": "Cherokee", "zh-CN": "切诺基/自由光", "zh-TW": "Cherokee", "ja": "チェロキー"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–2023",
+      "note": "2014年换代,中国版称「自由光」(广汽菲克);2023年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:compass",
+      "brand": "Jeep",
+      "names": {"en": "Compass", "zh-CN": "指南者", "zh-TW": "Compass", "ja": "コンパス"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "中国版「指南者」(广汽菲克,2022年停产进口续售)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:renegade",
+      "brand": "Jeep",
+      "names": {"en": "Renegade", "zh-CN": "自由侠", "zh-TW": "Renegade", "ja": "レネゲード"},
+      "segment": "class:us:small-suv",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2024",
+      "note": "中国版「自由侠」(广汽菲克);欧洲2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:gladiator",
+      "brand": "Jeep",
+      "names": {"en": "Gladiator", "zh-CN": "角斗士", "zh-TW": "Gladiator", "ja": "グラディエーター"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "基于Wrangler的皮卡;历史名号1963–1971",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:liberty",
+      "brand": "Jeep",
+      "names": {"en": "Liberty", "zh-CN": "Liberty", "zh-TW": "Liberty", "ja": "リバティ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2012",
+      "note": "欧洲版称Cherokee(KJ/KK)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:patriot",
+      "brand": "Jeep",
+      "names": {"en": "Patriot", "zh-CN": "Patriot", "zh-TW": "Patriot", "ja": "パトリオット"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2017",
+      "note": "与Compass同平台的入门SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:commander",
+      "brand": "Jeep",
+      "names": {"en": "Commander", "zh-CN": "Commander", "zh-TW": "Commander", "ja": "コマンダー"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2010",
+      "note": "三排座SUV,基于Grand Cherokee",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:grand-wagoneer",
+      "brand": "Jeep",
+      "names": {"en": "Grand Wagoneer", "zh-CN": "Grand Wagoneer", "zh-TW": "Grand Wagoneer", "ja": "グランドワゴニア"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "历史名号1963–1991;2021年复活为旗舰豪华SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:wagoneer",
+      "brand": "Jeep",
+      "names": {"en": "Wagoneer", "zh-CN": "Wagoneer", "zh-TW": "Wagoneer", "ja": "ワゴニア"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "与Grand Wagoneer同代复活(2021款)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:avenger",
+      "brand": "Jeep",
+      "names": {"en": "Avenger", "zh-CN": "Avenger", "zh-TW": "Avenger", "ja": "アベンジャー"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "欧洲市场纯电小型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:recon",
+      "brand": "Jeep",
+      "names": {"en": "Recon", "zh-CN": "Recon(媒体译名侦察兵)", "zh-TW": "Recon", "ja": "レコン"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "纯电硬派越野SUV(STLA Large平台,可拆卸车门),2025年起量产交付;大陆无官方中文名",
+      "verified": "verified"
+    },
+    {
+      "id": "model:jeep:wagoneer-s",
+      "brand": "Jeep",
+      "names": {"en": "Wagoneer S", "zh-CN": "Wagoneer S", "zh-TW": "Wagoneer S", "ja": "ワゴニアS"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "Jeep首款全球纯电车型,豪华纯电SUV(STLA Large平台,双电机约600马力),2024年5月发布、2025年起交付",
+      "verified": "verified"
+    }
+  ]
+}

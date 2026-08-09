@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:mahindra:xuv700",
+      "brand": "Mahindra",
+      "names": {"en": "Mahindra XUV700", "zh-CN": "马恒达XUV700", "zh-TW": "Mahindra XUV700", "ja": "マヒンドラXUV700"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "旗舰中型SUV(2021年上市),含纯电XUV.e8",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mahindra:thar",
+      "brand": "Mahindra",
+      "names": {"en": "Mahindra Thar", "zh-CN": "马恒达Thar", "zh-TW": "Mahindra Thar", "ja": "マヒンドラ・ター"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "经典硬派越野SUV(致敬威利斯Jeep,2020年第二代,含纯电Thar.e)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mahindra:scorpio",
+      "brand": "Mahindra",
+      "names": {"en": "Mahindra Scorpio", "zh-CN": "马恒达Scorpio", "zh-TW": "Mahindra Scorpio", "ja": "マヒンドラ・スコーピオ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002–present",
+      "note": "非承载式中型SUV(2022年第三代Scorpio-N)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mahindra:xuv300",
+      "brand": "Mahindra",
+      "names": {"en": "Mahindra XUV300", "zh-CN": "马恒达XUV300", "zh-TW": "Mahindra XUV300", "ja": "マヒンドラXUV300"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2025",
+      "note": "紧凑型SUV(2025年由XUV 3XO接替)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mahindra:be-6",
+      "brand": "Mahindra",
+      "names": {"en": "Mahindra BE 6", "zh-CN": "马恒达BE 6", "zh-TW": "Mahindra BE 6", "ja": "マヒンドラBE 6"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "全新INGLO平台首款纯电轿跑SUV(2024年发布,2025年交付)",
+      "verified": "verified"
+    }
+  ]
+}

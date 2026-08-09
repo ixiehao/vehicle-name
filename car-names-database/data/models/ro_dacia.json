@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:dacia:sandero",
+      "brand": "Dacia",
+      "names": {"en": "Dacia Sandero", "zh-CN": "达契亚Sandero", "zh-TW": "Dacia Sandero", "ja": "ダチア・サンデロ"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "欧洲畅销入门小型车(第三代2020,含Stepway跨界版与纯电Sandero?);大陆未引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dacia:duster",
+      "brand": "Dacia",
+      "names": {"en": "Dacia Duster", "zh-CN": "达契亚Duster", "zh-TW": "Dacia Duster", "ja": "ダチア・ダスター"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "高性价比紧凑型SUV(第三代2024);大陆未引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dacia:logan",
+      "brand": "Dacia",
+      "names": {"en": "Dacia Logan", "zh-CN": "达契亚Logan", "zh-TW": "Dacia Logan", "ja": "ダチア・ローガン"},
+      "segment": "class:eu:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "入门轿车(现售主要为东欧/新兴市场版),雷诺集团平价车系代表",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dacia:jogger",
+      "brand": "Dacia",
+      "names": {"en": "Dacia Jogger", "zh-CN": "达契亚Jogger", "zh-TW": "Dacia Jogger", "ja": "ダチア・ジョガー"},
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "7座多功能车(2021年推出,含混动版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dacia:spring",
+      "brand": "Dacia",
+      "names": {"en": "Dacia Spring", "zh-CN": "达契亚Spring", "zh-TW": "Dacia Spring", "ja": "ダチア・スプリング"},
+      "segment": "class:eu:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "入门纯电微型车(欧洲最便宜电动车之一,2024年改款)",
+      "verified": "verified"
+    }
+  ]
+}

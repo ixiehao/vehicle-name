@@ -1,0 +1,148 @@
+{
+  "models": [
+    {
+      "id": "model:infiniti:qx60",
+      "brand": "Infiniti",
+      "names": {"en": "QX60", "zh-CN": "QX60", "zh-TW": "QX60", "ja": "インフィニティQX60"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "三排中大型豪华 SUV;前身为 JX(2012–2013);大陆东风英菲尼迪国产 QX60",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:qx65",
+      "brand": "Infiniti",
+      "names": {"en": "QX65", "zh-CN": "QX65", "zh-TW": "QX65", "ja": "インフィニティQX65"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2026–present",
+      "note": "QX60 的轿跑 SUV 版本,2026 年新发布(待核实上市详情)",
+      "verified": "pending"
+    },
+    {
+      "id": "model:infiniti:qx80",
+      "brand": "Infiniti",
+      "names": {"en": "QX80", "zh-CN": "QX80", "zh-TW": "QX80", "ja": "インフィニティQX80"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "全尺寸豪华 SUV;前身为 QX56(2004–2013);与日产 Patrol/Armada 同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:qx50",
+      "brand": "Infiniti",
+      "names": {"en": "QX50", "zh-CN": "QX50", "zh-TW": "QX50", "ja": "インフィニティQX50"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2025",
+      "note": "紧凑豪华 SUV;前身为 EX(2007–2013);轿跑版为 QX55;2025 款为末代,2025 年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:q50",
+      "brand": "Infiniti",
+      "names": {"en": "Q50", "zh-CN": "Q50", "zh-TW": "Q50", "ja": "インフィニティQ50"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2024",
+      "note": "运动中型轿车;日本市场以日产 Skyline(V37)销售;大陆东风英菲尼迪曾国产加长版 Q50L",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:q60",
+      "brand": "Infiniti",
+      "names": {"en": "Q60", "zh-CN": "Q60", "zh-TW": "Q60", "ja": "インフィニティQ60"},
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2022",
+      "note": "双门轿跑;G 系列轿跑的继任者",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:q70",
+      "brand": "Infiniti",
+      "names": {"en": "Q70", "zh-CN": "Q70", "zh-TW": "Q70", "ja": "インフィニティQ70"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2019",
+      "note": "中大型豪华轿车;前身为 M 系列;日本市场为日产 Fuga/Cima",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:g-series",
+      "brand": "Infiniti",
+      "names": {"en": "G-Series", "zh-CN": "G系列", "zh-TW": "G系列", "ja": "インフィニティG"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2013",
+      "note": "含 G20/G25/G35/G37 及轿跑/敞篷版;日本市场为日产 Skyline;后继 Q50/Q60",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:m-series",
+      "brand": "Infiniti",
+      "names": {"en": "M-Series", "zh-CN": "M系列", "zh-TW": "M系列", "ja": "インフィニティM"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1989–2013",
+      "note": "含 M30/M35/M37/M45/M56;旗舰 Q45(1989–2006)同源;后继 Q70",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:ex",
+      "brand": "Infiniti",
+      "names": {"en": "EX", "zh-CN": "EX", "zh-TW": "EX", "ja": "インフィニティEX"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2013",
+      "note": "紧凑豪华跨界;与日产 Skyline Crossover 同源;后继 QX50",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:fx",
+      "brand": "Infiniti",
+      "names": {"en": "FX", "zh-CN": "FX", "zh-TW": "FX", "ja": "インフィニティFX"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2013",
+      "note": "轿跑风格豪华跨界 SUV 的开创者;后继 QX70",
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:qx4",
+      "brand": "Infiniti",
+      "names": {"en": "QX4", "zh-CN": "QX4", "zh-TW": "QX4", "ja": "インフィニティQX4"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996–2002",
+      "note": "英菲尼迪首款 SUV,基于日产 Pathfinder/Terrano",
+      "verified": "verified"
+    }
+  ]
+}

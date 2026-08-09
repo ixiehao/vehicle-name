@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:tata:nexon",
+      "brand": "Tata",
+      "names": {"en": "Tata Nexon", "zh-CN": "塔塔Nexon", "zh-TW": "Tata Nexon", "ja": "タタ・ネクソン"},
+      "segment": "class:eu:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "印度畅销紧凑型SUV,含纯电Nexon EV;2023年换代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tata:punch",
+      "brand": "Tata",
+      "names": {"en": "Tata Punch", "zh-CN": "塔塔Punch", "zh-TW": "Tata Punch", "ja": "タタ・パンチ"},
+      "segment": "class:eu:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "入门微型SUV(印度市场热销),含纯电Punch EV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tata:harrier",
+      "brand": "Tata",
+      "names": {"en": "Tata Harrier", "zh-CN": "塔塔Harrier", "zh-TW": "Tata Harrier", "ja": "タタ・ハリアー"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "中型SUV(与路虎共享架构),含纯电Harrier EV(2025)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tata:altroz",
+      "brand": "Tata",
+      "names": {"en": "Tata Altroz", "zh-CN": "塔塔Altroz", "zh-TW": "Tata Altroz", "ja": "タタ・アルトロズ"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "高端紧凑型两厢车(2020年上市),含纯电Altroz EV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:tata:tiago",
+      "brand": "Tata",
+      "names": {"en": "Tata Tiago", "zh-CN": "塔塔Tiago", "zh-TW": "Tata Tiago", "ja": "タタ・ティアゴ"},
+      "segment": "class:eu:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "入门小型车,含纯电Tiago EV(印度最便宜电动车之一)",
+      "verified": "verified"
+    }
+  ]
+}

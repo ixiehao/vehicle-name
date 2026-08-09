@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:lancia:delta",
+      "brand": "Lancia",
+      "names": {"en": "Lancia Delta", "zh-CN": "蓝旗亚Delta", "zh-TW": "蘭吉雅Delta", "ja": "ランシア・デルタ"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1979–1999",
+      "note": "传奇WRC冠军车(六次厂商冠军);第三代为HF Integrale(1986–1994)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lancia:stratos",
+      "brand": "Lancia",
+      "names": {"en": "Lancia Stratos", "zh-CN": "蓝旗亚Stratos", "zh-TW": "蘭吉雅Stratos", "ja": "ランシア・ストラトス"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1973–1974",
+      "note": "楔形中置V6赛车(1974/1975/1976连续三届WRC冠军),量产约492辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lancia:ypsilon",
+      "brand": "Lancia",
+      "names": {"en": "Lancia Ypsilon", "zh-CN": "蓝旗亚Ypsilon", "zh-TW": "蘭吉雅Ypsilon", "ja": "ランシア・イプシロン"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1996–present",
+      "note": "小型车(现售第四代2024,纯电/混动),蓝旗亚目前唯一在售车型;大陆未引进",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lancia:thema",
+      "brand": "Lancia",
+      "names": {"en": "Lancia Thema", "zh-CN": "蓝旗亚Thema", "zh-TW": "蘭吉雅Thema", "ja": "ランシア・テーマ"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–1994",
+      "note": "菲亚特集团Type Four平台旗舰轿车(1984),含法拉利V8版Thema 8.32",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lancia:fulvia",
+      "brand": "Lancia",
+      "names": {"en": "Lancia Fulvia", "zh-CN": "蓝旗亚Fulvia", "zh-TW": "蘭吉雅Fulvia", "ja": "ランシア・フルビア"},
+      "segment": "class:eu:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1976",
+      "note": "前驱V4轿车/轿跑,1972年WRC首冠车型之一",
+      "verified": "verified"
+    }
+  ]
+}

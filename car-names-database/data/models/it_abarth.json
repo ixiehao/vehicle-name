@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:abarth:500",
+      "brand": "Abarth",
+      "names": {"en": "Abarth 500/595/695", "zh-CN": "阿巴斯500", "zh-TW": "Abarth 500", "ja": "アバルト500"},
+      "segment": "class:eu:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "基于菲亚特500的性能版(含595/695/Esseesse等);2024年纯电版Abarth 500e推出",
+      "verified": "verified"
+    },
+    {
+      "id": "model:abarth:124-spider",
+      "brand": "Abarth",
+      "names": {"en": "Abarth 124 Spider", "zh-CN": "阿巴斯124 Spider", "zh-TW": "Abarth 124 Spider", "ja": "アバルト124スパイダー"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "基于马自达MX-5的敞篷跑车,2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:abarth:punto",
+      "brand": "Abarth",
+      "names": {"en": "Abarth Punto Evo", "zh-CN": "阿巴斯Punto Evo", "zh-TW": "Abarth Punto Evo", "ja": "アバルト・プントエボ"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2018",
+      "note": "基于菲亚特Punto的性能掀背,2018年停产",
+      "verified": "verified"
+    }
+  ]
+}

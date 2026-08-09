@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:mini:cooper",
+      "brand": "MINI",
+      "names": {"en": "MINI Cooper", "zh-CN": "MINI", "zh-TW": "MINI", "ja": "ミニ"},
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1959–present",
+      "note": "品牌核心车型:经典Mini 1959–2000,宝马时代2001年起;含One/Cooper S/JCW性能版、Convertible敞篷(2005–)与Cooper Electric纯电(2020–)等变体",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mini:countryman",
+      "brand": "MINI",
+      "names": {"en": "MINI Countryman", "zh-CN": "MINI Countryman", "zh-TW": "MINI Countryman", "ja": "ミニ カントリーマン"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "品牌首款跨界SUV,2010年推出;现款为第三代(U25,2023–),含纯电版Countryman Electric",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mini:aceman",
+      "brand": "MINI",
+      "names": {"en": "MINI Aceman", "zh-CN": "MINI Aceman", "zh-TW": "MINI Aceman", "ja": "ミニ エースマン"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "纯电小型跨界车,定位介于Cooper与Countryman之间,2024年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mini:clubman",
+      "brand": "MINI",
+      "names": {"en": "MINI Clubman", "zh-CN": "MINI Clubman", "zh-TW": "MINI Clubman", "ja": "ミニ クラブマン"},
+      "segment": "class:eu:b",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2024",
+      "note": "加长旅行版,双开尾门,两代(R55 2007–2014、F54 2015–2024),2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mini:paceman",
+      "brand": "MINI",
+      "names": {"en": "MINI Paceman", "zh-CN": "MINI Paceman", "zh-TW": "MINI Paceman", "ja": "ミニ ペースマン"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "Countryman的三门轿跑跨界版,2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mini:coupe",
+      "brand": "MINI",
+      "names": {"en": "MINI Coupé", "zh-CN": "MINI Coupé", "zh-TW": "MINI Coupé", "ja": "ミニ クーペ"},
+      "segment": "class:eu:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "品牌首款双座三厢轿跑,2015年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mini:roadster",
+      "brand": "MINI",
+      "names": {"en": "MINI Roadster", "zh-CN": "MINI Roadster", "zh-TW": "MINI Roadster", "ja": "ミニ ロードスター"},
+      "segment": "class:eu:b",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "Coupé的敞篷版,双座,2015年停产",
+      "verified": "verified"
+    }
+  ]
+}

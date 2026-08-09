@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:skoda:octavia",
+      "brand": "Škoda",
+      "names": {"en": "Octavia", "zh-CN": "明锐", "zh-TW": "Octavia", "ja": "オクタヴィア"},
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1996–present",
+      "note": "斯柯达全球销量支柱的紧凑型掀背/旅行轿车;大陆现售「明锐PRO」(2021起),含插混Octavia iV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:superb",
+      "brand": "Škoda",
+      "names": {"en": "Superb", "zh-CN": "速派", "zh-TW": "Superb", "ja": "シューパーブ"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "旗舰掀背轿车(第四代2023起);大陆首代曾名「昊锐」(2009–2013),2013年起官方名「速派」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:kodiaq",
+      "brand": "Škoda",
+      "names": {"en": "Kodiaq", "zh-CN": "柯迪亚克", "zh-TW": "Kodiaq", "ja": "コディアック"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "品牌首款中型SUV(5/7座),与大众途观L同平台;2024年欧洲换代第二代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:karoq",
+      "brand": "Škoda",
+      "names": {"en": "Karoq", "zh-CN": "柯珞克", "zh-TW": "Karoq", "ja": "カローク"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "紧凑型SUV,与大众途岳同平台;大陆「柯珞克」已停售(上汽斯柯达收缩),欧洲等海外市场在售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:fabia",
+      "brand": "Škoda",
+      "names": {"en": "Fabia", "zh-CN": "晶锐", "zh-TW": "Fabia", "ja": "ファビア"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1999–present",
+      "note": "小型掀背车,第四代(2021)仅欧洲等市场销售;大陆「晶锐」于2018年前后停售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:enyaq-iv",
+      "brand": "Škoda",
+      "names": {"en": "Enyaq iV", "zh-CN": "ENYAQ iV", "zh-TW": "Enyaq iV", "ja": "エンヤク iV"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "基于大众MEB平台的纯电SUV;大陆未国产,台湾由Škoda Taiwan导入(2023起)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:skoda:elroq",
+      "brand": "Škoda",
+      "names": {"en": "Elroq", "zh-CN": "Elroq", "zh-TW": "Elroq", "ja": "エルロク"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "2024年10月发布的入门纯电SUV(MEB平台),定位低于Enyaq;大陆/台湾截至2026年均未上市",
+      "verified": "verified"
+    }
+  ]
+}

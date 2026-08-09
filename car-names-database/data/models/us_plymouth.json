@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:plymouth:barracuda",
+      "brand": "Plymouth",
+      "names": {"en": "Plymouth Barracuda", "zh-CN": "普利茅斯Barracuda", "zh-TW": "Plymouth Barracuda", "ja": "プリマス・バラクーダ"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964–1974",
+      "note": "经典Pony Car(先于野马数月问世),1974年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:plymouth:road-runner",
+      "brand": "Plymouth",
+      "names": {"en": "Plymouth Road Runner", "zh-CN": "普利茅斯Road Runner", "zh-TW": "Plymouth Road Runner", "ja": "プリマス・ロードランナー"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1968–1980",
+      "note": "平价肌肉车(名称致敬《哔哔鸟》动画,含Superbird),1980年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:plymouth:voyager",
+      "brand": "Plymouth",
+      "names": {"en": "Plymouth Voyager", "zh-CN": "普利茅斯Voyager", "zh-TW": "Plymouth Voyager", "ja": "プリマス・ボイジャー"},
+      "segment": "class:us:minivan",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1974–2000",
+      "note": "与道奇Caravan同平台的初代MPV(1984年起为厢式休旅形态),2000年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:plymouth:prowler",
+      "brand": "Plymouth",
+      "names": {"en": "Plymouth Prowler", "zh-CN": "普利茅斯Prowler", "zh-TW": "Plymouth Prowler", "ja": "プリマス・プロウラー"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2002",
+      "note": "复古热rod造型敞篷车(1997年投产,后挂克莱斯勒标),2002年停产",
+      "verified": "verified"
+    }
+  ]
+}

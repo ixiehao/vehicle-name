@@ -1,0 +1,64 @@
+{
+  "models": [
+    {
+      "id": "model:ssangyong:rexton",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Rexton", "zh-CN": "双龙雷斯特", "zh-TW": "雙龍Rexton", "ja": "サンヨン・レックスターン"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001–present",
+      "note": "品牌旗舰非承载式中大型SUV(2024年第四代,现以KGM品牌销售)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:korando",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Korando", "zh-CN": "双龙柯兰多", "zh-TW": "雙龍Korando", "ja": "サンヨン・コランド"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "紧凑型SUV(2023年电动化改款Korando e-Motion),现以KGM品牌销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:tivoli",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Tivoli", "zh-CN": "双龙蒂维拉", "zh-TW": "雙龍Tivoli", "ja": "サンヨン・ティボリ"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "品牌首款小型跨界SUV,含加长版XLV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:torres",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Torres", "zh-CN": "双龙Torres", "zh-TW": "雙龍Torres", "ja": "サンヨン・トレス"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "硬派风格中型SUV(2022年上市),含纯电Torres EVX",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:chairman",
+      "brand": "SsangYong",
+      "names": {"en": "SsangYong Chairman", "zh-CN": "双龙主席", "zh-TW": "雙龍Chairman", "ja": "サンヨン・チェアマン"},
+      "segment": "class:cn:d",
+      "body_style": "body:limousine",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2017",
+      "note": "旗舰豪华轿车(基于奔驰E级技术,含加长版),2017年停产",
+      "verified": "verified"
+    }
+  ]
+}

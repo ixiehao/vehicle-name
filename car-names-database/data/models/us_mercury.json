@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:mercury:grand-marquis",
+      "brand": "Mercury",
+      "names": {"en": "Mercury Grand Marquis", "zh-CN": "水星Grand Marquis", "zh-TW": "水星Grand Marquis", "ja": "マーキュリー・グランドマーキス"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–2011",
+      "note": "品牌末代车型(北美出租车/礼宾车经典),2011年随品牌停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mercury:mountaineer",
+      "brand": "Mercury",
+      "names": {"en": "Mercury Mountaineer", "zh-CN": "水星Mountaineer", "zh-TW": "水星Mountaineer", "ja": "マーキュリー・マウンテニア"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2010",
+      "note": "福特探险者姊妹车(豪华版SUV),2010年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mercury:cougar",
+      "brand": "Mercury",
+      "names": {"en": "Mercury Cougar", "zh-CN": "水星Cougar", "zh-TW": "水星Cougar", "ja": "マーキュリー・クーガー"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1967–2002",
+      "note": "经典Pony Car/轿跑(1967年上市),2002年停产",
+      "verified": "verified"
+    }
+  ]
+}

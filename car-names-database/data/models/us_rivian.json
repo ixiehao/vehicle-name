@@ -1,0 +1,40 @@
+{
+  "models": [
+    {
+      "id": "model:rivian:r1t",
+      "brand": "Rivian",
+      "names": {"en": "Rivian R1T", "zh-CN": "Rivian R1T", "zh-TW": "Rivian R1T", "ja": "リビアンR1T"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "品牌首款量产车,纯电中型皮卡(2021年交付,2024年第二代)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:rivian:r1s",
+      "brand": "Rivian",
+      "names": {"en": "Rivian R1S", "zh-CN": "Rivian R1S", "zh-TW": "Rivian R1S", "ja": "リビアンR1S"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "纯电三排座SUV(2022年交付,与R1T同平台,2024年第二代)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:rivian:r2",
+      "brand": "Rivian",
+      "names": {"en": "Rivian R2", "zh-CN": "Rivian R2", "zh-TW": "Rivian R2", "ja": "リビアンR2"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "入门级中型纯电SUV(2024年发布,2026年交付),另规划紧凑型R3",
+      "verified": "verified"
+    }
+  ]
+}

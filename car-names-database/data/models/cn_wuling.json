@@ -1,0 +1,160 @@
+{
+  "models": [
+    {
+      "id": "model:wuling:hongguang-mini",
+      "brand": "Wuling",
+      "names": {"en": "Hongguang Mini EV", "zh-CN": "宏光MINIEV", "zh-TW": "Hongguang Mini EV", "ja": "ミニEV(Mini EV)"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "A00级纯电微型车,长期位居新能源销量前列;2025年以Mini EV之名进入日本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:bingo",
+      "brand": "Wuling",
+      "names": {"en": "Bingo", "zh-CN": "缤果", "zh-TW": "Bingo", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "A0级纯电五门小车(2023年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:starlight",
+      "brand": "Wuling",
+      "names": {"en": "Starlight", "zh-CN": "星光", "zh-TW": "Starlight", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "中型轿车,插混/纯电双动力",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:nebula",
+      "brand": "Wuling",
+      "names": {"en": "Nebula", "zh-CN": "星云", "zh-TW": "Nebula", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:hev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "紧凑型MPV,五菱混动(HEV)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:zhengcheng",
+      "brand": "Wuling",
+      "names": {"en": "Zhengcheng", "zh-CN": "征程", "zh-TW": "Zhengcheng", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "中大型商用MPV(7/9座)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:jiachen",
+      "brand": "Wuling",
+      "names": {"en": "Jiachen", "zh-CN": "佳辰", "zh-TW": "Jiachen", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "紧凑型家用MPV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:victory",
+      "brand": "Wuling",
+      "names": {"en": "Victory", "zh-CN": "凯捷", "zh-TW": "Victory", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "紧凑型MPV(五菱银标首款车型),含混动版;海外称Victory/Capgemini",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:sunshine",
+      "brand": "Wuling",
+      "names": {"en": "Sunshine", "zh-CN": "五菱之光", "zh-TW": "Sunshine", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2002–present",
+      "note": "国民微面(微型面包车),保有量极大;海外名Sunshine",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:hongguang",
+      "brand": "Wuling",
+      "names": {"en": "Hongguang", "zh-CN": "五菱宏光", "zh-TW": "Hongguang", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "国民神车(微面/MPV),曾登顶中国乘用车销量榜",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:rongguang",
+      "brand": "Wuling",
+      "names": {"en": "Rongguang", "zh-CN": "五菱荣光", "zh-TW": "Rongguang", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "微面/轻客(五菱荣光系列)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:baojun-510",
+      "brand": "Wuling",
+      "names": {"en": "Baojun 510", "zh-CN": "宝骏510", "zh-TW": "Baojun 510", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2022",
+      "note": "宝骏(Baojun)子品牌小型SUV,曾为现象级爆款;2022年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:baojun-530",
+      "brand": "Wuling",
+      "names": {"en": "Baojun 530", "zh-CN": "宝骏530", "zh-TW": "Baojun 530", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2022",
+      "note": "宝骏(Baojun)子品牌紧凑型SUV;约2022年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:wuling:baojun-kiwi",
+      "brand": "Wuling",
+      "names": {"en": "Baojun KiWi EV", "zh-CN": "宝骏KiWi EV", "zh-TW": "Baojun KiWi EV", "ja": "—"},
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2021–2023",
+      "note": "宝骏(Baojun)子品牌A00级纯电微型车;约2023年停产",
+      "verified": "verified"
+    }
+  ]
+}

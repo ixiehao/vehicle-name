@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:oldsmobile:cutlass",
+      "brand": "Oldsmobile",
+      "names": {"en": "Oldsmobile Cutlass", "zh-CN": "奥兹莫比尔Cutlass", "zh-TW": "Oldsmobile Cutlass", "ja": "オールズモビル・カトラス"},
+      "segment": "class:us:midsize",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1961–1999",
+      "note": "品牌销量主力(含Cutlass Supreme/442性能版),1999年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:oldsmobile:88",
+      "brand": "Oldsmobile",
+      "names": {"en": "Oldsmobile 88", "zh-CN": "奥兹莫比尔88", "zh-TW": "Oldsmobile 88", "ja": "オールズモビル88"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1949–1999",
+      "note": "经典全尺寸轿车(与98对应定位),1999年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:oldsmobile:toronado",
+      "brand": "Oldsmobile",
+      "names": {"en": "Oldsmobile Toronado", "zh-CN": "奥兹莫比尔Toronado", "zh-TW": "Oldsmobile Toronado", "ja": "オールズモビル・トロネード"},
+      "segment": "class:us:large",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1992",
+      "note": "前驱大型轿跑(1966年开创前驱V8豪华车),1992年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:oldsmobile:aurora",
+      "brand": "Oldsmobile",
+      "names": {"en": "Oldsmobile Aurora", "zh-CN": "奥兹莫比尔Aurora", "zh-TW": "Oldsmobile Aurora", "ja": "オールズモビル・オーロラ"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1995–2003",
+      "note": "品牌复兴旗舰轿车(1995年上市),2003年停产",
+      "verified": "verified"
+    }
+  ]
+}

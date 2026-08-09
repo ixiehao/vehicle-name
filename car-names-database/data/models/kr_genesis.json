@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:genesis:g70",
+      "brand": "Genesis",
+      "names": {"en": "G70", "zh-CN": "G70", "zh-TW": "G70", "ja": "G70"},
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "紧凑型运动豪华轿车;2025年起中国市场停售,韩国生产至2027年(无第二代计划);相关概念车Essentia(2018)未量产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:genesis:g80",
+      "brand": "Genesis",
+      "names": {"en": "G80", "zh-CN": "G80", "zh-TW": "G80", "ja": "G80"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "中大型行政轿车,前身为现代捷恩斯(2007-2016);含纯电Electrified G80(2021-)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:genesis:g90",
+      "brand": "Genesis",
+      "names": {"en": "G90", "zh-CN": "G90", "zh-TW": "G90", "ja": "G90"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "旗舰豪华轿车,前身为现代雅科仕(Equus);中国市场有加长版G90L",
+      "verified": "verified"
+    },
+    {
+      "id": "model:genesis:gv60",
+      "brand": "Genesis",
+      "names": {"en": "GV60", "zh-CN": "GV60", "zh-TW": "GV60", "ja": "GV60"},
+      "segment": "class:eu:c",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "纯电紧凑型跨界车,基于E-GMP平台;2025年进口引入中国",
+      "verified": "verified"
+    },
+    {
+      "id": "model:genesis:gv70",
+      "brand": "Genesis",
+      "names": {"en": "GV70", "zh-CN": "GV70", "zh-TW": "GV70", "ja": "GV70"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "紧凑型豪华SUV;含纯电Electrified GV70(2022-)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:genesis:gv80",
+      "brand": "Genesis",
+      "names": {"en": "GV80", "zh-CN": "GV80", "zh-TW": "GV80", "ja": "GV80"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "中大型豪华SUV;2024年推出轿跑版GV80 Coupe",
+      "verified": "verified"
+    },
+    {
+      "id": "model:genesis:gv80-coupe",
+      "brand": "Genesis",
+      "names": {"en": "GV80 Coupe", "zh-CN": "GV80 Coupe", "zh-TW": "GV80 Coupe", "ja": "GV80 Coupe"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "GV80轿跑SUV版(溜背造型),2024年随GV80中期改款发布上市;2.5T/3.5T双涡轮汽油动力",
+      "verified": "verified"
+    }
+  ]
+}

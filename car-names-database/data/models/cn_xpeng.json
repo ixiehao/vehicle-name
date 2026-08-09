@@ -1,0 +1,124 @@
+{
+  "models": [
+    {
+      "id": "model:xpeng:p5",
+      "brand": "XPeng",
+      "names": {"en": "P5", "zh-CN": "小鹏P5", "zh-TW": "P5(未导入)", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "小鹏紧凑型纯电轿车(主打城市智驾/大空间);日本市场未导入",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:p7",
+      "brand": "XPeng",
+      "names": {"en": "P7", "zh-CN": "小鹏P7", "zh-TW": "P7(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "小鹏首款轿车,中型纯电轿跑;2023年P7i改款并取代原P7,海外/港澳在售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:p6",
+      "brand": "XPeng",
+      "names": {"en": "P6", "zh-CN": "小鹏P6", "zh-TW": "P6(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "小鹏中型纯电轿车(2025年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:g3",
+      "brand": "XPeng",
+      "names": {"en": "G3", "zh-CN": "小鹏G3", "zh-TW": "G3(未导入)", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2023",
+      "note": "小鹏首款量产车,紧凑型纯电SUV;2021年G3i改款(并入本条);2023年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:g6",
+      "brand": "XPeng",
+      "names": {"en": "G6", "zh-CN": "小鹏G6", "zh-TW": "G6(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "小鹏中型纯电轿跑SUV(800V平台,SEPA 2.0)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:g7",
+      "brand": "XPeng",
+      "names": {"en": "G7", "zh-CN": "小鹏G7", "zh-TW": "G7(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "小鹏中型纯电SUV(2025年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:g9",
+      "brand": "XPeng",
+      "names": {"en": "G9", "zh-CN": "小鹏G9", "zh-TW": "G9(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "小鹏旗舰中大型纯电SUV(800V平台)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:x9",
+      "brand": "XPeng",
+      "names": {"en": "X9", "zh-CN": "小鹏X9", "zh-TW": "X9(未导入)", "ja": "—"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "小鹏大型纯电MPV(7座,后轮转向)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:mona-m03",
+      "brand": "XPeng",
+      "names": {"en": "MONA M03", "zh-CN": "MONA M03", "zh-TW": "MONA M03(未导入)", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "小鹏MONA子品牌首款车型,紧凑型纯电轿车(低价走量)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:xpeng:p7-plus",
+      "brand": "XPeng",
+      "names": {"en": "P7+", "zh-CN": "小鹏P7+", "zh-TW": "P7+(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "小鹏2024年10月巴黎车展发布、11月上市的中大型纯电轿车(车长5.06米/轴距3.0米),较P7更大,主打纯视觉智驾",
+      "verified": "verified"
+    }
+  ]
+}

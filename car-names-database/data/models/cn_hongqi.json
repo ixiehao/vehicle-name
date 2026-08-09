@@ -1,0 +1,172 @@
+{
+  "models": [
+    {
+      "id": "model:hongqi:h5",
+      "brand": "Hongqi",
+      "names": {"en": "H5", "zh-CN": "红旗H5", "zh-TW": "Hongqi H5", "ja": "H5"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "中型轿车,2023年第二代换代;日本市场以H5等字母型号销售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:h6",
+      "brand": "Hongqi",
+      "names": {"en": "H6", "zh-CN": "红旗H6", "zh-TW": "Hongqi H6", "ja": "H6"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "B+级运动轿车(轿跑造型)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:h7",
+      "brand": "Hongqi",
+      "names": {"en": "H7", "zh-CN": "红旗H7", "zh-TW": "Hongqi H7", "ja": "H7"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "红旗品牌复兴首款战略车型(2013年上市);现售状态待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:hongqi:h9",
+      "brand": "Hongqi",
+      "names": {"en": "H9", "zh-CN": "红旗H9", "zh-TW": "Hongqi H9", "ja": "H9"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "中大型豪华轿车(双色车身),含H9+礼宾版;2023年起进入日本市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:hq9",
+      "brand": "Hongqi",
+      "names": {"en": "HQ9", "zh-CN": "红旗HQ9", "zh-TW": "Hongqi HQ9", "ja": "HQ9"},
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中大型MPV(7座,2.0T)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:e-hs3",
+      "brand": "Hongqi",
+      "names": {"en": "E-HS3", "zh-CN": "红旗E-HS3", "zh-TW": "Hongqi E-HS3", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "红旗首款纯电车型(紧凑型SUV);约2021年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:e-hs9",
+      "brand": "Hongqi",
+      "names": {"en": "E-HS9", "zh-CN": "红旗E-HS9", "zh-TW": "Hongqi E-HS9", "ja": "E-HS9"},
+      "segment": "class:cn:d",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "大型纯电SUV(6/7座);日本市场亦有导入",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:hs3",
+      "brand": "Hongqi",
+      "names": {"en": "HS3", "zh-CN": "红旗HS3", "zh-TW": "Hongqi HS3", "ja": "HS3"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "紧凑型SUV(红旗入门SUV)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:hs5",
+      "brand": "Hongqi",
+      "names": {"en": "HS5", "zh-CN": "红旗HS5", "zh-TW": "Hongqi HS5", "ja": "HS5"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "中型SUV,2023年第二代换代;2023年随红旗进入日本市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:hs7",
+      "brand": "Hongqi",
+      "names": {"en": "HS7", "zh-CN": "红旗HS7", "zh-TW": "Hongqi HS7", "ja": "HS7"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "中大型SUV,2023年换代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:guoli",
+      "brand": "Hongqi",
+      "names": {"en": "Guoli", "zh-CN": "国礼", "zh-TW": "Hongqi Guoli", "ja": "—"},
+      "segment": "class:cn:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "金葵花系列礼宾级超豪华旗舰轿车(2024年发布);前身红旗L系列礼宾车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:l5",
+      "brand": "Hongqi",
+      "names": {"en": "L5", "zh-CN": "红旗L5", "zh-TW": "Hongqi L5", "ja": "—"},
+      "segment": "class:cn:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2021",
+      "note": "礼宾级旗舰(限量,V12/V8),约2021年停产,由国礼等金葵花车型接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:eh7",
+      "brand": "Hongqi",
+      "names": {"en": "EH7", "zh-CN": "红旗EH7", "zh-TW": "Hongqi EH7(未导入)", "ja": "EH7"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "红旗「天工」纯电平台首款轿车,2024年3月上市,中大型五座纯电轿车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:ehs7",
+      "brand": "Hongqi",
+      "names": {"en": "EHS7", "zh-CN": "红旗EHS7", "zh-TW": "Hongqi EHS7(未导入)", "ja": "EHS7"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "红旗「天工」纯电平台中大型SUV,2024年上市,与EH7同代姊妹车",
+      "verified": "verified"
+    }
+  ]
+}

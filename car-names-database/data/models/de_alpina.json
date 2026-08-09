@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:alpina:b3",
+      "brand": "Alpina",
+      "names": {"en": "Alpina B3", "zh-CN": "阿尔宾娜B3", "zh-TW": "Alpina B3", "ja": "アルピナB3"},
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1985–present",
+      "note": "基于宝马3系的调校升级版(现售G20世代B3/B3 Touring)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:alpina:b5",
+      "brand": "Alpina",
+      "names": {"en": "Alpina B5", "zh-CN": "阿尔宾娜B5", "zh-TW": "Alpina B5", "ja": "アルピナB5"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1991–present",
+      "note": "基于宝马5系的高性能行政轿车(含B5 GT)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:alpina:b8",
+      "brand": "Alpina",
+      "names": {"en": "Alpina B8 Gran Coupé", "zh-CN": "阿尔宾娜B8", "zh-TW": "Alpina B8", "ja": "アルピナB8"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "基于宝马8系Gran Coupé的豪华GT",
+      "verified": "verified"
+    },
+    {
+      "id": "model:alpina:xb7",
+      "brand": "Alpina",
+      "names": {"en": "Alpina XB7", "zh-CN": "阿尔宾娜XB7", "zh-TW": "Alpina XB7", "ja": "アルピナXB7"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "基于宝马X7的旗舰性能SUV",
+      "verified": "verified"
+    }
+  ]
+}

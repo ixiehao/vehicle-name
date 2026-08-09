@@ -1,0 +1,136 @@
+{
+  "models": [
+    {
+      "id": "model:dodge:charger",
+      "brand": "Dodge",
+      "names": {"en": "Charger", "zh-CN": "Charger", "zh-TW": "Charger", "ja": "チャージャー"},
+      "segment": "class:us:large",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1966–present",
+      "note": "2023年停产一年,2024年发布全新一代(2025款,含纯电版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:challenger",
+      "brand": "Dodge",
+      "names": {"en": "Challenger", "zh-CN": "Challenger(挑战者)", "zh-TW": "Challenger", "ja": "チャレンジャー"},
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1970–1974; 2008–2023",
+      "note": "2023年停产;大陆常音译「挑战者」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:durango",
+      "brand": "Dodge",
+      "names": {"en": "Durango", "zh-CN": "Durango", "zh-TW": "Durango", "ja": "デュランゴ"},
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1998–present",
+      "note": "三排座SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:hornet",
+      "brand": "Dodge",
+      "names": {"en": "Hornet", "zh-CN": "Hornet", "zh-TW": "Hornet", "ja": "ホーネット"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "与阿尔法·罗密欧Tonale同平台;历史名号1970–1975",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:journey",
+      "brand": "Dodge",
+      "names": {"en": "Journey", "zh-CN": "Journey", "zh-TW": "Journey", "ja": "ジャーニー"},
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2020",
+      "note": "2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:grand-caravan",
+      "brand": "Dodge",
+      "names": {"en": "Grand Caravan", "zh-CN": "Grand Caravan", "zh-TW": "Grand Caravan", "ja": "グランドキャラバン"},
+      "segment": "class:us:minivan",
+      "body_style": "body:minivan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–2020",
+      "note": "2020年停产;加拿大续产至2021年",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:dart",
+      "brand": "Dodge",
+      "names": {"en": "Dart", "zh-CN": "Dart", "zh-TW": "Dart", "ja": "ダート"},
+      "segment": "class:us:compact",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1960–1976; 2013–2016",
+      "note": "2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:avenger",
+      "brand": "Dodge",
+      "names": {"en": "Avenger", "zh-CN": "Avenger", "zh-TW": "Avenger", "ja": "アベンジャー"},
+      "segment": "class:us:midsize",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2014",
+      "note": "2014年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:magnum",
+      "brand": "Dodge",
+      "names": {"en": "Magnum", "zh-CN": "Magnum", "zh-TW": "Magnum", "ja": "マグナム"},
+      "segment": "class:us:midsize",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2008",
+      "note": "大型旅行车,与Charger同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:viper",
+      "brand": "Dodge",
+      "names": {"en": "Viper", "zh-CN": "Viper(蝰蛇)", "zh-TW": "Viper", "ja": "バイパー"},
+      "segment": "class:eu:s",
+      "body_style": "body:sports",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992–2017",
+      "note": "V10自然吸气跑车,2017年停产;大陆常译「蝰蛇」",
+      "verified": "verified"
+    },
+    {
+      "id": "model:dodge:neon",
+      "brand": "Dodge",
+      "names": {"en": "Neon", "zh-CN": "Neon", "zh-TW": "Neon", "ja": "ネオン"},
+      "segment": "class:us:compact",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994–2005",
+      "note": "1990年代道奇入门轿车",
+      "verified": "verified"
+    }
+  ]
+}

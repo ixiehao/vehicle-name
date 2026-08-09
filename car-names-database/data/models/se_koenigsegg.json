@@ -1,0 +1,112 @@
+{
+  "models": [
+    {
+      "id": "model:koenigsegg:jesko",
+      "brand": "Koenigsegg",
+      "names": {"en": "Jesko", "zh-CN": "Jesko", "zh-TW": "Jesko", "ja": "イェスコ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "限量约125辆,含Jesko Attack与Jesko Absolut版本;5.0L双涡轮V8",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:gemera",
+      "brand": "Koenigsegg",
+      "names": {"en": "Gemera", "zh-CN": "Gemera", "zh-TW": "Gemera", "ja": "ジェメラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "品牌首款四座Mega-GT,插混动力(2.0L三缸+电机),限量300辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:regera",
+      "brand": "Koenigsegg",
+      "names": {"en": "Regera", "zh-CN": "Regera", "zh-TW": "Regera", "ja": "レゲーラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "插混超级跑车,采用KDD直驱系统(无变速箱),约80辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:cc8s",
+      "brand": "Koenigsegg",
+      "names": {"en": "CC8S", "zh-CN": "CC8S", "zh-TW": "CC8S", "ja": "CC8S"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2003",
+      "note": "品牌首款量产街车,仅6辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:ccr",
+      "brand": "Koenigsegg",
+      "names": {"en": "CCR", "zh-CN": "CCR", "zh-TW": "CCR", "ja": "CCR"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2006",
+      "note": "CC8S高性能版,2005年曾创量产车极速纪录,仅14辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:ccx",
+      "brand": "Koenigsegg",
+      "names": {"en": "CCX", "zh-CN": "CCX", "zh-TW": "CCX", "ja": "CCX"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2010",
+      "note": "面向全球(含美国)合规打造的车型,含乙醇燃料版CCXR",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:agera",
+      "brand": "Koenigsegg",
+      "names": {"en": "Agera", "zh-CN": "Agera", "zh-TW": "Agera", "ja": "アゲーラ"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2018",
+      "note": "Agera R/RS/Final等版本并入;Agera RS曾创447km/h量产车极速纪录",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:one-1",
+      "brand": "Koenigsegg",
+      "names": {"en": "One:1", "zh-CN": "One:1", "zh-TW": "One:1", "ja": "One:1(ワン・ワン)"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2015",
+      "note": "重量功率比1:1得名,基于Agera平台,含原型车共7辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:koenigsegg:cc850",
+      "brand": "Koenigsegg",
+      "names": {"en": "CC850", "zh-CN": "CC850", "zh-TW": "CC850", "ja": "CC850"},
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "2022年发布的致敬车型(品牌20周年+创始人驾照号850),5.0L双涡轮V8,850hp(E85约1060hp),限量约70台;9速LST自动变速箱可选手动模式",
+      "verified": "verified"
+    }
+  ]
+}

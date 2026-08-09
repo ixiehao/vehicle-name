@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "id": "model:lucid:air",
+      "brand": "Lucid",
+      "names": {"en": "Lucid Air", "zh-CN": "Lucid Air", "zh-TW": "Lucid Air", "ja": "ルシード・エア"},
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "品牌首款纯电豪华轿车(2021年交付,Grand Touring/Sapphire性能版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lucid:gravity",
+      "brand": "Lucid",
+      "names": {"en": "Lucid Gravity", "zh-CN": "Lucid Gravity", "zh-TW": "Lucid Gravity", "ja": "ルシード・グラビティ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "品牌首款纯电SUV(2024年发布,2025年交付)",
+      "verified": "verified"
+    }
+  ]
+}

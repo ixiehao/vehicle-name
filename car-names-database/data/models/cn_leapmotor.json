@@ -1,0 +1,76 @@
+{
+  "models": [
+    {
+      "id": "model:leapmotor:t03",
+      "brand": "Leapmotor",
+      "names": {"en": "Leapmotor T03", "zh-CN": "零跑T03", "zh-TW": "Leapmotor T03(未导入)", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "A0级纯电微型车(2020年上市),出口欧洲(2023年Stellantis渠道)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:c11",
+      "brand": "Leapmotor",
+      "names": {"en": "Leapmotor C11", "zh-CN": "零跑C11", "zh-TW": "Leapmotor C11(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "品牌首款SUV(2021年上市,纯电/增程双动力),2026款在售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:c01",
+      "brand": "Leapmotor",
+      "names": {"en": "Leapmotor C01", "zh-CN": "零跑C01", "zh-TW": "Leapmotor C01(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中大型纯电轿车(2022年上市,纯电/增程)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:c10",
+      "brand": "Leapmotor",
+      "names": {"en": "Leapmotor C10", "zh-CN": "零跑C10", "zh-TW": "Leapmotor C10(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "全球化车型(2024年上市,纯电/增程,出口欧洲)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:c16",
+      "brand": "Leapmotor",
+      "names": {"en": "Leapmotor C16", "zh-CN": "零跑C16", "zh-TW": "Leapmotor C16(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "中大型6座纯电/增程SUV(2024年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:b10",
+      "brand": "Leapmotor",
+      "names": {"en": "Leapmotor B10", "zh-CN": "零跑B10", "zh-TW": "Leapmotor B10(未导入)", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "B系列首款全球车型(2025年上市,纯电紧凑SUV)",
+      "verified": "verified"
+    }
+  ]
+}

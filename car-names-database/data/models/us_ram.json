@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "model:ram:1500",
+      "brand": "RAM",
+      "names": {"en": "1500", "zh-CN": "RAM 1500", "zh-TW": "1500", "ja": "ラム1500"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1981–present",
+      "note": "前身为Dodge Ram(1981–2009),2010年RAM独立为品牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ram:2500",
+      "brand": "RAM",
+      "names": {"en": "2500", "zh-CN": "RAM 2500", "zh-TW": "2500", "ja": "ラム2500"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1981–present",
+      "note": "Heavy Duty级重型皮卡,含Power Wagon版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ram:3500",
+      "brand": "RAM",
+      "names": {"en": "3500", "zh-CN": "RAM 3500", "zh-TW": "3500", "ja": "ラム3500"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1981–present",
+      "note": "一吨级重型皮卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ram:4500-5500-chassis-cab",
+      "brand": "RAM",
+      "names": {"en": "4500/5500 Chassis Cab", "zh-CN": "RAM 4500/5500", "zh-TW": "4500/5500 Chassis Cab", "ja": "ラム4500/5500"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "商用底盘驾驶室(Chassis Cab)车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ram:promaster",
+      "brand": "RAM",
+      "names": {"en": "ProMaster", "zh-CN": "ProMaster", "zh-TW": "ProMaster", "ja": "プロマスター"},
+      "segment": "class:eu:m",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "基于菲亚特Ducato平台的厢式货车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ram:rampage",
+      "brand": "RAM",
+      "names": {"en": "Rampage", "zh-CN": "Rampage", "zh-TW": "Rampage", "ja": "ラム・ランページ"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "承载式紧凑型皮卡(与Jeep Compass同平台系),2023年巴西首发,2025年起进入北美",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ram:dakota",
+      "brand": "RAM",
+      "names": {"en": "Dakota", "zh-CN": "Dakota", "zh-TW": "Dakota", "ja": "ダコタ"},
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1987–2011",
+      "note": "中型皮卡,2011年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ram:ram-van",
+      "brand": "RAM",
+      "names": {"en": "Ram Van", "zh-CN": "Ram Van", "zh-TW": "Ram Van", "ja": "ラムバン"},
+      "segment": "class:us:large",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1971–2003",
+      "note": "原名Dodge Ram Van(B系列厢式车)",
+      "verified": "verified"
+    }
+  ]
+}

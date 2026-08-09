@@ -1,0 +1,100 @@
+{
+  "models": [
+    {
+      "id": "model:faw:besturn-b50",
+      "brand": "FAW",
+      "names": {"en": "Besturn B50", "zh-CN": "奔腾B50", "zh-TW": "Besturn B50", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2019",
+      "note": "奔腾(Besturn)子品牌紧凑型轿车(一汽马自达6底盘);约2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:faw:besturn-b70",
+      "brand": "FAW",
+      "names": {"en": "Besturn B70", "zh-CN": "奔腾B70", "zh-TW": "Besturn B70", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2006–present",
+      "note": "奔腾(Besturn)子品牌中型轿车,2020年第三代换代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:faw:besturn-t77",
+      "brand": "FAW",
+      "names": {"en": "Besturn T77", "zh-CN": "奔腾T77", "zh-TW": "Besturn T77", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "奔腾(Besturn)子品牌紧凑型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:faw:besturn-t90",
+      "brand": "FAW",
+      "names": {"en": "Besturn T90", "zh-CN": "奔腾T90", "zh-TW": "Besturn T90", "ja": "—"},
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "奔腾(Besturn)子品牌紧凑型SUV(2023年上市)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:faw:besturn-t99",
+      "brand": "FAW",
+      "names": {"en": "Besturn T99", "zh-CN": "奔腾T99", "zh-TW": "Besturn T99", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "奔腾(Besturn)子品牌中型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:faw:besturn-x40",
+      "brand": "FAW",
+      "names": {"en": "Besturn X40", "zh-CN": "奔腾X40", "zh-TW": "Besturn X40", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2021",
+      "note": "奔腾(Besturn)子品牌小型SUV;已停产,停产时间待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:faw:junpai-d60",
+      "brand": "FAW",
+      "names": {"en": "Junpai D60", "zh-CN": "骏派D60", "zh-TW": "Junpai D60", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "骏派(Junpai)子品牌(一汽天津)小型SUV;已停产,年份待核实",
+      "verified": "pending"
+    },
+    {
+      "id": "model:faw:xiali",
+      "brand": "FAW",
+      "names": {"en": "Xiali", "zh-CN": "夏利", "zh-TW": "Xiali", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–2015",
+      "note": "天津一汽经典国民车(源自大发Charade技术),2015年停产;夏利属一汽集团体系",
+      "verified": "verified"
+    }
+  ]
+}

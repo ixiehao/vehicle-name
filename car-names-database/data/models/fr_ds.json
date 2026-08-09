@@ -1,0 +1,88 @@
+{
+  "models": [
+    {
+      "id": "model:ds:ds-3",
+      "brand": "DS",
+      "names": {"en": "DS 3", "zh-CN": "DS 3", "zh-TW": "DS 3", "ja": "DS 3(ディーエス・トロワ)"},
+      "segment": "class:eu:b",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "现款即原DS 3 Crossback(2019),2023年更名DS 3,含纯电e-DS 3;初代DS 3(2009-2015)曾挂雪铁龙标",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ds:ds-4",
+      "brand": "DS",
+      "names": {"en": "DS 4", "zh-CN": "DS 4", "zh-TW": "DS 4", "ja": "DS 4"},
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "紧凑型车;初代DS 4(2010-2015)曾挂雪铁龙标",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ds:ds-7",
+      "brand": "DS",
+      "names": {"en": "DS 7", "zh-CN": "DS 7", "zh-TW": "DS 7", "ja": "DS 7"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "紧凑型SUV(2022款起含轻混/PHEV);中国由长安谛艾仕国产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ds:ds-9",
+      "brand": "DS",
+      "names": {"en": "DS 9", "zh-CN": "DS 9", "zh-TW": "DS 9", "ja": "DS 9"},
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "旗舰行政级轿车,面向中国市场开发;含PHEV版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ds:ds-5",
+      "brand": "DS",
+      "names": {"en": "DS 5", "zh-CN": "DS 5", "zh-TW": "DS 5", "ja": "DS 5"},
+      "segment": "class:eu:d",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2018",
+      "note": "跨界风格掀背车;2011-2015曾挂雪铁龙标,2015年后归DS品牌",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ds:ds-5ls",
+      "brand": "DS",
+      "names": {"en": "DS 5LS", "zh-CN": "DS 5LS", "zh-TW": "DS 5LS", "ja": "DS 5LS"},
+      "segment": "class:eu:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "中国特供紧凑型三厢轿车(长安谛艾仕)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:ds:ds-6",
+      "brand": "DS",
+      "names": {"en": "DS 6", "zh-CN": "DS 6", "zh-TW": "DS 6", "ja": "DS 6"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2019",
+      "note": "中国特供紧凑型SUV(长安谛艾仕)",
+      "verified": "verified"
+    }
+  ]
+}

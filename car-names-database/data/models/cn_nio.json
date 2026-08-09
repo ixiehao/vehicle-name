@@ -1,0 +1,112 @@
+{
+  "models": [
+    {
+      "id": "model:nio:et5",
+      "brand": "NIO",
+      "names": {"en": "ET5", "zh-CN": "ET5", "zh-TW": "ET5(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "蔚来中型纯电轿车(NT2.0平台),中文名直接用ET5;日本市场未导入",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:et5t",
+      "brand": "NIO",
+      "names": {"en": "ET5 Touring", "zh-CN": "ET5T(旅行版)", "zh-TW": "ET5 Touring(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:wagon",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "蔚来ET5旅行版(猎装车),中国市场称ET5T",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:et7",
+      "brand": "NIO",
+      "names": {"en": "ET7", "zh-CN": "ET7", "zh-TW": "ET7(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "蔚来旗舰中大型纯电轿车(5.1米级)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:es6",
+      "brand": "NIO",
+      "names": {"en": "ES6", "zh-CN": "ES6", "zh-TW": "ES6(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "蔚来中型纯电SUV;初代2019,2023年第二代换代;2023年起欧洲市场更名EL6",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:es7",
+      "brand": "NIO",
+      "names": {"en": "ES7", "zh-CN": "ES7", "zh-TW": "ES7(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "蔚来中大型纯电SUV;2023年起欧洲市场更名EL7",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:es8",
+      "brand": "NIO",
+      "names": {"en": "ES8", "zh-CN": "ES8", "zh-TW": "ES8(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2018–present",
+      "note": "蔚来首款量产车,中大型纯电SUV(6/7座);初代2018,2022年第二代;2023年起欧洲市场更名EL8",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:ec6",
+      "brand": "NIO",
+      "names": {"en": "EC6", "zh-CN": "EC6", "zh-TW": "EC6(未导入)", "ja": "—"},
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "蔚来中型纯电轿跑SUV;初代2020,2023年第二代换代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:ec7",
+      "brand": "NIO",
+      "names": {"en": "EC7", "zh-CN": "EC7", "zh-TW": "EC7(未导入)", "ja": "—"},
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "蔚来中大型纯电轿跑SUV(旗舰轿跑)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nio:firefly",
+      "brand": "NIO",
+      "names": {"en": "Firefly", "zh-CN": "萤火虫", "zh-TW": "Firefly(未导入)", "ja": "—"},
+      "segment": "class:cn:a0",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "蔚来第三品牌「firefly 萤火虫」首款车型,2024年12月NIO Day发布、2025年4月上市;约4米级小型纯电跨界车,欧洲市场同名Firefly",
+      "verified": "verified"
+    }
+  ]
+}

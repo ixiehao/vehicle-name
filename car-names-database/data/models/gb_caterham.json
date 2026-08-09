@@ -1,0 +1,16 @@
+{
+  "models": [
+    {
+      "id": "model:caterham:seven",
+      "brand": "Caterham",
+      "names": {"en": "Caterham Seven", "zh-CN": "卡特汉姆Seven", "zh-TW": "Caterham Seven", "ja": "カターハム・セブン"},
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1973–present",
+      "note": "源自路特斯Seven的极致轻量化开放赛车,含620R/360R等版本,持续生产至今",
+      "verified": "verified"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "models": [
+    {
+      "id": "model:lada:vesta",
+      "brand": "Lada",
+      "names": {"en": "Lada Vesta", "zh-CN": "拉达Vesta", "zh-TW": "Lada Vesta", "ja": "ラーダ・ヴェスタ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "俄罗斯市场主力紧凑型轿车,2024年大改款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lada:granta",
+      "brand": "Lada",
+      "names": {"en": "Lada Granta", "zh-CN": "拉达Granta", "zh-TW": "Lada Granta", "ja": "ラーダ・グランタ"},
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2011–present",
+      "note": "入门平价轿车(俄市场销量冠军级),含掀背/旅行版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lada:niva",
+      "brand": "Lada",
+      "names": {"en": "Lada Niva Legend", "zh-CN": "拉达Niva", "zh-TW": "Lada Niva", "ja": "ラーダ・ニーバ"},
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1977–present",
+      "note": "经典非承载式越野车(1977年投产至今,2024年更名Niva Legend);大陆早年有进口",
+      "verified": "verified"
+    },
+    {
+      "id": "model:lada:largus",
+      "brand": "Lada",
+      "names": {"en": "Lada Largus", "zh-CN": "拉达Largus", "zh-TW": "Lada Largus", "ja": "ラーダ・ラルグス"},
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "基于雷诺Dacia Logan MCV的7座MPV/货车,2024年出纯电版e-Largus",
+      "verified": "verified"
+    }
+  ]
+}
