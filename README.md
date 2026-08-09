@@ -10,6 +10,10 @@ English: [vehicle-names-database/README.en.md](vehicle-names-database/README.en.
 ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)
 ![CI](https://img.shields.io/github/actions/workflow/status/vehiclename/vehiclename/validate.yml?label=validate)
 
+<p align="center">
+  <img src="vehicle-names-database/assets/banner.jpg" alt="vehiclename" width="100%" />
+</p>
+
 ## 开源信息
 
 | 项目 | 内容 |
