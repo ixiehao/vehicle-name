@@ -39,7 +39,7 @@
     {
       "id": "model:suzuki:alto-lapin",
       "brand": "Suzuki",
-      "names": {"en": "Alto Lapin", "zh-CN": "Alto Lapin", "zh-TW": "Alto Lapin", "ja": "アルトラパン"},
+      "names": {"en": "Alto Lapin", "zh-CN": "奥拓兔子", "zh-TW": "Alto Lapin", "ja": "アルトラパン"},
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,7 +51,7 @@
     {
       "id": "model:suzuki:hustler",
       "brand": "Suzuki",
-      "names": {"en": "Hustler", "zh-CN": "Hustler", "zh-TW": "Hustler", "ja": "ハスラー"},
+      "names": {"en": "Hustler", "zh-CN": "哈斯拉", "zh-TW": "Hustler", "ja": "ハスラー"},
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -99,7 +99,7 @@
     {
       "id": "model:suzuki:every",
       "brand": "Suzuki",
-      "names": {"en": "Every", "zh-CN": "Every", "zh-TW": "Every", "ja": "エブリイ"},
+      "names": {"en": "Every", "zh-CN": "浪迪（昌河铃木）", "zh-TW": "Every", "ja": "エブリイ"},
       "segment": "class:jp:kei",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -195,7 +195,7 @@
     {
       "id": "model:suzuki:samurai",
       "brand": "Suzuki",
-      "names": {"en": "Samurai", "zh-CN": "Samurai", "zh-TW": "Samurai", "ja": "ジムニー(SJ)"},
+      "names": {"en": "Samurai", "zh-CN": "吉姆尼武士", "zh-TW": "Samurai", "ja": "ジムニー(SJ)"},
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -207,7 +207,7 @@
     {
       "id": "model:suzuki:cappuccino",
       "brand": "Suzuki",
-      "names": {"en": "Cappuccino", "zh-CN": "Cappuccino", "zh-TW": "Cappuccino", "ja": "カプチーノ"},
+      "names": {"en": "Cappuccino", "zh-CN": "卡布奇诺", "zh-TW": "Cappuccino", "ja": "カプチーノ"},
       "segment": "class:jp:kei",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -279,7 +279,7 @@
     {
       "id": "model:suzuki:fronte",
       "brand": "Suzuki",
-      "names": {"en": "Fronte", "zh-CN": "—", "zh-TW": "Fronte", "ja": "フロンテ"},
+      "names": {"en": "Fronte", "zh-CN": "Fronte", "zh-TW": "Fronte", "ja": "フロンテ"},
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -291,7 +291,7 @@
     {
       "id": "model:suzuki:fronte-800",
       "brand": "Suzuki",
-      "names": {"en": "Fronte 800", "zh-CN": "—", "zh-TW": "Fronte 800", "ja": "フロンテ800"},
+      "names": {"en": "Fronte 800", "zh-CN": "Fronte 800", "zh-TW": "Fronte 800", "ja": "フロンテ800"},
       "segment": "class:eu:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -315,7 +315,7 @@
     {
       "id": "model:suzuki:mighty-boy",
       "brand": "Suzuki",
-      "names": {"en": "Mighty Boy", "zh-CN": "—", "zh-TW": "Mighty Boy", "ja": "マイティボーイ"},
+      "names": {"en": "Mighty Boy", "zh-CN": "Mighty Boy", "zh-TW": "Mighty Boy", "ja": "マイティボーイ"},
       "segment": "class:jp:kei",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -327,7 +327,7 @@
     {
       "id": "model:suzuki:cultus",
       "brand": "Suzuki",
-      "names": {"en": "Cultus", "zh-CN": "—", "zh-TW": "Cultus", "ja": "カルタス"},
+      "names": {"en": "Cultus", "zh-CN": "Cultus", "zh-TW": "Cultus", "ja": "カルタス"},
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -351,7 +351,7 @@
     {
       "id": "model:suzuki:cara",
       "brand": "Suzuki",
-      "names": {"en": "Cara", "zh-CN": "—", "zh-TW": "Cara", "ja": "キャラ"},
+      "names": {"en": "Cara", "zh-CN": "Cara", "zh-TW": "Cara", "ja": "キャラ"},
       "segment": "class:jp:kei",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -363,7 +363,7 @@
     {
       "id": "model:suzuki:twin",
       "brand": "Suzuki",
-      "names": {"en": "Twin", "zh-CN": "—", "zh-TW": "Twin", "ja": "ツイン"},
+      "names": {"en": "Twin", "zh-CN": "Twin", "zh-TW": "Twin", "ja": "ツイン"},
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -375,7 +375,7 @@
     {
       "id": "model:suzuki:mr-wagon",
       "brand": "Suzuki",
-      "names": {"en": "MR Wagon", "zh-CN": "—", "zh-TW": "MR Wagon", "ja": "MRワゴン"},
+      "names": {"en": "MR Wagon", "zh-CN": "MR Wagon", "zh-TW": "MR Wagon", "ja": "MRワゴン"},
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -387,7 +387,7 @@
     {
       "id": "model:suzuki:palette",
       "brand": "Suzuki",
-      "names": {"en": "Palette", "zh-CN": "—", "zh-TW": "Palette", "ja": "パレット"},
+      "names": {"en": "Palette", "zh-CN": "Palette", "zh-TW": "Palette", "ja": "パレット"},
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -411,7 +411,7 @@
     {
       "id": "model:suzuki:splash",
       "brand": "Suzuki",
-      "names": {"en": "Splash", "zh-CN": "Splash", "zh-TW": "Splash", "ja": "スプラッシュ"},
+      "names": {"en": "Splash", "zh-CN": "派喜", "zh-TW": "Splash", "ja": "スプラッシュ"},
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -423,7 +423,7 @@
     {
       "id": "model:suzuki:landy",
       "brand": "Suzuki",
-      "names": {"en": "Landy", "zh-CN": "—", "zh-TW": "Landy", "ja": "ランディ"},
+      "names": {"en": "Landy", "zh-CN": "Landy", "zh-TW": "Landy", "ja": "ランディ"},
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -435,7 +435,7 @@
     {
       "id": "model:suzuki:xbee",
       "brand": "Suzuki",
-      "names": {"en": "XBee", "zh-CN": "—", "zh-TW": "XBee", "ja": "クロスビー"},
+      "names": {"en": "XBee", "zh-CN": "XBee", "zh-TW": "XBee", "ja": "クロスビー"},
       "segment": "class:jp:kei",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
