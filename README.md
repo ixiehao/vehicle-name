@@ -8,7 +8,7 @@ English: [vehicle-names-database/README.en.md](vehicle-names-database/README.en.
 ![Brands](https://img.shields.io/badge/brands-164-blue)
 ![Models](https://img.shields.io/badge/models-3030-blue)
 ![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)
-![CI](https://img.shields.io/github/actions/workflow/status/vehiclename/vehiclename/validate.yml?label=validate)
+![CI](https://img.shields.io/github/actions/workflow/status/ixiehao/vehicle-name/validate.yml?label=validate)
 
 <p align="center">
   <img src="vehicle-names-database/assets/banner.jpg" alt="vehiclename" width="100%" />
@@ -23,7 +23,7 @@ English: [vehicle-names-database/README.en.md](vehicle-names-database/README.en.
 | 责任 | [免责声明](vehicle-names-database/DISCLAIMER.md) · [隐私声明](vehicle-names-database/PRIVACY.md) |
 | 安全 | [SECURITY.md](vehicle-names-database/SECURITY.md) · [CODE_OF_CONDUCT.md](vehicle-names-database/CODE_OF_CONDUCT.md) |
 | 变更记录 | [CHANGELOG.md](vehicle-names-database/CHANGELOG.md) |
-| 仓库 | [github.com/vehiclename/vehiclename](https://github.com/vehiclename/vehiclename) |
+| 仓库 | [github.com/ixiehao/vehicle-name](https://github.com/ixiehao/vehicle-name) |
 
 ## 项目结构
 
