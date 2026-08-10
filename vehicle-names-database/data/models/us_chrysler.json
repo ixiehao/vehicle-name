@@ -3,7 +3,12 @@
     {
       "id": "model:chrysler:300",
       "brand": "Chrysler",
-      "names": {"en": "300", "zh-CN": "300C", "zh-TW": "300", "ja": "300C"},
+      "names": {
+        "en": "300",
+        "zh-CN": "300C",
+        "zh-TW": "300",
+        "ja": "300C"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:chrysler:pacifica",
       "brand": "Chrysler",
-      "names": {"en": "Pacifica", "zh-CN": "大捷龙", "zh-TW": "Pacifica", "ja": "パシフィカ"},
+      "names": {
+        "en": "Pacifica",
+        "zh-CN": "大捷龙",
+        "zh-TW": "Pacifica",
+        "ja": "パシフィカ"
+      },
       "segment": "class:us:minivan",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:chrysler:voyager",
       "brand": "Chrysler",
-      "names": {"en": "Voyager", "zh-CN": "Voyager", "zh-TW": "Voyager", "ja": "ボイジャー"},
+      "names": {
+        "en": "Voyager",
+        "zh-CN": "Voyager",
+        "zh-TW": "Voyager",
+        "ja": "ボイジャー"
+      },
       "segment": "class:us:minivan",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:chrysler:town-and-country",
       "brand": "Chrysler",
-      "names": {"en": "Town & Country", "zh-CN": "Town & Country", "zh-TW": "Town & Country", "ja": "タウン＆カントリー"},
+      "names": {
+        "en": "Town & Country",
+        "zh-CN": "Town & Country",
+        "zh-TW": "Town & Country",
+        "ja": "タウン＆カントリー"
+      },
       "segment": "class:us:minivan",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:chrysler:sebring",
       "brand": "Chrysler",
-      "names": {"en": "Sebring", "zh-CN": "Sebring", "zh-TW": "Sebring", "ja": "セブリング"},
+      "names": {
+        "en": "Sebring",
+        "zh-CN": "Sebring",
+        "zh-TW": "Sebring",
+        "ja": "セブリング"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:chrysler:200",
       "brand": "Chrysler",
-      "names": {"en": "200", "zh-CN": "200", "zh-TW": "200", "ja": "200"},
+      "names": {
+        "en": "200",
+        "zh-CN": "200",
+        "zh-TW": "200",
+        "ja": "200"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:chrysler:aspen",
       "brand": "Chrysler",
-      "names": {"en": "Aspen", "zh-CN": "Aspen", "zh-TW": "Aspen", "ja": "アスペン"},
+      "names": {
+        "en": "Aspen",
+        "zh-CN": "Aspen",
+        "zh-TW": "Aspen",
+        "ja": "アスペン"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:chrysler:pt-cruiser",
       "brand": "Chrysler",
-      "names": {"en": "PT Cruiser", "zh-CN": "PT漫步者", "zh-TW": "PT Cruiser", "ja": "PTクルーザー"},
+      "names": {
+        "en": "PT Cruiser",
+        "zh-CN": "PT漫步者",
+        "zh-TW": "PT Cruiser",
+        "ja": "PTクルーザー"
+      },
       "segment": "class:us:compact",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -95,6 +135,82 @@
       "years": "2001–2010",
       "note": "复古造型;大陆译名「PT漫步者」",
       "verified": "verified"
+    },
+    {
+      "id": "model:chrysler:f740c48357",
+      "brand": "Chrysler",
+      "names": {
+        "en": "Crossfire",
+        "zh-CN": "交叉火力",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2008",
+      "note": "交叉火力(Crossfire,2004-2008),基于奔驰SLK平台,含硬顶与敞篷版",
+      "verified": "verified",
+      "zh-TW": "交叉火力",
+      "ja": "クロスファイア"
+    },
+    {
+      "id": "model:chrysler:delta",
+      "brand": "Chrysler",
+      "names": {
+        "en": "Chrysler Delta",
+        "zh-CN": "克莱斯勒Delta",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:hev",
+      "status": "discontinued",
+      "years": "2011–2014",
+      "note": "Delta(2011-2014),欧洲市场,蓝旗亚Delta换标",
+      "verified": "verified",
+      "zh-TW": "Delta",
+      "ja": "デルタ"
+    },
+    {
+      "id": "model:chrysler:ypsilon",
+      "brand": "Chrysler",
+      "names": {
+        "en": "Chrysler Ypsilon",
+        "zh-CN": "克莱斯勒Ypsilon",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2017",
+      "note": "Ypsilon(2011-2017),欧洲市场,蓝旗亚Ypsilon换标",
+      "verified": "verified",
+      "zh-TW": "Ypsilon",
+      "ja": "イプシロン"
+    },
+    {
+      "id": "model:chrysler:0587f3e66e",
+      "brand": "Chrysler",
+      "names": {
+        "en": "Prowler",
+        "zh-CN": "猎兽",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997–2002",
+      "note": "猎兽(Prowler,1997-2002),克莱斯勒复古跑车,已停产",
+      "verified": "verified",
+      "zh-TW": "獵獸",
+      "ja": "プロウラー"
     }
   ]
 }

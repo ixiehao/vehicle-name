@@ -3,7 +3,12 @@
     {
       "id": "model:jaguar:xf",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XF", "zh-CN": "捷豹XF", "zh-TW": "捷豹XF", "ja": "ジャガーXF"},
+      "names": {
+        "en": "Jaguar XF",
+        "zh-CN": "捷豹XF",
+        "zh-TW": "捷豹XF",
+        "ja": "ジャガーXF"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:jaguar:xe",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XE", "zh-CN": "捷豹XE", "zh-TW": "捷豹XE", "ja": "ジャガーXE"},
+      "names": {
+        "en": "Jaguar XE",
+        "zh-CN": "捷豹XE",
+        "zh-TW": "捷豹XE",
+        "ja": "ジャガーXE"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:jaguar:xj",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XJ", "zh-CN": "捷豹XJ", "zh-TW": "捷豹XJ", "ja": "ジャガーXJ"},
+      "names": {
+        "en": "Jaguar XJ",
+        "zh-CN": "捷豹XJ",
+        "zh-TW": "捷豹XJ",
+        "ja": "ジャガーXJ"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:jaguar:x-type",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar X-Type", "zh-CN": "捷豹X型", "zh-TW": "捷豹X-Type", "ja": "ジャガーXタイプ"},
+      "names": {
+        "en": "Jaguar X-Type",
+        "zh-CN": "捷豹X型",
+        "zh-TW": "捷豹X-Type",
+        "ja": "ジャガーXタイプ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:jaguar:s-type",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar S-Type", "zh-CN": "捷豹S型", "zh-TW": "捷豹S-Type", "ja": "ジャガーSタイプ"},
+      "names": {
+        "en": "Jaguar S-Type",
+        "zh-CN": "捷豹S型",
+        "zh-TW": "捷豹S-Type",
+        "ja": "ジャガーSタイプ"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:jaguar:f-type",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar F-Type", "zh-CN": "捷豹F型", "zh-TW": "捷豹F-Type", "ja": "ジャガーFタイプ"},
+      "names": {
+        "en": "Jaguar F-Type",
+        "zh-CN": "捷豹F型",
+        "zh-TW": "捷豹F-Type",
+        "ja": "ジャガーFタイプ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:jaguar:e-pace",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar E-Pace", "zh-CN": "捷豹E-PACE", "zh-TW": "捷豹E-Pace", "ja": "ジャガーEペース"},
+      "names": {
+        "en": "Jaguar E-Pace",
+        "zh-CN": "捷豹E-PACE",
+        "zh-TW": "捷豹E-Pace",
+        "ja": "ジャガーEペース"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:jaguar:f-pace",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar F-Pace", "zh-CN": "捷豹F-PACE", "zh-TW": "捷豹F-Pace", "ja": "ジャガーFペース"},
+      "names": {
+        "en": "Jaguar F-Pace",
+        "zh-CN": "捷豹F-PACE",
+        "zh-TW": "捷豹F-Pace",
+        "ja": "ジャガーFペース"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:jaguar:i-pace",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar I-Pace", "zh-CN": "捷豹I-PACE", "zh-TW": "捷豹I-Pace", "ja": "ジャガーIペース"},
+      "names": {
+        "en": "Jaguar I-Pace",
+        "zh-CN": "捷豹I-PACE",
+        "zh-TW": "捷豹I-Pace",
+        "ja": "ジャガーIペース"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -111,7 +156,12 @@
     {
       "id": "model:jaguar:xk",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XK", "zh-CN": "捷豹XK", "zh-TW": "捷豹XK", "ja": "ジャガーXK"},
+      "names": {
+        "en": "Jaguar XK",
+        "zh-CN": "捷豹XK",
+        "zh-TW": "捷豹XK",
+        "ja": "ジャガーXK"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:jaguar:xk8",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XK8", "zh-CN": "捷豹XK8", "zh-TW": "捷豹XK8", "ja": "ジャガーXK8"},
+      "names": {
+        "en": "Jaguar XK8",
+        "zh-CN": "捷豹XK8",
+        "zh-TW": "捷豹XK8",
+        "ja": "ジャガーXK8"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:jaguar:xjs",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XJ-S", "zh-CN": "捷豹XJ-S", "zh-TW": "捷豹XJS", "ja": "ジャガーXJS"},
+      "names": {
+        "en": "Jaguar XJ-S",
+        "zh-CN": "捷豹XJ-S",
+        "zh-TW": "捷豹XJS",
+        "ja": "ジャガーXJS"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:jaguar:e-type",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar E-Type", "zh-CN": "捷豹E型", "zh-TW": "捷豹E-Type", "ja": "ジャガーEタイプ"},
+      "names": {
+        "en": "Jaguar E-Type",
+        "zh-CN": "捷豹E型",
+        "zh-TW": "捷豹E-Type",
+        "ja": "ジャガーEタイプ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:jaguar:mark-2",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar Mark 2", "zh-CN": "捷豹Mark 2", "zh-TW": "捷豹Mark 2", "ja": "ジャガー・マーク2"},
+      "names": {
+        "en": "Jaguar Mark 2",
+        "zh-CN": "捷豹Mark 2",
+        "zh-TW": "捷豹Mark 2",
+        "ja": "ジャガー・マーク2"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:jaguar:xj220",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XJ220", "zh-CN": "捷豹XJ220", "zh-TW": "捷豹XJ220", "ja": "ジャガーXJ220"},
+      "names": {
+        "en": "Jaguar XJ220",
+        "zh-CN": "捷豹XJ220",
+        "zh-TW": "捷豹XJ220",
+        "ja": "ジャガーXJ220"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:jaguar:xel",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XEL", "zh-CN": "捷豹XEL", "zh-TW": "捷豹XEL", "ja": "ジャガーXEL"},
+      "names": {
+        "en": "Jaguar XEL",
+        "zh-CN": "捷豹XEL",
+        "zh-TW": "捷豹XEL",
+        "ja": "ジャガーXEL"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:jaguar:xfl",
       "brand": "Jaguar",
-      "names": {"en": "Jaguar XFL", "zh-CN": "捷豹XFL", "zh-TW": "捷豹XFL", "ja": "ジャガーXFL"},
+      "names": {
+        "en": "Jaguar XFL",
+        "zh-CN": "捷豹XFL",
+        "zh-TW": "捷豹XFL",
+        "ja": "ジャガーXFL"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",

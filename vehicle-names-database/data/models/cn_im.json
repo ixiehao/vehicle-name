@@ -3,7 +3,12 @@
     {
       "id": "model:im:l7",
       "brand": "IM",
-      "names": {"en": "IM L7", "zh-CN": "智己L7", "zh-TW": "IM L7(未导入)", "ja": "—"},
+      "names": {
+        "en": "IM L7",
+        "zh-CN": "智己L7",
+        "zh-TW": "IM L7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:im:ls7",
       "brand": "IM",
-      "names": {"en": "IM LS7", "zh-CN": "智己LS7", "zh-TW": "IM LS7(未导入)", "ja": "—"},
+      "names": {
+        "en": "IM LS7",
+        "zh-CN": "智己LS7",
+        "zh-TW": "IM LS7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:im:ls6",
       "brand": "IM",
-      "names": {"en": "IM LS6", "zh-CN": "智己LS6", "zh-TW": "IM LS6(未导入)", "ja": "—"},
+      "names": {
+        "en": "IM LS6",
+        "zh-CN": "智己LS6",
+        "zh-TW": "IM LS6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:im:l6",
       "brand": "IM",
-      "names": {"en": "IM L6", "zh-CN": "智己L6", "zh-TW": "IM L6(未导入)", "ja": "—"},
+      "names": {
+        "en": "IM L6",
+        "zh-CN": "智己L6",
+        "zh-TW": "IM L6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",

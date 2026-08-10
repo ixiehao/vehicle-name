@@ -3,7 +3,12 @@
     {
       "id": "model:sol:a5",
       "brand": "Sol",
-      "names": {"en": "Sol A5", "zh-CN": "思皓A5", "zh-TW": "Sol A5", "ja": "—"},
+      "names": {
+        "en": "Sol A5",
+        "zh-CN": "思皓A5",
+        "zh-TW": "Sol A5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:sol:x8",
       "brand": "Sol",
-      "names": {"en": "Sol X8", "zh-CN": "思皓X8", "zh-TW": "Sol X8", "ja": "—"},
+      "names": {
+        "en": "Sol X8",
+        "zh-CN": "思皓X8",
+        "zh-TW": "Sol X8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:sol:qx",
       "brand": "Sol",
-      "names": {"en": "Sol QX", "zh-CN": "思皓QX", "zh-TW": "Sol QX", "ja": "—"},
+      "names": {
+        "en": "Sol QX",
+        "zh-CN": "思皓QX",
+        "zh-TW": "Sol QX",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:sol:e10x",
       "brand": "Sol",
-      "names": {"en": "Sol E10X", "zh-CN": "思皓E10X", "zh-TW": "Sol E10X", "ja": "—"},
+      "names": {
+        "en": "Sol E10X",
+        "zh-CN": "思皓E10X",
+        "zh-TW": "Sol E10X",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:sol:e50a",
       "brand": "Sol",
-      "names": {"en": "Sol E50A", "zh-CN": "思皓E50A", "zh-TW": "Sol E50A", "ja": "—"},
+      "names": {
+        "en": "Sol E50A",
+        "zh-CN": "思皓E50A",
+        "zh-TW": "Sol E50A",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -59,6 +84,114 @@
       "years": "2021–present",
       "note": "思皓品牌纯电紧凑型轿车(思皓A5的纯电版)",
       "verified": "verified"
+    },
+    {
+      "id": "model:sol:e20x",
+      "brand": "Sol",
+      "names": {
+        "en": "Sol E20X",
+        "zh-CN": "思皓E20X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "思皓E20X(2019-2022),思皓首款纯电SUV,基于江淮iEV7S,已停产",
+      "verified": "verified",
+      "zh-TW": "E20X"
+    },
+    {
+      "id": "model:sol:e40x",
+      "brand": "Sol",
+      "names": {
+        "en": "Sol E40X",
+        "zh-CN": "思皓E40X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2021–2023",
+      "note": "思皓E40X(2021-2023),纯电小型SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "E40X"
+    },
+    {
+      "id": "model:sol:sol-x4",
+      "brand": "Sol",
+      "names": {
+        "en": "Sol X4",
+        "zh-CN": "思皓X4",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2021–2023",
+      "note": "思皓X4(2021-2023),紧凑型SUV,由嘉悦X4换标,已停产",
+      "verified": "verified",
+      "zh-TW": "X4"
+    },
+    {
+      "id": "model:sol:x8-plus",
+      "brand": "Sol",
+      "names": {
+        "en": "Sol X8 PLUS",
+        "zh-CN": "思皓X8 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2022–2024",
+      "note": "思皓X8 PLUS(2022-2024),X8升级版7座SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "X8 PLUS"
+    },
+    {
+      "id": "model:sol:3d9d67c8c0",
+      "brand": "Sol",
+      "names": {
+        "en": "Sol Aipao",
+        "zh-CN": "思皓爱跑",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2022–2024",
+      "note": "思皓爱跑(2022-2024),纯电轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "愛跑"
+    },
+    {
+      "id": "model:sol:a3c939ff6d",
+      "brand": "Sol",
+      "names": {
+        "en": "Flower Fairy",
+        "zh-CN": "花仙子",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:city-car",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2021–2023",
+      "note": "思皓花仙子(2021-2023),纯电微型车,已停产",
+      "verified": "verified",
+      "zh-TW": "花仙子"
     }
   ]
 }

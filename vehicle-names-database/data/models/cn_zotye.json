@@ -3,7 +3,12 @@
     {
       "id": "model:zotye:z100",
       "brand": "Zotye",
-      "names": {"en": "Zotye Z100", "zh-CN": "Z100", "zh-TW": "Z100", "ja": "—"},
+      "names": {
+        "en": "Zotye Z100",
+        "zh-CN": "Z100",
+        "zh-TW": "Z100",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:zotye:z300",
       "brand": "Zotye",
-      "names": {"en": "Zotye Z300", "zh-CN": "Z300", "zh-TW": "Z300", "ja": "—"},
+      "names": {
+        "en": "Zotye Z300",
+        "zh-CN": "Z300",
+        "zh-TW": "Z300",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:zotye:z500",
       "brand": "Zotye",
-      "names": {"en": "Zotye Z500", "zh-CN": "Z500", "zh-TW": "Z500", "ja": "—"},
+      "names": {
+        "en": "Zotye Z500",
+        "zh-CN": "Z500",
+        "zh-TW": "Z500",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:zotye:z560",
       "brand": "Zotye",
-      "names": {"en": "Zotye Z560", "zh-CN": "Z560", "zh-TW": "Z560", "ja": "—"},
+      "names": {
+        "en": "Zotye Z560",
+        "zh-CN": "Z560",
+        "zh-TW": "Z560",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:zotye:z700",
       "brand": "Zotye",
-      "names": {"en": "Zotye Z700", "zh-CN": "Z700", "zh-TW": "Z700", "ja": "—"},
+      "names": {
+        "en": "Zotye Z700",
+        "zh-CN": "Z700",
+        "zh-TW": "Z700",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:zotye:t200",
       "brand": "Zotye",
-      "names": {"en": "Zotye T200", "zh-CN": "T200", "zh-TW": "T200", "ja": "—"},
+      "names": {
+        "en": "Zotye T200",
+        "zh-CN": "T200",
+        "zh-TW": "T200",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:zotye:t300",
       "brand": "Zotye",
-      "names": {"en": "Zotye T300", "zh-CN": "T300", "zh-TW": "T300", "ja": "—"},
+      "names": {
+        "en": "Zotye T300",
+        "zh-CN": "T300",
+        "zh-TW": "T300",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:zotye:t500",
       "brand": "Zotye",
-      "names": {"en": "Zotye T500", "zh-CN": "T500", "zh-TW": "T500", "ja": "—"},
+      "names": {
+        "en": "Zotye T500",
+        "zh-CN": "T500",
+        "zh-TW": "T500",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:zotye:t600",
       "brand": "Zotye",
-      "names": {"en": "Zotye T600", "zh-CN": "T600", "zh-TW": "T600", "ja": "—"},
+      "names": {
+        "en": "Zotye T600",
+        "zh-CN": "T600",
+        "zh-TW": "T600",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,19 +156,31 @@
     {
       "id": "model:zotye:t600-coupe",
       "brand": "Zotye",
-      "names": {"en": "Zotye T600 Coupe", "zh-CN": "T600 Coupe", "zh-TW": "T600 Coupe", "ja": "—"},
+      "names": {
+        "en": "Zotye T600 Coupe",
+        "zh-CN": "T600 Coupe",
+        "zh-TW": "T600 Coupe",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
-      "body_style": "body:suv",
+      "body_style": "body:coupe",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2017–2019",
-      "note": "中型SUV,T600的运动轿跑版本",
-      "verified": "pending"
+      "years": "2017-2019",
+      "note": "T600 Coupe(2017-2019),T600的运动轿跑版,2019年停产",
+      "verified": "verified",
+      "en": "T600 Coupe",
+      "zh-CN": "T600 Coupe"
     },
     {
       "id": "model:zotye:t700",
       "brand": "Zotye",
-      "names": {"en": "Zotye T700", "zh-CN": "T700", "zh-TW": "T700", "ja": "—"},
+      "names": {
+        "en": "Zotye T700",
+        "zh-CN": "T700",
+        "zh-TW": "T700",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +192,12 @@
     {
       "id": "model:zotye:sr7",
       "brand": "Zotye",
-      "names": {"en": "Zotye SR7", "zh-CN": "SR7", "zh-TW": "SR7", "ja": "—"},
+      "names": {
+        "en": "Zotye SR7",
+        "zh-CN": "SR7",
+        "zh-TW": "SR7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -147,7 +209,12 @@
     {
       "id": "model:zotye:sr9",
       "brand": "Zotye",
-      "names": {"en": "Zotye SR9", "zh-CN": "SR9", "zh-TW": "SR9", "ja": "—"},
+      "names": {
+        "en": "Zotye SR9",
+        "zh-CN": "SR9",
+        "zh-TW": "SR9",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -159,31 +226,50 @@
     {
       "id": "model:zotye:damai-x5",
       "brand": "Zotye",
-      "names": {"en": "Zotye Damai X5", "zh-CN": "大迈X5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Zotye Damai X5",
+        "zh-CN": "大迈X5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2015–2018",
-      "note": "紧凑型SUV,众泰大迈子品牌首款车型",
-      "verified": "pending"
+      "years": "2015-2019",
+      "note": "大迈X5(2015-2019),众泰大迈子品牌首款紧凑型SUV,2019年停产",
+      "verified": "verified",
+      "en": "Damai X5",
+      "zh-CN": "大迈X5"
     },
     {
       "id": "model:zotye:damai-x7",
       "brand": "Zotye",
-      "names": {"en": "Zotye Damai X7", "zh-CN": "大迈X7", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Zotye Damai X7",
+        "zh-CN": "大迈X7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2016–2018",
-      "note": "中型SUV,外观模仿大众CrossBlue概念车",
-      "verified": "pending"
+      "years": "2017-2019",
+      "note": "大迈X7(2017-2019),众泰大迈中型SUV,2019年停产",
+      "verified": "verified",
+      "en": "Damai X7",
+      "zh-CN": "大迈X7"
     },
     {
       "id": "model:zotye:e200",
       "brand": "Zotye",
-      "names": {"en": "Zotye E200", "zh-CN": "E200", "zh-TW": "E200", "ja": "—"},
+      "names": {
+        "en": "Zotye E200",
+        "zh-CN": "E200",
+        "zh-TW": "E200",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -191,6 +277,367 @@
       "years": "2016–2019",
       "note": "纯电动微型车,双门两座设计",
       "verified": "verified"
+    },
+    {
+      "id": "model:zotye:100",
+      "brand": "Zotye",
+      "names": {
+        "en": "Cloud 100",
+        "zh-CN": "云100",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2014-2018",
+      "note": "云100(2014-2018),众泰纯电微型车,2018年停产",
+      "verified": "verified",
+      "en": "Cloud 100",
+      "zh-CN": "云100"
+    },
+    {
+      "id": "model:zotye:2008",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye 2008",
+        "zh-CN": "众泰2008",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2010",
+      "note": "众泰2008(2006-2010),众泰首款SUV,2010年停产",
+      "verified": "verified",
+      "en": "2008",
+      "zh-CN": "众泰2008"
+    },
+    {
+      "id": "model:zotye:5008",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye 5008",
+        "zh-CN": "众泰5008",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2013",
+      "note": "众泰5008(2008-2013),2008的改款,2013年停产",
+      "verified": "verified",
+      "en": "5008",
+      "zh-CN": "众泰5008"
+    },
+    {
+      "id": "model:zotye:b40",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye B40",
+        "zh-CN": "众泰B40",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2015",
+      "note": "众泰B40(2013-2015),小型SUV,2015年停产",
+      "verified": "verified",
+      "en": "B40",
+      "zh-CN": "众泰B40"
+    },
+    {
+      "id": "model:zotye:e20",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye E20",
+        "zh-CN": "众泰E20",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2014-2018",
+      "note": "众泰E20(2014-2018),纯电微型车,2018年停产",
+      "verified": "verified",
+      "en": "E20",
+      "zh-CN": "众泰E20"
+    },
+    {
+      "id": "model:zotye:es330",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye ES330",
+        "zh-CN": "众泰ES330",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019-2021",
+      "note": "众泰ES330(2019-2021),纯电轿车,2021年停产",
+      "verified": "verified",
+      "en": "ES330",
+      "zh-CN": "众泰ES330"
+    },
+    {
+      "id": "model:zotye:et450",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye ET450",
+        "zh-CN": "众泰ET450",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018-2021",
+      "note": "众泰ET450(2018-2021),纯电SUV,2021年停产",
+      "verified": "verified",
+      "en": "ET450",
+      "zh-CN": "众泰ET450"
+    },
+    {
+      "id": "model:zotye:m10ev",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye M10EV",
+        "zh-CN": "众泰M10EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018-2021",
+      "note": "众泰M10EV(2018-2021),纯电微型车,2021年停产",
+      "verified": "verified",
+      "en": "M10EV",
+      "zh-CN": "众泰M10EV"
+    },
+    {
+      "id": "model:zotye:m300",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye M300",
+        "zh-CN": "众泰M300",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2014",
+      "note": "众泰M300(2010-2014),MPV(源自菲亚特Multipla),2014年停产",
+      "verified": "verified",
+      "en": "M300",
+      "zh-CN": "众泰M300"
+    },
+    {
+      "id": "model:zotye:t100",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye T100",
+        "zh-CN": "众泰T100",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017-2019",
+      "note": "众泰T100(2017-2019),皮卡,2019年停产",
+      "verified": "verified",
+      "en": "T100",
+      "zh-CN": "众泰T100"
+    },
+    {
+      "id": "model:zotye:t800",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye T800",
+        "zh-CN": "众泰T800",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018-2020",
+      "note": "众泰T800(2018-2020),T700的七座版,2020年停产",
+      "verified": "verified",
+      "en": "T800",
+      "zh-CN": "众泰T800"
+    },
+    {
+      "id": "model:zotye:ts5",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye TS5",
+        "zh-CN": "众泰TS5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019-2021",
+      "note": "众泰TS5(2019-2021),紧凑型SUV,2021年停产",
+      "verified": "verified",
+      "en": "TS5",
+      "zh-CN": "众泰TS5"
+    },
+    {
+      "id": "model:zotye:v10",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye V10",
+        "zh-CN": "众泰V10",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012-2016",
+      "note": "众泰V10(2012-2016),微面,2016年停产",
+      "verified": "verified",
+      "en": "V10",
+      "zh-CN": "众泰V10"
+    },
+    {
+      "id": "model:zotye:z200",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye Z200",
+        "zh-CN": "众泰Z200",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011-2014",
+      "note": "众泰Z200(2011-2014),紧凑型轿车,2014年停产",
+      "verified": "verified",
+      "en": "Z200",
+      "zh-CN": "众泰Z200"
+    },
+    {
+      "id": "model:zotye:z200hb",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye Z200HB",
+        "zh-CN": "众泰Z200HB",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011-2014",
+      "note": "众泰Z200HB(2011-2014),Z200两厢版,2014年停产",
+      "verified": "verified",
+      "en": "Z200HB",
+      "zh-CN": "众泰Z200HB"
+    },
+    {
+      "id": "model:zotye:z360",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zotye Z360",
+        "zh-CN": "众泰Z360",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017-2019",
+      "note": "众泰Z360(2017-2019),Z300改款,2019年停产",
+      "verified": "verified",
+      "en": "Z360",
+      "zh-CN": "众泰Z360"
+    },
+    {
+      "id": "model:zotye:t11",
+      "brand": "Zotye",
+      "names": {
+        "en": "Jiangnan T11",
+        "zh-CN": "江南T11",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2011-2015",
+      "note": "江南T11(2011-2015),众泰旗下江南品牌纯电微型车,2015年停产",
+      "verified": "verified",
+      "en": "Jiangnan T11",
+      "zh-CN": "江南T11"
+    },
+    {
+      "id": "model:zotye:zotye-tt",
+      "brand": "Zotye",
+      "names": {
+        "en": "Jiangnan TT",
+        "zh-CN": "江南TT",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007-2013",
+      "note": "江南TT(2007-2013),众泰旗下江南品牌微型车(奥拓平台),2013年停产",
+      "verified": "verified",
+      "en": "Jiangnan TT",
+      "zh-CN": "江南TT"
+    },
+    {
+      "id": "model:zotye:fa92660fd0",
+      "brand": "Zotye",
+      "names": {
+        "en": "Zhima",
+        "zh-CN": "芝麻",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016-2019",
+      "note": "众泰芝麻(2016-2019),纯电微型车,2019年停产",
+      "verified": "verified",
+      "en": "Zhima",
+      "zh-CN": "芝麻"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:subaru:impreza",
       "brand": "Subaru",
-      "names": {"en": "Impreza", "zh-CN": "翼豹(旧译)/Impreza", "zh-TW": "Impreza", "ja": "インプレッサ"},
+      "names": {
+        "en": "Impreza",
+        "zh-CN": "翼豹(旧译)/Impreza",
+        "zh-TW": "Impreza",
+        "ja": "インプレッサ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:subaru:wrx",
       "brand": "Subaru",
-      "names": {"en": "WRX", "zh-CN": "WRX", "zh-TW": "WRX", "ja": "WRX"},
+      "names": {
+        "en": "WRX",
+        "zh-CN": "WRX",
+        "zh-TW": "WRX",
+        "ja": "WRX"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:subaru:forester",
       "brand": "Subaru",
-      "names": {"en": "Forester", "zh-CN": "森林人", "zh-TW": "Forester", "ja": "フォレスター"},
+      "names": {
+        "en": "Forester",
+        "zh-CN": "森林人",
+        "zh-TW": "Forester",
+        "ja": "フォレスター"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:subaru:outback",
       "brand": "Subaru",
-      "names": {"en": "Outback", "zh-CN": "傲虎", "zh-TW": "Outback", "ja": "アウトバック"},
+      "names": {
+        "en": "Outback",
+        "zh-CN": "傲虎",
+        "zh-TW": "Outback",
+        "ja": "アウトバック"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:subaru:levorg",
       "brand": "Subaru",
-      "names": {"en": "Levorg / WRX Wagon", "zh-CN": "Levorg", "zh-TW": "Levorg", "ja": "レヴォーグ"},
+      "names": {
+        "en": "Levorg / WRX Wagon",
+        "zh-CN": "Levorg",
+        "zh-TW": "Levorg",
+        "ja": "レヴォーグ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:subaru:crosstrek",
       "brand": "Subaru",
-      "names": {"en": "Crosstrek (XV)", "zh-CN": "旭豹/XV", "zh-TW": "Crosstrek", "ja": "クロストレック"},
+      "names": {
+        "en": "Crosstrek (XV)",
+        "zh-CN": "旭豹/XV",
+        "zh-TW": "Crosstrek",
+        "ja": "クロストレック"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:subaru:ascent",
       "brand": "Subaru",
-      "names": {"en": "Ascent", "zh-CN": "Ascent", "zh-TW": "Ascent", "ja": "アセント"},
+      "names": {
+        "en": "Ascent",
+        "zh-CN": "Ascent",
+        "zh-TW": "Ascent",
+        "ja": "アセント"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:subaru:brz",
       "brand": "Subaru",
-      "names": {"en": "BRZ", "zh-CN": "BRZ", "zh-TW": "BRZ", "ja": "BRZ"},
+      "names": {
+        "en": "BRZ",
+        "zh-CN": "BRZ",
+        "zh-TW": "BRZ",
+        "ja": "BRZ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:subaru:solterra",
       "brand": "Subaru",
-      "names": {"en": "Solterra", "zh-CN": "SOLTERRA", "zh-TW": "Solterra", "ja": "ソルテラ"},
+      "names": {
+        "en": "Solterra",
+        "zh-CN": "SOLTERRA",
+        "zh-TW": "Solterra",
+        "ja": "ソルテラ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -111,7 +156,12 @@
     {
       "id": "model:subaru:justy",
       "brand": "Subaru",
-      "names": {"en": "Justy", "zh-CN": "Justy", "zh-TW": "Justy", "ja": "ジャスティ"},
+      "names": {
+        "en": "Justy",
+        "zh-CN": "Justy",
+        "zh-TW": "Justy",
+        "ja": "ジャスティ"
+      },
       "segment": "class:jp:small",
       "body_style": "body:minivan",
       "powertrain": "pt:hev",
@@ -123,7 +173,12 @@
     {
       "id": "model:subaru:sambar",
       "brand": "Subaru",
-      "names": {"en": "Sambar", "zh-CN": "Sambar", "zh-TW": "Sambar", "ja": "サンバー"},
+      "names": {
+        "en": "Sambar",
+        "zh-CN": "Sambar",
+        "zh-TW": "Sambar",
+        "ja": "サンバー"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:kei-truck",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:subaru:legacy",
       "brand": "Subaru",
-      "names": {"en": "Legacy", "zh-CN": "力狮", "zh-TW": "Legacy", "ja": "レガシィ"},
+      "names": {
+        "en": "Legacy",
+        "zh-CN": "力狮",
+        "zh-TW": "Legacy",
+        "ja": "レガシィ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:subaru:alcyone-svx",
       "brand": "Subaru",
-      "names": {"en": "Alcyone SVX", "zh-CN": "SVX", "zh-TW": "SVX", "ja": "アルシオーネSVX"},
+      "names": {
+        "en": "Alcyone SVX",
+        "zh-CN": "SVX",
+        "zh-TW": "SVX",
+        "ja": "アルシオーネSVX"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:subaru:exiga",
       "brand": "Subaru",
-      "names": {"en": "Exiga", "zh-CN": "Exiga", "zh-TW": "Exiga", "ja": "エクシーガ"},
+      "names": {
+        "en": "Exiga",
+        "zh-CN": "Exiga",
+        "zh-TW": "Exiga",
+        "ja": "エクシーガ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:subaru:tribeca",
       "brand": "Subaru",
-      "names": {"en": "Tribeca", "zh-CN": "驰鹏", "zh-TW": "Tribeca", "ja": "トライベッカ"},
+      "names": {
+        "en": "Tribeca",
+        "zh-CN": "驰鹏",
+        "zh-TW": "Tribeca",
+        "ja": "トライベッカ"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:subaru:baja",
       "brand": "Subaru",
-      "names": {"en": "Baja", "zh-CN": "Baja", "zh-TW": "Baja", "ja": "バハ"},
+      "names": {
+        "en": "Baja",
+        "zh-CN": "Baja",
+        "zh-TW": "Baja",
+        "ja": "バハ"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:subaru:vivio",
       "brand": "Subaru",
-      "names": {"en": "Vivio", "zh-CN": "Vivio", "zh-TW": "Vivio", "ja": "ヴィヴィオ"},
+      "names": {
+        "en": "Vivio",
+        "zh-CN": "Vivio",
+        "zh-TW": "Vivio",
+        "ja": "ヴィヴィオ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:subaru:leone",
       "brand": "Subaru",
-      "names": {"en": "Leone", "zh-CN": "Leone", "zh-TW": "Leone", "ja": "レオーネ"},
+      "names": {
+        "en": "Leone",
+        "zh-CN": "Leone",
+        "zh-TW": "Leone",
+        "ja": "レオーネ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",

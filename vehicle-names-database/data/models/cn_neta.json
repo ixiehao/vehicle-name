@@ -3,7 +3,12 @@
     {
       "id": "model:neta:v",
       "brand": "Neta",
-      "names": {"en": "Neta V", "zh-CN": "哪吒V", "zh-TW": "Neta V(未导入)", "ja": "—"},
+      "names": {
+        "en": "Neta V",
+        "zh-CN": "哪吒V",
+        "zh-TW": "Neta V(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:neta:aya",
       "brand": "Neta",
-      "names": {"en": "Neta AYA", "zh-CN": "哪吒AYA", "zh-TW": "Neta AYA(未导入)", "ja": "—"},
+      "names": {
+        "en": "Neta AYA",
+        "zh-CN": "哪吒AYA",
+        "zh-TW": "Neta AYA(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:neta:x",
       "brand": "Neta",
-      "names": {"en": "Neta X", "zh-CN": "哪吒X", "zh-TW": "Neta X(未导入)", "ja": "—"},
+      "names": {
+        "en": "Neta X",
+        "zh-CN": "哪吒X",
+        "zh-TW": "Neta X(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:neta:s",
       "brand": "Neta",
-      "names": {"en": "Neta S", "zh-CN": "哪吒S", "zh-TW": "Neta S(未导入)", "ja": "—"},
+      "names": {
+        "en": "Neta S",
+        "zh-CN": "哪吒S",
+        "zh-TW": "Neta S(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:neta:gt",
       "brand": "Neta",
-      "names": {"en": "Neta GT", "zh-CN": "哪吒GT", "zh-TW": "Neta GT(未导入)", "ja": "—"},
+      "names": {
+        "en": "Neta GT",
+        "zh-CN": "哪吒GT",
+        "zh-TW": "Neta GT(未导入)",
+        "ja": "—"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:neta:l",
       "brand": "Neta",
-      "names": {"en": "Neta L", "zh-CN": "哪吒L", "zh-TW": "Neta L(未导入)", "ja": "—"},
+      "names": {
+        "en": "Neta L",
+        "zh-CN": "哪吒L",
+        "zh-TW": "Neta L(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:erev",

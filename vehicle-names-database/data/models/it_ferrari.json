@@ -3,7 +3,12 @@
     {
       "id": "model:ferrari:296-gtb",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 296 GTB", "zh-CN": "法拉利296 GTB", "zh-TW": "法拉利296 GTB", "ja": "フェラーリ296GTB"},
+      "names": {
+        "en": "Ferrari 296 GTB",
+        "zh-CN": "法拉利296 GTB",
+        "zh-TW": "法拉利296 GTB",
+        "ja": "フェラーリ296GTB"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:phev",
@@ -15,7 +20,12 @@
     {
       "id": "model:ferrari:sf90",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari SF90 Stradale", "zh-CN": "法拉利SF90", "zh-TW": "法拉利SF90 Stradale", "ja": "フェラーリSF90ストラダーレ"},
+      "names": {
+        "en": "Ferrari SF90 Stradale",
+        "zh-CN": "法拉利SF90",
+        "zh-TW": "法拉利SF90 Stradale",
+        "ja": "フェラーリSF90ストラダーレ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:phev",
@@ -27,7 +37,12 @@
     {
       "id": "model:ferrari:purosangue",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari Purosangue", "zh-CN": "法拉利Purosangue", "zh-TW": "法拉利Purosangue", "ja": "フェラーリ プロサングエ"},
+      "names": {
+        "en": "Ferrari Purosangue",
+        "zh-CN": "法拉利Purosangue",
+        "zh-TW": "法拉利Purosangue",
+        "ja": "フェラーリ プロサングエ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:ferrari:roma",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari Roma", "zh-CN": "法拉利Roma", "zh-TW": "法拉利Roma", "ja": "フェラーリ ローマ"},
+      "names": {
+        "en": "Ferrari Roma",
+        "zh-CN": "法拉利Roma",
+        "zh-TW": "法拉利Roma",
+        "ja": "フェラーリ ローマ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:ferrari:12cilindri",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 12Cilindri", "zh-CN": "法拉利12Cilindri", "zh-TW": "法拉利12Cilindri", "ja": "フェラーリ12チリンドリ"},
+      "names": {
+        "en": "Ferrari 12Cilindri",
+        "zh-CN": "法拉利12Cilindri",
+        "zh-TW": "法拉利12Cilindri",
+        "ja": "フェラーリ12チリンドリ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:ferrari:812-superfast",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 812 Superfast", "zh-CN": "法拉利812 Superfast", "zh-TW": "法拉利812 Superfast", "ja": "フェラーリ812スーパーファスト"},
+      "names": {
+        "en": "Ferrari 812 Superfast",
+        "zh-CN": "法拉利812 Superfast",
+        "zh-TW": "法拉利812 Superfast",
+        "ja": "フェラーリ812スーパーファスト"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:ferrari:f8-tributo",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari F8 Tributo", "zh-CN": "法拉利F8 Tributo", "zh-TW": "法拉利F8 Tributo", "ja": "フェラーリF8トリブート"},
+      "names": {
+        "en": "Ferrari F8 Tributo",
+        "zh-CN": "法拉利F8 Tributo",
+        "zh-TW": "法拉利F8 Tributo",
+        "ja": "フェラーリF8トリブート"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:ferrari:488",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 488", "zh-CN": "法拉利488", "zh-TW": "法拉利488", "ja": "フェラーリ488"},
+      "names": {
+        "en": "Ferrari 488",
+        "zh-CN": "法拉利488",
+        "zh-TW": "法拉利488",
+        "ja": "フェラーリ488"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:ferrari:458",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 458", "zh-CN": "法拉利458", "zh-TW": "法拉利458", "ja": "フェラーリ458"},
+      "names": {
+        "en": "Ferrari 458",
+        "zh-CN": "法拉利458",
+        "zh-TW": "法拉利458",
+        "ja": "フェラーリ458"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:ferrari:laferrari",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari LaFerrari", "zh-CN": "法拉利LaFerrari", "zh-TW": "法拉利LaFerrari", "ja": "フェラーリ ラフェラーリ"},
+      "names": {
+        "en": "Ferrari LaFerrari",
+        "zh-CN": "法拉利LaFerrari",
+        "zh-TW": "法拉利LaFerrari",
+        "ja": "フェラーリ ラフェラーリ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:hev",
@@ -123,7 +173,12 @@
     {
       "id": "model:ferrari:f12",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari F12", "zh-CN": "法拉利F12", "zh-TW": "法拉利F12", "ja": "フェラーリF12"},
+      "names": {
+        "en": "Ferrari F12",
+        "zh-CN": "法拉利F12",
+        "zh-TW": "法拉利F12",
+        "ja": "フェラーリF12"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:ferrari:ff",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari FF", "zh-CN": "法拉利FF", "zh-TW": "法拉利FF", "ja": "フェラーリFF"},
+      "names": {
+        "en": "Ferrari FF",
+        "zh-CN": "法拉利FF",
+        "zh-TW": "法拉利FF",
+        "ja": "フェラーリFF"
+      },
       "segment": "class:eu:s",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:ferrari:gtc4lusso",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari GTC4Lusso", "zh-CN": "法拉利GTC4Lusso", "zh-TW": "法拉利GTC4Lusso", "ja": "フェラーリGTC4ルッソ"},
+      "names": {
+        "en": "Ferrari GTC4Lusso",
+        "zh-CN": "法拉利GTC4Lusso",
+        "zh-TW": "法拉利GTC4Lusso",
+        "ja": "フェラーリGTC4ルッソ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:ferrari:portofino",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari Portofino", "zh-CN": "法拉利Portofino", "zh-TW": "法拉利Portofino", "ja": "フェラーリ ポルトフィーノ"},
+      "names": {
+        "en": "Ferrari Portofino",
+        "zh-CN": "法拉利Portofino",
+        "zh-TW": "法拉利Portofino",
+        "ja": "フェラーリ ポルトフィーノ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:ferrari:california",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari California", "zh-CN": "法拉利California", "zh-TW": "法拉利California", "ja": "フェラーリ カリフォルニア"},
+      "names": {
+        "en": "Ferrari California",
+        "zh-CN": "法拉利California",
+        "zh-TW": "法拉利California",
+        "ja": "フェラーリ カリフォルニア"
+      },
       "segment": "class:eu:s",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:ferrari:f40",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari F40", "zh-CN": "法拉利F40", "zh-TW": "法拉利F40", "ja": "フェラーリF40"},
+      "names": {
+        "en": "Ferrari F40",
+        "zh-CN": "法拉利F40",
+        "zh-TW": "法拉利F40",
+        "ja": "フェラーリF40"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:ferrari:f50",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari F50", "zh-CN": "法拉利F50", "zh-TW": "法拉利F50", "ja": "フェラーリF50"},
+      "names": {
+        "en": "Ferrari F50",
+        "zh-CN": "法拉利F50",
+        "zh-TW": "法拉利F50",
+        "ja": "フェラーリF50"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:ferrari:enzo",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari Enzo", "zh-CN": "法拉利Enzo", "zh-TW": "法拉利Enzo", "ja": "フェラーリ エンツォ"},
+      "names": {
+        "en": "Ferrari Enzo",
+        "zh-CN": "法拉利Enzo",
+        "zh-TW": "法拉利Enzo",
+        "ja": "フェラーリ エンツォ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:ferrari:testarossa",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari Testarossa", "zh-CN": "法拉利Testarossa", "zh-TW": "法拉利Testarossa", "ja": "フェラーリ テスタロッサ"},
+      "names": {
+        "en": "Ferrari Testarossa",
+        "zh-CN": "法拉利Testarossa",
+        "zh-TW": "法拉利Testarossa",
+        "ja": "フェラーリ テスタロッサ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:ferrari:288-gto",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 288 GTO", "zh-CN": "法拉利288 GTO", "zh-TW": "法拉利288 GTO", "ja": "フェラーリ288GTO"},
+      "names": {
+        "en": "Ferrari 288 GTO",
+        "zh-CN": "法拉利288 GTO",
+        "zh-TW": "法拉利288 GTO",
+        "ja": "フェラーリ288GTO"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:ferrari:daytona-sp3",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari Daytona SP3", "zh-CN": "法拉利Daytona SP3", "zh-TW": "法拉利Daytona SP3", "ja": "フェラーリ デイトナSP3"},
+      "names": {
+        "en": "Ferrari Daytona SP3",
+        "zh-CN": "法拉利Daytona SP3",
+        "zh-TW": "法拉利Daytona SP3",
+        "ja": "フェラーリ デイトナSP3"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:ferrari:monza-sp1",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari Monza SP1", "zh-CN": "法拉利Monza SP1", "zh-TW": "法拉利Monza SP1", "ja": "フェラーリ モンツァSP1"},
+      "names": {
+        "en": "Ferrari Monza SP1",
+        "zh-CN": "法拉利Monza SP1",
+        "zh-TW": "法拉利Monza SP1",
+        "ja": "フェラーリ モンツァSP1"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:ferrari:f430",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari F430", "zh-CN": "法拉利F430", "zh-TW": "法拉利F430", "ja": "フェラーリF430"},
+      "names": {
+        "en": "Ferrari F430",
+        "zh-CN": "法拉利F430",
+        "zh-TW": "法拉利F430",
+        "ja": "フェラーリF430"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:ferrari:360",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 360", "zh-CN": "法拉利360", "zh-TW": "法拉利360", "ja": "フェラーリ360"},
+      "names": {
+        "en": "Ferrari 360",
+        "zh-CN": "法拉利360",
+        "zh-TW": "法拉利360",
+        "ja": "フェラーリ360"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:ferrari:348",
       "brand": "Ferrari",
-      "names": {"en": "Ferrari 348", "zh-CN": "法拉利348", "zh-TW": "法拉利348", "ja": "フェラーリ348"},
+      "names": {
+        "en": "Ferrari 348",
+        "zh-CN": "法拉利348",
+        "zh-TW": "法拉利348",
+        "ja": "フェラーリ348"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -299,6 +424,481 @@
       "years": "1989–1995",
       "note": "中置V8跑车,含348 TB/TS与348 Spider,1995年被F355取代",
       "verified": "verified"
+    },
+    {
+      "id": "model:ferrari:p80-c",
+      "brand": "Ferrari",
+      "names": {
+        "en": "P80/C",
+        "zh-CN": "P80/C",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "P80/C(2019-),法拉利One-off定制车型(基于488 GT3)",
+      "verified": "verified",
+      "en": "P80/C",
+      "zh-CN": "P80/C"
+    },
+    {
+      "id": "model:ferrari:212",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 212",
+        "zh-CN": "法拉利212",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1951-1953",
+      "note": "212(1951-1953),法拉利早期V12跑车",
+      "verified": "verified",
+      "en": "212",
+      "zh-CN": "法拉利212"
+    },
+    {
+      "id": "model:ferrari:275",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 275",
+        "zh-CN": "法拉利275",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1964-1968",
+      "note": "275(1964-1968),法拉利经典V12跑车(275 GTB/GTS/GTB/4)",
+      "verified": "verified",
+      "en": "275",
+      "zh-CN": "法拉利275"
+    },
+    {
+      "id": "model:ferrari:296",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 296",
+        "zh-CN": "法拉利296",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "296 GTB(2021-),法拉利中置V6插混跑车,含296 GTS敞篷版",
+      "verified": "verified",
+      "en": "296",
+      "zh-CN": "法拉利296"
+    },
+    {
+      "id": "model:ferrari:308",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 308",
+        "zh-CN": "法拉利308",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1975-1985",
+      "note": "308(1975-1985),法拉利中置V8跑车(308 GTB/GTS)",
+      "verified": "verified",
+      "en": "308",
+      "zh-CN": "法拉利308"
+    },
+    {
+      "id": "model:ferrari:328",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 328",
+        "zh-CN": "法拉利328",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1985-1989",
+      "note": "328(1985-1989),308的后继中置V8跑车",
+      "verified": "verified",
+      "en": "328",
+      "zh-CN": "法拉利328"
+    },
+    {
+      "id": "model:ferrari:375",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 375",
+        "zh-CN": "法拉利375",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953-1955",
+      "note": "375(1953-1955),法拉利早期V12跑车",
+      "verified": "verified",
+      "en": "375",
+      "zh-CN": "法拉利375"
+    },
+    {
+      "id": "model:ferrari:400",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 400",
+        "zh-CN": "法拉利400",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1976-1989",
+      "note": "400(1976-1989),法拉利前置V12 GT(400/412)",
+      "verified": "verified",
+      "en": "400",
+      "zh-CN": "法拉利400"
+    },
+    {
+      "id": "model:ferrari:410",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 410",
+        "zh-CN": "法拉利410",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1955-1959",
+      "note": "410(1955-1959),法拉利早期V12跑车",
+      "verified": "verified",
+      "en": "410",
+      "zh-CN": "法拉利410"
+    },
+    {
+      "id": "model:ferrari:456",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 456",
+        "zh-CN": "法拉利456",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992-2003",
+      "note": "456(1992-2003),法拉利前置V12 GT(456 GT/GTA)",
+      "verified": "verified",
+      "en": "456",
+      "zh-CN": "法拉利456"
+    },
+    {
+      "id": "model:ferrari:500",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 500",
+        "zh-CN": "法拉利500",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1952-1955",
+      "note": "500(1952-1955),法拉利F2赛车衍生车型",
+      "verified": "verified",
+      "en": "500",
+      "zh-CN": "法拉利500"
+    },
+    {
+      "id": "model:ferrari:550",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 550",
+        "zh-CN": "法拉利550",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996-2002",
+      "note": "550(1996-2002),法拉利前置V12跑车(550 Maranello)",
+      "verified": "verified",
+      "en": "550",
+      "zh-CN": "法拉利550"
+    },
+    {
+      "id": "model:ferrari:575m",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 575M",
+        "zh-CN": "法拉利575M",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002-2006",
+      "note": "575M(2002-2006),550 Maranello的改进版",
+      "verified": "verified",
+      "en": "575M",
+      "zh-CN": "法拉利575M"
+    },
+    {
+      "id": "model:ferrari:599",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 599",
+        "zh-CN": "法拉利599",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2012",
+      "note": "599(2006-2012),法拉利前置V12跑车(599 GTB Fiorano)",
+      "verified": "verified",
+      "en": "599",
+      "zh-CN": "法拉利599"
+    },
+    {
+      "id": "model:ferrari:612",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 612",
+        "zh-CN": "法拉利612",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004-2011",
+      "note": "612(2004-2011),法拉利前置V12 2+2跑车(612 Scaglietti)",
+      "verified": "verified",
+      "en": "612",
+      "zh-CN": "法拉利612"
+    },
+    {
+      "id": "model:ferrari:812",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 812",
+        "zh-CN": "法拉利812",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017-present",
+      "note": "812(2017-),法拉利前置V12跑车(812 Superfast/GTS/Competizione)",
+      "verified": "verified",
+      "en": "812",
+      "zh-CN": "法拉利812"
+    },
+    {
+      "id": "model:ferrari:849",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari 849",
+        "zh-CN": "法拉利849",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2026-present",
+      "note": "849 Testarossa(2026-),SF90的继任者,4.0T V8+三电机插混,2025年9月发布",
+      "verified": "verified",
+      "en": "849 Testarossa",
+      "zh-CN": "法拉利849 Testarossa"
+    },
+    {
+      "id": "model:ferrari:f355",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari F355",
+        "zh-CN": "法拉利F355",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1994-1999",
+      "note": "F355(1994-1999),法拉利中置V8跑车",
+      "verified": "verified",
+      "en": "F355",
+      "zh-CN": "法拉利F355"
+    },
+    {
+      "id": "model:ferrari:ferrari-f8",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari F8",
+        "zh-CN": "法拉利F8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "F8(2019-),法拉利中置V8跑车(F8 Tributo/Spider)",
+      "verified": "verified",
+      "en": "F8",
+      "zh-CN": "法拉利F8"
+    },
+    {
+      "id": "model:ferrari:f80",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari F80",
+        "zh-CN": "法拉利F80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:hev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "F80(2024-),法拉利旗舰超级跑车(LaFerrari继任,混动)",
+      "verified": "verified",
+      "en": "F80",
+      "zh-CN": "法拉利F80"
+    },
+    {
+      "id": "model:ferrari:gto",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari GTO",
+        "zh-CN": "法拉利GTO",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1962-1984",
+      "note": "GTO(1962-1984),法拉利经典赛车(250 GTO/288 GTO)",
+      "verified": "verified",
+      "en": "GTO",
+      "zh-CN": "法拉利GTO"
+    },
+    {
+      "id": "model:ferrari:j50",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari J50",
+        "zh-CN": "法拉利J50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016-present",
+      "note": "J50(2016-),法拉利One-off定制车型(50周年纪念)",
+      "verified": "verified",
+      "en": "J50",
+      "zh-CN": "法拉利J50"
+    },
+    {
+      "id": "model:ferrari:luce",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari Luce",
+        "zh-CN": "法拉利Luce",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "Luce(2025-),法拉利首款纯电量产车,首款5座车型",
+      "verified": "verified",
+      "en": "Luce",
+      "zh-CN": "法拉利Luce"
+    },
+    {
+      "id": "model:ferrari:sp38",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari SP38",
+        "zh-CN": "法拉利SP38",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018-present",
+      "note": "SP38(2018-),法拉利One-off定制车型",
+      "verified": "verified",
+      "en": "SP38",
+      "zh-CN": "法拉利SP38"
+    },
+    {
+      "id": "model:ferrari:sp3jc",
+      "brand": "Ferrari",
+      "names": {
+        "en": "Ferrari SP3JC",
+        "zh-CN": "法拉利SP3JC",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018-present",
+      "note": "SP3JC(2018-),法拉利One-off定制车型",
+      "verified": "verified",
+      "en": "SP3JC",
+      "zh-CN": "法拉利SP3JC"
     }
   ]
 }

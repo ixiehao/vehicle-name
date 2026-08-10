@@ -3,7 +3,12 @@
     {
       "id": "model:great-wall:h5",
       "brand": "Great Wall",
-      "names": {"en": "Haval H5", "zh-CN": "哈弗H5", "zh-TW": "Haval H5", "ja": "—"},
+      "names": {
+        "en": "Haval H5",
+        "zh-CN": "哈弗H5",
+        "zh-TW": "Haval H5",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:great-wall:h6",
       "brand": "Great Wall",
-      "names": {"en": "Haval H6", "zh-CN": "哈弗H6", "zh-TW": "Haval H6", "ja": "—"},
+      "names": {
+        "en": "Haval H6",
+        "zh-CN": "哈弗H6",
+        "zh-TW": "Haval H6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:great-wall:h9",
       "brand": "Great Wall",
-      "names": {"en": "Haval H9", "zh-CN": "哈弗H9", "zh-TW": "Haval H9", "ja": "—"},
+      "names": {
+        "en": "Haval H9",
+        "zh-CN": "哈弗H9",
+        "zh-TW": "Haval H9",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:great-wall:big-dog",
       "brand": "Great Wall",
-      "names": {"en": "Haval Big Dog", "zh-CN": "哈弗大狗", "zh-TW": "Haval Big Dog", "ja": "—"},
+      "names": {
+        "en": "Haval Big Dog",
+        "zh-CN": "哈弗大狗",
+        "zh-TW": "Haval Big Dog",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:great-wall:xiaolong",
       "brand": "Great Wall",
-      "names": {"en": "Haval Xiaolong", "zh-CN": "哈弗枭龙", "zh-TW": "Haval Xiaolong", "ja": "—"},
+      "names": {
+        "en": "Haval Xiaolong",
+        "zh-CN": "哈弗枭龙",
+        "zh-TW": "Haval Xiaolong",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -63,7 +88,12 @@
     {
       "id": "model:great-wall:raptor",
       "brand": "Great Wall",
-      "names": {"en": "Haval Raptor", "zh-CN": "哈弗猛龙", "zh-TW": "Haval Raptor", "ja": "—"},
+      "names": {
+        "en": "Haval Raptor",
+        "zh-CN": "哈弗猛龙",
+        "zh-TW": "Haval Raptor",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -75,7 +105,12 @@
     {
       "id": "model:great-wall:jolion",
       "brand": "Great Wall",
-      "names": {"en": "Haval Jolion", "zh-CN": "哈弗初恋", "zh-TW": "Haval Jolion", "ja": "—"},
+      "names": {
+        "en": "Haval Jolion",
+        "zh-CN": "哈弗初恋",
+        "zh-TW": "Haval Jolion",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:great-wall:f7",
       "brand": "Great Wall",
-      "names": {"en": "Haval F7", "zh-CN": "哈弗F7", "zh-TW": "Haval F7", "ja": "—"},
+      "names": {
+        "en": "Haval F7",
+        "zh-CN": "哈弗F7",
+        "zh-TW": "Haval F7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:great-wall:tank-300",
       "brand": "Great Wall",
-      "names": {"en": "Tank 300", "zh-CN": "坦克300", "zh-TW": "Tank 300", "ja": "—"},
+      "names": {
+        "en": "Tank 300",
+        "zh-CN": "坦克300",
+        "zh-TW": "Tank 300",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:great-wall:tank-400",
       "brand": "Great Wall",
-      "names": {"en": "Tank 400", "zh-CN": "坦克400", "zh-TW": "Tank 400", "ja": "—"},
+      "names": {
+        "en": "Tank 400",
+        "zh-CN": "坦克400",
+        "zh-TW": "Tank 400",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -123,7 +173,12 @@
     {
       "id": "model:great-wall:tank-500",
       "brand": "Great Wall",
-      "names": {"en": "Tank 500", "zh-CN": "坦克500", "zh-TW": "Tank 500", "ja": "—"},
+      "names": {
+        "en": "Tank 500",
+        "zh-CN": "坦克500",
+        "zh-TW": "Tank 500",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:great-wall:tank-700",
       "brand": "Great Wall",
-      "names": {"en": "Tank 700", "zh-CN": "坦克700", "zh-TW": "Tank 700", "ja": "—"},
+      "names": {
+        "en": "Tank 700",
+        "zh-CN": "坦克700",
+        "zh-TW": "Tank 700",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -147,7 +207,12 @@
     {
       "id": "model:great-wall:lanshan",
       "brand": "Great Wall",
-      "names": {"en": "Wey Lanshan", "zh-CN": "魏牌蓝山", "zh-TW": "Wey Lanshan", "ja": "—"},
+      "names": {
+        "en": "Wey Lanshan",
+        "zh-CN": "魏牌蓝山",
+        "zh-TW": "Wey Lanshan",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -159,7 +224,12 @@
     {
       "id": "model:great-wall:mocha",
       "brand": "Great Wall",
-      "names": {"en": "Wey Mocha", "zh-CN": "魏牌摩卡", "zh-TW": "Wey Mocha", "ja": "—"},
+      "names": {
+        "en": "Wey Mocha",
+        "zh-CN": "魏牌摩卡",
+        "zh-TW": "Wey Mocha",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -171,7 +241,12 @@
     {
       "id": "model:great-wall:latte",
       "brand": "Great Wall",
-      "names": {"en": "Wey Latte", "zh-CN": "魏牌拿铁", "zh-TW": "Wey Latte", "ja": "—"},
+      "names": {
+        "en": "Wey Latte",
+        "zh-CN": "魏牌拿铁",
+        "zh-TW": "Wey Latte",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -183,7 +258,12 @@
     {
       "id": "model:great-wall:good-cat",
       "brand": "Great Wall",
-      "names": {"en": "Ora Good Cat", "zh-CN": "欧拉好猫", "zh-TW": "Ora Good Cat", "ja": "—"},
+      "names": {
+        "en": "Ora Good Cat",
+        "zh-CN": "欧拉好猫",
+        "zh-TW": "Ora Good Cat",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -195,7 +275,12 @@
     {
       "id": "model:great-wall:black-cat",
       "brand": "Great Wall",
-      "names": {"en": "Ora Black Cat", "zh-CN": "欧拉黑猫", "zh-TW": "Ora Black Cat", "ja": "—"},
+      "names": {
+        "en": "Ora Black Cat",
+        "zh-CN": "欧拉黑猫",
+        "zh-TW": "Ora Black Cat",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -207,7 +292,12 @@
     {
       "id": "model:great-wall:pao",
       "brand": "Great Wall",
-      "names": {"en": "GWM Pao (Cannon)", "zh-CN": "长城炮", "zh-TW": "GWM Pao", "ja": "—"},
+      "names": {
+        "en": "GWM Pao (Cannon)",
+        "zh-CN": "长城炮",
+        "zh-TW": "GWM Pao",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:great-wall:wingle",
       "brand": "Great Wall",
-      "names": {"en": "Great Wall Wingle", "zh-CN": "长城风骏", "zh-TW": "Great Wall Wingle", "ja": "—"},
+      "names": {
+        "en": "Great Wall Wingle",
+        "zh-CN": "长城风骏",
+        "zh-TW": "Great Wall Wingle",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:great-wall:lightning-cat",
       "brand": "Great Wall",
-      "names": {"en": "Ora Lightning Cat", "zh-CN": "欧拉闪电猫", "zh-TW": "Ora Lightning Cat", "ja": "—"},
+      "names": {
+        "en": "Ora Lightning Cat",
+        "zh-CN": "欧拉闪电猫",
+        "zh-TW": "Ora Lightning Cat",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -243,7 +343,12 @@
     {
       "id": "model:great-wall:gaoshan",
       "brand": "Great Wall",
-      "names": {"en": "Wey Gaoshan", "zh-CN": "魏牌高山", "zh-TW": "Wey Gaoshan", "ja": "—"},
+      "names": {
+        "en": "Wey Gaoshan",
+        "zh-CN": "魏牌高山",
+        "zh-TW": "Wey Gaoshan",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:phev",
@@ -255,7 +360,12 @@
     {
       "id": "model:great-wall:f5",
       "brand": "Great Wall",
-      "names": {"en": "Haval F5", "zh-CN": "哈弗F5", "zh-TW": "Haval F5", "ja": "—"},
+      "names": {
+        "en": "Haval F5",
+        "zh-CN": "哈弗F5",
+        "zh-TW": "Haval F5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:great-wall:h1",
       "brand": "Great Wall",
-      "names": {"en": "Haval H1", "zh-CN": "哈弗H1", "zh-TW": "Haval H1", "ja": "—"},
+      "names": {
+        "en": "Haval H1",
+        "zh-CN": "哈弗H1",
+        "zh-TW": "Haval H1",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:great-wall:h2s",
       "brand": "Great Wall",
-      "names": {"en": "Haval H2s", "zh-CN": "哈弗H2s", "zh-TW": "Haval H2s", "ja": "—"},
+      "names": {
+        "en": "Haval H2s",
+        "zh-CN": "哈弗H2s",
+        "zh-TW": "Haval H2s",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:great-wall:h4",
       "brand": "Great Wall",
-      "names": {"en": "Haval H4", "zh-CN": "哈弗H4", "zh-TW": "Haval H4", "ja": "—"},
+      "names": {
+        "en": "Haval H4",
+        "zh-CN": "哈弗H4",
+        "zh-TW": "Haval H4",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:great-wall:h8",
       "brand": "Great Wall",
-      "names": {"en": "Haval H8", "zh-CN": "哈弗H8", "zh-TW": "Haval H8", "ja": "—"},
+      "names": {
+        "en": "Haval H8",
+        "zh-CN": "哈弗H8",
+        "zh-TW": "Haval H8",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:great-wall:shenshou",
       "brand": "Great Wall",
-      "names": {"en": "Haval Shenshou", "zh-CN": "哈弗神兽", "zh-TW": "Haval Shenshou", "ja": "—"},
+      "names": {
+        "en": "Haval Shenshou",
+        "zh-CN": "哈弗神兽",
+        "zh-TW": "Haval Shenshou",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:great-wall:chitu",
       "brand": "Great Wall",
-      "names": {"en": "Haval Chitu", "zh-CN": "哈弗赤兔", "zh-TW": "Haval Chitu", "ja": "—"},
+      "names": {
+        "en": "Haval Chitu",
+        "zh-CN": "哈弗赤兔",
+        "zh-TW": "Haval Chitu",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:great-wall:cool-dog",
       "brand": "Great Wall",
-      "names": {"en": "Haval Cool Dog", "zh-CN": "哈弗酷狗", "zh-TW": "Haval Cool Dog", "ja": "—"},
+      "names": {
+        "en": "Haval Cool Dog",
+        "zh-CN": "哈弗酷狗",
+        "zh-TW": "Haval Cool Dog",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:great-wall:macchiato",
       "brand": "Great Wall",
-      "names": {"en": "Wey Macchiato", "zh-CN": "魏牌玛奇朵", "zh-TW": "Wey Macchiato", "ja": "—"},
+      "names": {
+        "en": "Wey Macchiato",
+        "zh-CN": "魏牌玛奇朵",
+        "zh-TW": "Wey Macchiato",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:hev",
@@ -363,7 +513,12 @@
     {
       "id": "model:great-wall:p8",
       "brand": "Great Wall",
-      "names": {"en": "Wey P8", "zh-CN": "魏牌P8", "zh-TW": "Wey P8", "ja": "—"},
+      "names": {
+        "en": "Wey P8",
+        "zh-CN": "魏牌P8",
+        "zh-TW": "Wey P8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -375,7 +530,12 @@
     {
       "id": "model:great-wall:vv5",
       "brand": "Great Wall",
-      "names": {"en": "Wey VV5", "zh-CN": "魏牌VV5", "zh-TW": "Wey VV5", "ja": "—"},
+      "names": {
+        "en": "Wey VV5",
+        "zh-CN": "魏牌VV5",
+        "zh-TW": "Wey VV5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:great-wall:vv6",
       "brand": "Great Wall",
-      "names": {"en": "Wey VV6", "zh-CN": "魏牌VV6", "zh-TW": "Wey VV6", "ja": "—"},
+      "names": {
+        "en": "Wey VV6",
+        "zh-CN": "魏牌VV6",
+        "zh-TW": "Wey VV6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:great-wall:vv7",
       "brand": "Great Wall",
-      "names": {"en": "Wey VV7", "zh-CN": "魏牌VV7", "zh-TW": "Wey VV7", "ja": "—"},
+      "names": {
+        "en": "Wey VV7",
+        "zh-CN": "魏牌VV7",
+        "zh-TW": "Wey VV7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -411,7 +581,12 @@
     {
       "id": "model:great-wall:c20r",
       "brand": "Great Wall",
-      "names": {"en": "Great Wall C20R", "zh-CN": "长城C20R", "zh-TW": "Great Wall C20R", "ja": "—"},
+      "names": {
+        "en": "Great Wall C20R",
+        "zh-CN": "长城C20R",
+        "zh-TW": "Great Wall C20R",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -423,7 +598,12 @@
     {
       "id": "model:great-wall:c50",
       "brand": "Great Wall",
-      "names": {"en": "Great Wall C50", "zh-CN": "长城C50", "zh-TW": "Great Wall C50", "ja": "—"},
+      "names": {
+        "en": "Great Wall C50",
+        "zh-CN": "长城C50",
+        "zh-TW": "Great Wall C50",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:great-wall:m2",
       "brand": "Great Wall",
-      "names": {"en": "Great Wall M2", "zh-CN": "长城M2", "zh-TW": "Great Wall M2", "ja": "—"},
+      "names": {
+        "en": "Great Wall M2",
+        "zh-CN": "长城M2",
+        "zh-TW": "Great Wall M2",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -447,7 +632,12 @@
     {
       "id": "model:great-wall:m4",
       "brand": "Great Wall",
-      "names": {"en": "Great Wall M4", "zh-CN": "长城M4", "zh-TW": "Great Wall M4", "ja": "—"},
+      "names": {
+        "en": "Great Wall M4",
+        "zh-CN": "长城M4",
+        "zh-TW": "Great Wall M4",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -455,6 +645,424 @@
       "years": "2012–2017",
       "note": "长城汽车小型SUV;2017年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:great-wall:52a41040b4",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Lingao",
+        "zh-CN": "凌傲",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009-2014",
+      "note": "凌傲(2009-2014),长城小型两厢车,2014年停产",
+      "verified": "verified",
+      "en": "Lingao",
+      "zh-CN": "凌傲"
+    },
+    {
+      "id": "model:great-wall:230dc8b97c",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Jiayu",
+        "zh-CN": "嘉誉",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007-2014",
+      "note": "嘉誉(2007-2014),长城MPV,2014年停产",
+      "verified": "verified",
+      "en": "Jiayu",
+      "zh-CN": "嘉誉"
+    },
+    {
+      "id": "model:great-wall:5db9fc986d",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Shanhai Pao",
+        "zh-CN": "山海炮",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "山海炮(2022-),长城炮系列高端皮卡",
+      "verified": "verified",
+      "en": "Shanhai Pao",
+      "zh-CN": "山海炮"
+    },
+    {
+      "id": "model:great-wall:hi4-t",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Shanhai Pao Hi4-T",
+        "zh-CN": "山海炮 Hi4-T",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:pickup",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "山海炮Hi4-T(2024-),山海炮插电混动版",
+      "verified": "verified",
+      "en": "Shanhai Pao Hi4-T",
+      "zh-CN": "山海炮Hi4-T"
+    },
+    {
+      "id": "model:great-wall:153fd6e439",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Xuanli",
+        "zh-CN": "炫丽",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2013",
+      "note": "炫丽(2008-2013),长城小型两厢车,2013年停产",
+      "verified": "verified",
+      "en": "Xuanli",
+      "zh-CN": "炫丽"
+    },
+    {
+      "id": "model:great-wall:54c5d79d7d",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Pao",
+        "zh-CN": "炮",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "长城炮(2019-),长城皮卡系列(乘用炮/商用炮/越野炮)",
+      "verified": "verified",
+      "en": "Pao",
+      "zh-CN": "炮"
+    },
+    {
+      "id": "model:great-wall:0641182406",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Safe",
+        "zh-CN": "赛弗",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002-2008",
+      "note": "赛弗(2002-2008),长城首款SUV,2008年停产",
+      "verified": "verified",
+      "en": "Safe",
+      "zh-CN": "赛弗"
+    },
+    {
+      "id": "model:great-wall:bf1c30da59",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Saiying",
+        "zh-CN": "赛影",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003-2008",
+      "note": "赛影(2003-2008),长城SUV,2008年停产",
+      "verified": "verified",
+      "en": "Saiying",
+      "zh-CN": "赛影"
+    },
+    {
+      "id": "model:great-wall:8ca13fd7ab",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Saijun",
+        "zh-CN": "赛骏",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004-2008",
+      "note": "赛骏(2004-2008),长城皮卡,2008年停产",
+      "verified": "verified",
+      "en": "Saijun",
+      "zh-CN": "赛骏"
+    },
+    {
+      "id": "model:great-wall:d072907e9a",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Coolbear",
+        "zh-CN": "酷熊",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009-2013",
+      "note": "酷熊(2009-2013),长城方盒子造型小型车,2013年停产",
+      "verified": "verified",
+      "en": "Coolbear",
+      "zh-CN": "酷熊"
+    },
+    {
+      "id": "model:great-wall:99f7f05ed6",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Jingang Pao",
+        "zh-CN": "金刚炮",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "金刚炮(2022-),长城炮系列商用皮卡",
+      "verified": "verified",
+      "en": "Jingang Pao",
+      "zh-CN": "金刚炮"
+    },
+    {
+      "id": "model:great-wall:576b14ad41",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Deer",
+        "zh-CN": "金迪尔",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996-2010",
+      "note": "金迪尔(1996-2010),长城皮卡(源自丰田Hilux),2010年停产",
+      "verified": "verified",
+      "en": "Deer",
+      "zh-CN": "金迪尔"
+    },
+    {
+      "id": "model:great-wall:c20rev",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Great Wall C20REV",
+        "zh-CN": "长城C20REV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2012-2015",
+      "note": "长城C20R EV(2012-2015),长城纯电小型车,2015年停产",
+      "verified": "verified",
+      "en": "C20R EV",
+      "zh-CN": "长城C20REV"
+    },
+    {
+      "id": "model:great-wall:c30-2",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Great Wall C30",
+        "zh-CN": "长城C30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2017",
+      "note": "长城C30(2010-2017),长城紧凑型轿车(含纯电版C30 EV),2017年停产",
+      "verified": "verified",
+      "en": "C30",
+      "zh-CN": "长城C30"
+    },
+    {
+      "id": "model:great-wall:c70",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Great Wall C70",
+        "zh-CN": "长城C70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011-2015",
+      "note": "长城C70(2011-2015),长城中型轿车(腾翼C70),2015年停产",
+      "verified": "verified",
+      "en": "C70",
+      "zh-CN": "长城C70"
+    },
+    {
+      "id": "model:great-wall:great-wall-m1",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Great Wall M1",
+        "zh-CN": "长城M1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009-2013",
+      "note": "长城M1(2009-2013),长城微型车(迷你SUV),2013年停产",
+      "verified": "verified",
+      "en": "M1",
+      "zh-CN": "长城M1"
+    },
+    {
+      "id": "model:great-wall:v80",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Great Wall V80",
+        "zh-CN": "长城V80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012-2016",
+      "note": "长城V80(2012-2016),长城MPV,2016年停产",
+      "verified": "verified",
+      "en": "V80",
+      "zh-CN": "长城V80"
+    },
+    {
+      "id": "model:great-wall:1481672c12",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Great Wall Peri",
+        "zh-CN": "长城精灵",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2012",
+      "note": "长城精灵(2008-2012),长城微型车,2012年停产",
+      "verified": "verified",
+      "en": "Peri",
+      "zh-CN": "长城精灵"
+    },
+    {
+      "id": "model:great-wall:great-wall-3",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Wingle 3",
+        "zh-CN": "风骏3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2013",
+      "note": "风骏3(2008-2013),长城皮卡,2013年停产",
+      "verified": "verified",
+      "en": "Wingle 3",
+      "zh-CN": "风骏3"
+    },
+    {
+      "id": "model:great-wall:great-wall-5",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Wingle 5",
+        "zh-CN": "风骏5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010-present",
+      "note": "风骏5(2010-),长城皮卡主力车型",
+      "verified": "verified",
+      "en": "Wingle 5",
+      "zh-CN": "风骏5"
+    },
+    {
+      "id": "model:great-wall:great-wall-6",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Wingle 6",
+        "zh-CN": "风骏6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014-2020",
+      "note": "风骏6(2014-2020),长城皮卡,2020年停产",
+      "verified": "verified",
+      "en": "Wingle 6",
+      "zh-CN": "风骏6"
+    },
+    {
+      "id": "model:great-wall:great-wall-7",
+      "brand": "Great Wall",
+      "names": {
+        "en": "Wingle 7",
+        "zh-CN": "风骏7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018-present",
+      "note": "风骏7(2018-),长城皮卡",
+      "verified": "verified",
+      "en": "Wingle 7",
+      "zh-CN": "风骏7"
     }
   ]
 }

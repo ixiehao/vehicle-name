@@ -3,7 +3,12 @@
     {
       "id": "model:dongfeng:shuaike",
       "brand": "Dongfeng",
-      "names": {"en": "Dongfeng Shuaike", "zh-CN": "帅客", "zh-TW": "帥客", "ja": "—"},
+      "names": {
+        "en": "Dongfeng Shuaike",
+        "zh-CN": "帅客",
+        "zh-TW": "帥客",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:dongfeng:ruiqi",
       "brand": "Dongfeng",
-      "names": {"en": "Dongfeng Ruiqi", "zh-CN": "锐骐", "zh-TW": "銳騏", "ja": "—"},
+      "names": {
+        "en": "Dongfeng Ruiqi",
+        "zh-CN": "锐骐",
+        "zh-TW": "銳騏",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:dongfeng:ruiqi-6",
       "brand": "Dongfeng",
-      "names": {"en": "Dongfeng Ruiqi 6", "zh-CN": "锐骐6", "zh-TW": "銳騏6", "ja": "—"},
+      "names": {
+        "en": "Dongfeng Ruiqi 6",
+        "zh-CN": "锐骐6",
+        "zh-TW": "銳騏6",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -35,6 +50,709 @@
       "years": "2018–present",
       "note": "郑州日产「东风」品牌皮卡(锐骐换代车型)",
       "verified": "verified"
+    },
+    {
+      "id": "model:dongfeng:3f2a679276",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng Pickup",
+        "zh-CN": "东风皮卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2005–present",
+      "note": "东风皮卡(2005–),东风轻型车皮卡系列(含虎视/信天游等)",
+      "verified": "verified",
+      "en": "Dongfeng Pickup",
+      "zh-CN": "东风皮卡"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-k6",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Qiankun K6",
+        "zh-CN": "乾坤K6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "乾坤K6(2023–),东风轻型车纯电皮卡",
+      "verified": "verified",
+      "en": "Qiankun K6",
+      "zh-CN": "乾坤K6"
+    },
+    {
+      "id": "model:dongfeng:f086779e87",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Odins",
+        "zh-CN": "奥丁",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2016",
+      "note": "奥丁(2007–2016),郑州日产SUV(日产帕拉丁平台衍生),2016年停产",
+      "verified": "verified",
+      "en": "Odins",
+      "zh-CN": "奥丁"
+    },
+    {
+      "id": "model:dongfeng:767d133101",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Palaso",
+        "zh-CN": "帕拉索",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "帕拉索(2020–),郑州日产多用途SUV(锐骐6平台)",
+      "verified": "verified",
+      "en": "Palaso",
+      "zh-CN": "帕拉索"
+    },
+    {
+      "id": "model:dongfeng:ce9f115eb0",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Yuxuan",
+        "zh-CN": "御轩",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2013",
+      "note": "御轩(2007–2013),郑州日产MPV(源自日产Serena平台),2013年停产",
+      "verified": "verified",
+      "en": "Yuxuan",
+      "zh-CN": "御轩"
+    },
+    {
+      "id": "model:dongfeng:em27",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Yufeng EM27",
+        "zh-CN": "御风EM27",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "御风EM27(2023–),东风轻型车纯电物流车",
+      "verified": "verified",
+      "en": "Yufeng EM27",
+      "zh-CN": "御风EM27"
+    },
+    {
+      "id": "model:dongfeng:p16",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Yufeng P16",
+        "zh-CN": "御风P16",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "御风P16(2018–),东风轻型车皮卡",
+      "verified": "verified",
+      "en": "Yufeng P16",
+      "zh-CN": "御风P16"
+    },
+    {
+      "id": "model:dongfeng:s16",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Yufeng S16",
+        "zh-CN": "御风S16",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "御风S16(2018–2021),东风轻型车SUV,2021年停产",
+      "verified": "verified",
+      "en": "Yufeng S16",
+      "zh-CN": "御风S16"
+    },
+    {
+      "id": "model:dongfeng:7b1659c0ba",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng",
+        "zh-CN": "猛士",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008–present",
+      "note": "猛士(2008–),东风军用/民用硬派越野车;2023年起猛士独立为豪华电动越野品牌",
+      "verified": "verified",
+      "en": "Mengshi",
+      "zh-CN": "猛士"
+    },
+    {
+      "id": "model:dongfeng:m50",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng M50",
+        "zh-CN": "猛士M50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "猛士M50(2021–),东风猛士皮卡版(军转民)",
+      "verified": "verified",
+      "en": "Mengshi M50",
+      "zh-CN": "猛士M50"
+    },
+    {
+      "id": "model:dongfeng:ev90",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruidalida EV90",
+        "zh-CN": "睿立达EV90",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "睿立达EV90(2023–),东风轻型车纯电物流车",
+      "verified": "verified",
+      "en": "Ruidalida EV90",
+      "zh-CN": "睿立达EV90"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-v5",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruidalida V5",
+        "zh-CN": "睿立达V5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "睿立达V5(2022–),东风轻型车微面",
+      "verified": "verified",
+      "en": "Ruidalida V5",
+      "zh-CN": "睿立达V5"
+    },
+    {
+      "id": "model:dongfeng:v6e",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruidalida V6E",
+        "zh-CN": "睿立达V6E",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "睿立达V6E(2022–),东风轻型车纯电微面",
+      "verified": "verified",
+      "en": "Ruidalida V6E",
+      "zh-CN": "睿立达V6E"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-v7",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruidalida V7",
+        "zh-CN": "睿立达V7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "睿立达V7(2022–),东风轻型车微面",
+      "verified": "verified",
+      "en": "Ruidalida V7",
+      "zh-CN": "睿立达V7"
+    },
+    {
+      "id": "model:dongfeng:v8e",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruidalida V8E",
+        "zh-CN": "睿立达V8E",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "睿立达V8E(2022–),东风轻型车纯电微面",
+      "verified": "verified",
+      "en": "Ruidalida V8E",
+      "zh-CN": "睿立达V8E"
+    },
+    {
+      "id": "model:dongfeng:500113dad3",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Fuxiaorui",
+        "zh-CN": "福小瑞",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "福小瑞(2025–),东风微卡(2025款在售)",
+      "verified": "verified",
+      "en": "Fuxiaorui",
+      "zh-CN": "福小瑞"
+    },
+    {
+      "id": "model:dongfeng:0a8dddc9a9",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Hushi",
+        "zh-CN": "虎视",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2016",
+      "note": "虎视(2007–2016),东风皮卡,2016年停产",
+      "verified": "verified",
+      "en": "Hushi",
+      "zh-CN": "虎视"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-z9",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng Yufeng Z9",
+        "zh-CN": "郑州日产Z9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "Z9(2025–),郑州日产全新皮卡",
+      "verified": "verified",
+      "en": "Z9",
+      "zh-CN": "郑州日产Z9"
+    },
+    {
+      "id": "model:dongfeng:z9-ge-phev",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng Yufeng Z9 GE PHEV",
+        "zh-CN": "郑州日产Z9 GE PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "Z9 GE PHEV(2025–),郑州日产Z9皮卡插电混动版",
+      "verified": "verified",
+      "en": "Z9 GE PHEV",
+      "zh-CN": "郑州日产Z9 GE PHEV"
+    },
+    {
+      "id": "model:dongfeng:6-pro",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruichi 6 pro",
+        "zh-CN": "锐骐6 pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "锐骐6 Pro(2024–),郑州日产锐骐6改款",
+      "verified": "verified",
+      "en": "Ruichi 6 Pro",
+      "zh-CN": "锐骐6 Pro"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-6",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruichi 6 New Energy",
+        "zh-CN": "锐骐6新能源",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "锐骐6新能源(2023–),郑州日产锐骐6纯电版",
+      "verified": "verified",
+      "en": "Ruichi 6 New Energy",
+      "zh-CN": "锐骐6新能源"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-7",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruichi 7",
+        "zh-CN": "锐骐7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "锐骐7(2022–),郑州日产皮卡",
+      "verified": "verified",
+      "en": "Ruichi 7",
+      "zh-CN": "锐骐7"
+    },
+    {
+      "id": "model:dongfeng:54e0ceede5",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruichi Multi-purpose",
+        "zh-CN": "锐骐多功能车",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "锐骐多功能车(2021–),郑州日产皮卡衍生",
+      "verified": "verified",
+      "en": "Ruichi Multi-purpose",
+      "zh-CN": "锐骐多功能车"
+    },
+    {
+      "id": "model:dongfeng:zna-rich",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruichi EV Pickup ZNA RICH",
+        "zh-CN": "锐骐纯电皮卡ZNA RICH",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "锐骐纯电皮卡ZNA RICH(2022–),郑州日产纯电皮卡",
+      "verified": "verified",
+      "en": "Ruichi EV Pickup",
+      "zh-CN": "锐骐纯电皮卡"
+    },
+    {
+      "id": "model:dongfeng:em10",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruitait EM10",
+        "zh-CN": "东风·瑞泰特EM10",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "瑞泰特EM10(2019–),东风纯电物流车",
+      "verified": "verified",
+      "en": "Ruitait EM10",
+      "zh-CN": "东风·瑞泰特EM10"
+    },
+    {
+      "id": "model:dongfeng:em30",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Ruitait EM30",
+        "zh-CN": "东风·瑞泰特EM30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "瑞泰特EM30(2019–),东风纯电物流车",
+      "verified": "verified",
+      "en": "Ruitait EM30",
+      "zh-CN": "东风·瑞泰特EM30"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-e",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "e Elysee",
+        "zh-CN": "e爱丽舍",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2022",
+      "note": "e爱丽舍(2020–2022),东风雪铁龙爱丽舍纯电版,2022年停产",
+      "verified": "verified",
+      "en": "e Elysee",
+      "zh-CN": "e爱丽舍"
+    },
+    {
+      "id": "model:dongfeng:es500",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Fukang ES500",
+        "zh-CN": "富康ES500",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "富康ES500(2018–2020),东风富康纯电轿车,2020年停产",
+      "verified": "verified",
+      "en": "Fukang ES500",
+      "zh-CN": "富康ES500"
+    },
+    {
+      "id": "model:dongfeng:es600",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Fukang ES600",
+        "zh-CN": "富康ES600",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "富康ES600(2022–),东风富康纯电轿车(换电版)",
+      "verified": "verified",
+      "en": "Fukang ES600",
+      "zh-CN": "富康ES600"
+    },
+    {
+      "id": "model:dongfeng:e-007",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "eπ007",
+        "zh-CN": "eπ007",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "eπ007(2024–),东风奕派(eπ)子品牌纯电轿车",
+      "verified": "verified",
+      "en": "eπ007",
+      "zh-CN": "eπ007"
+    },
+    {
+      "id": "model:dongfeng:e-008",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "eπ008",
+        "zh-CN": "eπ008",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "eπ008(2024–),东风奕派(eπ)子品牌中大型SUV",
+      "verified": "verified",
+      "en": "eπ008",
+      "zh-CN": "eπ008"
+    },
+    {
+      "id": "model:dongfeng:ep7",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Yipai EP7",
+        "zh-CN": "奕派EP7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "奕派EP7(2025–),东风奕派(eπ)子品牌轿车",
+      "verified": "verified",
+      "en": "Yipai EP7",
+      "zh-CN": "奕派EP7"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-m8",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Yipai M8",
+        "zh-CN": "奕派M8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "奕派M8(2025–),东风奕派(eπ)子品牌MPV",
+      "verified": "verified",
+      "en": "Yipai M8",
+      "zh-CN": "奕派M8"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-01",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng 01",
+        "zh-CN": "纳米01",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "纳米01(2024–),东风纳米子品牌纯电小型车",
+      "verified": "verified",
+      "en": "Nami 01",
+      "zh-CN": "纳米01"
+    },
+    {
+      "id": "model:dongfeng:dongfeng-06",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng 06",
+        "zh-CN": "纳米06",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "纳米06(2025–),东风纳米子品牌纯电小型SUV",
+      "verified": "verified",
+      "en": "Nami 06",
+      "zh-CN": "纳米06"
+    },
+    {
+      "id": "model:dongfeng:box",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng BOX",
+        "zh-CN": "纳米BOX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "纳米BOX(2022–),东风纳米子品牌纯电小型SUV",
+      "verified": "verified",
+      "en": "Nami BOX",
+      "zh-CN": "纳米BOX"
+    },
+    {
+      "id": "model:dongfeng:ex1",
+      "brand": "Dongfeng",
+      "names": {
+        "en": "Dongfeng EX1",
+        "zh-CN": "纳米EX1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "纳米EX1(2021–),东风纳米子品牌纯电小型SUV",
+      "verified": "verified",
+      "en": "Nami EX1",
+      "zh-CN": "纳米EX1"
     }
   ]
 }

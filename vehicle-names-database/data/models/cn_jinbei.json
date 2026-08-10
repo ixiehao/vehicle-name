@@ -3,7 +3,12 @@
     {
       "id": "model:jinbei:haishi",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei Haishi", "zh-CN": "海狮", "zh-TW": "海獅", "ja": "—"},
+      "names": {
+        "en": "Jinbei Haishi",
+        "zh-CN": "海狮",
+        "zh-TW": "海獅",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:jinbei:grace",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei Grace", "zh-CN": "阁瑞斯", "zh-TW": "閣瑞斯", "ja": "—"},
+      "names": {
+        "en": "Jinbei Grace",
+        "zh-CN": "阁瑞斯",
+        "zh-TW": "閣瑞斯",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:jinbei:kuaijin",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei Kuaijin", "zh-CN": "快运", "zh-TW": "快運", "ja": "—"},
+      "names": {
+        "en": "Jinbei Kuaijin",
+        "zh-CN": "快运",
+        "zh-TW": "快運",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:jinbei:xiaohaishi-x30",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei X30", "zh-CN": "小海狮X30", "zh-TW": "小海獅X30", "ja": "—"},
+      "names": {
+        "en": "Jinbei X30",
+        "zh-CN": "小海狮X30",
+        "zh-TW": "小海獅X30",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -51,31 +71,46 @@
     {
       "id": "model:jinbei:xinhaishi-s",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei Xinhaishi S", "zh-CN": "新海狮S", "zh-TW": "新海獅S", "ja": "—"},
+      "names": {
+        "en": "Jinbei Xinhaishi S",
+        "zh-CN": "新海狮S",
+        "zh-TW": "新海獅S",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2018–present",
       "note": "金杯新海狮S微面/轻客",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:jinbei:xinhaishi-x30l",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei X30L", "zh-CN": "新海狮X30L", "zh-TW": "新海獅X30L", "ja": "—"},
+      "names": {
+        "en": "Jinbei X30L",
+        "zh-CN": "新海狮X30L",
+        "zh-TW": "新海獅X30L",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2018–present",
       "note": "金杯新海狮X30L微面/轻客,长轴加长版",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:jinbei:haixing-t20",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei T20", "zh-CN": "海星T20", "zh-TW": "海星T20", "ja": "—"},
+      "names": {
+        "en": "Jinbei T20",
+        "zh-CN": "海星T20",
+        "zh-TW": "海星T20",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:jinbei:t3",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei T3", "zh-CN": "T3", "zh-TW": "T3", "ja": "—"},
+      "names": {
+        "en": "Jinbei T3",
+        "zh-CN": "T3",
+        "zh-TW": "T3",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:jinbei:t5",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei T5", "zh-CN": "T5", "zh-TW": "T5", "ja": "—"},
+      "names": {
+        "en": "Jinbei T5",
+        "zh-CN": "T5",
+        "zh-TW": "T5",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:jinbei:750",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei 750", "zh-CN": "750", "zh-TW": "750", "ja": "—"},
+      "names": {
+        "en": "Jinbei 750",
+        "zh-CN": "750",
+        "zh-TW": "750",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:jinbei:f50",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei F50", "zh-CN": "F50", "zh-TW": "F50", "ja": "—"},
+      "names": {
+        "en": "Jinbei F50",
+        "zh-CN": "F50",
+        "zh-TW": "F50",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:jinbei:zhishang-s30",
       "brand": "Jinbei",
-      "names": {"en": "Jinbei S30", "zh-CN": "智尚S30", "zh-TW": "智尚S30", "ja": "—"},
+      "names": {
+        "en": "Jinbei S30",
+        "zh-CN": "智尚S30",
+        "zh-TW": "智尚S30",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -143,6 +203,186 @@
       "years": "2013–2018",
       "note": "金杯智尚S30小型SUV,金杯乘用车系列",
       "verified": "verified"
+    },
+    {
+      "id": "model:jinbei:s35",
+      "brand": "Jinbei",
+      "names": {
+        "en": "Zhishang S35",
+        "zh-CN": "智尚S35",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "智尚S35(2016-2018),金杯小型SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "智尚S35"
+    },
+    {
+      "id": "model:jinbei:58b719efd8",
+      "brand": "Jinbei",
+      "names": {
+        "en": "Guanjing",
+        "zh-CN": "观境",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2020",
+      "note": "观境(2019-2020),金杯紧凑型SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "觀境"
+    },
+    {
+      "id": "model:jinbei:s70",
+      "brand": "Jinbei",
+      "names": {
+        "en": "Jinbei S70",
+        "zh-CN": "金杯S70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "金杯S70(2017-2019),7座SUV,基于蒂阿兹平台,已停产",
+      "verified": "verified",
+      "zh-TW": "S70"
+    },
+    {
+      "id": "model:jinbei:t20s",
+      "brand": "Jinbei",
+      "names": {
+        "en": "T20S",
+        "zh-CN": "鑫源T20S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "鑫源T20S,华晨鑫源微卡(金杯渠道)",
+      "verified": "verified",
+      "zh-TW": "T20S"
+    },
+    {
+      "id": "model:jinbei:t22s",
+      "brand": "Jinbei",
+      "names": {
+        "en": "T22S",
+        "zh-CN": "鑫源T22S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "鑫源T22S,华晨鑫源微卡(金杯渠道)",
+      "verified": "verified",
+      "zh-TW": "T22S"
+    },
+    {
+      "id": "model:jinbei:t30s",
+      "brand": "Jinbei",
+      "names": {
+        "en": "T30S",
+        "zh-CN": "鑫源T30S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "鑫源T30S,华晨鑫源微卡(金杯渠道)",
+      "verified": "verified",
+      "zh-TW": "T30S"
+    },
+    {
+      "id": "model:jinbei:t32s",
+      "brand": "Jinbei",
+      "names": {
+        "en": "T32S",
+        "zh-CN": "鑫源T32S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "鑫源T32S,华晨鑫源微卡(金杯渠道)",
+      "verified": "verified",
+      "zh-TW": "T32S"
+    },
+    {
+      "id": "model:jinbei:t50s",
+      "brand": "Jinbei",
+      "names": {
+        "en": "T50S",
+        "zh-CN": "鑫源T50S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "鑫源T50S,华晨鑫源微卡(金杯渠道)",
+      "verified": "verified",
+      "zh-TW": "T50S"
+    },
+    {
+      "id": "model:jinbei:t52s",
+      "brand": "Jinbei",
+      "names": {
+        "en": "T52S",
+        "zh-CN": "鑫源T52S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "鑫源T52S,华晨鑫源微卡(金杯渠道)",
+      "verified": "verified",
+      "zh-TW": "T52S"
+    },
+    {
+      "id": "model:jinbei:8be17a16aa",
+      "brand": "Jinbei",
+      "names": {
+        "en": "Leilong",
+        "zh-CN": "雷龙",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2017",
+      "note": "雷龙(2014-),华晨华瑞皮卡,已停售",
+      "verified": "verified",
+      "zh-TW": "雷龍"
     }
   ]
 }

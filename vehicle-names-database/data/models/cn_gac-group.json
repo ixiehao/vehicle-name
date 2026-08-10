@@ -3,7 +3,12 @@
     {
       "id": "model:gac-group:qizhi-phev",
       "brand": "GAC Group",
-      "names": {"en": "GAC Mitsubishi Qizhi PHEV", "zh-CN": "祺智PHEV", "zh-TW": "Qizhi PHEV", "ja": "—"},
+      "names": {
+        "en": "GAC Mitsubishi Qizhi PHEV",
+        "zh-CN": "祺智PHEV",
+        "zh-TW": "Qizhi PHEV",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",

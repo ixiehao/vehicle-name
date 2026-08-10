@@ -3,7 +3,12 @@
     {
       "id": "model:maybach:57-62",
       "brand": "Maybach",
-      "names": {"en": "Maybach 57/62", "zh-CN": "迈巴赫57/62", "zh-TW": "Maybach 57/62", "ja": "マイバッハ57/62"},
+      "names": {
+        "en": "Maybach 57/62",
+        "zh-CN": "迈巴赫57/62",
+        "zh-TW": "Maybach 57/62",
+        "ja": "マイバッハ57/62"
+      },
       "segment": "class:eu:f",
       "body_style": "body:limousine",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:maybach:s-class",
       "brand": "Maybach",
-      "names": {"en": "Mercedes-Maybach S-Class", "zh-CN": "迈巴赫S级", "zh-TW": "Maybach S-Class", "ja": "メルセデス・マイバッハSクラス"},
+      "names": {
+        "en": "Mercedes-Maybach S-Class",
+        "zh-CN": "迈巴赫S级",
+        "zh-TW": "Maybach S-Class",
+        "ja": "メルセデス・マイバッハSクラス"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:maybach:gls",
       "brand": "Maybach",
-      "names": {"en": "Mercedes-Maybach GLS", "zh-CN": "迈巴赫GLS", "zh-TW": "Maybach GLS", "ja": "メルセデス・マイバッハGLS"},
+      "names": {
+        "en": "Mercedes-Maybach GLS",
+        "zh-CN": "迈巴赫GLS",
+        "zh-TW": "Maybach GLS",
+        "ja": "メルセデス・マイバッハGLS"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

@@ -3,7 +3,12 @@
     {
       "id": "model:honda:civic",
       "brand": "Honda",
-      "names": {"en": "Civic", "zh-CN": "思域", "zh-TW": "Civic(俗稱喜美)", "ja": "シビック"},
+      "names": {
+        "en": "Civic",
+        "zh-CN": "思域",
+        "zh-TW": "Civic(俗稱喜美)",
+        "ja": "シビック"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:honda:accord",
       "brand": "Honda",
-      "names": {"en": "Accord", "zh-CN": "雅阁", "zh-TW": "Accord", "ja": "アコード"},
+      "names": {
+        "en": "Accord",
+        "zh-CN": "雅阁",
+        "zh-TW": "Accord",
+        "ja": "アコード"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:honda:cr-v",
       "brand": "Honda",
-      "names": {"en": "CR-V", "zh-CN": "CR-V", "zh-TW": "CR-V", "ja": "CR-V(シーアールブイ)"},
+      "names": {
+        "en": "CR-V",
+        "zh-CN": "CR-V",
+        "zh-TW": "CR-V",
+        "ja": "CR-V(シーアールブイ)"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:honda:fit",
       "brand": "Honda",
-      "names": {"en": "Fit / Jazz", "zh-CN": "飞度", "zh-TW": "Fit", "ja": "フィット"},
+      "names": {
+        "en": "Fit / Jazz",
+        "zh-CN": "飞度",
+        "zh-TW": "Fit",
+        "ja": "フィット"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:honda:hr-v",
       "brand": "Honda",
-      "names": {"en": "HR-V / Vezel", "zh-CN": "缤智(广汽)/XR-V(东风)", "zh-TW": "HR-V", "ja": "ヴェゼル"},
+      "names": {
+        "en": "HR-V / Vezel",
+        "zh-CN": "缤智(广汽)/XR-V(东风)",
+        "zh-TW": "HR-V",
+        "ja": "ヴェゼル"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:honda:breeze",
       "brand": "Honda",
-      "names": {"en": "Breeze", "zh-CN": "皓影", "zh-TW": "Breeze(未上市)", "ja": "—"},
+      "names": {
+        "en": "Breeze",
+        "zh-CN": "皓影",
+        "zh-TW": "Breeze(未上市)",
+        "ja": "—"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:honda:inspire",
       "brand": "Honda",
-      "names": {"en": "Inspire", "zh-CN": "英仕派", "zh-TW": "Inspire(未上市)", "ja": "インスパイア"},
+      "names": {
+        "en": "Inspire",
+        "zh-CN": "英仕派",
+        "zh-TW": "Inspire(未上市)",
+        "ja": "インスパイア"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:honda:city",
       "brand": "Honda",
-      "names": {"en": "City", "zh-CN": "锋范(大陆已停)", "zh-TW": "City", "ja": "シティ"},
+      "names": {
+        "en": "City",
+        "zh-CN": "锋范(大陆已停)",
+        "zh-TW": "City",
+        "ja": "シティ"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:honda:amaze",
       "brand": "Honda",
-      "names": {"en": "Amaze", "zh-CN": "Amaze", "zh-TW": "Amaze(未上市)", "ja": "—"},
+      "names": {
+        "en": "Amaze",
+        "zh-CN": "Amaze",
+        "zh-TW": "Amaze(未上市)",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:honda:stepwgn",
       "brand": "Honda",
-      "names": {"en": "Stepwgn", "zh-CN": "STEP WGN", "zh-TW": "STEP WGN", "ja": "ステップワゴン"},
+      "names": {
+        "en": "Stepwgn",
+        "zh-CN": "STEP WGN",
+        "zh-TW": "STEP WGN",
+        "ja": "ステップワゴン"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:honda:odyssey",
       "brand": "Honda",
-      "names": {"en": "Odyssey", "zh-CN": "奥德赛", "zh-TW": "Odyssey", "ja": "オデッセイ"},
+      "names": {
+        "en": "Odyssey",
+        "zh-CN": "奥德赛",
+        "zh-TW": "Odyssey",
+        "ja": "オデッセイ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:honda:elysion",
       "brand": "Honda",
-      "names": {"en": "Elysion", "zh-CN": "艾力绅", "zh-TW": "Elysion(未上市)", "ja": "エリシオン"},
+      "names": {
+        "en": "Elysion",
+        "zh-CN": "艾力绅",
+        "zh-TW": "Elysion(未上市)",
+        "ja": "エリシオン"
+      },
       "segment": "class:eu:m",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:honda:freed",
       "brand": "Honda",
-      "names": {"en": "Freed", "zh-CN": "Freed", "zh-TW": "Freed(未上市)", "ja": "フリード"},
+      "names": {
+        "en": "Freed",
+        "zh-CN": "Freed",
+        "zh-TW": "Freed(未上市)",
+        "ja": "フリード"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:honda:pilot",
       "brand": "Honda",
-      "names": {"en": "Pilot", "zh-CN": "Pilot", "zh-TW": "Pilot", "ja": "パイロット"},
+      "names": {
+        "en": "Pilot",
+        "zh-CN": "Pilot",
+        "zh-TW": "Pilot",
+        "ja": "パイロット"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:honda:passport",
       "brand": "Honda",
-      "names": {"en": "Passport", "zh-CN": "Passport", "zh-TW": "Passport(未上市)", "ja": "パスポート"},
+      "names": {
+        "en": "Passport",
+        "zh-CN": "Passport",
+        "zh-TW": "Passport(未上市)",
+        "ja": "パスポート"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:honda:ridgeline",
       "brand": "Honda",
-      "names": {"en": "Ridgeline", "zh-CN": "Ridgeline", "zh-TW": "Ridgeline(未上市)", "ja": "リッジライン"},
+      "names": {
+        "en": "Ridgeline",
+        "zh-CN": "Ridgeline",
+        "zh-TW": "Ridgeline(未上市)",
+        "ja": "リッジライン"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:honda:zr-v",
       "brand": "Honda",
-      "names": {"en": "ZR-V", "zh-CN": "ZR-V", "zh-TW": "ZR-V", "ja": "ZR-V(ジーアールブイ)"},
+      "names": {
+        "en": "ZR-V",
+        "zh-CN": "ZR-V",
+        "zh-TW": "ZR-V",
+        "ja": "ZR-V(ジーアールブイ)"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:honda:n-box",
       "brand": "Honda",
-      "names": {"en": "N-Box", "zh-CN": "N-BOX", "zh-TW": "N-BOX(未上市)", "ja": "N-BOX(エヌボックス)"},
+      "names": {
+        "en": "N-Box",
+        "zh-CN": "N-BOX",
+        "zh-TW": "N-BOX(未上市)",
+        "ja": "N-BOX(エヌボックス)"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:city-car",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:honda:n-one",
       "brand": "Honda",
-      "names": {"en": "N-One", "zh-CN": "N-ONE", "zh-TW": "N-ONE(未上市)", "ja": "N-ONE(エヌワン)"},
+      "names": {
+        "en": "N-One",
+        "zh-CN": "N-ONE",
+        "zh-TW": "N-ONE(未上市)",
+        "ja": "N-ONE(エヌワン)"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:honda:prelude",
       "brand": "Honda",
-      "names": {"en": "Prelude", "zh-CN": "Prelude", "zh-TW": "Prelude", "ja": "プレリュード"},
+      "names": {
+        "en": "Prelude",
+        "zh-CN": "Prelude",
+        "zh-TW": "Prelude",
+        "ja": "プレリュード"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:hev",
@@ -243,7 +343,12 @@
     {
       "id": "model:honda:s2000",
       "brand": "Honda",
-      "names": {"en": "S2000", "zh-CN": "S2000", "zh-TW": "S2000", "ja": "S2000"},
+      "names": {
+        "en": "S2000",
+        "zh-CN": "S2000",
+        "zh-TW": "S2000",
+        "ja": "S2000"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:honda:nsx",
       "brand": "Honda",
-      "names": {"en": "NSX", "zh-CN": "NSX", "zh-TW": "NSX", "ja": "NSX(エヌエスエックス)"},
+      "names": {
+        "en": "NSX",
+        "zh-CN": "NSX",
+        "zh-TW": "NSX",
+        "ja": "NSX(エヌエスエックス)"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:honda:integra",
       "brand": "Honda",
-      "names": {"en": "Integra", "zh-CN": "Integra(型格为中国姊妹车)", "zh-TW": "Integra", "ja": "インテグラ"},
+      "names": {
+        "en": "Integra",
+        "zh-CN": "Integra(型格为中国姊妹车)",
+        "zh-TW": "Integra",
+        "ja": "インテグラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:honda:legend",
       "brand": "Honda",
-      "names": {"en": "Legend", "zh-CN": "里程(大陆进口)", "zh-TW": "Legend", "ja": "レジェンド"},
+      "names": {
+        "en": "Legend",
+        "zh-CN": "里程(大陆进口)",
+        "zh-TW": "Legend",
+        "ja": "レジェンド"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:honda:insight",
       "brand": "Honda",
-      "names": {"en": "Insight", "zh-CN": "Insight(音赛特)", "zh-TW": "Insight", "ja": "インサイト"},
+      "names": {
+        "en": "Insight",
+        "zh-CN": "Insight(音赛特)",
+        "zh-TW": "Insight",
+        "ja": "インサイト"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -303,7 +428,12 @@
     {
       "id": "model:honda:cr-x",
       "brand": "Honda",
-      "names": {"en": "CR-X", "zh-CN": "CR-X", "zh-TW": "CR-X", "ja": "CR-X(シーアールエックス)"},
+      "names": {
+        "en": "CR-X",
+        "zh-CN": "CR-X",
+        "zh-TW": "CR-X",
+        "ja": "CR-X(シーアールエックス)"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:honda:cr-z",
       "brand": "Honda",
-      "names": {"en": "CR-Z", "zh-CN": "CR-Z", "zh-TW": "CR-Z", "ja": "CR-Z(シーアールゼット)"},
+      "names": {
+        "en": "CR-Z",
+        "zh-CN": "CR-Z",
+        "zh-TW": "CR-Z",
+        "ja": "CR-Z(シーアールゼット)"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:hev",
@@ -327,7 +462,12 @@
     {
       "id": "model:honda:element",
       "brand": "Honda",
-      "names": {"en": "Element", "zh-CN": "Element", "zh-TW": "Element", "ja": "エレメント"},
+      "names": {
+        "en": "Element",
+        "zh-CN": "Element",
+        "zh-TW": "Element",
+        "ja": "エレメント"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:honda:crosstour",
       "brand": "Honda",
-      "names": {"en": "Crosstour", "zh-CN": "歌诗图", "zh-TW": "Crosstour", "ja": "クロスツアー"},
+      "names": {
+        "en": "Crosstour",
+        "zh-CN": "歌诗图",
+        "zh-TW": "Crosstour",
+        "ja": "クロスツアー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:honda:jade",
       "brand": "Honda",
-      "names": {"en": "Jade", "zh-CN": "杰德", "zh-TW": "Jade(未上市)", "ja": "ジェイド"},
+      "names": {
+        "en": "Jade",
+        "zh-CN": "杰德",
+        "zh-TW": "Jade(未上市)",
+        "ja": "ジェイド"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:honda:crider",
       "brand": "Honda",
-      "names": {"en": "Crider", "zh-CN": "凌派", "zh-TW": "Crider(未上市)", "ja": "—"},
+      "names": {
+        "en": "Crider",
+        "zh-CN": "凌派",
+        "zh-TW": "Crider(未上市)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -375,7 +530,12 @@
     {
       "id": "model:honda:envix",
       "brand": "Honda",
-      "names": {"en": "Envix", "zh-CN": "享域", "zh-TW": "Envix(未上市)", "ja": "—"},
+      "names": {
+        "en": "Envix",
+        "zh-CN": "享域",
+        "zh-TW": "Envix(未上市)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:honda:spirior",
       "brand": "Honda",
-      "names": {"en": "Spirior", "zh-CN": "思铂睿", "zh-TW": "Spirior(未上市)", "ja": "—"},
+      "names": {
+        "en": "Spirior",
+        "zh-CN": "思铂睿",
+        "zh-TW": "Spirior(未上市)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:honda:s660",
       "brand": "Honda",
-      "names": {"en": "S660", "zh-CN": "S660", "zh-TW": "S660(未上市)", "ja": "S660"},
+      "names": {
+        "en": "S660",
+        "zh-CN": "S660",
+        "zh-TW": "S660(未上市)",
+        "ja": "S660"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -411,7 +581,12 @@
     {
       "id": "model:honda:s-series",
       "brand": "Honda",
-      "names": {"en": "S-series (S500 / S600 / S800)", "zh-CN": "S500 / S600 / S800", "zh-TW": "S500 / S600 / S800", "ja": "S500・S600・S800"},
+      "names": {
+        "en": "S-series (S500 / S600 / S800)",
+        "zh-CN": "S500 / S600 / S800",
+        "zh-TW": "S500 / S600 / S800",
+        "ja": "S500・S600・S800"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -423,7 +598,12 @@
     {
       "id": "model:honda:n-series",
       "brand": "Honda",
-      "names": {"en": "N-series (N360 / N600)", "zh-CN": "N360 / N600", "zh-TW": "N360 / N600", "ja": "N360・N600"},
+      "names": {
+        "en": "N-series (N360 / N600)",
+        "zh-CN": "N360 / N600",
+        "zh-TW": "N360 / N600",
+        "ja": "N360・N600"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:honda:1300",
       "brand": "Honda",
-      "names": {"en": "Honda 1300", "zh-CN": "1300", "zh-TW": "1300", "ja": "1300"},
+      "names": {
+        "en": "Honda 1300",
+        "zh-CN": "1300",
+        "zh-TW": "1300",
+        "ja": "1300"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -447,7 +632,12 @@
     {
       "id": "model:honda:life",
       "brand": "Honda",
-      "names": {"en": "Life", "zh-CN": "Life", "zh-TW": "Life", "ja": "ライフ"},
+      "names": {
+        "en": "Life",
+        "zh-CN": "Life",
+        "zh-TW": "Life",
+        "ja": "ライフ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -459,7 +649,12 @@
     {
       "id": "model:honda:ballade",
       "brand": "Honda",
-      "names": {"en": "Ballade", "zh-CN": "Ballade", "zh-TW": "Ballade", "ja": "バラード"},
+      "names": {
+        "en": "Ballade",
+        "zh-CN": "Ballade",
+        "zh-TW": "Ballade",
+        "ja": "バラード"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -471,7 +666,12 @@
     {
       "id": "model:honda:vigor",
       "brand": "Honda",
-      "names": {"en": "Vigor", "zh-CN": "Vigor", "zh-TW": "Vigor", "ja": "ビガー"},
+      "names": {
+        "en": "Vigor",
+        "zh-CN": "Vigor",
+        "zh-TW": "Vigor",
+        "ja": "ビガー"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -483,7 +683,12 @@
     {
       "id": "model:honda:today",
       "brand": "Honda",
-      "names": {"en": "Today", "zh-CN": "Today", "zh-TW": "Today", "ja": "トゥデイ"},
+      "names": {
+        "en": "Today",
+        "zh-CN": "Today",
+        "zh-TW": "Today",
+        "ja": "トゥデイ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -495,7 +700,12 @@
     {
       "id": "model:honda:beat",
       "brand": "Honda",
-      "names": {"en": "Beat", "zh-CN": "Beat", "zh-TW": "Beat", "ja": "ビート"},
+      "names": {
+        "en": "Beat",
+        "zh-CN": "Beat",
+        "zh-TW": "Beat",
+        "ja": "ビート"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -507,7 +717,12 @@
     {
       "id": "model:honda:concerto",
       "brand": "Honda",
-      "names": {"en": "Concerto", "zh-CN": "Concerto", "zh-TW": "Concerto", "ja": "コンサート"},
+      "names": {
+        "en": "Concerto",
+        "zh-CN": "Concerto",
+        "zh-TW": "Concerto",
+        "ja": "コンサート"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -519,7 +734,12 @@
     {
       "id": "model:honda:ascot",
       "brand": "Honda",
-      "names": {"en": "Ascot", "zh-CN": "Ascot", "zh-TW": "Ascot", "ja": "アスコット"},
+      "names": {
+        "en": "Ascot",
+        "zh-CN": "Ascot",
+        "zh-TW": "Ascot",
+        "ja": "アスコット"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -531,7 +751,12 @@
     {
       "id": "model:honda:rafaga",
       "brand": "Honda",
-      "names": {"en": "Rafaga", "zh-CN": "Rafaga", "zh-TW": "Rafaga", "ja": "ラファーガ"},
+      "names": {
+        "en": "Rafaga",
+        "zh-CN": "Rafaga",
+        "zh-TW": "Rafaga",
+        "ja": "ラファーガ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -543,7 +768,12 @@
     {
       "id": "model:honda:logo",
       "brand": "Honda",
-      "names": {"en": "Logo", "zh-CN": "Logo", "zh-TW": "Logo", "ja": "ロゴ"},
+      "names": {
+        "en": "Logo",
+        "zh-CN": "Logo",
+        "zh-TW": "Logo",
+        "ja": "ロゴ"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -555,7 +785,12 @@
     {
       "id": "model:honda:stream",
       "brand": "Honda",
-      "names": {"en": "Stream", "zh-CN": "时韵(大陆进口)", "zh-TW": "Stream", "ja": "ストリーム"},
+      "names": {
+        "en": "Stream",
+        "zh-CN": "时韵(大陆进口)",
+        "zh-TW": "Stream",
+        "ja": "ストリーム"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -567,7 +802,12 @@
     {
       "id": "model:honda:mobilio",
       "brand": "Honda",
-      "names": {"en": "Mobilio", "zh-CN": "Mobilio", "zh-TW": "Mobilio", "ja": "モビリオ"},
+      "names": {
+        "en": "Mobilio",
+        "zh-CN": "Mobilio",
+        "zh-TW": "Mobilio",
+        "ja": "モビリオ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -579,7 +819,12 @@
     {
       "id": "model:honda:s-mx",
       "brand": "Honda",
-      "names": {"en": "S-MX", "zh-CN": "S-MX", "zh-TW": "S-MX", "ja": "S-MX(エスエムエックス)"},
+      "names": {
+        "en": "S-MX",
+        "zh-CN": "S-MX",
+        "zh-TW": "S-MX",
+        "ja": "S-MX(エスエムエックス)"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -591,7 +836,12 @@
     {
       "id": "model:honda:n-wgn",
       "brand": "Honda",
-      "names": {"en": "N-WGN", "zh-CN": "N-WGN", "zh-TW": "N-WGN(未上市)", "ja": "N-WGN(エヌダブリュージーエヌ)"},
+      "names": {
+        "en": "N-WGN",
+        "zh-CN": "N-WGN",
+        "zh-TW": "N-WGN(未上市)",
+        "ja": "N-WGN(エヌダブリュージーエヌ)"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -603,7 +853,12 @@
     {
       "id": "model:honda:clarity",
       "brand": "Honda",
-      "names": {"en": "Clarity", "zh-CN": "Clarity", "zh-TW": "Clarity", "ja": "クラリティ"},
+      "names": {
+        "en": "Clarity",
+        "zh-CN": "Clarity",
+        "zh-TW": "Clarity",
+        "ja": "クラリティ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:fcev",
@@ -615,7 +870,12 @@
     {
       "id": "model:honda:vamos",
       "brand": "Honda",
-      "names": {"en": "Vamos", "zh-CN": "Vamos", "zh-TW": "Vamos", "ja": "バモス"},
+      "names": {
+        "en": "Vamos",
+        "zh-CN": "Vamos",
+        "zh-TW": "Vamos",
+        "ja": "バモス"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -627,7 +887,12 @@
     {
       "id": "model:honda:avancier",
       "brand": "Honda",
-      "names": {"en": "Avancier", "zh-CN": "冠道", "zh-TW": "Avancier", "ja": "—"},
+      "names": {
+        "en": "Avancier",
+        "zh-CN": "冠道",
+        "zh-TW": "Avancier",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -639,19 +904,30 @@
     {
       "id": "model:honda:greiz",
       "brand": "Honda",
-      "names": {"en": "Greiz", "zh-CN": "哥瑞", "zh-TW": "Greiz", "ja": "—"},
+      "names": {
+        "en": "Greiz",
+        "zh-CN": "哥瑞",
+        "zh-TW": "Greiz",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
-      "status": "current",
-      "years": "2015–present",
-      "note": "东风本田中国特供紧凑轿车,锋范(City)姊妹车;实际已停产,停产年份待核实",
-      "verified": "pending"
+      "status": "discontinued",
+      "years": "2015–2022",
+      "note": "哥瑞(2015-2022),东风本田中国特供紧凑轿车,锋范(City)姊妹车,已停产",
+      "verified": "verified",
+      "zh-TW": "哥瑞"
     },
     {
       "id": "model:honda:zhixing",
       "brand": "Honda",
-      "names": {"en": "Integra (型格)", "zh-CN": "型格", "zh-TW": "Integra", "ja": "—"},
+      "names": {
+        "en": "Integra",
+        "zh-CN": "型格",
+        "zh-TW": "Integra",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -663,7 +939,12 @@
     {
       "id": "model:honda:ur-v",
       "brand": "Honda",
-      "names": {"en": "UR-V", "zh-CN": "UR-V", "zh-TW": "UR-V", "ja": "—"},
+      "names": {
+        "en": "UR-V",
+        "zh-CN": "UR-V",
+        "zh-TW": "UR-V",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -675,14 +956,191 @@
     {
       "id": "model:honda:gienia",
       "brand": "Honda",
-      "names": {"en": "Gienia", "zh-CN": "竞瑞", "zh-TW": "Gienia", "ja": "—"},
+      "names": {
+        "en": "Gienia",
+        "zh-CN": "竞瑞",
+        "zh-TW": "Gienia",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "竞瑞(2016-2022),哥瑞两厢版,中国特供,已停产",
+      "verified": "verified",
+      "zh-TW": "競瑞"
+    },
+    {
+      "id": "model:honda:br-v",
+      "brand": "Honda",
+      "names": {
+        "en": "BR-V",
+        "zh-CN": "BR-V",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
       "status": "current",
       "years": "2016–present",
-      "note": "东风本田哥瑞两厢版,中国特供;实际已停产,停产年份待核实",
-      "verified": "pending"
+      "note": "BR-V(2016-),东南亚市场7座紧凑SUV,与Mobilio同平台",
+      "verified": "verified",
+      "zh-TW": "BR-V",
+      "ja": "BR-V"
+    },
+    {
+      "id": "model:honda:wr-v",
+      "brand": "Honda",
+      "names": {
+        "en": "WR-V",
+        "zh-CN": "WR-V",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "WR-V(2017-),东南亚/南美市场小型SUV,基于Jazz平台",
+      "verified": "verified",
+      "zh-TW": "WR-V",
+      "ja": "WR-V"
+    },
+    {
+      "id": "model:honda:e-np1-1",
+      "brand": "Honda",
+      "names": {
+        "en": "e:NP1 e:NP 1",
+        "zh-CN": "e:NP1 极湃1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "e:NP1极湃1(2022-),广汽本田纯电SUV,与e:NS1为姊妹车",
+      "verified": "verified",
+      "en": "e:NP1",
+      "zh-CN": "e:NP1极湃1",
+      "zh-TW": "e:NP1極湃1"
+    },
+    {
+      "id": "model:honda:e-np2-2",
+      "brand": "Honda",
+      "names": {
+        "en": "e:NP2 e:NP 2",
+        "zh-CN": "e:NP2 极湃2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "e:NP2极湃2(2024-),广汽本田纯电SUV",
+      "verified": "verified",
+      "en": "e:NP2",
+      "zh-CN": "e:NP2极湃2",
+      "zh-TW": "e:NP2極湃2"
+    },
+    {
+      "id": "model:honda:e-ns1",
+      "brand": "Honda",
+      "names": {
+        "en": "e:NS1",
+        "zh-CN": "e:NS1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "e:NS1(2022-),东风本田纯电SUV",
+      "verified": "verified",
+      "zh-TW": "e:NS1"
+    },
+    {
+      "id": "model:honda:honda-s7",
+      "brand": "Honda",
+      "names": {
+        "en": "S7",
+        "zh-CN": "东风本田S7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "东风本田S7(2025-),本田烨平台纯电SUV",
+      "verified": "verified",
+      "zh-TW": "S7"
+    },
+    {
+      "id": "model:honda:honda-p7",
+      "brand": "Honda",
+      "names": {
+        "en": "GAC Honda P7",
+        "zh-CN": "广汽本田P7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "广汽本田P7(2025-),本田烨平台纯电SUV",
+      "verified": "verified",
+      "zh-TW": "P7"
+    },
+    {
+      "id": "model:honda:honda-e",
+      "brand": "Honda",
+      "names": {
+        "en": "Honda e",
+        "zh-CN": "本田e",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2024",
+      "note": "Honda e(2020-2024),本田纯电城市车,日本/欧洲市场,2024年停产",
+      "verified": "verified",
+      "zh-TW": "Honda e",
+      "ja": "ホンダe"
+    },
+    {
+      "id": "model:honda:e-ns2",
+      "brand": "Honda",
+      "names": {
+        "en": "Lieguang e:NS2",
+        "zh-CN": "猎光e:NS2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "猎光e:NS2(2024-),东风本田纯电SUV",
+      "verified": "verified",
+      "en": "Lieguang e:NS2",
+      "zh-CN": "猎光e:NS2",
+      "zh-TW": "獵光e:NS2"
     }
   ]
 }

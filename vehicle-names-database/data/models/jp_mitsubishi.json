@@ -598,7 +598,12 @@
     {
       "id": "model:mitsubishi:lancer-ex",
       "brand": "Mitsubishi",
-      "names": {"en": "Lancer EX", "zh-CN": "翼神", "zh-TW": "Lancer EX", "ja": "ランサーEX"},
+      "names": {
+        "en": "Lancer EX",
+        "zh-CN": "翼神",
+        "zh-TW": "Lancer EX",
+        "ja": "ランサーEX"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -610,7 +615,12 @@
     {
       "id": "model:mitsubishi:fadis",
       "brand": "Mitsubishi",
-      "names": {"en": "Fadis", "zh-CN": "风迪思", "zh-TW": "Fadis", "ja": "—"},
+      "names": {
+        "en": "Fadis",
+        "zh-CN": "风迪思",
+        "zh-TW": "Fadis",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -618,6 +628,272 @@
       "years": "2013–2016",
       "note": "东南三菱国产紧凑轿车,与翼神为姊妹车(共用Lancer EX平台);2016年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:mitsubishi:asx-2",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "ASX (imported)",
+        "zh-CN": "ASX劲炫(进口)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010-present",
+      "note": "ASX劲炫(2010-),三菱紧凑型SUV;中国版由广汽三菱国产,本条含进口版",
+      "verified": "verified",
+      "en": "ASX",
+      "zh-CN": "ASX劲炫"
+    },
+    {
+      "id": "model:mitsubishi:attrage",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Attrage",
+        "zh-CN": "Attrage",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012-present",
+      "note": "Attrage(2012-),三菱东南亚市场入门三厢轿车(东南亚名Mirage G4同源)",
+      "verified": "verified",
+      "en": "Attrage",
+      "zh-CN": "Attrage(未引入)"
+    },
+    {
+      "id": "model:mitsubishi:grand-lancer",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "GRAND LANCER",
+        "zh-CN": "GRAND LANCER",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016-2021",
+      "note": "Grand Lancer(2016-2021),台湾中华三菱国产的Lancer改款,2021年停产",
+      "verified": "verified",
+      "en": "Grand Lancer",
+      "zh-CN": "Grand Lancer(未引入)"
+    },
+    {
+      "id": "model:mitsubishi:mirage-g4",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Mirage G4",
+        "zh-CN": "Mirage G4",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013-present",
+      "note": "Mirage G4(2013-),Mirage的三厢版,东南亚市场",
+      "verified": "verified",
+      "en": "Mirage G4",
+      "zh-CN": "Mirage G4(未引入)"
+    },
+    {
+      "id": "model:mitsubishi:super-height-k-wagon",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "SUPER HEIGHT K-WAGON",
+        "zh-CN": "SUPER HEIGHT K-WAGON",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002-2014",
+      "note": "Super Height K-Wagon(2002-2014),三菱高顶K-car,2014年停产",
+      "verified": "verified",
+      "en": "Super Height K-Wagon",
+      "zh-CN": "Super Height K-Wagon(未引入)"
+    },
+    {
+      "id": "model:mitsubishi:mitsubishi-g4",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Mitsubishi G4",
+        "zh-CN": "三菱G4",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012-2019",
+      "note": "三菱G4(2012-2019),Mirage G4的菲律宾市场名,2019年停产",
+      "verified": "verified",
+      "en": "G4",
+      "zh-CN": "三菱G4"
+    },
+    {
+      "id": "model:mitsubishi:jeep",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Mitsubishi Jeep",
+        "zh-CN": "三菱Jeep",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1953-1998",
+      "note": "三菱Jeep(1953-1998),三菱与Willys合作生产的越野车,1998年停产",
+      "verified": "verified",
+      "en": "Jeep",
+      "zh-CN": "三菱Jeep"
+    },
+    {
+      "id": "model:mitsubishi:l200",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Mitsubishi L200",
+        "zh-CN": "三菱L200",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1978-present",
+      "note": "L200(1978-),三菱中型皮卡;北美/欧洲部分地区名Triton",
+      "verified": "verified",
+      "en": "L200",
+      "zh-CN": "三菱L200"
+    },
+    {
+      "id": "model:mitsubishi:mitsubishi-ek-2",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Mitsubishi eK",
+        "zh-CN": "三菱eK",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2001-present",
+      "note": "三菱eK(2001-),三菱K-car系列;日产OEM名eK X/eK Space",
+      "verified": "verified",
+      "en": "eK",
+      "zh-CN": "三菱eK"
+    },
+    {
+      "id": "model:mitsubishi:355c76a706",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Zinger",
+        "zh-CN": "君阁",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2016",
+      "note": "君阁(Zinger,2008-2016),东南三菱MPV(台湾中华三菱开发),2016年停产",
+      "verified": "verified",
+      "en": "Zinger",
+      "zh-CN": "君阁"
+    },
+    {
+      "id": "model:mitsubishi:2dee24d07f",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Grandis",
+        "zh-CN": "格蓝迪",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003-2011",
+      "note": "格蓝迪(Grandis,2003-2011),三菱中型MPV,中国曾进口,2011年停产",
+      "verified": "verified",
+      "en": "Grandis",
+      "zh-CN": "格蓝迪"
+    },
+    {
+      "id": "model:mitsubishi:1d562bab97",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Outlander Classic",
+        "zh-CN": "欧蓝德经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004-2016",
+      "note": "欧蓝德经典(2004-2016),老款欧蓝德同堂销售,2016年停产",
+      "verified": "verified",
+      "en": "Outlander Classic",
+      "zh-CN": "欧蓝德经典"
+    },
+    {
+      "id": "model:mitsubishi:61c8c0ecac",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Lingshen",
+        "zh-CN": "菱绅",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004-2008",
+      "note": "菱绅(2004-2008),东南三菱MPV(源自三菱Space Wagon/Chariot),2008年停产",
+      "verified": "verified",
+      "en": "Lingshen",
+      "zh-CN": "菱绅"
+    },
+    {
+      "id": "model:mitsubishi:airtrek",
+      "brand": "Mitsubishi",
+      "names": {
+        "en": "Airtrek",
+        "zh-CN": "阿图柯AIRTREK",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "阿图柯AIRTREK(2022-),广汽三菱纯电紧凑型SUV;与日产Ariya同平台",
+      "verified": "verified",
+      "en": "Airtrek",
+      "zh-CN": "阿图柯AIRTREK"
     }
   ]
 }

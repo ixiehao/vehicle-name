@@ -3,7 +3,12 @@
     {
       "id": "model:mg:mg3",
       "brand": "MG",
-      "names": {"en": "MG 3", "zh-CN": "名爵3", "zh-TW": "MG 3", "ja": "エムジー3"},
+      "names": {
+        "en": "MG 3",
+        "zh-CN": "名爵3",
+        "zh-TW": "MG 3",
+        "ja": "エムジー3"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:mg:mg5",
       "brand": "MG",
-      "names": {"en": "MG 5", "zh-CN": "名爵5", "zh-TW": "MG 5", "ja": "エムジー5"},
+      "names": {
+        "en": "MG 5",
+        "zh-CN": "名爵5",
+        "zh-TW": "MG 5",
+        "ja": "エムジー5"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:mg:zs",
       "brand": "MG",
-      "names": {"en": "MG ZS", "zh-CN": "名爵ZS", "zh-TW": "MG ZS", "ja": "エムジーZS"},
+      "names": {
+        "en": "MG ZS",
+        "zh-CN": "名爵ZS",
+        "zh-TW": "MG ZS",
+        "ja": "エムジーZS"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:mg:hs",
       "brand": "MG",
-      "names": {"en": "MG HS", "zh-CN": "名爵HS", "zh-TW": "MG HS", "ja": "エムジーHS"},
+      "names": {
+        "en": "MG HS",
+        "zh-CN": "名爵HS",
+        "zh-TW": "MG HS",
+        "ja": "エムジーHS"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:mg:mg4",
       "brand": "MG",
-      "names": {"en": "MG4 EV", "zh-CN": "名爵MG4 EV(海外名Mulan)", "zh-TW": "MG4 EV", "ja": "エムジー4"},
+      "names": {
+        "en": "MG4 EV",
+        "zh-CN": "名爵MG4 EV(海外名Mulan)",
+        "zh-TW": "MG4 EV",
+        "ja": "エムジー4"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:mg:mg7",
       "brand": "MG",
-      "names": {"en": "MG 7", "zh-CN": "名爵7", "zh-TW": "MG 7", "ja": "—"},
+      "names": {
+        "en": "MG 7",
+        "zh-CN": "名爵7",
+        "zh-TW": "MG 7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:mg:cyberster",
       "brand": "MG",
-      "names": {"en": "MG Cyberster", "zh-CN": "名爵Cyberster", "zh-TW": "MG Cyberster", "ja": "—"},
+      "names": {
+        "en": "MG Cyberster",
+        "zh-CN": "名爵Cyberster",
+        "zh-TW": "MG Cyberster",
+        "ja": "—"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:bev",
@@ -87,7 +122,12 @@
     {
       "id": "model:mg:one",
       "brand": "MG",
-      "names": {"en": "MG ONE", "zh-CN": "MG ONE", "zh-TW": "MG ONE", "ja": "—"},
+      "names": {
+        "en": "MG ONE",
+        "zh-CN": "MG ONE",
+        "zh-TW": "MG ONE",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:mg:mg6",
       "brand": "MG",
-      "names": {"en": "MG 6", "zh-CN": "名爵6", "zh-TW": "MG 6", "ja": "エムジー6"},
+      "names": {
+        "en": "MG 6",
+        "zh-CN": "名爵6",
+        "zh-TW": "MG 6",
+        "ja": "エムジー6"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:mg:pilot",
       "brand": "MG",
-      "names": {"en": "MG Pilot", "zh-CN": "名爵领航", "zh-TW": "MG Pilot", "ja": "—"},
+      "names": {
+        "en": "MG Pilot",
+        "zh-CN": "名爵领航",
+        "zh-TW": "MG Pilot",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:mg:mg3sw",
       "brand": "MG",
-      "names": {"en": "MG 3SW", "zh-CN": "名爵3SW", "zh-TW": "MG 3SW", "ja": "—"},
+      "names": {
+        "en": "MG 3SW",
+        "zh-CN": "名爵3SW",
+        "zh-TW": "MG 3SW",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:mg:gs",
       "brand": "MG",
-      "names": {"en": "MG GS", "zh-CN": "名爵锐腾", "zh-TW": "MG GS", "ja": "—"},
+      "names": {
+        "en": "MG GS",
+        "zh-CN": "名爵锐腾",
+        "zh-TW": "MG GS",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -147,13 +207,35 @@
     {
       "id": "model:mg:gt",
       "brand": "MG",
-      "names": {"en": "MG GT", "zh-CN": "名爵锐行", "zh-TW": "MG GT", "ja": "—"},
+      "names": {
+        "en": "MG GT",
+        "zh-CN": "名爵锐行",
+        "zh-TW": "MG GT",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2014–2018",
       "note": "紧凑型轿车,基于MG5,海外名MG GT;2018年前后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:mg:mg-tf",
+      "brand": "MG",
+      "names": {
+        "en": "MG TF",
+        "zh-CN": "名爵TF",
+        "zh-TW": "MG TF",
+        "ja": "エムジーTF"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2005",
+      "note": "中置后驱双座敞篷跑车,原MG Rover出品;南汽/上汽曾于2008年复产(名爵TF),最终2011年停产",
       "verified": "verified"
     }
   ]

@@ -3,7 +3,12 @@
     {
       "id": "model:coway:c3",
       "brand": "Coway",
-      "names": {"en": "Coway C3", "zh-CN": "C3", "zh-TW": "C3", "ja": "—"},
+      "names": {
+        "en": "Coway C3",
+        "zh-CN": "C3",
+        "zh-TW": "C3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:coway:c3r",
       "brand": "Coway",
-      "names": {"en": "Coway C3R", "zh-CN": "C3R", "zh-TW": "C3R", "ja": "—"},
+      "names": {
+        "en": "Coway C3R",
+        "zh-CN": "C3R",
+        "zh-TW": "C3R",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,31 +37,46 @@
     {
       "id": "model:coway:e3",
       "brand": "Coway",
-      "names": {"en": "Coway E3", "zh-CN": "E3", "zh-TW": "E3", "ja": "—"},
+      "names": {
+        "en": "Coway E3",
+        "zh-CN": "E3",
+        "zh-TW": "E3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2016–2019",
       "note": "凯翼E3紧凑型轿车,C3系列改款车型",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:coway:v3",
       "brand": "Coway",
-      "names": {"en": "Coway V3", "zh-CN": "V3", "zh-TW": "V3", "ja": "—"},
+      "names": {
+        "en": "Coway V3",
+        "zh-CN": "V3",
+        "zh-TW": "V3",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2017–2020",
       "note": "凯翼V3紧凑型MPV(7座)",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:coway:x3",
       "brand": "Coway",
-      "names": {"en": "Coway X3", "zh-CN": "X3", "zh-TW": "X3", "ja": "—"},
+      "names": {
+        "en": "Coway X3",
+        "zh-CN": "X3",
+        "zh-TW": "X3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:coway:x5",
       "brand": "Coway",
-      "names": {"en": "Coway X5", "zh-CN": "X5", "zh-TW": "X5", "ja": "—"},
+      "names": {
+        "en": "Coway X5",
+        "zh-CN": "X5",
+        "zh-TW": "X5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:coway:xuanjie",
       "brand": "Coway",
-      "names": {"en": "Coway Xuanjie", "zh-CN": "炫界", "zh-TW": "炫界", "ja": "—"},
+      "names": {
+        "en": "Coway Xuanjie",
+        "zh-CN": "炫界",
+        "zh-TW": "炫界",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:coway:xuandu",
       "brand": "Coway",
-      "names": {"en": "Coway Xuandu", "zh-CN": "轩度", "zh-TW": "軒度", "ja": "—"},
+      "names": {
+        "en": "Coway Xuandu",
+        "zh-CN": "轩度",
+        "zh-TW": "軒度",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:coway:kunlun",
       "brand": "Coway",
-      "names": {"en": "Coway Kunlun", "zh-CN": "昆仑", "zh-TW": "崑崙", "ja": "—"},
+      "names": {
+        "en": "Coway Kunlun",
+        "zh-CN": "昆仑",
+        "zh-TW": "崑崙",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -107,6 +152,186 @@
       "years": "2023–present",
       "note": "凯翼昆仑中型SUV(2023年上市)",
       "verified": "verified"
+    },
+    {
+      "id": "model:coway:c3r-ev",
+      "brand": "Coway",
+      "names": {
+        "en": "Coway C3R EV",
+        "zh-CN": "凯翼C3R EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "凯翼C3R EV(2016-2018),C3R纯电版,已停产",
+      "verified": "verified",
+      "zh-TW": "C3R EV"
+    },
+    {
+      "id": "model:coway:cx3",
+      "brand": "Coway",
+      "names": {
+        "en": "Coway CX3",
+        "zh-CN": "凯翼CX3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "凯翼CX3(2018-),小型SUV,基于瑞虎3平台,已停产",
+      "verified": "verified",
+      "zh-TW": "CX3"
+    },
+    {
+      "id": "model:coway:coway-v7",
+      "brand": "Coway",
+      "names": {
+        "en": "Coway V7",
+        "zh-CN": "凯翼V7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "凯翼V7(2022-),中大型MPV",
+      "verified": "verified",
+      "zh-TW": "V7"
+    },
+    {
+      "id": "model:coway:coway-l8",
+      "brand": "Coway",
+      "names": {
+        "en": "Coway Kunlun L8",
+        "zh-CN": "凯翼昆仑L8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "凯翼昆仑L8(2025-),中型插混SUV",
+      "verified": "verified",
+      "zh-TW": "崑崙L8"
+    },
+    {
+      "id": "model:coway:coway-e5",
+      "brand": "Coway",
+      "names": {
+        "en": "Coway Finless Porpoise E5",
+        "zh-CN": "凯翼江豚E5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "凯翼江豚E5(2024-),纯电微面,开瑞江豚E5换标车型",
+      "verified": "verified",
+      "zh-TW": "江豚E5"
+    },
+    {
+      "id": "model:coway:coway-e7",
+      "brand": "Coway",
+      "names": {
+        "en": "Coway Finless Porpoise E7",
+        "zh-CN": "凯翼江豚E7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "凯翼江豚E7(2024-),纯电微面,开瑞江豚E7换标车型",
+      "verified": "verified",
+      "zh-TW": "江豚E7"
+    },
+    {
+      "id": "model:coway:23cb5652e3",
+      "brand": "Coway",
+      "names": {
+        "en": "Shiyue",
+        "zh-CN": "拾月",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:city-car",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "凯翼拾月(2023-),纯电微型车,对标五菱宏光MINI EV",
+      "verified": "verified",
+      "zh-TW": "拾月"
+    },
+    {
+      "id": "model:coway:pro",
+      "brand": "Coway",
+      "names": {
+        "en": "Xuanjie Pro",
+        "zh-CN": "炫界Pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "炫界Pro(2021-),炫界升级版",
+      "verified": "verified",
+      "zh-TW": "炫界Pro"
+    },
+    {
+      "id": "model:coway:pro-ev",
+      "brand": "Coway",
+      "names": {
+        "en": "Xuanjie Pro EV",
+        "zh-CN": "炫界Pro EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "炫界Pro EV(2022-),纯电紧凑型SUV,续航约401公里",
+      "verified": "verified",
+      "zh-TW": "炫界Pro EV"
+    },
+    {
+      "id": "model:coway:coway-ev",
+      "brand": "Coway",
+      "names": {
+        "en": "Xuandu EV",
+        "zh-CN": "轩度EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "轩度EV(2025-),纯电紧凑型轿车,续航约500公里",
+      "verified": "verified",
+      "zh-TW": "軒度EV"
     }
   ]
 }

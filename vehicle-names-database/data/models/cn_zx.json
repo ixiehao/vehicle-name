@@ -3,7 +3,12 @@
     {
       "id": "model:zx:weihu",
       "brand": "ZX",
-      "names": {"en": "ZX Weihu", "zh-CN": "威虎", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "ZX Weihu",
+        "zh-CN": "威虎",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:zx:c3",
       "brand": "ZX",
-      "names": {"en": "ZX C3", "zh-CN": "C3", "zh-TW": "C3", "ja": "—"},
+      "names": {
+        "en": "ZX C3",
+        "zh-CN": "C3",
+        "zh-TW": "C3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:zx:gx3",
       "brand": "ZX",
-      "names": {"en": "ZX GX3", "zh-CN": "GX3", "zh-TW": "GX3", "ja": "—"},
+      "names": {
+        "en": "ZX GX3",
+        "zh-CN": "GX3",
+        "zh-TW": "GX3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -35,6 +50,240 @@
       "years": "2016–2019",
       "note": "小型SUV,C3的改款车型",
       "verified": "verified"
+    },
+    {
+      "id": "model:zx:1949",
+      "brand": "ZX",
+      "names": {
+        "en": "ZX 1949",
+        "zh-CN": "中兴1949",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中兴1949(2022-),中兴全尺寸皮卡",
+      "verified": "verified",
+      "zh-TW": "1949"
+    },
+    {
+      "id": "model:zx:1986",
+      "brand": "ZX",
+      "names": {
+        "en": "ZX 1986",
+        "zh-CN": "中兴1986",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "中兴1986(2022-),中兴皮卡,向经典车型致敬命名",
+      "verified": "verified",
+      "zh-TW": "1986"
+    },
+    {
+      "id": "model:zx:zx-g3",
+      "brand": "ZX",
+      "names": {
+        "en": "Weihu G3",
+        "zh-CN": "威虎G3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2020",
+      "note": "威虎G3(2013-),威虎系列皮卡,已停产",
+      "verified": "verified",
+      "zh-TW": "威虎G3"
+    },
+    {
+      "id": "model:zx:suv",
+      "brand": "ZX",
+      "names": {
+        "en": "Weihu SUV",
+        "zh-CN": "威虎SUV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "威虎SUV(2013-2016),基于威虎皮卡平台的SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "威虎SUV"
+    },
+    {
+      "id": "model:zx:74b343bc24",
+      "brand": "ZX",
+      "names": {
+        "en": "Little Tiger",
+        "zh-CN": "小老虎",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "小老虎(2016-),中兴入门皮卡,已停产",
+      "verified": "verified",
+      "zh-TW": "小老虎"
+    },
+    {
+      "id": "model:zx:zx-a9",
+      "brand": "ZX",
+      "names": {
+        "en": "Flagship A9",
+        "zh-CN": "旗舰A9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2014",
+      "note": "旗舰A9(2001-2014),中兴经典皮卡('皮卡中的捷达'),已停产",
+      "verified": "verified",
+      "zh-TW": "旗艦A9"
+    },
+    {
+      "id": "model:zx:9c7d7a67aa",
+      "brand": "ZX",
+      "names": {
+        "en": "Wuxian",
+        "zh-CN": "无限",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2010",
+      "note": "无限(2005-2010),中兴SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "無限"
+    },
+    {
+      "id": "model:zx:zx-v3",
+      "brand": "ZX",
+      "names": {
+        "en": "Wuxian V3",
+        "zh-CN": "无限V3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2014",
+      "note": "无限V3(2010-2014),中兴SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "無限V3"
+    },
+    {
+      "id": "model:zx:zx-v5",
+      "brand": "ZX",
+      "names": {
+        "en": "Wuxian V5",
+        "zh-CN": "无限V5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2014",
+      "note": "无限V5(2011-2014),中兴SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "無限V5"
+    },
+    {
+      "id": "model:zx:zx-v7",
+      "brand": "ZX",
+      "names": {
+        "en": "Wuxian V7",
+        "zh-CN": "无限V7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "无限V7(2013-2016),中兴SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "無限V7"
+    },
+    {
+      "id": "model:zx:1b101d49a0",
+      "brand": "ZX",
+      "names": {
+        "en": "Changhe",
+        "zh-CN": "昌铃",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2014",
+      "note": "昌铃,中兴皮卡车型(2012年前后在产),已停产",
+      "verified": "verified",
+      "zh-TW": "昌鈴"
+    },
+    {
+      "id": "model:zx:e17f6bc980",
+      "brand": "ZX",
+      "names": {
+        "en": "Lingzhu",
+        "zh-CN": "领主",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "领主(2016-2022),中兴高端皮卡,已停产",
+      "verified": "verified",
+      "zh-TW": "領主"
+    },
+    {
+      "id": "model:zx:a5f6c402c6",
+      "brand": "ZX",
+      "names": {
+        "en": "Chiye - Xinjingying",
+        "zh-CN": "驰野-鑫精英",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2010",
+      "note": "驰野(2003-2010),中兴早期SUV,鑫精英为其配置款",
+      "verified": "verified",
+      "zh-TW": "馳野"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:toyota:corolla",
       "brand": "Toyota",
-      "names": {"en": "Corolla", "zh-CN": "卡罗拉", "zh-TW": "Corolla Altis(卡羅拉)", "ja": "カローラ"},
+      "names": {
+        "en": "Corolla",
+        "zh-CN": "卡罗拉",
+        "zh-TW": "Corolla Altis(卡羅拉)",
+        "ja": "カローラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:toyota:camry",
       "brand": "Toyota",
-      "names": {"en": "Camry", "zh-CN": "凯美瑞", "zh-TW": "凱美瑞", "ja": "カムリ"},
+      "names": {
+        "en": "Camry",
+        "zh-CN": "凯美瑞",
+        "zh-TW": "凱美瑞",
+        "ja": "カムリ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:hev",
@@ -27,7 +37,12 @@
     {
       "id": "model:toyota:rav4",
       "brand": "Toyota",
-      "names": {"en": "RAV4", "zh-CN": "荣放(RAV4)", "zh-TW": "RAV4", "ja": "ラヴフォー"},
+      "names": {
+        "en": "RAV4",
+        "zh-CN": "荣放(RAV4)",
+        "zh-TW": "RAV4",
+        "ja": "ラヴフォー"
+      },
       "segment": "class:us:compact",
       "body_style": "body:suv",
       "powertrain": "pt:hev",
@@ -39,7 +54,12 @@
     {
       "id": "model:toyota:land-cruiser",
       "brand": "Toyota",
-      "names": {"en": "Land Cruiser", "zh-CN": "兰德酷路泽", "zh-TW": "Land Cruiser", "ja": "ランドクルーザー"},
+      "names": {
+        "en": "Land Cruiser",
+        "zh-CN": "兰德酷路泽",
+        "zh-TW": "Land Cruiser",
+        "ja": "ランドクルーザー"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:toyota:land-cruiser-prado",
       "brand": "Toyota",
-      "names": {"en": "Land Cruiser Prado", "zh-CN": "普拉多", "zh-TW": "Land Cruiser Prado", "ja": "ランドクルーザープラド"},
+      "names": {
+        "en": "Land Cruiser Prado",
+        "zh-CN": "普拉多",
+        "zh-TW": "Land Cruiser Prado",
+        "ja": "ランドクルーザープラド"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:toyota:hilux",
       "brand": "Toyota",
-      "names": {"en": "Hilux", "zh-CN": "海拉克斯", "zh-TW": "Hilux", "ja": "ハイラックス"},
+      "names": {
+        "en": "Hilux",
+        "zh-CN": "海拉克斯",
+        "zh-TW": "Hilux",
+        "ja": "ハイラックス"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:toyota:yaris",
       "brand": "Toyota",
-      "names": {"en": "Yaris", "zh-CN": "雅力士", "zh-TW": "Yaris", "ja": "ヤリス"},
+      "names": {
+        "en": "Yaris",
+        "zh-CN": "雅力士",
+        "zh-TW": "Yaris",
+        "ja": "ヤリス"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:toyota:yaris-cross",
       "brand": "Toyota",
-      "names": {"en": "Yaris Cross", "zh-CN": "Yaris Cross", "zh-TW": "Yaris Cross", "ja": "ヤリスクロス"},
+      "names": {
+        "en": "Yaris Cross",
+        "zh-CN": "Yaris Cross",
+        "zh-TW": "Yaris Cross",
+        "ja": "ヤリスクロス"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:hev",
@@ -99,7 +139,12 @@
     {
       "id": "model:toyota:aqua",
       "brand": "Toyota",
-      "names": {"en": "Aqua", "zh-CN": "—", "zh-TW": "Prius c", "ja": "アクア"},
+      "names": {
+        "en": "Aqua",
+        "zh-CN": "—",
+        "zh-TW": "Prius c",
+        "ja": "アクア"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -111,7 +156,12 @@
     {
       "id": "model:toyota:prius",
       "brand": "Toyota",
-      "names": {"en": "Prius", "zh-CN": "普锐斯", "zh-TW": "Prius", "ja": "プリウス"},
+      "names": {
+        "en": "Prius",
+        "zh-CN": "普锐斯",
+        "zh-TW": "Prius",
+        "ja": "プリウス"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -123,7 +173,12 @@
     {
       "id": "model:toyota:crown",
       "brand": "Toyota",
-      "names": {"en": "Crown", "zh-CN": "皇冠", "zh-TW": "Crown", "ja": "クラウン"},
+      "names": {
+        "en": "Crown",
+        "zh-CN": "皇冠",
+        "zh-TW": "Crown",
+        "ja": "クラウン"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:hev",
@@ -135,7 +190,12 @@
     {
       "id": "model:toyota:crown-sport",
       "brand": "Toyota",
-      "names": {"en": "Crown Sport", "zh-CN": "Crown Sport", "zh-TW": "Crown Sport", "ja": "クラウンスポーツ"},
+      "names": {
+        "en": "Crown Sport",
+        "zh-CN": "Crown Sport",
+        "zh-TW": "Crown Sport",
+        "ja": "クラウンスポーツ"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:crossover",
       "powertrain": "pt:phev",
@@ -147,7 +207,12 @@
     {
       "id": "model:toyota:avalon",
       "brand": "Toyota",
-      "names": {"en": "Avalon", "zh-CN": "亚洲龙", "zh-TW": "Avalon", "ja": "アバロン"},
+      "names": {
+        "en": "Avalon",
+        "zh-CN": "亚洲龙",
+        "zh-TW": "Avalon",
+        "ja": "アバロン"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:hev",
@@ -159,7 +224,12 @@
     {
       "id": "model:toyota:c-hr",
       "brand": "Toyota",
-      "names": {"en": "C-HR", "zh-CN": "C-HR(奕泽IZOA)", "zh-TW": "C-HR", "ja": "C-HR(シーエイチアール)"},
+      "names": {
+        "en": "C-HR",
+        "zh-CN": "C-HR(奕泽IZOA)",
+        "zh-TW": "C-HR",
+        "ja": "C-HR(シーエイチアール)"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:toyota:bz4x",
       "brand": "Toyota",
-      "names": {"en": "bZ4X", "zh-CN": "bZ4X(铂智4X)", "zh-TW": "bZ4X", "ja": "bZ4X"},
+      "names": {
+        "en": "bZ4X",
+        "zh-CN": "bZ4X(铂智4X)",
+        "zh-TW": "bZ4X",
+        "ja": "bZ4X"
+      },
       "segment": "class:us:compact",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -183,7 +258,12 @@
     {
       "id": "model:toyota:vios",
       "brand": "Toyota",
-      "names": {"en": "Vios", "zh-CN": "威驰", "zh-TW": "Vios", "ja": "ヴィオス"},
+      "names": {
+        "en": "Vios",
+        "zh-CN": "威驰",
+        "zh-TW": "Vios",
+        "ja": "ヴィオス"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:toyota:harrier",
       "brand": "Toyota",
-      "names": {"en": "Harrier", "zh-CN": "凌放(一汽)/威飒(广汽)", "zh-TW": "Harrier", "ja": "ハリアー"},
+      "names": {
+        "en": "Harrier",
+        "zh-CN": "凌放(一汽)/威飒(广汽)",
+        "zh-TW": "Harrier",
+        "ja": "ハリアー"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:crossover",
       "powertrain": "pt:hev",
@@ -207,7 +292,12 @@
     {
       "id": "model:toyota:highlander",
       "brand": "Toyota",
-      "names": {"en": "Highlander", "zh-CN": "汉兰达", "zh-TW": "Highlander", "ja": "ハイランダー"},
+      "names": {
+        "en": "Highlander",
+        "zh-CN": "汉兰达",
+        "zh-TW": "Highlander",
+        "ja": "ハイランダー"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:suv",
       "powertrain": "pt:hev",
@@ -219,7 +309,12 @@
     {
       "id": "model:toyota:fortuner",
       "brand": "Toyota",
-      "names": {"en": "Fortuner", "zh-CN": "奔跑者(平行进口)", "zh-TW": "Fortuner", "ja": "フォーチュナー"},
+      "names": {
+        "en": "Fortuner",
+        "zh-CN": "奔跑者(平行进口)",
+        "zh-TW": "Fortuner",
+        "ja": "フォーチュナー"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:toyota:4runner",
       "brand": "Toyota",
-      "names": {"en": "4Runner", "zh-CN": "超霸(俗称)", "zh-TW": "4Runner", "ja": "フォーランナー"},
+      "names": {
+        "en": "4Runner",
+        "zh-CN": "超霸(俗称)",
+        "zh-TW": "4Runner",
+        "ja": "フォーランナー"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:toyota:sequoia",
       "brand": "Toyota",
-      "names": {"en": "Sequoia", "zh-CN": "红杉", "zh-TW": "Sequoia", "ja": "セコイア"},
+      "names": {
+        "en": "Sequoia",
+        "zh-CN": "红杉",
+        "zh-TW": "Sequoia",
+        "ja": "セコイア"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:hev",
@@ -255,7 +360,12 @@
     {
       "id": "model:toyota:tacoma",
       "brand": "Toyota",
-      "names": {"en": "Tacoma", "zh-CN": "Tacoma(塔科马)", "zh-TW": "Tacoma", "ja": "タコマ"},
+      "names": {
+        "en": "Tacoma",
+        "zh-CN": "Tacoma(塔科马)",
+        "zh-TW": "Tacoma",
+        "ja": "タコマ"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:toyota:tundra",
       "brand": "Toyota",
-      "names": {"en": "Tundra", "zh-CN": "坦途", "zh-TW": "Tundra", "ja": "タンドラ"},
+      "names": {
+        "en": "Tundra",
+        "zh-CN": "坦途",
+        "zh-TW": "Tundra",
+        "ja": "タンドラ"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:toyota:sienna",
       "brand": "Toyota",
-      "names": {"en": "Sienna", "zh-CN": "赛那", "zh-TW": "Sienna", "ja": "シエナ"},
+      "names": {
+        "en": "Sienna",
+        "zh-CN": "赛那",
+        "zh-TW": "Sienna",
+        "ja": "シエナ"
+      },
       "segment": "class:us:minivan",
       "body_style": "body:minivan",
       "powertrain": "pt:hev",
@@ -291,7 +411,12 @@
     {
       "id": "model:toyota:alphard",
       "brand": "Toyota",
-      "names": {"en": "Alphard", "zh-CN": "埃尔法", "zh-TW": "Alphard", "ja": "アルファード"},
+      "names": {
+        "en": "Alphard",
+        "zh-CN": "埃尔法",
+        "zh-TW": "Alphard",
+        "ja": "アルファード"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:hev",
@@ -303,7 +428,12 @@
     {
       "id": "model:toyota:vellfire",
       "brand": "Toyota",
-      "names": {"en": "Vellfire", "zh-CN": "威尔法", "zh-TW": "Vellfire", "ja": "ヴェルファイア"},
+      "names": {
+        "en": "Vellfire",
+        "zh-CN": "威尔法",
+        "zh-TW": "Vellfire",
+        "ja": "ヴェルファイア"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:hev",
@@ -315,7 +445,12 @@
     {
       "id": "model:toyota:noah",
       "brand": "Toyota",
-      "names": {"en": "Noah", "zh-CN": "—", "zh-TW": "Noah", "ja": "ノア"},
+      "names": {
+        "en": "Noah",
+        "zh-CN": "—",
+        "zh-TW": "Noah",
+        "ja": "ノア"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:hev",
@@ -327,7 +462,12 @@
     {
       "id": "model:toyota:voxy",
       "brand": "Toyota",
-      "names": {"en": "Voxy", "zh-CN": "—", "zh-TW": "Voxy", "ja": "ヴォクシー"},
+      "names": {
+        "en": "Voxy",
+        "zh-CN": "—",
+        "zh-TW": "Voxy",
+        "ja": "ヴォクシー"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:hev",
@@ -339,7 +479,12 @@
     {
       "id": "model:toyota:hiace",
       "brand": "Toyota",
-      "names": {"en": "HiAce", "zh-CN": "海狮", "zh-TW": "HiAce", "ja": "ハイエース"},
+      "names": {
+        "en": "HiAce",
+        "zh-CN": "海狮",
+        "zh-TW": "HiAce",
+        "ja": "ハイエース"
+      },
       "segment": "class:jp:normal",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:toyota:century",
       "brand": "Toyota",
-      "names": {"en": "Century", "zh-CN": "世纪", "zh-TW": "Century", "ja": "センチュリー"},
+      "names": {
+        "en": "Century",
+        "zh-CN": "世纪",
+        "zh-TW": "Century",
+        "ja": "センチュリー"
+      },
       "segment": "class:cn:d",
       "body_style": "body:sedan",
       "powertrain": "pt:hev",
@@ -363,7 +513,12 @@
     {
       "id": "model:toyota:mirai",
       "brand": "Toyota",
-      "names": {"en": "Mirai", "zh-CN": "未来", "zh-TW": "Mirai", "ja": "ミライ"},
+      "names": {
+        "en": "Mirai",
+        "zh-CN": "未来",
+        "zh-TW": "Mirai",
+        "ja": "ミライ"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:fcev",
@@ -375,7 +530,12 @@
     {
       "id": "model:toyota:supra",
       "brand": "Toyota",
-      "names": {"en": "Supra", "zh-CN": "Supra(俗称牛魔王)", "zh-TW": "Supra", "ja": "スープラ"},
+      "names": {
+        "en": "Supra",
+        "zh-CN": "Supra(俗称牛魔王)",
+        "zh-TW": "Supra",
+        "ja": "スープラ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:toyota:celica",
       "brand": "Toyota",
-      "names": {"en": "Celica", "zh-CN": "赛利卡", "zh-TW": "Celica", "ja": "セリカ"},
+      "names": {
+        "en": "Celica",
+        "zh-CN": "赛利卡",
+        "zh-TW": "Celica",
+        "ja": "セリカ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:toyota:mr2",
       "brand": "Toyota",
-      "names": {"en": "MR2", "zh-CN": "MR2", "zh-TW": "MR2", "ja": "MR2(エムアールツー)"},
+      "names": {
+        "en": "MR2",
+        "zh-CN": "MR2",
+        "zh-TW": "MR2",
+        "ja": "MR2(エムアールツー)"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -411,7 +581,12 @@
     {
       "id": "model:toyota:starlet",
       "brand": "Toyota",
-      "names": {"en": "Starlet", "zh-CN": "—", "zh-TW": "Starlet", "ja": "スターレット"},
+      "names": {
+        "en": "Starlet",
+        "zh-CN": "—",
+        "zh-TW": "Starlet",
+        "ja": "スターレット"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -423,7 +598,12 @@
     {
       "id": "model:toyota:tercel",
       "brand": "Toyota",
-      "names": {"en": "Tercel", "zh-CN": "—", "zh-TW": "Tercel", "ja": "ターセル"},
+      "names": {
+        "en": "Tercel",
+        "zh-CN": "—",
+        "zh-TW": "Tercel",
+        "ja": "ターセル"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:toyota:cressida",
       "brand": "Toyota",
-      "names": {"en": "Cressida", "zh-CN": "—", "zh-TW": "Cressida", "ja": "クレシダ"},
+      "names": {
+        "en": "Cressida",
+        "zh-CN": "—",
+        "zh-TW": "Cressida",
+        "ja": "クレシダ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -447,7 +632,12 @@
     {
       "id": "model:toyota:soarer",
       "brand": "Toyota",
-      "names": {"en": "Soarer", "zh-CN": "—", "zh-TW": "Soarer", "ja": "ソアラ"},
+      "names": {
+        "en": "Soarer",
+        "zh-CN": "—",
+        "zh-TW": "Soarer",
+        "ja": "ソアラ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -459,7 +649,12 @@
     {
       "id": "model:toyota:corolla-cross",
       "brand": "Toyota",
-      "names": {"en": "Corolla Cross", "zh-CN": "卡罗拉锐放(一汽)/锋兰达(广汽)", "zh-TW": "Corolla Cross", "ja": "カローラクロス"},
+      "names": {
+        "en": "Corolla Cross",
+        "zh-CN": "卡罗拉锐放(一汽)/锋兰达(广汽)",
+        "zh-TW": "Corolla Cross",
+        "ja": "カローラクロス"
+      },
       "segment": "class:us:compact",
       "body_style": "body:crossover",
       "powertrain": "pt:hev",
@@ -471,7 +666,12 @@
     {
       "id": "model:toyota:probox",
       "brand": "Toyota",
-      "names": {"en": "Probox", "zh-CN": "—", "zh-TW": "—", "ja": "プロボックス"},
+      "names": {
+        "en": "Probox",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "プロボックス"
+      },
       "segment": "class:jp:normal",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -483,7 +683,12 @@
     {
       "id": "model:toyota:succeed",
       "brand": "Toyota",
-      "names": {"en": "Succeed", "zh-CN": "—", "zh-TW": "—", "ja": "サクシード"},
+      "names": {
+        "en": "Succeed",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "サクシード"
+      },
       "segment": "class:jp:normal",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -495,7 +700,12 @@
     {
       "id": "model:toyota:estima",
       "brand": "Toyota",
-      "names": {"en": "Estima", "zh-CN": "—", "zh-TW": "Previa", "ja": "エスティマ"},
+      "names": {
+        "en": "Estima",
+        "zh-CN": "—",
+        "zh-TW": "Previa",
+        "ja": "エスティマ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:hev",
@@ -507,7 +717,12 @@
     {
       "id": "model:toyota:prius-alpha",
       "brand": "Toyota",
-      "names": {"en": "Prius α", "zh-CN": "—", "zh-TW": "Prius α", "ja": "プリウスα"},
+      "names": {
+        "en": "Prius α",
+        "zh-CN": "—",
+        "zh-TW": "Prius α",
+        "ja": "プリウスα"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:hev",
@@ -519,7 +734,12 @@
     {
       "id": "model:toyota:publica",
       "brand": "Toyota",
-      "names": {"en": "Publica", "zh-CN": "—", "zh-TW": "Publica", "ja": "パブリカ"},
+      "names": {
+        "en": "Publica",
+        "zh-CN": "—",
+        "zh-TW": "Publica",
+        "ja": "パブリカ"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -531,7 +751,12 @@
     {
       "id": "model:toyota:corona",
       "brand": "Toyota",
-      "names": {"en": "Corona", "zh-CN": "日冕(旧译)", "zh-TW": "Corona", "ja": "コロナ"},
+      "names": {
+        "en": "Corona",
+        "zh-CN": "日冕(旧译)",
+        "zh-TW": "Corona",
+        "ja": "コロナ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -543,7 +768,12 @@
     {
       "id": "model:toyota:carina",
       "brand": "Toyota",
-      "names": {"en": "Carina", "zh-CN": "—", "zh-TW": "Carina", "ja": "カリーナ"},
+      "names": {
+        "en": "Carina",
+        "zh-CN": "—",
+        "zh-TW": "Carina",
+        "ja": "カリーナ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -555,7 +785,12 @@
     {
       "id": "model:toyota:mark-ii",
       "brand": "Toyota",
-      "names": {"en": "Mark II", "zh-CN": "—", "zh-TW": "Mark II", "ja": "マークII"},
+      "names": {
+        "en": "Mark II",
+        "zh-CN": "—",
+        "zh-TW": "Mark II",
+        "ja": "マークII"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -567,7 +802,12 @@
     {
       "id": "model:toyota:chaser",
       "brand": "Toyota",
-      "names": {"en": "Chaser", "zh-CN": "—", "zh-TW": "Chaser", "ja": "チェイサー"},
+      "names": {
+        "en": "Chaser",
+        "zh-CN": "—",
+        "zh-TW": "Chaser",
+        "ja": "チェイサー"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -579,7 +819,12 @@
     {
       "id": "model:toyota:cresta",
       "brand": "Toyota",
-      "names": {"en": "Cresta", "zh-CN": "—", "zh-TW": "Cresta", "ja": "クレスタ"},
+      "names": {
+        "en": "Cresta",
+        "zh-CN": "—",
+        "zh-TW": "Cresta",
+        "ja": "クレスタ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -591,7 +836,12 @@
     {
       "id": "model:toyota:aristo",
       "brand": "Toyota",
-      "names": {"en": "Aristo", "zh-CN": "—", "zh-TW": "Aristo", "ja": "アリスト"},
+      "names": {
+        "en": "Aristo",
+        "zh-CN": "—",
+        "zh-TW": "Aristo",
+        "ja": "アリスト"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -603,7 +853,12 @@
     {
       "id": "model:toyota:celsior",
       "brand": "Toyota",
-      "names": {"en": "Celsior", "zh-CN": "—", "zh-TW": "Celsior", "ja": "セルシオ"},
+      "names": {
+        "en": "Celsior",
+        "zh-CN": "—",
+        "zh-TW": "Celsior",
+        "ja": "セルシオ"
+      },
       "segment": "class:cn:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -615,7 +870,12 @@
     {
       "id": "model:toyota:sports-800",
       "brand": "Toyota",
-      "names": {"en": "Sports 800", "zh-CN": "—", "zh-TW": "Sports 800", "ja": "スポーツ800"},
+      "names": {
+        "en": "Sports 800",
+        "zh-CN": "—",
+        "zh-TW": "Sports 800",
+        "ja": "スポーツ800"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -627,7 +887,12 @@
     {
       "id": "model:toyota:fj-cruiser",
       "brand": "Toyota",
-      "names": {"en": "FJ Cruiser", "zh-CN": "FJ酷路泽", "zh-TW": "FJ Cruiser", "ja": "FJクルーザー"},
+      "names": {
+        "en": "FJ Cruiser",
+        "zh-CN": "FJ酷路泽",
+        "zh-TW": "FJ Cruiser",
+        "ja": "FJクルーザー"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -639,7 +904,12 @@
     {
       "id": "model:toyota:gr86",
       "brand": "Toyota",
-      "names": {"en": "GR86", "zh-CN": "GR86", "zh-TW": "GR86", "ja": "GR86"},
+      "names": {
+        "en": "GR86",
+        "zh-CN": "GR86",
+        "zh-TW": "GR86",
+        "ja": "GR86"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -651,7 +921,12 @@
     {
       "id": "model:toyota:sera",
       "brand": "Toyota",
-      "names": {"en": "Sera", "zh-CN": "—", "zh-TW": "Sera", "ja": "セラ"},
+      "names": {
+        "en": "Sera",
+        "zh-CN": "—",
+        "zh-TW": "Sera",
+        "ja": "セラ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -663,7 +938,12 @@
     {
       "id": "model:toyota:mark-x",
       "brand": "Toyota",
-      "names": {"en": "Mark X", "zh-CN": "锐志(Reiz)", "zh-TW": "Mark X", "ja": "マークX"},
+      "names": {
+        "en": "Mark X",
+        "zh-CN": "锐志(Reiz)",
+        "zh-TW": "Mark X",
+        "ja": "マークX"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -675,7 +955,12 @@
     {
       "id": "model:toyota:vista",
       "brand": "Toyota",
-      "names": {"en": "Vista", "zh-CN": "—", "zh-TW": "Vista", "ja": "ビスタ"},
+      "names": {
+        "en": "Vista",
+        "zh-CN": "—",
+        "zh-TW": "Vista",
+        "ja": "ビスタ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -687,7 +972,12 @@
     {
       "id": "model:toyota:megacruiser",
       "brand": "Toyota",
-      "names": {"en": "Mega Cruiser", "zh-CN": "—", "zh-TW": "Mega Cruiser", "ja": "メガクルーザー"},
+      "names": {
+        "en": "Mega Cruiser",
+        "zh-CN": "—",
+        "zh-TW": "Mega Cruiser",
+        "ja": "メガクルーザー"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -699,7 +989,12 @@
     {
       "id": "model:toyota:sienta",
       "brand": "Toyota",
-      "names": {"en": "Sienta", "zh-CN": "—", "zh-TW": "Sienta", "ja": "シエンタ"},
+      "names": {
+        "en": "Sienta",
+        "zh-CN": "—",
+        "zh-TW": "Sienta",
+        "ja": "シエンタ"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -711,7 +1006,12 @@
     {
       "id": "model:toyota:yarisl-zhixiang",
       "brand": "Toyota",
-      "names": {"en": "YARiS L", "zh-CN": "YARiS L 致享", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "YARiS L",
+        "zh-CN": "YARiS L 致享",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -723,7 +1023,12 @@
     {
       "id": "model:toyota:yarisl-zhixuan",
       "brand": "Toyota",
-      "names": {"en": "YARiS L", "zh-CN": "YARiS L 致炫", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "YARiS L",
+        "zh-CN": "YARiS L 致炫",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -735,7 +1040,12 @@
     {
       "id": "model:toyota:allion",
       "brand": "Toyota",
-      "names": {"en": "Allion", "zh-CN": "亚洲狮", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Allion",
+        "zh-CN": "亚洲狮",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -747,7 +1057,12 @@
     {
       "id": "model:toyota:lingshang",
       "brand": "Toyota",
-      "names": {"en": "Levin", "zh-CN": "凌尚", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Levin",
+        "zh-CN": "凌尚",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -759,7 +1074,12 @@
     {
       "id": "model:toyota:previa",
       "brand": "Toyota",
-      "names": {"en": "Previa", "zh-CN": "普瑞维亚", "zh-TW": "Previa", "ja": "—"},
+      "names": {
+        "en": "Previa",
+        "zh-CN": "普瑞维亚",
+        "zh-TW": "Previa",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -771,7 +1091,12 @@
     {
       "id": "model:toyota:coaster",
       "brand": "Toyota",
-      "names": {"en": "Coaster", "zh-CN": "柯斯达", "zh-TW": "Coaster", "ja": "コースター"},
+      "names": {
+        "en": "Coaster",
+        "zh-CN": "柯斯达",
+        "zh-TW": "Coaster",
+        "ja": "コースター"
+      },
       "segment": "class:jp:normal",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -783,7 +1108,12 @@
     {
       "id": "model:toyota:crown-kluger",
       "brand": "Toyota",
-      "names": {"en": "Crown Kluger", "zh-CN": "皇冠陆放", "zh-TW": "—", "ja": "クラウンクルーガー"},
+      "names": {
+        "en": "Crown Kluger",
+        "zh-CN": "皇冠陆放",
+        "zh-TW": "—",
+        "ja": "クラウンクルーガー"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:suv",
       "powertrain": "pt:hev",
@@ -795,7 +1125,12 @@
     {
       "id": "model:toyota:corolla-huaguan",
       "brand": "Toyota",
-      "names": {"en": "Corolla EX", "zh-CN": "花冠", "zh-TW": "Corolla Altis", "ja": "—"},
+      "names": {
+        "en": "Corolla EX",
+        "zh-CN": "花冠",
+        "zh-TW": "Corolla Altis",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -807,7 +1142,12 @@
     {
       "id": "model:toyota:ez",
       "brand": "Toyota",
-      "names": {"en": "E'Z", "zh-CN": "逸致", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "E'Z",
+        "zh-CN": "逸致",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -819,7 +1159,12 @@
     {
       "id": "model:toyota:levin",
       "brand": "Toyota",
-      "names": {"en": "Levin", "zh-CN": "雷凌", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Levin",
+        "zh-CN": "雷凌",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -827,6 +1172,443 @@
       "years": "2014-present",
       "note": "广汽丰田卡罗拉姊妹车(中国特供),2014年国产;动力含1.2T/1.5L及双擎混动版",
       "verified": "verified"
+    },
+    {
+      "id": "model:toyota:c-hr-ev",
+      "brand": "Toyota",
+      "names": {
+        "en": "C-HR EV",
+        "zh-CN": "C-HR EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020-2023",
+      "note": "C-HR EV(2020-2023),丰田C-HR纯电版(中国市场),2023年停产",
+      "verified": "verified",
+      "en": "C-HR EV",
+      "zh-CN": "C-HR EV"
+    },
+    {
+      "id": "model:toyota:gr-yaris",
+      "brand": "Toyota",
+      "names": {
+        "en": "GR YARIS",
+        "zh-CN": "GR YARIS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020-present",
+      "note": "GR Yaris(2020-),丰田Gazoo Racing高性能小钢炮",
+      "verified": "verified",
+      "en": "GR Yaris",
+      "zh-CN": "GR YARIS"
+    },
+    {
+      "id": "model:toyota:rav4-e",
+      "brand": "Toyota",
+      "names": {
+        "en": "RAV4 Hybrid E+",
+        "zh-CN": "RAV4荣放双擎E+",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "RAV4荣放双擎E+(2021-),RAV4插电混动版",
+      "verified": "verified",
+      "en": "RAV4 Hybrid E+",
+      "zh-CN": "RAV4荣放双擎E+"
+    },
+    {
+      "id": "model:toyota:verso-s",
+      "brand": "Toyota",
+      "names": {
+        "en": "Verso-S",
+        "zh-CN": "Verso-S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2015",
+      "note": "Verso-S(2010-2015),丰田欧洲市场小型MPV,2015年停产",
+      "verified": "verified",
+      "en": "Verso-S",
+      "zh-CN": "Verso-S(未引入)"
+    },
+    {
+      "id": "model:toyota:bz3",
+      "brand": "Toyota",
+      "names": {
+        "en": "Toyota bZ3",
+        "zh-CN": "丰田bZ3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "丰田bZ3(2023-),一汽丰田纯电轿车(与比亚迪合作)",
+      "verified": "verified",
+      "en": "bZ3",
+      "zh-CN": "丰田bZ3"
+    },
+    {
+      "id": "model:toyota:bz5",
+      "brand": "Toyota",
+      "names": {
+        "en": "Toyota bZ5",
+        "zh-CN": "丰田bZ5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "丰田bZ5(2025-),一汽丰田纯电轿跑中型SUV(由bZ3C更名)",
+      "verified": "verified",
+      "en": "bZ5",
+      "zh-CN": "丰田bZ5"
+    },
+    {
+      "id": "model:toyota:toyota-iq",
+      "brand": "Toyota",
+      "names": {
+        "en": "iQ",
+        "zh-CN": "丰田iQ",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:city-car",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2015",
+      "note": "iQ(2008-2015),丰田超紧凑微型车(阿斯顿·马丁Cygnet贴牌),2015年停产",
+      "verified": "verified",
+      "en": "iQ",
+      "zh-CN": "丰田iQ"
+    },
+    {
+      "id": "model:toyota:toyota-e",
+      "brand": "Toyota",
+      "names": {
+        "en": "Corolla Hybrid E+",
+        "zh-CN": "卡罗拉双擎E+",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2019-present",
+      "note": "卡罗拉双擎E+(2019-),卡罗拉插电混动版",
+      "verified": "verified",
+      "en": "Corolla Hybrid E+",
+      "zh-CN": "卡罗拉双擎E+"
+    },
+    {
+      "id": "model:toyota:toyota-e-2",
+      "brand": "Toyota",
+      "names": {
+        "en": "IZOA E-Jin",
+        "zh-CN": "奕泽E进擎",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020-2023",
+      "note": "奕泽E进擎(2020-2023),一汽丰田奕泽纯电版,2023年停产",
+      "verified": "verified",
+      "en": "IZOA E-Jin",
+      "zh-CN": "奕泽E进擎"
+    },
+    {
+      "id": "model:toyota:izoa",
+      "brand": "Toyota",
+      "names": {
+        "en": "IZOA",
+        "zh-CN": "奕泽IZOA",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018-present",
+      "note": "奕泽IZOA(2018-),一汽丰田小型SUV(C-HR姊妹车)",
+      "verified": "verified",
+      "en": "IZOA",
+      "zh-CN": "奕泽IZOA"
+    },
+    {
+      "id": "model:toyota:447a90143f",
+      "brand": "Toyota",
+      "names": {
+        "en": "Wildlander",
+        "zh-CN": "威兰达",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020-present",
+      "note": "威兰达(Wildlander,2020-),广汽丰田紧凑型SUV(RAV4姊妹车)",
+      "verified": "verified",
+      "en": "Wildlander",
+      "zh-CN": "威兰达"
+    },
+    {
+      "id": "model:toyota:eeb271a4b3",
+      "brand": "Toyota",
+      "names": {
+        "en": "Venza",
+        "zh-CN": "威飒",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "威飒(Venza,2021-),一汽丰田中型SUV(Harrier姊妹车)",
+      "verified": "verified",
+      "en": "Venza",
+      "zh-CN": "威飒"
+    },
+    {
+      "id": "model:toyota:toyota-fs",
+      "brand": "Toyota",
+      "names": {
+        "en": "Vios FS",
+        "zh-CN": "威驰FS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017-2022",
+      "note": "威驰FS(2017-2022),一汽丰田威驰两厢版,2022年停产",
+      "verified": "verified",
+      "en": "Vios FS",
+      "zh-CN": "威驰FS"
+    },
+    {
+      "id": "model:toyota:9749e2c529",
+      "brand": "Toyota",
+      "names": {
+        "en": "Yuejia",
+        "zh-CN": "悦佳",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019-2022",
+      "note": "悦佳(2019-2022),广汽丰田紧凑型MPV,2022年停产",
+      "verified": "verified",
+      "en": "Yuejia",
+      "zh-CN": "悦佳"
+    },
+    {
+      "id": "model:toyota:490e18a955",
+      "brand": "Toyota",
+      "names": {
+        "en": "Zelas",
+        "zh-CN": "杰路驰",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2016",
+      "note": "杰路驰(Zelas,2010-2016),丰田进口双门轿跑(Scion tC北美版),2016年停产",
+      "verified": "verified",
+      "en": "Zelas",
+      "zh-CN": "杰路驰"
+    },
+    {
+      "id": "model:toyota:dff618b150",
+      "brand": "Toyota",
+      "names": {
+        "en": "Granvia",
+        "zh-CN": "格瑞维亚",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "格瑞维亚(Granvia,2022-),一汽丰田中大型MPV(赛那姊妹车)",
+      "verified": "verified",
+      "en": "Granvia",
+      "zh-CN": "格瑞维亚"
+    },
+    {
+      "id": "model:toyota:ba35c1b4bd",
+      "brand": "Toyota",
+      "names": {
+        "en": "Terios",
+        "zh-CN": "特锐(一汽丰田,原大发车型)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003-2006",
+      "note": "特锐(Terios,2003-2006),一汽丰田小型SUV(大发Terios贴牌),2006年停产",
+      "verified": "verified",
+      "en": "Terios",
+      "zh-CN": "特锐"
+    },
+    {
+      "id": "model:toyota:sportcross",
+      "brand": "Toyota",
+      "names": {
+        "en": "Crown SportCross",
+        "zh-CN": "皇冠SportCross",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "皇冠SportCross(2022-),皇冠系列跨界轿跑",
+      "verified": "verified",
+      "en": "Crown SportCross",
+      "zh-CN": "皇冠SportCross"
+    },
+    {
+      "id": "model:toyota:toyota-3x",
+      "brand": "Toyota",
+      "names": {
+        "en": "Bozhi 3X",
+        "zh-CN": "铂智3X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "铂智3X(2025-),广汽丰田纯电紧凑型SUV",
+      "verified": "verified",
+      "en": "Bozhi 3X",
+      "zh-CN": "铂智3X"
+    },
+    {
+      "id": "model:toyota:toyota-4x",
+      "brand": "Toyota",
+      "names": {
+        "en": "Bozhi 4X",
+        "zh-CN": "铂智4X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "铂智4X(2023-),广汽丰田纯电中型SUV(bZ4X中国版)",
+      "verified": "verified",
+      "en": "Bozhi 4X",
+      "zh-CN": "铂智4X"
+    },
+    {
+      "id": "model:toyota:toyota-7",
+      "brand": "Toyota",
+      "names": {
+        "en": "Bozhi 7",
+        "zh-CN": "铂智7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026-present",
+      "note": "铂智7(2026-),广汽丰田纯电轿车",
+      "verified": "verified",
+      "en": "Bozhi 7",
+      "zh-CN": "铂智7"
+    },
+    {
+      "id": "model:toyota:69ec5f6267",
+      "brand": "Toyota",
+      "names": {
+        "en": "Frontlander",
+        "zh-CN": "锋兰达",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "锋兰达(Frontlander,2022-),广汽丰田紧凑型SUV(Corolla Cross中国版)",
+      "verified": "verified",
+      "en": "Frontlander",
+      "zh-CN": "锋兰达"
+    },
+    {
+      "id": "model:toyota:6bebd83ff6",
+      "brand": "Toyota",
+      "names": {
+        "en": "Reiz",
+        "zh-CN": "锐志",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005-2017",
+      "note": "锐志(Reiz,2005-2017),一汽丰田后驱中型轿车(Mark X中国版),2017年停产",
+      "verified": "verified",
+      "en": "Reiz",
+      "zh-CN": "锐志"
     }
   ]
 }

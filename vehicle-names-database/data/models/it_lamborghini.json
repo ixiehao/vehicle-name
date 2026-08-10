@@ -3,7 +3,12 @@
     {
       "id": "model:lamborghini:revuelto",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Revuelto", "zh-CN": "兰博基尼Revuelto", "zh-TW": "藍寶堅尼Revuelto", "ja": "ランボルギーニ レヴエルト"},
+      "names": {
+        "en": "Lamborghini Revuelto",
+        "zh-CN": "兰博基尼Revuelto",
+        "zh-TW": "藍寶堅尼Revuelto",
+        "ja": "ランボルギーニ レヴエルト"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:phev",
@@ -15,7 +20,12 @@
     {
       "id": "model:lamborghini:temerario",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Temerario", "zh-CN": "兰博基尼Temerario", "zh-TW": "藍寶堅尼Temerario", "ja": "ランボルギーニ テメラリオ"},
+      "names": {
+        "en": "Lamborghini Temerario",
+        "zh-CN": "兰博基尼Temerario",
+        "zh-TW": "藍寶堅尼Temerario",
+        "ja": "ランボルギーニ テメラリオ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:phev",
@@ -27,7 +37,12 @@
     {
       "id": "model:lamborghini:urus",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Urus", "zh-CN": "兰博基尼Urus", "zh-TW": "藍寶堅尼Urus", "ja": "ランボルギーニ ウルス"},
+      "names": {
+        "en": "Lamborghini Urus",
+        "zh-CN": "兰博基尼Urus",
+        "zh-TW": "藍寶堅尼Urus",
+        "ja": "ランボルギーニ ウルス"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:lamborghini:huracan",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Huracán", "zh-CN": "兰博基尼Huracán", "zh-TW": "藍寶堅尼Huracán", "ja": "ランボルギーニ ウラカン"},
+      "names": {
+        "en": "Lamborghini Huracán",
+        "zh-CN": "兰博基尼Huracán",
+        "zh-TW": "藍寶堅尼Huracán",
+        "ja": "ランボルギーニ ウラカン"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:lamborghini:aventador",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Aventador", "zh-CN": "兰博基尼Aventador", "zh-TW": "藍寶堅尼Aventador", "ja": "ランボルギーニ アヴェンタドール"},
+      "names": {
+        "en": "Lamborghini Aventador",
+        "zh-CN": "兰博基尼Aventador",
+        "zh-TW": "藍寶堅尼Aventador",
+        "ja": "ランボルギーニ アヴェンタドール"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:lamborghini:gallardo",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Gallardo", "zh-CN": "兰博基尼Gallardo", "zh-TW": "藍寶堅尼Gallardo", "ja": "ランボルギーニ ガヤルド"},
+      "names": {
+        "en": "Lamborghini Gallardo",
+        "zh-CN": "兰博基尼Gallardo",
+        "zh-TW": "藍寶堅尼Gallardo",
+        "ja": "ランボルギーニ ガヤルド"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:lamborghini:murcielago",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Murciélago", "zh-CN": "兰博基尼Murciélago", "zh-TW": "藍寶堅尼Murciélago", "ja": "ランボルギーニ ムルシエラゴ"},
+      "names": {
+        "en": "Lamborghini Murciélago",
+        "zh-CN": "兰博基尼Murciélago",
+        "zh-TW": "藍寶堅尼Murciélago",
+        "ja": "ランボルギーニ ムルシエラゴ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:lamborghini:diablo",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Diablo", "zh-CN": "兰博基尼Diablo", "zh-TW": "藍寶堅尼Diablo", "ja": "ランボルギーニ ディアブロ"},
+      "names": {
+        "en": "Lamborghini Diablo",
+        "zh-CN": "兰博基尼Diablo",
+        "zh-TW": "藍寶堅尼Diablo",
+        "ja": "ランボルギーニ ディアブロ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:lamborghini:countach",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Countach", "zh-CN": "兰博基尼Countach", "zh-TW": "藍寶堅尼Countach", "ja": "ランボルギーニ カウンタック"},
+      "names": {
+        "en": "Lamborghini Countach",
+        "zh-CN": "兰博基尼Countach",
+        "zh-TW": "藍寶堅尼Countach",
+        "ja": "ランボルギーニ カウンタック"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:lamborghini:miura",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Miura", "zh-CN": "兰博基尼Miura", "zh-TW": "藍寶堅尼Miura", "ja": "ランボルギーニ ミウラ"},
+      "names": {
+        "en": "Lamborghini Miura",
+        "zh-CN": "兰博基尼Miura",
+        "zh-TW": "藍寶堅尼Miura",
+        "ja": "ランボルギーニ ミウラ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:lamborghini:jalpa",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Jalpa", "zh-CN": "兰博基尼Jalpa", "zh-TW": "藍寶堅尼Jalpa", "ja": "ランボルギーニ ヤルパ"},
+      "names": {
+        "en": "Lamborghini Jalpa",
+        "zh-CN": "兰博基尼Jalpa",
+        "zh-TW": "藍寶堅尼Jalpa",
+        "ja": "ランボルギーニ ヤルパ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:lamborghini:silhouette",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Silhouette", "zh-CN": "兰博基尼Silhouette", "zh-TW": "藍寶堅尼Silhouette", "ja": "ランボルギーニ シルエット"},
+      "names": {
+        "en": "Lamborghini Silhouette",
+        "zh-CN": "兰博基尼Silhouette",
+        "zh-TW": "藍寶堅尼Silhouette",
+        "ja": "ランボルギーニ シルエット"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:lamborghini:urraco",
       "brand": "Lamborghini",
-      "names": {"en": "Lamborghini Urraco", "zh-CN": "兰博基尼Urraco", "zh-TW": "藍寶堅尼Urraco", "ja": "ランボルギーニ ウラッコ"},
+      "names": {
+        "en": "Lamborghini Urraco",
+        "zh-CN": "兰博基尼Urraco",
+        "zh-TW": "藍寶堅尼Urraco",
+        "ja": "ランボルギーニ ウラッコ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",

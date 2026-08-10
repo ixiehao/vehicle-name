@@ -3,7 +3,12 @@
     {
       "id": "model:aston-martin:db12",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin DB12", "zh-CN": "阿斯顿·马丁DB12", "zh-TW": "奧斯頓馬丁DB12", "ja": "アストンマーティンDB12"},
+      "names": {
+        "en": "Aston Martin DB12",
+        "zh-CN": "阿斯顿·马丁DB12",
+        "zh-TW": "奧斯頓馬丁DB12",
+        "ja": "アストンマーティンDB12"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:aston-martin:db11",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin DB11", "zh-CN": "阿斯顿·马丁DB11", "zh-TW": "奧斯頓馬丁DB11", "ja": "アストンマーティンDB11"},
+      "names": {
+        "en": "Aston Martin DB11",
+        "zh-CN": "阿斯顿·马丁DB11",
+        "zh-TW": "奧斯頓馬丁DB11",
+        "ja": "アストンマーティンDB11"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:aston-martin:vantage",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin Vantage", "zh-CN": "阿斯顿·马丁Vantage", "zh-TW": "奧斯頓馬丁Vantage", "ja": "アストンマーティン ヴァンテージ"},
+      "names": {
+        "en": "Aston Martin Vantage",
+        "zh-CN": "阿斯顿·马丁Vantage",
+        "zh-TW": "奧斯頓馬丁Vantage",
+        "ja": "アストンマーティン ヴァンテージ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:aston-martin:dbs",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin DBS", "zh-CN": "阿斯顿·马丁DBS", "zh-TW": "奧斯頓馬丁DBS", "ja": "アストンマーティンDBS"},
+      "names": {
+        "en": "Aston Martin DBS",
+        "zh-CN": "阿斯顿·马丁DBS",
+        "zh-TW": "奧斯頓馬丁DBS",
+        "ja": "アストンマーティンDBS"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:aston-martin:dbx",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin DBX", "zh-CN": "阿斯顿·马丁DBX", "zh-TW": "奧斯頓馬丁DBX", "ja": "アストンマーティンDBX"},
+      "names": {
+        "en": "Aston Martin DBX",
+        "zh-CN": "阿斯顿·马丁DBX",
+        "zh-TW": "奧斯頓馬丁DBX",
+        "ja": "アストンマーティンDBX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:aston-martin:vanquish",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin Vanquish", "zh-CN": "阿斯顿·马丁Vanquish", "zh-TW": "奧斯頓馬丁Vanquish", "ja": "アストンマーティン ヴァンキッシュ"},
+      "names": {
+        "en": "Aston Martin Vanquish",
+        "zh-CN": "阿斯顿·马丁Vanquish",
+        "zh-TW": "奧斯頓馬丁Vanquish",
+        "ja": "アストンマーティン ヴァンキッシュ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:aston-martin:valkyrie",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin Valkyrie", "zh-CN": "阿斯顿·马丁女武神", "zh-TW": "奧斯頓馬丁Valkyrie", "ja": "アストンマーティン ヴァルキリー"},
+      "names": {
+        "en": "Aston Martin Valkyrie",
+        "zh-CN": "阿斯顿·马丁女武神",
+        "zh-TW": "奧斯頓馬丁Valkyrie",
+        "ja": "アストンマーティン ヴァルキリー"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:hev",
@@ -87,7 +122,12 @@
     {
       "id": "model:aston-martin:valhalla",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin Valhalla", "zh-CN": "阿斯顿·马丁瓦尔哈拉", "zh-TW": "奧斯頓馬丁Valhalla", "ja": "アストンマーティン ヴァルハラ"},
+      "names": {
+        "en": "Aston Martin Valhalla",
+        "zh-CN": "阿斯顿·马丁瓦尔哈拉",
+        "zh-TW": "奧斯頓馬丁Valhalla",
+        "ja": "アストンマーティン ヴァルハラ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:phev",
@@ -99,7 +139,12 @@
     {
       "id": "model:aston-martin:one-77",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin One-77", "zh-CN": "阿斯顿·马丁One-77", "zh-TW": "奧斯頓馬丁One-77", "ja": "アストンマーティン ワン-77"},
+      "names": {
+        "en": "Aston Martin One-77",
+        "zh-CN": "阿斯顿·马丁One-77",
+        "zh-TW": "奧斯頓馬丁One-77",
+        "ja": "アストンマーティン ワン-77"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:aston-martin:db9",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin DB9", "zh-CN": "阿斯顿·马丁DB9", "zh-TW": "奧斯頓馬丁DB9", "ja": "アストンマーティンDB9"},
+      "names": {
+        "en": "Aston Martin DB9",
+        "zh-CN": "阿斯顿·马丁DB9",
+        "zh-TW": "奧斯頓馬丁DB9",
+        "ja": "アストンマーティンDB9"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:aston-martin:db7",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin DB7", "zh-CN": "阿斯顿·马丁DB7", "zh-TW": "奧斯頓馬丁DB7", "ja": "アストンマーティンDB7"},
+      "names": {
+        "en": "Aston Martin DB7",
+        "zh-CN": "阿斯顿·马丁DB7",
+        "zh-TW": "奧斯頓馬丁DB7",
+        "ja": "アストンマーティンDB7"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:aston-martin:virage",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin Virage", "zh-CN": "阿斯顿·马丁Virage", "zh-TW": "奧斯頓馬丁Virage", "ja": "アストンマーティン ヴィラージュ"},
+      "names": {
+        "en": "Aston Martin Virage",
+        "zh-CN": "阿斯顿·马丁Virage",
+        "zh-TW": "奧斯頓馬丁Virage",
+        "ja": "アストンマーティン ヴィラージュ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:aston-martin:rapide",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin Rapide", "zh-CN": "阿斯顿·马丁Rapide", "zh-TW": "奧斯頓馬丁Rapide", "ja": "アストンマーティン ラピード"},
+      "names": {
+        "en": "Aston Martin Rapide",
+        "zh-CN": "阿斯顿·马丁Rapide",
+        "zh-TW": "奧斯頓馬丁Rapide",
+        "ja": "アストンマーティン ラピード"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -159,13 +224,103 @@
     {
       "id": "model:aston-martin:lagonda",
       "brand": "Aston Martin",
-      "names": {"en": "Aston Martin Lagonda", "zh-CN": "阿斯顿·马丁Lagonda", "zh-TW": "奧斯頓馬丁Lagonda", "ja": "アストンマーティン ラゴンダ"},
+      "names": {
+        "en": "Aston Martin Lagonda",
+        "zh-CN": "阿斯顿·马丁Lagonda",
+        "zh-TW": "奧斯頓馬丁Lagonda",
+        "ja": "アストンマーティン ラゴンダ"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "1976–1989",
       "note": "楔形设计的四门豪华轿车;Lagonda亦为阿斯顿·马丁曾用的子品牌名(2015年Lagonda Taraf)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:070471a06a",
+      "brand": "Aston Martin",
+      "names": {
+        "en": "Aston Martin Vulcan",
+        "zh-CN": "阿斯顿·马丁Vulcan",
+        "zh-TW": "奧斯頓馬丁Vulcan",
+        "ja": "アストンマーティン ヴァルカン"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:supercar",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2016",
+      "note": "阿斯顿·马丁Vulcan(2015-2016),赛道专用超跑,7.0L V12,限量24台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:taraf",
+      "brand": "Aston Martin",
+      "names": {
+        "en": "Lagonda Taraf",
+        "zh-CN": "拉共达Taraf",
+        "zh-TW": "拉共達Taraf",
+        "ja": "ラゴンダ タラフ"
+      },
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2016",
+      "note": "阿斯顿·马丁旗下Lagonda子品牌四门豪华轿车,6.0L V12,限量200台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:db4",
+      "brand": "Aston Martin",
+      "names": {
+        "en": "Aston Martin DB4",
+        "zh-CN": "阿斯顿·马丁DB4",
+        "zh-TW": "奧斯頓馬丁DB4",
+        "ja": "アストンマーティンDB4"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1958–1963",
+      "note": "经典GT跑车,DB4系列含DB4 GT、DB4 Zagato等变体",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:db5",
+      "brand": "Aston Martin",
+      "names": {
+        "en": "Aston Martin DB5",
+        "zh-CN": "阿斯顿·马丁DB5",
+        "zh-TW": "奧斯頓馬丁DB5",
+        "ja": "アストンマーティンDB5"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1963–1965",
+      "note": "因007系列电影《金手指》闻名的经典GT跑车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:aston-martin:db6",
+      "brand": "Aston Martin",
+      "names": {
+        "en": "Aston Martin DB6",
+        "zh-CN": "阿斯顿·马丁DB6",
+        "zh-TW": "奧斯頓馬丁DB6",
+        "ja": "アストンマーティンDB6"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1965–1970",
+      "note": "DB5的继任者,改进空气动力学设计的GT跑车,含DB6 Volante敞篷版",
       "verified": "verified"
     }
   ]

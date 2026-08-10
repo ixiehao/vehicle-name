@@ -3,7 +3,12 @@
     {
       "id": "model:qoros:qoros-3",
       "brand": "Qoros",
-      "names": {"en": "Qoros 3", "zh-CN": "观致3", "zh-TW": "觀致3", "ja": "—"},
+      "names": {
+        "en": "Qoros 3",
+        "zh-CN": "观致3",
+        "zh-TW": "觀致3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:qoros:qoros-5",
       "brand": "Qoros",
-      "names": {"en": "Qoros 5", "zh-CN": "观致5", "zh-TW": "觀致5", "ja": "—"},
+      "names": {
+        "en": "Qoros 5",
+        "zh-CN": "观致5",
+        "zh-TW": "觀致5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,13 +37,35 @@
     {
       "id": "model:qoros:qoros-7",
       "brand": "Qoros",
-      "names": {"en": "Qoros 7", "zh-CN": "观致7", "zh-TW": "觀致7", "ja": "—"},
+      "names": {
+        "en": "Qoros 7",
+        "zh-CN": "观致7",
+        "zh-TW": "觀致7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2020–2021",
       "note": "紧凑型SUV,宝能入主后推出,品牌停摆后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:qoros:model-young",
+      "brand": "Qoros",
+      "names": {
+        "en": "Qoros Model Young",
+        "zh-CN": "观致Model Young",
+        "zh-TW": "觀致Model Young",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "观致品牌紧凑型SUV,基于奇瑞瑞虎7平台,2017年上市",
       "verified": "verified"
     }
   ]

@@ -3,7 +3,12 @@
     {
       "id": "model:bentley:continental-gt",
       "brand": "Bentley",
-      "names": {"en": "Bentley Continental GT", "zh-CN": "宾利欧陆GT", "zh-TW": "賓利Continental GT", "ja": "ベントレーコンチネンタルGT"},
+      "names": {
+        "en": "Bentley Continental GT",
+        "zh-CN": "宾利欧陆GT",
+        "zh-TW": "賓利Continental GT",
+        "ja": "ベントレーコンチネンタルGT"
+      },
       "segment": "class:eu:f",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:bentley:continental-gtc",
       "brand": "Bentley",
-      "names": {"en": "Bentley Continental GTC", "zh-CN": "宾利欧陆GTC", "zh-TW": "賓利Continental GTC", "ja": "ベントレーコンチネンタルGTC"},
+      "names": {
+        "en": "Bentley Continental GTC",
+        "zh-CN": "宾利欧陆GTC",
+        "zh-TW": "賓利Continental GTC",
+        "ja": "ベントレーコンチネンタルGTC"
+      },
       "segment": "class:eu:f",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:bentley:flying-spur",
       "brand": "Bentley",
-      "names": {"en": "Bentley Flying Spur", "zh-CN": "宾利飞驰", "zh-TW": "賓利飛馳", "ja": "ベントレーフライングスパー"},
+      "names": {
+        "en": "Bentley Flying Spur",
+        "zh-CN": "宾利飞驰",
+        "zh-TW": "賓利飛馳",
+        "ja": "ベントレーフライングスパー"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:bentley:bentayga",
       "brand": "Bentley",
-      "names": {"en": "Bentley Bentayga", "zh-CN": "宾利添越", "zh-TW": "賓利Bentayga", "ja": "ベントレーベンテイガ"},
+      "names": {
+        "en": "Bentley Bentayga",
+        "zh-CN": "宾利添越",
+        "zh-TW": "賓利Bentayga",
+        "ja": "ベントレーベンテイガ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:bentley:mulsanne",
       "brand": "Bentley",
-      "names": {"en": "Bentley Mulsanne", "zh-CN": "宾利慕尚", "zh-TW": "賓利Mulsanne", "ja": "ベントレーミュルザンヌ"},
+      "names": {
+        "en": "Bentley Mulsanne",
+        "zh-CN": "宾利慕尚",
+        "zh-TW": "賓利Mulsanne",
+        "ja": "ベントレーミュルザンヌ"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:bentley:arnage",
       "brand": "Bentley",
-      "names": {"en": "Bentley Arnage", "zh-CN": "宾利雅致", "zh-TW": "賓利雅緻", "ja": "ベントレーアルナージ"},
+      "names": {
+        "en": "Bentley Arnage",
+        "zh-CN": "宾利雅致",
+        "zh-TW": "賓利雅緻",
+        "ja": "ベントレーアルナージ"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:bentley:azure",
       "brand": "Bentley",
-      "names": {"en": "Bentley Azure", "zh-CN": "宾利雅骏(Azure)", "zh-TW": "賓利Azure", "ja": "ベントレーアズール"},
+      "names": {
+        "en": "Bentley Azure",
+        "zh-CN": "宾利雅骏(Azure)",
+        "zh-TW": "賓利Azure",
+        "ja": "ベントレーアズール"
+      },
       "segment": "class:eu:f",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:bentley:turbo-r",
       "brand": "Bentley",
-      "names": {"en": "Bentley Turbo R", "zh-CN": "宾利Turbo R", "zh-TW": "賓利Turbo R", "ja": "ベントレーターボR"},
+      "names": {
+        "en": "Bentley Turbo R",
+        "zh-CN": "宾利Turbo R",
+        "zh-TW": "賓利Turbo R",
+        "ja": "ベントレーターボR"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:bentley:brooklands",
       "brand": "Bentley",
-      "names": {"en": "Bentley Brooklands", "zh-CN": "宾利Brooklands", "zh-TW": "賓利Brooklands", "ja": "ベントレーブルックランズ"},
+      "names": {
+        "en": "Bentley Brooklands",
+        "zh-CN": "宾利Brooklands",
+        "zh-TW": "賓利Brooklands",
+        "ja": "ベントレーブルックランズ"
+      },
       "segment": "class:eu:f",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",

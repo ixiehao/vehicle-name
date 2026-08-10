@@ -3,7 +3,12 @@
     {
       "id": "model:acura:rdx",
       "brand": "Acura",
-      "names": {"en": "RDX", "zh-CN": "RDX", "zh-TW": "RDX(阿庫拉)", "ja": "アキュラRDX"},
+      "names": {
+        "en": "RDX",
+        "zh-CN": "RDX",
+        "zh-TW": "RDX(阿庫拉)",
+        "ja": "アキュラRDX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:acura:mdx",
       "brand": "Acura",
-      "names": {"en": "MDX", "zh-CN": "MDX", "zh-TW": "MDX(阿庫拉)", "ja": "アキュラMDX"},
+      "names": {
+        "en": "MDX",
+        "zh-CN": "MDX",
+        "zh-TW": "MDX(阿庫拉)",
+        "ja": "アキュラMDX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:acura:tlx",
       "brand": "Acura",
-      "names": {"en": "TLX", "zh-CN": "TLX", "zh-TW": "TLX(阿庫拉)", "ja": "アキュラTLX"},
+      "names": {
+        "en": "TLX",
+        "zh-CN": "TLX",
+        "zh-TW": "TLX(阿庫拉)",
+        "ja": "アキュラTLX"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:acura:integra",
       "brand": "Acura",
-      "names": {"en": "Integra", "zh-CN": "Integra", "zh-TW": "Integra(阿庫拉)", "ja": "アキュラ・インテグラ"},
+      "names": {
+        "en": "Integra",
+        "zh-CN": "Integra",
+        "zh-TW": "Integra(阿庫拉)",
+        "ja": "アキュラ・インテグラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:acura:adx",
       "brand": "Acura",
-      "names": {"en": "ADX", "zh-CN": "ADX", "zh-TW": "ADX(阿庫拉)", "ja": "アキュラADX"},
+      "names": {
+        "en": "ADX",
+        "zh-CN": "ADX",
+        "zh-TW": "ADX(阿庫拉)",
+        "ja": "アキュラADX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:acura:zdx",
       "brand": "Acura",
-      "names": {"en": "ZDX", "zh-CN": "ZDX", "zh-TW": "ZDX(阿庫拉)", "ja": "アキュラZDX"},
+      "names": {
+        "en": "ZDX",
+        "zh-CN": "ZDX",
+        "zh-TW": "ZDX(阿庫拉)",
+        "ja": "アキュラZDX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:acura:nsx",
       "brand": "Acura",
-      "names": {"en": "NSX", "zh-CN": "NSX", "zh-TW": "NSX(阿庫拉)", "ja": "アキュラNSX"},
+      "names": {
+        "en": "NSX",
+        "zh-CN": "NSX",
+        "zh-TW": "NSX(阿庫拉)",
+        "ja": "アキュラNSX"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:acura:ilx",
       "brand": "Acura",
-      "names": {"en": "ILX", "zh-CN": "ILX", "zh-TW": "ILX(阿庫拉)", "ja": "アキュラILX"},
+      "names": {
+        "en": "ILX",
+        "zh-CN": "ILX",
+        "zh-TW": "ILX(阿庫拉)",
+        "ja": "アキュラILX"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:acura:tl",
       "brand": "Acura",
-      "names": {"en": "TL", "zh-CN": "TL", "zh-TW": "TL(阿庫拉)", "ja": "アキュラTL"},
+      "names": {
+        "en": "TL",
+        "zh-CN": "TL",
+        "zh-TW": "TL(阿庫拉)",
+        "ja": "アキュラTL"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:acura:tsx",
       "brand": "Acura",
-      "names": {"en": "TSX", "zh-CN": "TSX", "zh-TW": "TSX(阿庫拉)", "ja": "アキュラTSX"},
+      "names": {
+        "en": "TSX",
+        "zh-CN": "TSX",
+        "zh-TW": "TSX(阿庫拉)",
+        "ja": "アキュラTSX"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:acura:rlx",
       "brand": "Acura",
-      "names": {"en": "RLX", "zh-CN": "RLX", "zh-TW": "RLX(阿庫拉)", "ja": "アキュラRLX"},
+      "names": {
+        "en": "RLX",
+        "zh-CN": "RLX",
+        "zh-TW": "RLX(阿庫拉)",
+        "ja": "アキュラRLX"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:acura:rl",
       "brand": "Acura",
-      "names": {"en": "RL", "zh-CN": "RL", "zh-TW": "RL(阿庫拉)", "ja": "アキュラRL"},
+      "names": {
+        "en": "RL",
+        "zh-CN": "RL",
+        "zh-TW": "RL(阿庫拉)",
+        "ja": "アキュラRL"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:acura:cdx",
       "brand": "Acura",
-      "names": {"en": "CDX", "zh-CN": "CDX", "zh-TW": "CDX(阿庫拉)", "ja": "アキュラCDX"},
+      "names": {
+        "en": "CDX",
+        "zh-CN": "CDX",
+        "zh-TW": "CDX(阿庫拉)",
+        "ja": "アキュラCDX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:acura:tlxl",
       "brand": "Acura",
-      "names": {"en": "TLX-L", "zh-CN": "TLX-L", "zh-TW": "TLX-L(阿庫拉)", "ja": "アキュラTLX-L"},
+      "names": {
+        "en": "TLX-L",
+        "zh-CN": "TLX-L",
+        "zh-TW": "TLX-L(阿庫拉)",
+        "ja": "アキュラTLX-L"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",

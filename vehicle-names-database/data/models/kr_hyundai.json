@@ -3,7 +3,12 @@
     {
       "id": "model:hyundai:elantra",
       "brand": "Hyundai",
-      "names": {"en": "Elantra", "zh-CN": "伊兰特", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "names": {
+        "en": "Elantra",
+        "zh-CN": "伊兰特",
+        "zh-TW": "Elantra",
+        "ja": "エラントラ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:hyundai:sonata",
       "brand": "Hyundai",
-      "names": {"en": "Sonata", "zh-CN": "索纳塔", "zh-TW": "Sonata", "ja": "ソナタ"},
+      "names": {
+        "en": "Sonata",
+        "zh-CN": "索纳塔",
+        "zh-TW": "Sonata",
+        "ja": "ソナタ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:hyundai:tucson",
       "brand": "Hyundai",
-      "names": {"en": "Tucson", "zh-CN": "途胜", "zh-TW": "Tucson", "ja": "ツーソン"},
+      "names": {
+        "en": "Tucson",
+        "zh-CN": "途胜",
+        "zh-TW": "Tucson",
+        "ja": "ツーソン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:hyundai:santa-fe",
       "brand": "Hyundai",
-      "names": {"en": "Santa Fe", "zh-CN": "胜达", "zh-TW": "Santa Fe", "ja": "サンタフェ"},
+      "names": {
+        "en": "Santa Fe",
+        "zh-CN": "胜达",
+        "zh-TW": "Santa Fe",
+        "ja": "サンタフェ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:hyundai:palisade",
       "brand": "Hyundai",
-      "names": {"en": "Palisade", "zh-CN": "帕里斯帝", "zh-TW": "Palisade", "ja": "パリセード"},
+      "names": {
+        "en": "Palisade",
+        "zh-CN": "帕里斯帝",
+        "zh-TW": "Palisade",
+        "ja": "パリセード"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:hyundai:venue",
       "brand": "Hyundai",
-      "names": {"en": "Venue", "zh-CN": "Venue", "zh-TW": "Venue", "ja": "ヴェニュー"},
+      "names": {
+        "en": "Venue",
+        "zh-CN": "Venue",
+        "zh-TW": "Venue",
+        "ja": "ヴェニュー"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:hyundai:kona",
       "brand": "Hyundai",
-      "names": {"en": "Kona", "zh-CN": "Kona(昂希诺)", "zh-TW": "Kona", "ja": "コナ"},
+      "names": {
+        "en": "Kona",
+        "zh-CN": "Kona(昂希诺)",
+        "zh-TW": "Kona",
+        "ja": "コナ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:hyundai:creta",
       "brand": "Hyundai",
-      "names": {"en": "Creta", "zh-CN": "ix25", "zh-TW": "Creta", "ja": "クレタ"},
+      "names": {
+        "en": "Creta",
+        "zh-CN": "ix25",
+        "zh-TW": "Creta",
+        "ja": "クレタ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:hyundai:accent",
       "brand": "Hyundai",
-      "names": {"en": "Accent", "zh-CN": "瑞纳/悦纳", "zh-TW": "Accent", "ja": "アクセント"},
+      "names": {
+        "en": "Accent",
+        "zh-CN": "瑞纳/悦纳",
+        "zh-TW": "Accent",
+        "ja": "アクセント"
+      },
       "segment": "class:eu:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:hyundai:i10",
       "brand": "Hyundai",
-      "names": {"en": "i10", "zh-CN": "i10", "zh-TW": "i10", "ja": "i10(アイ・テン)"},
+      "names": {
+        "en": "i10",
+        "zh-CN": "i10",
+        "zh-TW": "i10",
+        "ja": "i10(アイ・テン)"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:hyundai:i20",
       "brand": "Hyundai",
-      "names": {"en": "i20", "zh-CN": "i20", "zh-TW": "i20", "ja": "i20(アイ・トゥエンティ)"},
+      "names": {
+        "en": "i20",
+        "zh-CN": "i20",
+        "zh-TW": "i20",
+        "ja": "i20(アイ・トゥエンティ)"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:hyundai:i30",
       "brand": "Hyundai",
-      "names": {"en": "i30", "zh-CN": "i30", "zh-TW": "i30", "ja": "i30(アイ・サーティ)"},
+      "names": {
+        "en": "i30",
+        "zh-CN": "i30",
+        "zh-TW": "i30",
+        "ja": "i30(アイ・サーティ)"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:hyundai:grandeur",
       "brand": "Hyundai",
-      "names": {"en": "Grandeur", "zh-CN": "雅尊", "zh-TW": "Grandeur", "ja": "グランジェ"},
+      "names": {
+        "en": "Grandeur",
+        "zh-CN": "雅尊",
+        "zh-TW": "Grandeur",
+        "ja": "グランジェ"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:hyundai:staria",
       "brand": "Hyundai",
-      "names": {"en": "Staria", "zh-CN": "星际", "zh-TW": "Staria", "ja": "スターリア"},
+      "names": {
+        "en": "Staria",
+        "zh-CN": "星际",
+        "zh-TW": "Staria",
+        "ja": "スターリア"
+      },
       "segment": "class:eu:m",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:hyundai:santa-cruz",
       "brand": "Hyundai",
-      "names": {"en": "Santa Cruz", "zh-CN": "Santa Cruz", "zh-TW": "Santa Cruz", "ja": "サンタクルーズ"},
+      "names": {
+        "en": "Santa Cruz",
+        "zh-CN": "Santa Cruz",
+        "zh-TW": "Santa Cruz",
+        "ja": "サンタクルーズ"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:hyundai:ioniq-5",
       "brand": "Hyundai",
-      "names": {"en": "IONIQ 5", "zh-CN": "IONIQ 5", "zh-TW": "IONIQ 5", "ja": "アイオニック5"},
+      "names": {
+        "en": "IONIQ 5",
+        "zh-CN": "IONIQ 5",
+        "zh-TW": "IONIQ 5",
+        "ja": "アイオニック5"
+      },
       "segment": "class:eu:c",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -195,7 +275,12 @@
     {
       "id": "model:hyundai:ioniq-6",
       "brand": "Hyundai",
-      "names": {"en": "IONIQ 6", "zh-CN": "IONIQ 6", "zh-TW": "IONIQ 6", "ja": "アイオニック6"},
+      "names": {
+        "en": "IONIQ 6",
+        "zh-CN": "IONIQ 6",
+        "zh-TW": "IONIQ 6",
+        "ja": "アイオニック6"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -207,7 +292,12 @@
     {
       "id": "model:hyundai:ioniq-9",
       "brand": "Hyundai",
-      "names": {"en": "IONIQ 9", "zh-CN": "IONIQ 9", "zh-TW": "IONIQ 9", "ja": "アイオニック9"},
+      "names": {
+        "en": "IONIQ 9",
+        "zh-CN": "IONIQ 9",
+        "zh-TW": "IONIQ 9",
+        "ja": "アイオニック9"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -219,7 +309,12 @@
     {
       "id": "model:hyundai:nexo",
       "brand": "Hyundai",
-      "names": {"en": "Nexo", "zh-CN": "Nexo", "zh-TW": "Nexo", "ja": "ネッソ"},
+      "names": {
+        "en": "Nexo",
+        "zh-CN": "Nexo",
+        "zh-TW": "Nexo",
+        "ja": "ネッソ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:crossover",
       "powertrain": "pt:fcev",
@@ -231,7 +326,12 @@
     {
       "id": "model:hyundai:veloster",
       "brand": "Hyundai",
-      "names": {"en": "Veloster", "zh-CN": "飞思", "zh-TW": "Veloster", "ja": "ベロスター"},
+      "names": {
+        "en": "Veloster",
+        "zh-CN": "飞思",
+        "zh-TW": "Veloster",
+        "ja": "ベロスター"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:hyundai:genesis-sedan",
       "brand": "Hyundai",
-      "names": {"en": "Genesis", "zh-CN": "捷恩斯", "zh-TW": "Genesis(捷恩斯)", "ja": "ジェネシス"},
+      "names": {
+        "en": "Genesis",
+        "zh-CN": "捷恩斯",
+        "zh-TW": "Genesis(捷恩斯)",
+        "ja": "ジェネシス"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:hyundai:starex",
       "brand": "Hyundai",
-      "names": {"en": "Starex", "zh-CN": "辉翼", "zh-TW": "Starex", "ja": "スタレックス"},
+      "names": {
+        "en": "Starex",
+        "zh-CN": "辉翼",
+        "zh-TW": "Starex",
+        "ja": "スタレックス"
+      },
       "segment": "class:eu:m",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:hyundai:equus",
       "brand": "Hyundai",
-      "names": {"en": "Equus", "zh-CN": "雅科仕", "zh-TW": "Equus(雅科仕)", "ja": "エクウス"},
+      "names": {
+        "en": "Equus",
+        "zh-CN": "雅科仕",
+        "zh-TW": "Equus(雅科仕)",
+        "ja": "エクウス"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:hyundai:pony",
       "brand": "Hyundai",
-      "names": {"en": "Pony", "zh-CN": "小马", "zh-TW": "Pony", "ja": "ポニー"},
+      "names": {
+        "en": "Pony",
+        "zh-CN": "小马",
+        "zh-TW": "Pony",
+        "ja": "ポニー"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:hyundai:tiburon",
       "brand": "Hyundai",
-      "names": {"en": "Tiburon", "zh-CN": "酷派", "zh-TW": "Coupe", "ja": "ティブロン"},
+      "names": {
+        "en": "Tiburon",
+        "zh-CN": "酷派",
+        "zh-TW": "Coupe",
+        "ja": "ティブロン"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:hyundai:elantra-n",
       "brand": "Hyundai",
-      "names": {"en": "Elantra N", "zh-CN": "伊兰特N", "zh-TW": "Elantra N", "ja": "エラントラ N"},
+      "names": {
+        "en": "Elantra N",
+        "zh-CN": "伊兰特N",
+        "zh-TW": "Elantra N",
+        "ja": "エラントラ N"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:hyundai:rohens",
       "brand": "Hyundai",
-      "names": {"en": "Genesis", "zh-CN": "劳恩斯", "zh-TW": "Genesis", "ja": "ジェネシス"},
+      "names": {
+        "en": "Genesis",
+        "zh-CN": "劳恩斯",
+        "zh-TW": "Genesis",
+        "ja": "ジェネシス"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:hyundai:genesis-coupe",
       "brand": "Hyundai",
-      "names": {"en": "Genesis Coupe", "zh-CN": "劳恩斯-酷派", "zh-TW": "Genesis Coupe", "ja": "ジェネシスクーペ"},
+      "names": {
+        "en": "Genesis Coupe",
+        "zh-CN": "劳恩斯-酷派",
+        "zh-TW": "Genesis Coupe",
+        "ja": "ジェネシスクーペ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:hyundai:mistra",
       "brand": "Hyundai",
-      "names": {"en": "Mistra", "zh-CN": "名图", "zh-TW": "Mistra", "ja": "ミストラ"},
+      "names": {
+        "en": "Mistra",
+        "zh-CN": "名图",
+        "zh-TW": "Mistra",
+        "ja": "ミストラ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:hyundai:custo",
       "brand": "Hyundai",
-      "names": {"en": "Custo", "zh-CN": "库斯途", "zh-TW": "Custo", "ja": "クスト"},
+      "names": {
+        "en": "Custo",
+        "zh-CN": "库斯途",
+        "zh-TW": "Custo",
+        "ja": "クスト"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:hyundai:yuedong",
       "brand": "Hyundai",
-      "names": {"en": "Elantra", "zh-CN": "悦动", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "names": {
+        "en": "Elantra",
+        "zh-CN": "悦动",
+        "zh-TW": "Elantra",
+        "ja": "エラントラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -375,7 +530,12 @@
     {
       "id": "model:hyundai:langdong",
       "brand": "Hyundai",
-      "names": {"en": "Elantra", "zh-CN": "朗动", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "names": {
+        "en": "Elantra",
+        "zh-CN": "朗动",
+        "zh-TW": "Elantra",
+        "ja": "エラントラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:hyundai:lingdong",
       "brand": "Hyundai",
-      "names": {"en": "Elantra", "zh-CN": "领动", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "names": {
+        "en": "Elantra",
+        "zh-CN": "领动",
+        "zh-TW": "Elantra",
+        "ja": "エラントラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:hyundai:grand-santa-fe",
       "brand": "Hyundai",
-      "names": {"en": "Grand Santa Fe", "zh-CN": "格越", "zh-TW": "Grand Santa Fe", "ja": "グランドサンタフェ"},
+      "names": {
+        "en": "Grand Santa Fe",
+        "zh-CN": "格越",
+        "zh-TW": "Grand Santa Fe",
+        "ja": "グランドサンタフェ"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -411,7 +581,12 @@
     {
       "id": "model:hyundai:ruiyi",
       "brand": "Hyundai",
-      "names": {"en": "Accent", "zh-CN": "瑞奕", "zh-TW": "Accent", "ja": "アクセント"},
+      "names": {
+        "en": "Accent",
+        "zh-CN": "瑞奕",
+        "zh-TW": "Accent",
+        "ja": "アクセント"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -423,7 +598,12 @@
     {
       "id": "model:hyundai:festa",
       "brand": "Hyundai",
-      "names": {"en": "Lafesta", "zh-CN": "菲斯塔", "zh-TW": "Lafesta", "ja": "ラフェスタ"},
+      "names": {
+        "en": "Lafesta",
+        "zh-CN": "菲斯塔",
+        "zh-TW": "Lafesta",
+        "ja": "ラフェスタ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -435,14 +615,496 @@
     {
       "id": "model:hyundai:yixing",
       "brand": "Hyundai",
-      "names": {"en": "Elantra", "zh-CN": "逸行", "zh-TW": "Elantra", "ja": "エラントラ"},
+      "names": {
+        "en": "Elantra",
+        "zh-CN": "逸行",
+        "zh-TW": "Elantra",
+        "ja": "エラントラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2018–2020",
-      "note": "现代紧凑旅行车,2018-2020年销售,基于悦动平台衍生",
-      "verified": "pending"
+      "note": "逸行(2018–2020),北京现代紧凑旅行车,基于悦动平台,2020年停产",
+      "verified": "verified",
+      "en": "Yixing",
+      "zh-CN": "逸行"
+    },
+    {
+      "id": "model:hyundai:encino",
+      "brand": "Hyundai",
+      "names": {
+        "en": "ENCINO Kona",
+        "zh-CN": "ENCINO 昂希诺",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "昂希诺(ENCINO,2018–),北京现代小型SUV(Kona中国版),含昂希诺纯电动版",
+      "verified": "verified",
+      "en": "ENCINO",
+      "zh-CN": "昂希诺"
+    },
+    {
+      "id": "model:hyundai:hyundai-eo",
+      "brand": "Hyundai",
+      "names": {
+        "en": "EO Yiou",
+        "zh-CN": "EO 羿欧",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "EO羿欧(2025–),北京现代首款纯电SUV(E-GMP平台),2025年10月上市",
+      "verified": "verified",
+      "en": "EO Yiou",
+      "zh-CN": "EO羿欧"
+    },
+    {
+      "id": "model:hyundai:h-1",
+      "brand": "Hyundai",
+      "names": {
+        "en": "H-1",
+        "zh-CN": "H-1辉翼",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "H-1辉翼(2007–),现代MPV(Starex/Grand Starex中国版),2021年换代",
+      "verified": "verified",
+      "en": "H-1",
+      "zh-CN": "H-1辉翼"
+    },
+    {
+      "id": "model:hyundai:ioniq-5-n-5n",
+      "brand": "Hyundai",
+      "names": {
+        "en": "IONIQ 5 N( Ioniq 5N)",
+        "zh-CN": "IONIQ 5 N(艾尼氪5N)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "IONIQ 5 N(2023–),IONIQ 5的高性能N版",
+      "verified": "verified",
+      "en": "IONIQ 5 N",
+      "zh-CN": "IONIQ 5 N(艾尼氪5N)"
+    },
+    {
+      "id": "model:hyundai:ioniq",
+      "brand": "Hyundai",
+      "names": {
+        "en": "IONIQ",
+        "zh-CN": "IONIQ(艾尼氪)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "IONIQ(2016–2022),现代油电混动/插混/纯电三合一车型,2022年停产",
+      "verified": "verified",
+      "en": "IONIQ",
+      "zh-CN": "IONIQ(艾尼氪)"
+    },
+    {
+      "id": "model:hyundai:ioniq-v",
+      "brand": "Hyundai",
+      "names": {
+        "en": "IONIQ( Ioniq )V",
+        "zh-CN": "IONIQ(艾尼氪)V",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "IONIQ V(2026–),现代IONIQ品牌中国特供纯电轿车,2026年上市",
+      "verified": "verified",
+      "en": "IONIQ V",
+      "zh-CN": "IONIQ V(艾尼氪V)"
+    },
+    {
+      "id": "model:hyundai:hyundai-ev",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Elantra EV",
+        "zh-CN": "伊兰特EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "伊兰特EV(2017–2019),北京现代纯电版伊兰特,2019年停产",
+      "verified": "verified",
+      "en": "Elantra EV",
+      "zh-CN": "伊兰特EV"
+    },
+    {
+      "id": "model:hyundai:ix25",
+      "brand": "Hyundai",
+      "names": {
+        "en": "ix25",
+        "zh-CN": "北京现代ix25",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "ix25(2014–),北京现代小型SUV(海外名Creta),2020年换代",
+      "verified": "verified",
+      "en": "ix25",
+      "zh-CN": "北京现代ix25"
+    },
+    {
+      "id": "model:hyundai:ix35",
+      "brand": "Hyundai",
+      "names": {
+        "en": "ix35",
+        "zh-CN": "北京现代ix35",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "ix35(2010–),北京现代紧凑型SUV(Tucson中国版),2018年改款",
+      "verified": "verified",
+      "en": "ix35",
+      "zh-CN": "北京现代ix35"
+    },
+    {
+      "id": "model:hyundai:a9ebaaaf3e",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Sonata Mingyu",
+        "zh-CN": "名驭",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2013",
+      "note": "名驭(2009–2013),北京现代索纳塔(EF)改款,2013年停产",
+      "verified": "verified",
+      "en": "Sonata Mingyu",
+      "zh-CN": "名驭"
+    },
+    {
+      "id": "model:hyundai:b5086ce78e",
+      "brand": "Hyundai",
+      "names": {
+        "en": "County",
+        "zh-CN": "康恩迪",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1998–present",
+      "note": "康恩迪(County,1998–),现代中巴客车,中国由四川现代生产",
+      "verified": "verified",
+      "en": "County",
+      "zh-CN": "康恩迪"
+    },
+    {
+      "id": "model:hyundai:3d8bff1781",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Sonata NFC",
+        "zh-CN": "御翔",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2009",
+      "note": "御翔(NF,2005–2009),北京现代索纳塔(第五代NF),2009年停产",
+      "verified": "verified",
+      "en": "Sonata NFC",
+      "zh-CN": "御翔"
+    },
+    {
+      "id": "model:hyundai:hyundai-rv",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Accent RV",
+        "zh-CN": "悦纳RV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "悦纳RV(2016–2019),北京现代悦纳两厢版,2019年停产",
+      "verified": "verified",
+      "en": "Accent RV",
+      "zh-CN": "悦纳RV"
+    },
+    {
+      "id": "model:hyundai:e062062012",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Kona EV",
+        "zh-CN": "昂希诺纯电动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "昂希诺纯电动(2019–2021),昂希诺(Kona)纯电版,2021年停产",
+      "verified": "verified",
+      "en": "Kona EV",
+      "zh-CN": "昂希诺纯电动"
+    },
+    {
+      "id": "model:hyundai:hb20",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Hyundai HB20",
+        "zh-CN": "现代HB20",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "HB20(2012–),现代巴西市场小型车,2022年第三代",
+      "verified": "verified",
+      "en": "HB20",
+      "zh-CN": "HB20(未引入)"
+    },
+    {
+      "id": "model:hyundai:i40",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Hyundai i40",
+        "zh-CN": "现代i40",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2019",
+      "note": "i40(2011–2019),现代欧洲市场中型车(旅行/三厢),2019年停产",
+      "verified": "verified",
+      "en": "i40",
+      "zh-CN": "i40(未引入)"
+    },
+    {
+      "id": "model:hyundai:ix20",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Hyundai ix20",
+        "zh-CN": "现代ix20",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2019",
+      "note": "ix20(2010–2019),现代欧洲市场小型MPV,2019年停产",
+      "verified": "verified",
+      "en": "ix20",
+      "zh-CN": "ix20(未引入)"
+    },
+    {
+      "id": "model:hyundai:ec22124d97",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Verna",
+        "zh-CN": "瑞纳",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "瑞纳(Verna,2010–),北京现代小型轿车(Accent中国版),2020年换代",
+      "verified": "verified",
+      "en": "Verna",
+      "zh-CN": "瑞纳"
+    },
+    {
+      "id": "model:hyundai:9be83f54d6",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Sonata Plug-in Hybrid",
+        "zh-CN": "索纳塔插电混动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "索纳塔插电混动(2016–2019),北京现代索纳塔九PHEV,2019年停产",
+      "verified": "verified",
+      "en": "Sonata Plug-in Hybrid",
+      "zh-CN": "索纳塔插电混动"
+    },
+    {
+      "id": "model:hyundai:76de9823c7",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Veracruz",
+        "zh-CN": "维拉克斯",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2012",
+      "note": "维拉克斯(Veracruz,2006–2012),现代大型SUV,2012年停产",
+      "verified": "verified",
+      "en": "Veracruz",
+      "zh-CN": "维拉克斯"
+    },
+    {
+      "id": "model:hyundai:0c74ba5b5d",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Matrix",
+        "zh-CN": "美佳",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2010",
+      "note": "美佳(Matrix,2001–2010),现代紧凑型MPV,中国由北京现代生产,2010年停产",
+      "verified": "verified",
+      "en": "Matrix",
+      "zh-CN": "美佳"
+    },
+    {
+      "id": "model:hyundai:e5df07cd04",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Santa Fe Classic",
+        "zh-CN": "胜达经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2019",
+      "note": "胜达经典(2013–2019),北京现代胜达老款同堂销售,2019年停产",
+      "verified": "verified",
+      "en": "Santa Fe Classic",
+      "zh-CN": "胜达经典"
+    },
+    {
+      "id": "model:hyundai:b0b63678e1",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Lafesta EV",
+        "zh-CN": "菲斯塔纯电动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2022",
+      "note": "菲斯塔纯电动(2020–2022),菲斯塔纯电版,2022年停产",
+      "verified": "verified",
+      "en": "Lafesta EV",
+      "zh-CN": "菲斯塔纯电动"
+    },
+    {
+      "id": "model:hyundai:9c6e7db9ee",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Elantra Plug-in Hybrid",
+        "zh-CN": "领动插电混动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "领动插电混动(2019–2021),领动(Elantra)插混版,2021年停产",
+      "verified": "verified",
+      "en": "Elantra Plug-in Hybrid",
+      "zh-CN": "领动插电混动"
+    },
+    {
+      "id": "model:hyundai:b8a04d4344",
+      "brand": "Hyundai",
+      "names": {
+        "en": "Sonata Lingxiang",
+        "zh-CN": "领翔",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2011",
+      "note": "领翔(NFC,2008–2011),北京现代索纳塔(NFC)改款,2011年停产",
+      "verified": "verified",
+      "en": "Sonata Lingxiang",
+      "zh-CN": "领翔"
     }
   ]
 }

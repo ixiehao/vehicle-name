@@ -3,7 +3,12 @@
     {
       "id": "model:roewe:i5",
       "brand": "Roewe",
-      "names": {"en": "Roewe i5", "zh-CN": "荣威i5", "zh-TW": "Roewe i5", "ja": "—"},
+      "names": {
+        "en": "Roewe i5",
+        "zh-CN": "荣威i5",
+        "zh-TW": "Roewe i5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:roewe:i6",
       "brand": "Roewe",
-      "names": {"en": "Roewe i6", "zh-CN": "荣威i6", "zh-TW": "Roewe i6", "ja": "—"},
+      "names": {
+        "en": "Roewe i6",
+        "zh-CN": "荣威i6",
+        "zh-TW": "Roewe i6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:roewe:rx5",
       "brand": "Roewe",
-      "names": {"en": "Roewe RX5", "zh-CN": "荣威RX5", "zh-TW": "Roewe RX5", "ja": "—"},
+      "names": {
+        "en": "Roewe RX5",
+        "zh-CN": "荣威RX5",
+        "zh-TW": "Roewe RX5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:roewe:rx8",
       "brand": "Roewe",
-      "names": {"en": "Roewe RX8", "zh-CN": "荣威RX8", "zh-TW": "Roewe RX8", "ja": "—"},
+      "names": {
+        "en": "Roewe RX8",
+        "zh-CN": "荣威RX8",
+        "zh-TW": "Roewe RX8",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:roewe:rx9",
       "brand": "Roewe",
-      "names": {"en": "Roewe RX9", "zh-CN": "荣威RX9", "zh-TW": "Roewe RX9", "ja": "—"},
+      "names": {
+        "en": "Roewe RX9",
+        "zh-CN": "荣威RX9",
+        "zh-TW": "Roewe RX9",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:roewe:d7",
       "brand": "Roewe",
-      "names": {"en": "Roewe D7", "zh-CN": "荣威D7", "zh-TW": "Roewe D7", "ja": "—"},
+      "names": {
+        "en": "Roewe D7",
+        "zh-CN": "荣威D7",
+        "zh-TW": "Roewe D7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:roewe:d5x",
       "brand": "Roewe",
-      "names": {"en": "Roewe D5X", "zh-CN": "荣威D5X", "zh-TW": "Roewe D5X", "ja": "—"},
+      "names": {
+        "en": "Roewe D5X",
+        "zh-CN": "荣威D5X",
+        "zh-TW": "Roewe D5X",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -87,7 +122,12 @@
     {
       "id": "model:roewe:roewe-550",
       "brand": "Roewe",
-      "names": {"en": "Roewe 550", "zh-CN": "荣威550", "zh-TW": "Roewe 550", "ja": "—"},
+      "names": {
+        "en": "Roewe 550",
+        "zh-CN": "荣威550",
+        "zh-TW": "Roewe 550",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:roewe:roewe-350",
       "brand": "Roewe",
-      "names": {"en": "Roewe 350", "zh-CN": "荣威350", "zh-TW": "Roewe 350", "ja": "—"},
+      "names": {
+        "en": "Roewe 350",
+        "zh-CN": "荣威350",
+        "zh-TW": "Roewe 350",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:roewe:marvel-r",
       "brand": "Roewe",
-      "names": {"en": "Roewe MARVEL R", "zh-CN": "荣威MARVEL R", "zh-TW": "Roewe MARVEL R", "ja": "—"},
+      "names": {
+        "en": "Roewe MARVEL R",
+        "zh-CN": "荣威MARVEL R",
+        "zh-TW": "Roewe MARVEL R",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -123,19 +173,29 @@
     {
       "id": "model:roewe:ei5",
       "brand": "Roewe",
-      "names": {"en": "Roewe Ei5", "zh-CN": "荣威Ei5", "zh-TW": "Roewe Ei5", "ja": "—"},
+      "names": {
+        "en": "Roewe Ei5",
+        "zh-CN": "荣威Ei5",
+        "zh-TW": "Roewe Ei5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:wagon",
       "powertrain": "pt:bev",
       "status": "current",
-      "years": "2018–present",
-      "note": "紧凑型纯电旅行车(出租/网约车常见);现售状态待核实",
-      "verified": "pending"
+      "years": "2018-present",
+      "note": "荣威Ei5(2018-),紧凑型纯电旅行车(出租/网约车常见)",
+      "verified": "verified"
     },
     {
       "id": "model:roewe:imax8",
       "brand": "Roewe",
-      "names": {"en": "Roewe iMAX8", "zh-CN": "荣威iMAX8", "zh-TW": "Roewe iMAX8", "ja": "—"},
+      "names": {
+        "en": "Roewe iMAX8",
+        "zh-CN": "荣威iMAX8",
+        "zh-TW": "Roewe iMAX8",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -147,19 +207,29 @@
     {
       "id": "model:roewe:clever",
       "brand": "Roewe",
-      "names": {"en": "Roewe Clever", "zh-CN": "科莱威", "zh-TW": "Roewe Clever", "ja": "—"},
+      "names": {
+        "en": "Roewe Clever",
+        "zh-CN": "科莱威",
+        "zh-TW": "Roewe Clever",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
       "status": "current",
-      "years": "2020–present",
-      "note": "上汽荣威微型纯电两厢车(2020年上市);现售状态待核实",
-      "verified": "pending"
+      "years": "2020-present",
+      "note": "科莱威(2020-),上汽荣威微型纯电两厢车",
+      "verified": "verified"
     },
     {
       "id": "model:roewe:roewe-950",
       "brand": "Roewe",
-      "names": {"en": "Roewe 950", "zh-CN": "荣威950", "zh-TW": "Roewe 950", "ja": "—"},
+      "names": {
+        "en": "Roewe 950",
+        "zh-CN": "荣威950",
+        "zh-TW": "Roewe 950",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:roewe:e950",
       "brand": "Roewe",
-      "names": {"en": "Roewe e950", "zh-CN": "荣威e950", "zh-TW": "Roewe e950", "ja": "—"},
+      "names": {
+        "en": "Roewe e950",
+        "zh-CN": "荣威e950",
+        "zh-TW": "Roewe e950",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -183,19 +258,29 @@
     {
       "id": "model:roewe:rx3",
       "brand": "Roewe",
-      "names": {"en": "Roewe RX3", "zh-CN": "荣威RX3", "zh-TW": "Roewe RX3", "ja": "—"},
+      "names": {
+        "en": "Roewe RX3",
+        "zh-CN": "荣威RX3",
+        "zh-TW": "Roewe RX3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2017–present",
-      "note": "上汽荣威紧凑型SUV(2017年上市,2021年改款RX3 PRO);现售状态待核实",
-      "verified": "pending"
+      "years": "2017-present",
+      "note": "荣威RX3(2017-),上汽荣威紧凑型SUV,2021年改款RX3 PRO",
+      "verified": "verified"
     },
     {
       "id": "model:roewe:w5",
       "brand": "Roewe",
-      "names": {"en": "Roewe W5", "zh-CN": "荣威W5", "zh-TW": "Roewe W5", "ja": "—"},
+      "names": {
+        "en": "Roewe W5",
+        "zh-CN": "荣威W5",
+        "zh-TW": "Roewe W5",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -203,6 +288,386 @@
       "years": "2011–2017",
       "note": "上汽荣威中型硬派SUV(非承载式车身,2011年上市);约2017年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:roewe:roewe-i6-2",
+      "brand": "Roewe",
+      "names": {
+        "en": "i6 Classic",
+        "zh-CN": "i6经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019-2022",
+      "note": "荣威i6经典(2019-2022),i6老款同堂销售,2022年停产",
+      "verified": "verified",
+      "en": "i6 Classic",
+      "zh-CN": "i6经典"
+    },
+    {
+      "id": "model:roewe:roewe-07",
+      "brand": "Roewe",
+      "names": {
+        "en": "Jiayue 07",
+        "zh-CN": "家越07",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "家越07(2025-),荣威插混SUV",
+      "verified": "verified",
+      "en": "Jiayue 07",
+      "zh-CN": "家越07"
+    },
+    {
+      "id": "model:roewe:360",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe 360",
+        "zh-CN": "荣威360",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015-2019",
+      "note": "荣威360(2015-2019),上汽荣威紧凑型轿车,2019年停产",
+      "verified": "verified",
+      "en": "360",
+      "zh-CN": "荣威360"
+    },
+    {
+      "id": "model:roewe:750",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe 750",
+        "zh-CN": "荣威750",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2013",
+      "note": "荣威750(2006-2013),荣威首款车型(源自罗孚75),2013年停产",
+      "verified": "verified",
+      "en": "750",
+      "zh-CN": "荣威750"
+    },
+    {
+      "id": "model:roewe:d5x-dmh",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe D5X DMH",
+        "zh-CN": "荣威D5X DMH",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "荣威D5X DMH(2024-),荣威紧凑型插混SUV",
+      "verified": "verified",
+      "en": "D5X DMH",
+      "zh-CN": "荣威D5X DMH"
+    },
+    {
+      "id": "model:roewe:roewe-d6",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe D6",
+        "zh-CN": "荣威D6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "荣威D6(2025-),荣威纯电轿车",
+      "verified": "verified",
+      "en": "D6",
+      "zh-CN": "荣威D6"
+    },
+    {
+      "id": "model:roewe:roewe-e6",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe E6",
+        "zh-CN": "荣威E6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "荣威E6(2025-),荣威纯电轿车",
+      "verified": "verified",
+      "en": "E6",
+      "zh-CN": "荣威E6"
+    },
+    {
+      "id": "model:roewe:m7-dmh",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe M7 DMH",
+        "zh-CN": "荣威M7 DMH",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "荣威M7 DMH(2024-),荣威插混MPV",
+      "verified": "verified",
+      "en": "M7 DMH",
+      "zh-CN": "荣威M7 DMH"
+    },
+    {
+      "id": "model:roewe:marvel-x",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe MARVEL X",
+        "zh-CN": "荣威MARVEL X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018-2021",
+      "note": "荣威MARVEL X(2018-2021),荣威纯电中型SUV,2021年停产",
+      "verified": "verified",
+      "en": "MARVEL X",
+      "zh-CN": "荣威MARVEL X"
+    },
+    {
+      "id": "model:roewe:rx5-max",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe RX5 MAX",
+        "zh-CN": "荣威RX5 MAX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "荣威RX5 MAX(2019-),荣威紧凑型SUV",
+      "verified": "verified",
+      "en": "RX5 MAX",
+      "zh-CN": "荣威RX5 MAX"
+    },
+    {
+      "id": "model:roewe:rx5-emax",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe RX5 eMAX",
+        "zh-CN": "荣威RX5 eMAX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2019-present",
+      "note": "荣威RX5 eMAX(2019-),RX5 MAX插电混动版",
+      "verified": "verified",
+      "en": "RX5 eMAX",
+      "zh-CN": "荣威RX5 eMAX"
+    },
+    {
+      "id": "model:roewe:e50",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe e50",
+        "zh-CN": "荣威e50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2012-2016",
+      "note": "荣威e50(2012-2016),荣威首款纯电微型车,2016年停产",
+      "verified": "verified",
+      "en": "e50",
+      "zh-CN": "荣威e50"
+    },
+    {
+      "id": "model:roewe:e550",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe e550",
+        "zh-CN": "荣威e550",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2015-2019",
+      "note": "荣威e550(2015-2019),550的插电混动版,2019年停产",
+      "verified": "verified",
+      "en": "e550",
+      "zh-CN": "荣威e550"
+    },
+    {
+      "id": "model:roewe:i6-max-2",
+      "brand": "Roewe",
+      "names": {
+        "en": "Roewe i6 MAX",
+        "zh-CN": "荣威i6 MAX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020-present",
+      "note": "荣威i6 MAX(2020-),i6的升级版",
+      "verified": "verified",
+      "en": "i6 MAX",
+      "zh-CN": "荣威i6 MAX"
+    },
+    {
+      "id": "model:roewe:er6",
+      "brand": "Roewe",
+      "names": {
+        "en": "Rising Auto ER6",
+        "zh-CN": "飞凡ER6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020-2022",
+      "note": "飞凡ER6(2020-2022),飞凡品牌纯电轿车(原荣威R ER6),2022年停产",
+      "verified": "verified",
+      "en": "ER6",
+      "zh-CN": "飞凡ER6"
+    },
+    {
+      "id": "model:roewe:roewe-f7",
+      "brand": "Roewe",
+      "names": {
+        "en": "Rising Auto F7",
+        "zh-CN": "飞凡F7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "飞凡F7(2023-),飞凡品牌纯电轿车",
+      "verified": "verified",
+      "en": "F7",
+      "zh-CN": "飞凡F7"
+    },
+    {
+      "id": "model:roewe:marvel-r-2",
+      "brand": "Roewe",
+      "names": {
+        "en": "Rising Auto MARVEL R",
+        "zh-CN": "飞凡MARVEL R",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020-2023",
+      "note": "飞凡MARVEL R(2020-2023),飞凡品牌纯电SUV,2023年停产",
+      "verified": "verified",
+      "en": "MARVEL R",
+      "zh-CN": "飞凡MARVEL R"
+    },
+    {
+      "id": "model:roewe:roewe-r7",
+      "brand": "Roewe",
+      "names": {
+        "en": "Rising Auto R7",
+        "zh-CN": "飞凡R7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "飞凡R7(2022-),飞凡品牌纯电SUV",
+      "verified": "verified",
+      "en": "R7",
+      "zh-CN": "飞凡R7"
+    },
+    {
+      "id": "model:roewe:fd7be99643",
+      "brand": "Roewe",
+      "names": {
+        "en": "Whale",
+        "zh-CN": "鲸",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "荣威鲸(2022-),荣威首款轿跑SUV",
+      "verified": "verified",
+      "en": "Whale",
+      "zh-CN": "鲸"
+    },
+    {
+      "id": "model:roewe:e9c356cbeb",
+      "brand": "Roewe",
+      "names": {
+        "en": "Longmao",
+        "zh-CN": "龙猫",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:hev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "荣威龙猫(2022-),荣威首款HEV SUV",
+      "verified": "verified",
+      "en": "Longmao",
+      "zh-CN": "龙猫"
     }
   ]
 }

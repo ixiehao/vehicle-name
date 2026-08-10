@@ -3,7 +3,12 @@
     {
       "id": "model:porsche:911",
       "brand": "Porsche",
-      "names": {"en": "911", "zh-CN": "保时捷911", "zh-TW": "保時捷911", "ja": "ポルシェ911"},
+      "names": {
+        "en": "911",
+        "zh-CN": "保时捷911",
+        "zh-TW": "保時捷911",
+        "ja": "ポルシェ911"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:porsche:718",
       "brand": "Porsche",
-      "names": {"en": "718", "zh-CN": "保时捷718", "zh-TW": "保時捷718", "ja": "ポルシェ718"},
+      "names": {
+        "en": "718",
+        "zh-CN": "保时捷718",
+        "zh-TW": "保時捷718",
+        "ja": "ポルシェ718"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:porsche:panamera",
       "brand": "Porsche",
-      "names": {"en": "Panamera", "zh-CN": "帕拉梅拉", "zh-TW": "Panamera", "ja": "パナメーラ"},
+      "names": {
+        "en": "Panamera",
+        "zh-CN": "帕拉梅拉",
+        "zh-TW": "Panamera",
+        "ja": "パナメーラ"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:porsche:taycan",
       "brand": "Porsche",
-      "names": {"en": "Taycan", "zh-CN": "Taycan", "zh-TW": "Taycan", "ja": "タイカン"},
+      "names": {
+        "en": "Taycan",
+        "zh-CN": "Taycan",
+        "zh-TW": "Taycan",
+        "ja": "タイカン"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:porsche:cayenne",
       "brand": "Porsche",
-      "names": {"en": "Cayenne", "zh-CN": "卡宴", "zh-TW": "Cayenne", "ja": "カイエン"},
+      "names": {
+        "en": "Cayenne",
+        "zh-CN": "卡宴",
+        "zh-TW": "Cayenne",
+        "ja": "カイエン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:porsche:macan",
       "brand": "Porsche",
-      "names": {"en": "Macan", "zh-CN": "Macan", "zh-TW": "Macan", "ja": "マカン"},
+      "names": {
+        "en": "Macan",
+        "zh-CN": "Macan",
+        "zh-TW": "Macan",
+        "ja": "マカン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:porsche:356",
       "brand": "Porsche",
-      "names": {"en": "356", "zh-CN": "保时捷356", "zh-TW": "保時捷356", "ja": "ポルシェ356"},
+      "names": {
+        "en": "356",
+        "zh-CN": "保时捷356",
+        "zh-TW": "保時捷356",
+        "ja": "ポルシェ356"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:porsche:914",
       "brand": "Porsche",
-      "names": {"en": "914", "zh-CN": "保时捷914", "zh-TW": "保時捷914", "ja": "ポルシェ914"},
+      "names": {
+        "en": "914",
+        "zh-CN": "保时捷914",
+        "zh-TW": "保時捷914",
+        "ja": "ポルシェ914"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:porsche:924",
       "brand": "Porsche",
-      "names": {"en": "924", "zh-CN": "保时捷924", "zh-TW": "保時捷924", "ja": "ポルシェ924"},
+      "names": {
+        "en": "924",
+        "zh-CN": "保时捷924",
+        "zh-TW": "保時捷924",
+        "ja": "ポルシェ924"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:porsche:928",
       "brand": "Porsche",
-      "names": {"en": "928", "zh-CN": "保时捷928", "zh-TW": "保時捷928", "ja": "ポルシェ928"},
+      "names": {
+        "en": "928",
+        "zh-CN": "保时捷928",
+        "zh-TW": "保時捷928",
+        "ja": "ポルシェ928"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:porsche:944",
       "brand": "Porsche",
-      "names": {"en": "944", "zh-CN": "保时捷944", "zh-TW": "保時捷944", "ja": "ポルシェ944"},
+      "names": {
+        "en": "944",
+        "zh-CN": "保时捷944",
+        "zh-TW": "保時捷944",
+        "ja": "ポルシェ944"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:porsche:968",
       "brand": "Porsche",
-      "names": {"en": "968", "zh-CN": "保时捷968", "zh-TW": "保時捷968", "ja": "ポルシェ968"},
+      "names": {
+        "en": "968",
+        "zh-CN": "保时捷968",
+        "zh-TW": "保時捷968",
+        "ja": "ポルシェ968"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:porsche:959",
       "brand": "Porsche",
-      "names": {"en": "959", "zh-CN": "保时捷959", "zh-TW": "保時捷959", "ja": "ポルシェ959"},
+      "names": {
+        "en": "959",
+        "zh-CN": "保时捷959",
+        "zh-TW": "保時捷959",
+        "ja": "ポルシェ959"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:porsche:carrera-gt",
       "brand": "Porsche",
-      "names": {"en": "Carrera GT", "zh-CN": "保时捷Carrera GT", "zh-TW": "保時捷Carrera GT", "ja": "ポルシェ・カレラGT"},
+      "names": {
+        "en": "Carrera GT",
+        "zh-CN": "保时捷Carrera GT",
+        "zh-TW": "保時捷Carrera GT",
+        "ja": "ポルシェ・カレラGT"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:porsche:918-spyder",
       "brand": "Porsche",
-      "names": {"en": "918 Spyder", "zh-CN": "保时捷918 Spyder", "zh-TW": "保時捷918 Spyder", "ja": "ポルシェ918スパイダー"},
+      "names": {
+        "en": "918 Spyder",
+        "zh-CN": "保时捷918 Spyder",
+        "zh-TW": "保時捷918 Spyder",
+        "ja": "ポルシェ918スパイダー"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:phev",

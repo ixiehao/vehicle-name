@@ -3,7 +3,12 @@
     {
       "id": "model:bugatti:veyron",
       "brand": "Bugatti",
-      "names": {"en": "Bugatti Veyron", "zh-CN": "布加迪威航", "zh-TW": "Bugatti Veyron", "ja": "ブガッティ・ヴェイロン"},
+      "names": {
+        "en": "Bugatti Veyron",
+        "zh-CN": "布加迪威航",
+        "zh-TW": "Bugatti Veyron",
+        "ja": "ブガッティ・ヴェイロン"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:bugatti:chiron",
       "brand": "Bugatti",
-      "names": {"en": "Bugatti Chiron", "zh-CN": "布加迪Chiron", "zh-TW": "Bugatti Chiron", "ja": "ブガッティ・シロン"},
+      "names": {
+        "en": "Bugatti Chiron",
+        "zh-CN": "布加迪Chiron",
+        "zh-TW": "Bugatti Chiron",
+        "ja": "ブガッティ・シロン"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:bugatti:divo",
       "brand": "Bugatti",
-      "names": {"en": "Bugatti Divo", "zh-CN": "布加迪Divo", "zh-TW": "Bugatti Divo", "ja": "ブガッティ・ディーヴォ"},
+      "names": {
+        "en": "Bugatti Divo",
+        "zh-CN": "布加迪Divo",
+        "zh-TW": "Bugatti Divo",
+        "ja": "ブガッティ・ディーヴォ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:bugatti:mistral",
       "brand": "Bugatti",
-      "names": {"en": "Bugatti Mistral", "zh-CN": "布加迪Mistral", "zh-TW": "Bugatti Mistral", "ja": "ブガッティ・ミストラル"},
+      "names": {
+        "en": "Bugatti Mistral",
+        "zh-CN": "布加迪Mistral",
+        "zh-TW": "Bugatti Mistral",
+        "ja": "ブガッティ・ミストラル"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:bugatti:tourbillon",
       "brand": "Bugatti",
-      "names": {"en": "Bugatti Tourbillon", "zh-CN": "布加迪Tourbillon", "zh-TW": "Bugatti Tourbillon", "ja": "ブガッティ・トゥールビヨン"},
+      "names": {
+        "en": "Bugatti Tourbillon",
+        "zh-CN": "布加迪Tourbillon",
+        "zh-TW": "Bugatti Tourbillon",
+        "ja": "ブガッティ・トゥールビヨン"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:phev",

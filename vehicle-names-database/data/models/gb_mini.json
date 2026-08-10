@@ -3,7 +3,12 @@
     {
       "id": "model:mini:cooper",
       "brand": "MINI",
-      "names": {"en": "MINI Cooper", "zh-CN": "MINI", "zh-TW": "MINI", "ja": "ミニ"},
+      "names": {
+        "en": "MINI Cooper",
+        "zh-CN": "MINI",
+        "zh-TW": "MINI",
+        "ja": "ミニ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:mini:countryman",
       "brand": "MINI",
-      "names": {"en": "MINI Countryman", "zh-CN": "MINI Countryman", "zh-TW": "MINI Countryman", "ja": "ミニ カントリーマン"},
+      "names": {
+        "en": "MINI Countryman",
+        "zh-CN": "MINI Countryman",
+        "zh-TW": "MINI Countryman",
+        "ja": "ミニ カントリーマン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:mini:aceman",
       "brand": "MINI",
-      "names": {"en": "MINI Aceman", "zh-CN": "MINI Aceman", "zh-TW": "MINI Aceman", "ja": "ミニ エースマン"},
+      "names": {
+        "en": "MINI Aceman",
+        "zh-CN": "MINI Aceman",
+        "zh-TW": "MINI Aceman",
+        "ja": "ミニ エースマン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:mini:clubman",
       "brand": "MINI",
-      "names": {"en": "MINI Clubman", "zh-CN": "MINI Clubman", "zh-TW": "MINI Clubman", "ja": "ミニ クラブマン"},
+      "names": {
+        "en": "MINI Clubman",
+        "zh-CN": "MINI Clubman",
+        "zh-TW": "MINI Clubman",
+        "ja": "ミニ クラブマン"
+      },
       "segment": "class:eu:b",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:mini:paceman",
       "brand": "MINI",
-      "names": {"en": "MINI Paceman", "zh-CN": "MINI Paceman", "zh-TW": "MINI Paceman", "ja": "ミニ ペースマン"},
+      "names": {
+        "en": "MINI Paceman",
+        "zh-CN": "MINI Paceman",
+        "zh-TW": "MINI Paceman",
+        "ja": "ミニ ペースマン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:mini:coupe",
       "brand": "MINI",
-      "names": {"en": "MINI Coupé", "zh-CN": "MINI Coupé", "zh-TW": "MINI Coupé", "ja": "ミニ クーペ"},
+      "names": {
+        "en": "MINI Coupé",
+        "zh-CN": "MINI Coupé",
+        "zh-TW": "MINI Coupé",
+        "ja": "ミニ クーペ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:mini:roadster",
       "brand": "MINI",
-      "names": {"en": "MINI Roadster", "zh-CN": "MINI Roadster", "zh-TW": "MINI Roadster", "ja": "ミニ ロードスター"},
+      "names": {
+        "en": "MINI Roadster",
+        "zh-CN": "MINI Roadster",
+        "zh-TW": "MINI Roadster",
+        "ja": "ミニ ロードスター"
+      },
       "segment": "class:eu:b",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -87,14 +122,19 @@
     {
       "id": "model:mini:jcw",
       "brand": "MINI",
-      "names": {"en": "MINI John Cooper Works", "zh-CN": "MINI JCW", "zh-TW": "MINI JCW", "ja": "ミニ ジョン・クーパー・ワークス"},
+      "names": {
+        "en": "MINI John Cooper Works",
+        "zh-CN": "MINI JCW",
+        "zh-TW": "MINI JCW",
+        "ja": "ミニ ジョン・クーパー・ワークス"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2015–present",
       "note": "John Cooper Works高性能系列(Cooper的JCW版本),中国市场2015年起随F56代引入,含JCW三门/五门及GP限量版等",
-      "verified": "pending"
+      "verified": "verified"
     }
   ]
 }

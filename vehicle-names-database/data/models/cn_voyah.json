@@ -3,7 +3,12 @@
     {
       "id": "model:voyah:free",
       "brand": "Voyah",
-      "names": {"en": "Voyah Free", "zh-CN": "岚图FREE", "zh-TW": "Voyah Free(未导入)", "ja": "—"},
+      "names": {
+        "en": "Voyah Free",
+        "zh-CN": "岚图FREE",
+        "zh-TW": "Voyah Free(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -15,7 +20,12 @@
     {
       "id": "model:voyah:dream",
       "brand": "Voyah",
-      "names": {"en": "Voyah Dream", "zh-CN": "岚图梦想家", "zh-TW": "Voyah Dream(未导入)", "ja": "—"},
+      "names": {
+        "en": "Voyah Dream",
+        "zh-CN": "岚图梦想家",
+        "zh-TW": "Voyah Dream(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:erev",
@@ -27,7 +37,12 @@
     {
       "id": "model:voyah:passion",
       "brand": "Voyah",
-      "names": {"en": "Voyah Passion", "zh-CN": "岚图追光", "zh-TW": "Voyah Passion(未导入)", "ja": "—"},
+      "names": {
+        "en": "Voyah Passion",
+        "zh-CN": "岚图追光",
+        "zh-TW": "Voyah Passion(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:voyah:zhiyin",
       "brand": "Voyah",
-      "names": {"en": "Voyah Zhiyin", "zh-CN": "岚图知音", "zh-TW": "Voyah Zhiyin(未导入)", "ja": "—"},
+      "names": {
+        "en": "Voyah Zhiyin",
+        "zh-CN": "岚图知音",
+        "zh-TW": "Voyah Zhiyin(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",

@@ -3,7 +3,12 @@
     {
       "id": "model:li-auto:l6",
       "brand": "Li Auto",
-      "names": {"en": "L6", "zh-CN": "理想L6", "zh-TW": "L6(未导入)", "ja": "—"},
+      "names": {
+        "en": "L6",
+        "zh-CN": "理想L6",
+        "zh-TW": "L6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -15,7 +20,12 @@
     {
       "id": "model:li-auto:l7",
       "brand": "Li Auto",
-      "names": {"en": "L7", "zh-CN": "理想L7", "zh-TW": "L7(未导入)", "ja": "—"},
+      "names": {
+        "en": "L7",
+        "zh-CN": "理想L7",
+        "zh-TW": "L7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -27,7 +37,12 @@
     {
       "id": "model:li-auto:l8",
       "brand": "Li Auto",
-      "names": {"en": "L8", "zh-CN": "理想L8", "zh-TW": "L8(未导入)", "ja": "—"},
+      "names": {
+        "en": "L8",
+        "zh-CN": "理想L8",
+        "zh-TW": "L8(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -39,7 +54,12 @@
     {
       "id": "model:li-auto:l9",
       "brand": "Li Auto",
-      "names": {"en": "L9", "zh-CN": "理想L9", "zh-TW": "L9(未导入)", "ja": "—"},
+      "names": {
+        "en": "L9",
+        "zh-CN": "理想L9",
+        "zh-TW": "L9(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:d",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -51,7 +71,12 @@
     {
       "id": "model:li-auto:mega",
       "brand": "Li Auto",
-      "names": {"en": "MEGA", "zh-CN": "理想MEGA", "zh-TW": "MEGA(未导入)", "ja": "—"},
+      "names": {
+        "en": "MEGA",
+        "zh-CN": "理想MEGA",
+        "zh-TW": "MEGA(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:li-auto:i8",
       "brand": "Li Auto",
-      "names": {"en": "i8", "zh-CN": "理想i8", "zh-TW": "i8(未导入)", "ja": "—"},
+      "names": {
+        "en": "i8",
+        "zh-CN": "理想i8",
+        "zh-TW": "i8(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:li-auto:i6",
       "brand": "Li Auto",
-      "names": {"en": "i6", "zh-CN": "理想i6", "zh-TW": "i6(未导入)", "ja": "—"},
+      "names": {
+        "en": "i6",
+        "zh-CN": "理想i6",
+        "zh-TW": "i6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -87,7 +122,12 @@
     {
       "id": "model:li-auto:one",
       "brand": "Li Auto",
-      "names": {"en": "ONE", "zh-CN": "理想ONE", "zh-TW": "ONE(未导入)", "ja": "—"},
+      "names": {
+        "en": "ONE",
+        "zh-CN": "理想ONE",
+        "zh-TW": "ONE(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:erev",

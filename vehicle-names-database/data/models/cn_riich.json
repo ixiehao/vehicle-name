@@ -3,7 +3,12 @@
     {
       "id": "model:riich:g3",
       "brand": "Riich",
-      "names": {"en": "Riich G3", "zh-CN": "瑞麒G3", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Riich G3",
+        "zh-CN": "瑞麒G3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:riich:g5",
       "brand": "Riich",
-      "names": {"en": "Riich G5", "zh-CN": "瑞麒G5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Riich G5",
+        "zh-CN": "瑞麒G5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:riich:g6",
       "brand": "Riich",
-      "names": {"en": "Riich G6", "zh-CN": "瑞麒G6", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Riich G6",
+        "zh-CN": "瑞麒G6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:riich:x1",
       "brand": "Riich",
-      "names": {"en": "Riich X1", "zh-CN": "瑞麒X1", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Riich X1",
+        "zh-CN": "瑞麒X1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:riich:m1",
       "brand": "Riich",
-      "names": {"en": "Riich M1", "zh-CN": "瑞麒M1", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Riich M1",
+        "zh-CN": "瑞麒M1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",

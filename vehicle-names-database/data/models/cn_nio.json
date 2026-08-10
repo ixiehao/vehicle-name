@@ -3,7 +3,12 @@
     {
       "id": "model:nio:et5",
       "brand": "NIO",
-      "names": {"en": "ET5", "zh-CN": "ET5", "zh-TW": "ET5(未导入)", "ja": "—"},
+      "names": {
+        "en": "ET5",
+        "zh-CN": "ET5",
+        "zh-TW": "ET5(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:nio:et5t",
       "brand": "NIO",
-      "names": {"en": "ET5 Touring", "zh-CN": "ET5T(旅行版)", "zh-TW": "ET5 Touring(未导入)", "ja": "—"},
+      "names": {
+        "en": "ET5 Touring",
+        "zh-CN": "ET5T(旅行版)",
+        "zh-TW": "ET5 Touring(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:wagon",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:nio:et7",
       "brand": "NIO",
-      "names": {"en": "ET7", "zh-CN": "ET7", "zh-TW": "ET7(未导入)", "ja": "—"},
+      "names": {
+        "en": "ET7",
+        "zh-CN": "ET7",
+        "zh-TW": "ET7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:nio:es6",
       "brand": "NIO",
-      "names": {"en": "ES6", "zh-CN": "ES6", "zh-TW": "ES6(未导入)", "ja": "—"},
+      "names": {
+        "en": "ES6",
+        "zh-CN": "ES6",
+        "zh-TW": "ES6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:nio:es7",
       "brand": "NIO",
-      "names": {"en": "ES7", "zh-CN": "ES7", "zh-TW": "ES7(未导入)", "ja": "—"},
+      "names": {
+        "en": "ES7",
+        "zh-CN": "ES7",
+        "zh-TW": "ES7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:nio:es8",
       "brand": "NIO",
-      "names": {"en": "ES8", "zh-CN": "ES8", "zh-TW": "ES8(未导入)", "ja": "—"},
+      "names": {
+        "en": "ES8",
+        "zh-CN": "ES8",
+        "zh-TW": "ES8(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:nio:ec6",
       "brand": "NIO",
-      "names": {"en": "EC6", "zh-CN": "EC6", "zh-TW": "EC6(未导入)", "ja": "—"},
+      "names": {
+        "en": "EC6",
+        "zh-CN": "EC6",
+        "zh-TW": "EC6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -87,7 +122,12 @@
     {
       "id": "model:nio:ec7",
       "brand": "NIO",
-      "names": {"en": "EC7", "zh-CN": "EC7", "zh-TW": "EC7(未导入)", "ja": "—"},
+      "names": {
+        "en": "EC7",
+        "zh-CN": "EC7",
+        "zh-TW": "EC7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -99,7 +139,12 @@
     {
       "id": "model:nio:firefly",
       "brand": "NIO",
-      "names": {"en": "Firefly", "zh-CN": "萤火虫", "zh-TW": "Firefly(未导入)", "ja": "—"},
+      "names": {
+        "en": "Firefly",
+        "zh-CN": "萤火虫",
+        "zh-TW": "Firefly(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",

@@ -3,7 +3,12 @@
     {
       "id": "model:suzuki:swift",
       "brand": "Suzuki",
-      "names": {"en": "Swift", "zh-CN": "雨燕/速翼特", "zh-TW": "Swift", "ja": "スイフト"},
+      "names": {
+        "en": "Swift",
+        "zh-CN": "雨燕/速翼特",
+        "zh-TW": "Swift",
+        "ja": "スイフト"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:suzuki:jimny",
       "brand": "Suzuki",
-      "names": {"en": "Jimny", "zh-CN": "吉姆尼", "zh-TW": "Jimny", "ja": "ジムニー"},
+      "names": {
+        "en": "Jimny",
+        "zh-CN": "吉姆尼",
+        "zh-TW": "Jimny",
+        "ja": "ジムニー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:suzuki:alto",
       "brand": "Suzuki",
-      "names": {"en": "Alto", "zh-CN": "奥拓", "zh-TW": "Alto", "ja": "アルト"},
+      "names": {
+        "en": "Alto",
+        "zh-CN": "奥拓",
+        "zh-TW": "Alto",
+        "ja": "アルト"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:suzuki:alto-lapin",
       "brand": "Suzuki",
-      "names": {"en": "Alto Lapin", "zh-CN": "奥拓兔子", "zh-TW": "Alto Lapin", "ja": "アルトラパン"},
+      "names": {
+        "en": "Alto Lapin",
+        "zh-CN": "奥拓兔子",
+        "zh-TW": "Alto Lapin",
+        "ja": "アルトラパン"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:suzuki:hustler",
       "brand": "Suzuki",
-      "names": {"en": "Hustler", "zh-CN": "哈斯拉", "zh-TW": "Hustler", "ja": "ハスラー"},
+      "names": {
+        "en": "Hustler",
+        "zh-CN": "哈斯拉",
+        "zh-TW": "Hustler",
+        "ja": "ハスラー"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -63,7 +88,12 @@
     {
       "id": "model:suzuki:spacia",
       "brand": "Suzuki",
-      "names": {"en": "Spacia", "zh-CN": "Spacia", "zh-TW": "Spacia", "ja": "スペーシア"},
+      "names": {
+        "en": "Spacia",
+        "zh-CN": "Spacia",
+        "zh-TW": "Spacia",
+        "ja": "スペーシア"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:suzuki:wagon-r",
       "brand": "Suzuki",
-      "names": {"en": "Wagon R", "zh-CN": "北斗星(昌河铃木)", "zh-TW": "Wagon R", "ja": "ワゴンR"},
+      "names": {
+        "en": "Wagon R",
+        "zh-CN": "北斗星(昌河铃木)",
+        "zh-TW": "Wagon R",
+        "ja": "ワゴンR"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:suzuki:solio",
       "brand": "Suzuki",
-      "names": {"en": "Solio", "zh-CN": "Solio", "zh-TW": "Solio", "ja": "ソリオ"},
+      "names": {
+        "en": "Solio",
+        "zh-CN": "Solio",
+        "zh-TW": "Solio",
+        "ja": "ソリオ"
+      },
       "segment": "class:jp:small",
       "body_style": "body:minivan",
       "powertrain": "pt:hev",
@@ -99,7 +139,12 @@
     {
       "id": "model:suzuki:every",
       "brand": "Suzuki",
-      "names": {"en": "Every", "zh-CN": "浪迪（昌河铃木）", "zh-TW": "Every", "ja": "エブリイ"},
+      "names": {
+        "en": "Every",
+        "zh-CN": "浪迪（昌河铃木）",
+        "zh-TW": "Every",
+        "ja": "エブリイ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:suzuki:carry",
       "brand": "Suzuki",
-      "names": {"en": "Carry", "zh-CN": "Carry", "zh-TW": "Carry", "ja": "キャリイ"},
+      "names": {
+        "en": "Carry",
+        "zh-CN": "Carry",
+        "zh-TW": "Carry",
+        "ja": "キャリイ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:kei-truck",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:suzuki:vitara",
       "brand": "Suzuki",
-      "names": {"en": "Vitara / Escudo", "zh-CN": "维特拉", "zh-TW": "Vitara", "ja": "エスクード"},
+      "names": {
+        "en": "Vitara / Escudo",
+        "zh-CN": "维特拉",
+        "zh-TW": "Vitara",
+        "ja": "エスクード"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,19 +190,29 @@
     {
       "id": "model:suzuki:sx4",
       "brand": "Suzuki",
-      "names": {"en": "SX4 S-Cross", "zh-CN": "天语SX4", "zh-TW": "SX4", "ja": "SX4"},
+      "names": {
+        "en": "SX4",
+        "zh-CN": "天语SX4",
+        "zh-TW": "SX4",
+        "ja": "SX4"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2006–present",
-      "note": "跨界车;大陆长安铃木天语SX4(2007-2013);现款(2013年三代)称SX4 S-Cross",
+      "note": "跨界车;大陆长安铃木天语SX4(2007-2013)",
       "verified": "verified"
     },
     {
       "id": "model:suzuki:ignis",
       "brand": "Suzuki",
-      "names": {"en": "Ignis", "zh-CN": "英格尼斯", "zh-TW": "Ignis", "ja": "イグニス"},
+      "names": {
+        "en": "Ignis",
+        "zh-CN": "英格尼斯",
+        "zh-TW": "Ignis",
+        "ja": "イグニス"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:suzuki:baleno",
       "brand": "Suzuki",
-      "names": {"en": "Baleno", "zh-CN": "Baleno", "zh-TW": "Baleno", "ja": "バレーノ"},
+      "names": {
+        "en": "Baleno",
+        "zh-CN": "Baleno",
+        "zh-TW": "Baleno",
+        "ja": "バレーノ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:suzuki:celerio",
       "brand": "Suzuki",
-      "names": {"en": "Celerio", "zh-CN": "Celerio", "zh-TW": "Celerio", "ja": "セレリオ"},
+      "names": {
+        "en": "Celerio",
+        "zh-CN": "Celerio",
+        "zh-TW": "Celerio",
+        "ja": "セレリオ"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:suzuki:ertiga",
       "brand": "Suzuki",
-      "names": {"en": "Ertiga", "zh-CN": "Ertiga", "zh-TW": "Ertiga", "ja": "エルティガ"},
+      "names": {
+        "en": "Ertiga",
+        "zh-CN": "Ertiga",
+        "zh-TW": "Ertiga",
+        "ja": "エルティガ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:suzuki:samurai",
       "brand": "Suzuki",
-      "names": {"en": "Samurai", "zh-CN": "吉姆尼武士", "zh-TW": "Samurai", "ja": "ジムニー(SJ)"},
+      "names": {
+        "en": "Samurai",
+        "zh-CN": "吉姆尼武士",
+        "zh-TW": "Samurai",
+        "ja": "ジムニー(SJ)"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:suzuki:cappuccino",
       "brand": "Suzuki",
-      "names": {"en": "Cappuccino", "zh-CN": "卡布奇诺", "zh-TW": "Cappuccino", "ja": "カプチーノ"},
+      "names": {
+        "en": "Cappuccino",
+        "zh-CN": "卡布奇诺",
+        "zh-TW": "Cappuccino",
+        "ja": "カプチーノ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:suzuki:kei",
       "brand": "Suzuki",
-      "names": {"en": "Kei", "zh-CN": "Kei", "zh-TW": "Kei", "ja": "Kei(ケイ)"},
+      "names": {
+        "en": "Kei",
+        "zh-CN": "Kei",
+        "zh-TW": "Kei",
+        "ja": "Kei(ケイ)"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:suzuki:grand-vitara",
       "brand": "Suzuki",
-      "names": {"en": "Grand Vitara", "zh-CN": "超级维特拉", "zh-TW": "Grand Vitara", "ja": "エスクード(2-3代)"},
+      "names": {
+        "en": "Grand Vitara",
+        "zh-CN": "超级维特拉",
+        "zh-TW": "Grand Vitara",
+        "ja": "エスクード(2-3代)"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:suzuki:xl7",
       "brand": "Suzuki",
-      "names": {"en": "XL-7", "zh-CN": "XL7", "zh-TW": "XL7", "ja": "XL7(エックスエルセブン)"},
+      "names": {
+        "en": "XL-7",
+        "zh-CN": "XL7",
+        "zh-TW": "XL7",
+        "ja": "XL7(エックスエルセブン)"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:suzuki:kizashi",
       "brand": "Suzuki",
-      "names": {"en": "Kizashi", "zh-CN": "凯泽西", "zh-TW": "Kizashi", "ja": "キザシ"},
+      "names": {
+        "en": "Kizashi",
+        "zh-CN": "凯泽西",
+        "zh-TW": "Kizashi",
+        "ja": "キザシ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:suzuki:suzulight",
       "brand": "Suzuki",
-      "names": {"en": "Suzulight", "zh-CN": "铃木Light(未引入)", "zh-TW": "Suzulight", "ja": "スズライト"},
+      "names": {
+        "en": "Suzulight",
+        "zh-CN": "铃木Light(未引入)",
+        "zh-TW": "Suzulight",
+        "ja": "スズライト"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:suzuki:fronte",
       "brand": "Suzuki",
-      "names": {"en": "Fronte", "zh-CN": "Fronte", "zh-TW": "Fronte", "ja": "フロンテ"},
+      "names": {
+        "en": "Fronte",
+        "zh-CN": "Fronte",
+        "zh-TW": "Fronte",
+        "ja": "フロンテ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:suzuki:fronte-800",
       "brand": "Suzuki",
-      "names": {"en": "Fronte 800", "zh-CN": "Fronte 800", "zh-TW": "Fronte 800", "ja": "フロンテ800"},
+      "names": {
+        "en": "Fronte 800",
+        "zh-CN": "Fronte 800",
+        "zh-TW": "Fronte 800",
+        "ja": "フロンテ800"
+      },
       "segment": "class:eu:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:suzuki:cervo",
       "brand": "Suzuki",
-      "names": {"en": "Cervo", "zh-CN": "Cervo", "zh-TW": "Cervo", "ja": "セルボ"},
+      "names": {
+        "en": "Cervo",
+        "zh-CN": "Cervo",
+        "zh-TW": "Cervo",
+        "ja": "セルボ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:suzuki:mighty-boy",
       "brand": "Suzuki",
-      "names": {"en": "Mighty Boy", "zh-CN": "Mighty Boy", "zh-TW": "Mighty Boy", "ja": "マイティボーイ"},
+      "names": {
+        "en": "Mighty Boy",
+        "zh-CN": "Mighty Boy",
+        "zh-TW": "Mighty Boy",
+        "ja": "マイティボーイ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:suzuki:cultus",
       "brand": "Suzuki",
-      "names": {"en": "Cultus", "zh-CN": "Cultus", "zh-TW": "Cultus", "ja": "カルタス"},
+      "names": {
+        "en": "Cultus",
+        "zh-CN": "羚羊",
+        "zh-TW": "福星",
+        "ja": "カルタス"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:suzuki:x-90",
       "brand": "Suzuki",
-      "names": {"en": "X-90", "zh-CN": "X90(未引入)", "zh-TW": "X-90", "ja": "X-90(エックス90)"},
+      "names": {
+        "en": "X-90",
+        "zh-CN": "X90(未引入)",
+        "zh-TW": "X-90",
+        "ja": "X-90(エックス90)"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:suzuki:cara",
       "brand": "Suzuki",
-      "names": {"en": "Cara", "zh-CN": "Cara", "zh-TW": "Cara", "ja": "キャラ"},
+      "names": {
+        "en": "Cara",
+        "zh-CN": "Cara",
+        "zh-TW": "Cara",
+        "ja": "キャラ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:suzuki:twin",
       "brand": "Suzuki",
-      "names": {"en": "Twin", "zh-CN": "Twin", "zh-TW": "Twin", "ja": "ツイン"},
+      "names": {
+        "en": "Twin",
+        "zh-CN": "Twin",
+        "zh-TW": "Twin",
+        "ja": "ツイン"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -375,7 +530,12 @@
     {
       "id": "model:suzuki:mr-wagon",
       "brand": "Suzuki",
-      "names": {"en": "MR Wagon", "zh-CN": "MR Wagon", "zh-TW": "MR Wagon", "ja": "MRワゴン"},
+      "names": {
+        "en": "MR Wagon",
+        "zh-CN": "MR Wagon",
+        "zh-TW": "MR Wagon",
+        "ja": "MRワゴン"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:suzuki:palette",
       "brand": "Suzuki",
-      "names": {"en": "Palette", "zh-CN": "Palette", "zh-TW": "Palette", "ja": "パレット"},
+      "names": {
+        "en": "Palette",
+        "zh-CN": "Palette",
+        "zh-TW": "Palette",
+        "ja": "パレット"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:suzuki:aerio",
       "brand": "Suzuki",
-      "names": {"en": "Aerio", "zh-CN": "利亚纳(昌河铃木)", "zh-TW": "Aerio", "ja": "エリオ"},
+      "names": {
+        "en": "Aerio",
+        "zh-CN": "利亚纳(昌河铃木)",
+        "zh-TW": "Aerio",
+        "ja": "エリオ"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -411,7 +581,12 @@
     {
       "id": "model:suzuki:splash",
       "brand": "Suzuki",
-      "names": {"en": "Splash", "zh-CN": "派喜", "zh-TW": "Splash", "ja": "スプラッシュ"},
+      "names": {
+        "en": "Splash",
+        "zh-CN": "派喜",
+        "zh-TW": "Splash",
+        "ja": "スプラッシュ"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -423,7 +598,12 @@
     {
       "id": "model:suzuki:landy",
       "brand": "Suzuki",
-      "names": {"en": "Landy", "zh-CN": "Landy", "zh-TW": "Landy", "ja": "ランディ"},
+      "names": {
+        "en": "Landy",
+        "zh-CN": "Landy",
+        "zh-TW": "Landy",
+        "ja": "ランディ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:suzuki:xbee",
       "brand": "Suzuki",
-      "names": {"en": "XBee", "zh-CN": "XBee", "zh-TW": "XBee", "ja": "クロスビー"},
+      "names": {
+        "en": "XBee",
+        "zh-CN": "XBee",
+        "zh-TW": "XBee",
+        "ja": "クロスビー"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -447,7 +632,12 @@
     {
       "id": "model:suzuki:lingyang",
       "brand": "Suzuki",
-      "names": {"en": "Lingyang", "zh-CN": "羚羊", "zh-TW": "羚羊", "ja": "リンヤン"},
+      "names": {
+        "en": "Lingyang",
+        "zh-CN": "羚羊",
+        "zh-TW": "羚羊",
+        "ja": "リンヤン"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -459,25 +649,324 @@
     {
       "id": "model:suzuki:fengyu",
       "brand": "Suzuki",
-      "names": {"en": "S-Cross", "zh-CN": "锋驭", "zh-TW": "S-Cross", "ja": "Sクロス"},
+      "names": {
+        "en": "SX4 S-Cross",
+        "zh-CN": "锋驭",
+        "zh-TW": "SX4 CROSSOVER",
+        "ja": "エスクロス"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2013–2018",
-      "note": "长安铃木锋驭,即第三代SX4 S-Cross的中国版,2013年底上市,1.6L/1.4T动力;2017年中期改款后更名骁途;2018年随长安铃木合资结束停产",
+      "note": "长安铃木锋驭,2013年底上市,1.6L/1.4T动力;2017年中期改款后更名骁途;2018年随长安铃木合资结束停产",
       "verified": "verified"
     },
     {
       "id": "model:suzuki:qiyue",
       "brand": "Suzuki",
-      "names": {"en": "Alivio", "zh-CN": "启悦", "zh-TW": "Alivio", "ja": "アリーヴィオ"},
+      "names": {
+        "en": "Alivio",
+        "zh-CN": "启悦",
+        "zh-TW": "Alivio",
+        "ja": "アリーヴィオ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2014–2018",
       "note": "长安铃木启悦,基于Suzuki Alivio全球平台的中国特供三厢轿车(海外同款名Ciaz),1.6L发动机;2014年上市,2018年随长安铃木合资结束停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:across",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Across",
+        "zh-CN": "ACROSS(未引入)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "欧洲市场车型,丰田RAV4 Prime换标插混SUV,2020年上市;未引入中国/日本",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:liana-a6",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Liana A6",
+        "zh-CN": "利亚纳A6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "昌河铃木利亚纳A6,2013年改款,基于Aerio/Liana平台的两厢车,2018年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:beidouxing-x5",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Beidouxing X5",
+        "zh-CN": "北斗星X5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "昌河铃木北斗星X5,2012年上市,基于Wagon R平台的跨界风格微型车,2018年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:sx4-shangyue",
+      "brand": "Suzuki",
+      "names": {
+        "en": "SX4 Shangyue",
+        "zh-CN": "天语尚悦",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2016",
+      "note": "长安铃木天语尚悦,2011年上市的三厢版SX4,2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:dzire",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Dzire",
+        "zh-CN": "铃木Dzire(Swift三厢版)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2012–present",
+      "note": "Maruti Suzuki印度市场Swift三厢版轿车,2012年上市,2022年换代;印度紧凑型轿车销量冠军",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:vitara-brezza",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Vitara Brezza",
+        "zh-CN": "铃木Vitara Brezza",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "Maruti Suzuki印度市场小型SUV,2016年首发(印度本土开发),2022年换代;印度畅销SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:s-presso",
+      "brand": "Suzuki",
+      "names": {
+        "en": "S-Presso",
+        "zh-CN": "铃木S-Presso",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Maruti Suzuki印度市场微型跨界SUV,2019年上市;印尼/南非等市场亦有售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:fronx",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Fronx",
+        "zh-CN": "铃木Fronx",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "Maruti Suzuki印度市场小型跨界SUV,2023年上市,基于Baleno平台;2024年起出口日本等市场",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:ciaz",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Ciaz",
+        "zh-CN": "铃木Ciaz(启悦海外版)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "Maruti Suzuki印度市场紧凑型轿车,2014年上市,2018年改款;中国长安铃木启悦即同款(另行收录)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:eeco",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Eeco",
+        "zh-CN": "铃木Eeco",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "Maruti Suzuki印度市场微型面包车,2010年上市(Omni后继),含5/7座客运与货运版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:omni",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Omni",
+        "zh-CN": "铃木Omni",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1984–2019",
+      "note": "Maruti Suzuki印度市场微型面包车(源自Carry/Van),1984年上市,2019年停产;印度国民神车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:alto-800",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Alto 800",
+        "zh-CN": "铃木Alto 800",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2021",
+      "note": "Maruti Suzuki印度市场奥拓800,2012年上市(替代Maruti 800),2021年停产,由新一代Alto K10接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:ritz",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Ritz",
+        "zh-CN": "铃木Ritz",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2016",
+      "note": "Maruti Suzuki印度市场小型掀背车,2009年上市,即Splash印度版;2016年停产,由新Baleno接替",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:xl6",
+      "brand": "Suzuki",
+      "names": {
+        "en": "XL6",
+        "zh-CN": "铃木XL6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:m",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "Maruti Suzuki印度市场三排座跨界MPV,2019年上市(Ertiga的运动化衍生),6座布局",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:s-cross",
+      "brand": "Suzuki",
+      "names": {
+        "en": "S-Cross",
+        "zh-CN": "铃木S-Cross(印度)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2022",
+      "note": "Maruti Suzuki印度市场跨界车,2015年上市,2022年停产;与全球版SX4 S-Cross同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:maruti-800",
+      "brand": "Suzuki",
+      "names": {
+        "en": "Maruti 800",
+        "zh-CN": "玛鲁蒂800",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–2014",
+      "note": "Maruti Suzuki印度市场首款车型,基于铃木Fronte/Alto平台,1983年上市,2014年停产;累计产销超290万辆,印度国民车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:suzuki:apv",
+      "brand": "Suzuki",
+      "names": {
+        "en": "APV",
+        "zh-CN": "铃木APV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "铃木印尼市场商用厢式车(可载7-8人),2004年上市,主要销往东南亚/大洋洲",
       "verified": "verified"
     }
   ]

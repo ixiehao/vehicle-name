@@ -3,7 +3,12 @@
     {
       "id": "model:hafei:minyi",
       "brand": "Hafei",
-      "names": {"en": "Hafei Minyi", "zh-CN": "民意", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hafei Minyi",
+        "zh-CN": "民意",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:hafei:zhongyi-v5",
       "brand": "Hafei",
-      "names": {"en": "Hafei Zhongyi V5", "zh-CN": "中意V5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hafei Zhongyi V5",
+        "zh-CN": "中意V5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:hafei:lubao",
       "brand": "Hafei",
-      "names": {"en": "Hafei Lubao", "zh-CN": "路宝", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hafei Lubao",
+        "zh-CN": "路宝",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:hafei:saima",
       "brand": "Hafei",
-      "names": {"en": "Hafei Saima", "zh-CN": "赛马", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hafei Saima",
+        "zh-CN": "赛马",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:hafei:saibao",
       "brand": "Hafei",
-      "names": {"en": "Hafei Saibao", "zh-CN": "赛豹", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hafei Saibao",
+        "zh-CN": "赛豹",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",

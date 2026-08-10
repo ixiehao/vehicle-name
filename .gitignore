@@ -20,3 +20,11 @@ Thumbs.db
 
 # --- Design assets (local only, not part of the data repo) ---
 github-intro-cover/
+
+# --- One-off working scripts / audit outputs (not part of the repo) ---
+.tmp_*
+rename_logos.py
+reprocess_logos.py
+
+# --- Obsidian workspace files ---
+.obsidian/

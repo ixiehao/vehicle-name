@@ -271,6 +271,168 @@
       "years": "2015–2016",
       "note": "北汽绅宝品牌首款SUV,紧凑型(2015年上市,2016年停产)",
       "verified": "verified"
+    },
+    {
+      "id": "model:baic:eu5-plus",
+      "brand": "BAIC",
+      "names": {
+        "en": "BAIC EU5 PLUS",
+        "zh-CN": "北京EU5 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "北京EU5 PLUS(2021-),EU5升级版,北汽新能源紧凑型纯电轿车",
+      "verified": "verified",
+      "zh-TW": "EU5 PLUS"
+    },
+    {
+      "id": "model:baic:eu7",
+      "brand": "BAIC",
+      "names": {
+        "en": "BAIC EU7",
+        "zh-CN": "北京EU7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "北京EU7(2019-),北汽新能源中型纯电轿车",
+      "verified": "verified",
+      "zh-TW": "EU7"
+    },
+    {
+      "id": "model:baic:eu8",
+      "brand": "BAIC",
+      "names": {
+        "en": "BAIC EU8",
+        "zh-CN": "北京EU8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "北京EU8(2025-),B级纯电营运轿车,支持换电",
+      "verified": "verified",
+      "zh-TW": "EU8"
+    },
+    {
+      "id": "model:baic:ex3",
+      "brand": "BAIC",
+      "names": {
+        "en": "BAIC EX3",
+        "zh-CN": "北京EX3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "北京EX3(2019-2022),北汽新能源纯电小型SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "EX3"
+    },
+    {
+      "id": "model:baic:ex5",
+      "brand": "BAIC",
+      "names": {
+        "en": "BAIC EX5",
+        "zh-CN": "北京EX5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "北京EX5(2019-2021),北汽新能源纯电紧凑型SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "EX5"
+    },
+    {
+      "id": "model:baic:u5-plus",
+      "brand": "BAIC",
+      "names": {
+        "en": "BAIC U5 PLUS",
+        "zh-CN": "北京U5 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "北京U5 PLUS(2021-),U5改款升级版",
+      "verified": "verified",
+      "zh-TW": "U5 PLUS"
+    },
+    {
+      "id": "model:baic:baic-cc",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova CC",
+        "zh-CN": "绅宝CC",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "绅宝CC(2015-2018),绅宝运动型轿车,基于D60平台,已停产",
+      "verified": "verified",
+      "zh-TW": "紳寶CC"
+    },
+    {
+      "id": "model:baic:d60",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova D60",
+        "zh-CN": "绅宝D60",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2016",
+      "note": "绅宝D60(2014-2016),紧凑型轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "紳寶D60"
+    },
+    {
+      "id": "model:baic:d80",
+      "brand": "BAIC",
+      "names": {
+        "en": "Senova D80",
+        "zh-CN": "绅宝D80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "绅宝D80(2015-2017),绅宝旗舰轿车,基于萨博9-5平台,已停产",
+      "verified": "verified",
+      "zh-TW": "紳寶D80"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:fulwin:t9",
       "brand": "Fulwin",
-      "names": {"en": "Fulwin T9", "zh-CN": "风云T9", "zh-TW": "Fulwin T9", "ja": "—"},
+      "names": {
+        "en": "Fulwin T9",
+        "zh-CN": "风云T9",
+        "zh-TW": "Fulwin T9",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -15,7 +20,12 @@
     {
       "id": "model:fulwin:a8",
       "brand": "Fulwin",
-      "names": {"en": "Fulwin A8", "zh-CN": "风云A8", "zh-TW": "Fulwin A8", "ja": "—"},
+      "names": {
+        "en": "Fulwin A8",
+        "zh-CN": "风云A8",
+        "zh-TW": "Fulwin A8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -27,7 +37,12 @@
     {
       "id": "model:fulwin:t6",
       "brand": "Fulwin",
-      "names": {"en": "Fulwin T6", "zh-CN": "风云T6", "zh-TW": "Fulwin T6", "ja": "—"},
+      "names": {
+        "en": "Fulwin T6",
+        "zh-CN": "风云T6",
+        "zh-TW": "Fulwin T6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -39,7 +54,12 @@
     {
       "id": "model:fulwin:t10",
       "brand": "Fulwin",
-      "names": {"en": "Fulwin T10", "zh-CN": "风云T10", "zh-TW": "Fulwin T10", "ja": "—"},
+      "names": {
+        "en": "Fulwin T10",
+        "zh-CN": "风云T10",
+        "zh-TW": "Fulwin T10",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -51,7 +71,12 @@
     {
       "id": "model:fulwin:t8",
       "brand": "Fulwin",
-      "names": {"en": "Fulwin T8", "zh-CN": "风云T8", "zh-TW": "Fulwin T8", "ja": "—"},
+      "names": {
+        "en": "Fulwin T8",
+        "zh-CN": "风云T8",
+        "zh-TW": "Fulwin T8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -59,6 +84,168 @@
       "years": "2025–present",
       "note": "中型插混SUV(2025年2月上市),基于瑞虎8平台,提供5/7座",
       "verified": "verified"
+    },
+    {
+      "id": "model:fulwin:a8l",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun A8L",
+        "zh-CN": "风云A8L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "风云A8L(2024-),A8加长版插混轿车",
+      "verified": "verified",
+      "zh-TW": "A8L"
+    },
+    {
+      "id": "model:fulwin:fulwin-a9",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun A9",
+        "zh-CN": "风云A9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "风云A9(2026-),风云品牌首款纯电轿车",
+      "verified": "verified",
+      "zh-TW": "A9"
+    },
+    {
+      "id": "model:fulwin:a9l",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun A9L",
+        "zh-CN": "风云A9L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "风云A9L(2025-),插混轿车,含2027款",
+      "verified": "verified",
+      "zh-TW": "A9L"
+    },
+    {
+      "id": "model:fulwin:t11",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun T11",
+        "zh-CN": "风云T11",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "风云T11(2025-),风云系列中大型插混SUV",
+      "verified": "verified",
+      "zh-TW": "T11"
+    },
+    {
+      "id": "model:fulwin:fulwin-t7",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun T7",
+        "zh-CN": "风云T7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "风云T7(2026-),紧凑型插混SUV",
+      "verified": "verified",
+      "zh-TW": "T7"
+    },
+    {
+      "id": "model:fulwin:t9l",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun T9L",
+        "zh-CN": "风云T9L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "风云T9L(2026-),中型插混SUV('智美大五座')",
+      "verified": "verified",
+      "zh-TW": "T9L"
+    },
+    {
+      "id": "model:fulwin:fulwin-x3",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun X3",
+        "zh-CN": "风云X3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "风云X3(2025-),纯电紧凑型SUV",
+      "verified": "verified",
+      "zh-TW": "X3"
+    },
+    {
+      "id": "model:fulwin:x3-plus",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun X3 PLUS",
+        "zh-CN": "风云X3 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "风云X3 PLUS(2025-),纯电紧凑型SUV,iCAR 03系列更名",
+      "verified": "verified",
+      "zh-TW": "X3 PLUS"
+    },
+    {
+      "id": "model:fulwin:x3l",
+      "brand": "Fulwin",
+      "names": {
+        "en": "Fengyun X3L",
+        "zh-CN": "风云X3L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "风云X3L(2025-),增程紧凑型SUV('方盒子'造型),含四驱版",
+      "verified": "verified",
+      "zh-TW": "X3L"
     }
   ]
 }

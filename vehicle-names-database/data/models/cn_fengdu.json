@@ -3,7 +3,12 @@
     {
       "id": "model:fengdu:mx6",
       "brand": "Fengdu",
-      "names": {"en": "Fengdu MX6", "zh-CN": "MX6", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Fengdu MX6",
+        "zh-CN": "MX6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:fengdu:mx5",
       "brand": "Fengdu",
-      "names": {"en": "Fengdu MX5", "zh-CN": "MX5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Fengdu MX5",
+        "zh-CN": "MX5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

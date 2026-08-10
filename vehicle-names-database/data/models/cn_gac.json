@@ -3,7 +3,12 @@
     {
       "id": "model:gac:gs4",
       "brand": "GAC",
-      "names": {"en": "GAC GS4", "zh-CN": "传祺GS4", "zh-TW": "GAC GS4(未导入)", "ja": "—"},
+      "names": {
+        "en": "GAC GS4",
+        "zh-CN": "传祺GS4",
+        "zh-TW": "GAC GS4(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:gac:gs8",
       "brand": "GAC",
-      "names": {"en": "GAC GS8", "zh-CN": "传祺GS8", "zh-TW": "GAC GS8(未导入)", "ja": "—"},
+      "names": {
+        "en": "GAC GS8",
+        "zh-CN": "传祺GS8",
+        "zh-TW": "GAC GS8(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:gac:m8",
       "brand": "GAC",
-      "names": {"en": "GAC M8", "zh-CN": "传祺M8", "zh-TW": "GAC M8(未导入)", "ja": "—"},
+      "names": {
+        "en": "GAC M8",
+        "zh-CN": "传祺M8",
+        "zh-TW": "GAC M8(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:gac:empow",
       "brand": "GAC",
-      "names": {"en": "GAC Empow", "zh-CN": "传祺影豹", "zh-TW": "GAC Empow(未导入)", "ja": "—"},
+      "names": {
+        "en": "GAC Empow",
+        "zh-CN": "传祺影豹",
+        "zh-TW": "GAC Empow(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:gac:gs3",
       "brand": "GAC",
-      "names": {"en": "GAC GS3", "zh-CN": "传祺影速GS3", "zh-TW": "GAC GS3(未导入)", "ja": "—"},
+      "names": {
+        "en": "GAC GS3",
+        "zh-CN": "传祺影速GS3",
+        "zh-TW": "GAC GS3(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:gac:e8",
       "brand": "GAC",
-      "names": {"en": "GAC E8", "zh-CN": "传祺E8", "zh-TW": "GAC E8", "ja": "—"},
+      "names": {
+        "en": "GAC E8",
+        "zh-CN": "传祺E8",
+        "zh-TW": "GAC E8",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:phev",
@@ -75,7 +105,12 @@
     {
       "id": "model:gac:ga3",
       "brand": "GAC",
-      "names": {"en": "GAC GA3", "zh-CN": "传祺GA3", "zh-TW": "GAC GA3", "ja": "—"},
+      "names": {
+        "en": "GAC GA3",
+        "zh-CN": "传祺GA3",
+        "zh-TW": "GAC GA3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:gac:ga3s",
       "brand": "GAC",
-      "names": {"en": "GAC GA3S", "zh-CN": "传祺GA3S视界", "zh-TW": "GAC GA3S", "ja": "—"},
+      "names": {
+        "en": "GAC GA3S",
+        "zh-CN": "传祺GA3S视界",
+        "zh-TW": "GAC GA3S",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:gac:ga4",
       "brand": "GAC",
-      "names": {"en": "GAC GA4", "zh-CN": "传祺GA4", "zh-TW": "GAC GA4", "ja": "—"},
+      "names": {
+        "en": "GAC GA4",
+        "zh-CN": "传祺GA4",
+        "zh-TW": "GAC GA4",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:gac:ga5",
       "brand": "GAC",
-      "names": {"en": "GAC GA5", "zh-CN": "传祺GA5", "zh-TW": "GAC GA5", "ja": "—"},
+      "names": {
+        "en": "GAC GA5",
+        "zh-CN": "传祺GA5",
+        "zh-TW": "GAC GA5",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:gac:ga5-new-energy",
       "brand": "GAC",
-      "names": {"en": "GAC GA5 New Energy", "zh-CN": "传祺GA5新能源", "zh-TW": "GAC GA5 New Energy", "ja": "—"},
+      "names": {
+        "en": "GAC GA5 New Energy",
+        "zh-CN": "传祺GA5新能源",
+        "zh-TW": "GAC GA5 New Energy",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:erev",
@@ -135,31 +190,46 @@
     {
       "id": "model:gac:ga6",
       "brand": "GAC",
-      "names": {"en": "GAC GA6", "zh-CN": "传祺GA6", "zh-TW": "GAC GA6", "ja": "—"},
+      "names": {
+        "en": "GAC GA6",
+        "zh-CN": "传祺GA6",
+        "zh-TW": "GAC GA6",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
-      "status": "current",
-      "years": "2014–present",
-      "note": "中型轿车(2014年上市,2019年第二代);现售状态待核实",
-      "verified": "pending"
+      "status": "discontinued",
+      "years": "2014–2023",
+      "note": "传祺GA6(2014-2023),中型轿车,2019年第二代,已停产",
+      "verified": "verified"
     },
     {
       "id": "model:gac:ga8",
       "brand": "GAC",
-      "names": {"en": "GAC GA8", "zh-CN": "传祺GA8", "zh-TW": "GAC GA8", "ja": "—"},
+      "names": {
+        "en": "GAC GA8",
+        "zh-CN": "传祺GA8",
+        "zh-TW": "GAC GA8",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
-      "status": "current",
-      "years": "2016–present",
-      "note": "中大型旗舰轿车(2016年上市,2020年第二代);现售状态待核实",
-      "verified": "pending"
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "传祺GA8(2016-2022),中大型旗舰轿车,2020年第二代,已停产",
+      "verified": "verified"
     },
     {
       "id": "model:gac:gs5",
       "brand": "GAC",
-      "names": {"en": "GAC GS5", "zh-CN": "传祺GS5", "zh-TW": "GAC GS5", "ja": "—"},
+      "names": {
+        "en": "GAC GS5",
+        "zh-CN": "传祺GS5",
+        "zh-TW": "GAC GS5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:gac:gs5-super",
       "brand": "GAC",
-      "names": {"en": "GAC GS5 Super", "zh-CN": "传祺GS5 Super", "zh-TW": "GAC GS5 Super", "ja": "—"},
+      "names": {
+        "en": "GAC GS5 Super",
+        "zh-CN": "传祺GS5 Super",
+        "zh-TW": "GAC GS5 Super",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:gac:gs7",
       "brand": "GAC",
-      "names": {"en": "GAC GS7", "zh-CN": "传祺GS7", "zh-TW": "GAC GS7", "ja": "—"},
+      "names": {
+        "en": "GAC GS7",
+        "zh-CN": "传祺GS7",
+        "zh-TW": "GAC GS7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:gac:m6",
       "brand": "GAC",
-      "names": {"en": "GAC M6", "zh-CN": "传祺M6", "zh-TW": "GAC M6", "ja": "—"},
+      "names": {
+        "en": "GAC M6",
+        "zh-CN": "传祺M6",
+        "zh-TW": "GAC M6",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:gac:emkoo",
       "brand": "GAC",
-      "names": {"en": "GAC Emkoo", "zh-CN": "传祺影酷", "zh-TW": "GAC Emkoo", "ja": "—"},
+      "names": {
+        "en": "GAC Emkoo",
+        "zh-CN": "传祺影酷",
+        "zh-TW": "GAC Emkoo",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -219,14 +309,145 @@
     {
       "id": "model:gac:ge3",
       "brand": "GAC",
-      "names": {"en": "GAC GE3", "zh-CN": "传祺GE3", "zh-TW": "GAC GE3", "ja": "—"},
+      "names": {
+        "en": "GAC GE3",
+        "zh-CN": "传祺GE3",
+        "zh-TW": "GAC GE3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
       "status": "discontinued",
       "years": "2017–2021",
-      "note": "广汽传祺纯电动小型SUV(2017年7月上市,含GE3 530/2020款,广汽新能源时期车型);埃安品牌转型后停产,停产年份待核实",
-      "verified": "pending"
+      "note": "传祺GE3(2017-2021),纯电动小型SUV,含GE3 530,广汽新能源时期车型,埃安品牌转型后停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:gac:gac-e9",
+      "brand": "GAC",
+      "names": {
+        "en": "GAC E9",
+        "zh-CN": "传祺E9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "传祺E9(2023-),中大型插混MPV,含宗师版/乾昆版",
+      "verified": "verified",
+      "zh-TW": "E9"
+    },
+    {
+      "id": "model:gac:es9",
+      "brand": "GAC",
+      "names": {
+        "en": "GAC ES9",
+        "zh-CN": "传祺ES9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "传祺ES9(2023-),插混中大型SUV,基于GS8平台",
+      "verified": "verified",
+      "zh-TW": "ES9"
+    },
+    {
+      "id": "model:gac:gs4-coupe",
+      "brand": "GAC",
+      "names": {
+        "en": "GAC GS4 COUPE",
+        "zh-CN": "传祺GS4 COUPE",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2020–2022",
+      "note": "传祺GS4 COUPE(2020-),GS4轿跑版,已停产",
+      "verified": "verified",
+      "zh-TW": "GS4 COUPE"
+    },
+    {
+      "id": "model:gac:gac-m8",
+      "brand": "GAC",
+      "names": {
+        "en": "Trumpchi Xiangwang M8",
+        "zh-CN": "传祺向往M8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "传祺向往M8(2025-),向往系列中大型插混MPV",
+      "verified": "verified",
+      "zh-TW": "傳祺嚮往M8"
+    },
+    {
+      "id": "model:gac:gac-s7",
+      "brand": "GAC",
+      "names": {
+        "en": "Trumpchi Xiangwang S7",
+        "zh-CN": "传祺向往S7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "传祺向往S7(2025-),向往系列插混SUV",
+      "verified": "verified",
+      "zh-TW": "傳祺嚮往S7"
+    },
+    {
+      "id": "model:gac:gac-s9",
+      "brand": "GAC",
+      "names": {
+        "en": "Trumpchi Xiangwang S9",
+        "zh-CN": "传祺向往S9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "传祺向往S9(2025-),向往系列旗舰插混SUV",
+      "verified": "verified",
+      "zh-TW": "傳祺嚮往S9"
+    },
+    {
+      "id": "model:gac:ga3s-phev",
+      "brand": "GAC",
+      "names": {
+        "en": "GAC GA3S PHEV",
+        "zh-CN": "传祺GA3S PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "传祺GA3S PHEV(2016-2018),GA3S插电混动版,已停产",
+      "verified": "verified",
+      "zh-TW": "GA3S PHEV"
     }
   ]
 }

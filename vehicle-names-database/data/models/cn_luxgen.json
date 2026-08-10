@@ -3,7 +3,12 @@
     {
       "id": "model:luxgen:7-suv",
       "brand": "Luxgen",
-      "names": {"en": "Luxgen 7 SUV", "zh-CN": "纳智捷大7 SUV", "zh-TW": "Luxgen 7 SUV", "ja": "—"},
+      "names": {
+        "en": "Luxgen 7 SUV",
+        "zh-CN": "纳智捷大7 SUV",
+        "zh-TW": "Luxgen 7 SUV",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:luxgen:u6-suv",
       "brand": "Luxgen",
-      "names": {"en": "Luxgen U6 SUV", "zh-CN": "纳智捷优6 SUV", "zh-TW": "Luxgen U6 SUV", "ja": "—"},
+      "names": {
+        "en": "Luxgen U6 SUV",
+        "zh-CN": "纳智捷优6 SUV",
+        "zh-TW": "Luxgen U6 SUV",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:luxgen:u5-suv",
       "brand": "Luxgen",
-      "names": {"en": "Luxgen U5 SUV", "zh-CN": "纳智捷U5 SUV", "zh-TW": "Luxgen U5 SUV", "ja": "—"},
+      "names": {
+        "en": "Luxgen U5 SUV",
+        "zh-CN": "纳智捷U5 SUV",
+        "zh-TW": "Luxgen U5 SUV",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:luxgen:7-mpv",
       "brand": "Luxgen",
-      "names": {"en": "Luxgen 7 MPV", "zh-CN": "纳智捷大7 MPV", "zh-TW": "Luxgen 7 MPV", "ja": "—"},
+      "names": {
+        "en": "Luxgen 7 MPV",
+        "zh-CN": "纳智捷大7 MPV",
+        "zh-TW": "Luxgen 7 MPV",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:luxgen:s5",
       "brand": "Luxgen",
-      "names": {"en": "Luxgen S5", "zh-CN": "纳智捷纳5", "zh-TW": "Luxgen S5", "ja": "—"},
+      "names": {
+        "en": "Luxgen S5",
+        "zh-CN": "纳智捷纳5",
+        "zh-TW": "Luxgen S5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:luxgen:s3",
       "brand": "Luxgen",
-      "names": {"en": "Luxgen S3", "zh-CN": "纳智捷锐3", "zh-TW": "Luxgen S3", "ja": "—"},
+      "names": {
+        "en": "Luxgen S3",
+        "zh-CN": "纳智捷锐3",
+        "zh-TW": "Luxgen S3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",

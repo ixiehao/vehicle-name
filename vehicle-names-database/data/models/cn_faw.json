@@ -3,7 +3,12 @@
     {
       "id": "model:faw:besturn-b50",
       "brand": "FAW",
-      "names": {"en": "Besturn B50", "zh-CN": "奔腾B50", "zh-TW": "Besturn B50", "ja": "—"},
+      "names": {
+        "en": "Besturn B50",
+        "zh-CN": "奔腾B50",
+        "zh-TW": "Besturn B50",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:faw:besturn-b70",
       "brand": "FAW",
-      "names": {"en": "Besturn B70", "zh-CN": "奔腾B70", "zh-TW": "Besturn B70", "ja": "—"},
+      "names": {
+        "en": "Besturn B70",
+        "zh-CN": "奔腾B70",
+        "zh-TW": "Besturn B70",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:faw:besturn-t77",
       "brand": "FAW",
-      "names": {"en": "Besturn T77", "zh-CN": "奔腾T77", "zh-TW": "Besturn T77", "ja": "—"},
+      "names": {
+        "en": "Besturn T77",
+        "zh-CN": "奔腾T77",
+        "zh-TW": "Besturn T77",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:faw:besturn-t90",
       "brand": "FAW",
-      "names": {"en": "Besturn T90", "zh-CN": "奔腾T90", "zh-TW": "Besturn T90", "ja": "—"},
+      "names": {
+        "en": "Besturn T90",
+        "zh-CN": "奔腾T90",
+        "zh-TW": "Besturn T90",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:faw:besturn-t99",
       "brand": "FAW",
-      "names": {"en": "Besturn T99", "zh-CN": "奔腾T99", "zh-TW": "Besturn T99", "ja": "—"},
+      "names": {
+        "en": "Besturn T99",
+        "zh-CN": "奔腾T99",
+        "zh-TW": "Besturn T99",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,50 +88,659 @@
     {
       "id": "model:faw:besturn-x40",
       "brand": "FAW",
-      "names": {"en": "Besturn X40", "zh-CN": "奔腾X40", "zh-TW": "Besturn X40", "ja": "—"},
+      "names": {
+        "en": "Besturn X40",
+        "zh-CN": "奔腾X40",
+        "zh-TW": "Besturn X40",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2017–2021",
-      "note": "奔腾(Besturn)子品牌小型SUV;已停产,停产时间待核实",
-      "verified": "pending"
+      "years": "2016–2019",
+      "note": "奔腾X40(2016–2019),奔腾(Besturn)子品牌小型SUV,2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:faw:junpai-d60",
       "brand": "FAW",
-      "names": {"en": "Junpai D60", "zh-CN": "骏派D60", "zh-TW": "Junpai D60", "ja": "—"},
+      "names": {
+        "en": "Junpai D60",
+        "zh-CN": "骏派D60",
+        "zh-TW": "Junpai D60",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2015–2020",
-      "note": "骏派(Junpai)子品牌(一汽天津)小型SUV;已停产,年份待核实",
-      "verified": "pending"
+      "years": "2014–2019",
+      "note": "骏派D60(2014–2019),骏派(Junpai)子品牌(一汽天津)小型SUV,2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:faw:junpai-a50",
       "brand": "FAW",
-      "names": {"en": "Junpai A50", "zh-CN": "骏派A50", "zh-TW": "Junpai A50", "ja": "—"},
+      "names": {
+        "en": "Junpai A50",
+        "zh-CN": "骏派A50",
+        "zh-TW": "Junpai A50",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2018–2021",
-      "note": "骏派(Junpai)子品牌紧凑型轿车;已停产,年份待核实",
-      "verified": "pending"
+      "years": "2018–2020",
+      "note": "骏派A50(2018–2020),骏派子品牌紧凑型轿车,2020年停产",
+      "verified": "verified"
     },
     {
       "id": "model:faw:junpai-a70",
       "brand": "FAW",
-      "names": {"en": "Junpai A70", "zh-CN": "骏派A70", "zh-TW": "Junpai A70", "ja": "—"},
+      "names": {
+        "en": "Junpai A70",
+        "zh-CN": "骏派A70",
+        "zh-TW": "Junpai A70",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
+      "years": "2016–2019",
+      "note": "骏派A70(2016–2019),骏派子品牌紧凑型轿车,2019年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:faw:faw-h6",
+      "brand": "FAW",
+      "names": {
+        "en": "Lanjian H6",
+        "zh-CN": "一汽蓝舰H6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "一汽蓝舰H6(2017–2020),一汽吉林皮卡,2020年停产",
+      "verified": "verified",
+      "en": "Lanjian H6",
+      "zh-CN": "一汽蓝舰H6"
+    },
+    {
+      "id": "model:faw:t50",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao T50",
+        "zh-CN": "佳宝T50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "佳宝T50(2013–2018),一汽吉林微型皮卡,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao T50",
+      "zh-CN": "佳宝T50"
+    },
+    {
+      "id": "model:faw:t51",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao T51",
+        "zh-CN": "佳宝T51",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "佳宝T51(2013–2018),一汽吉林微型皮卡,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao T51",
+      "zh-CN": "佳宝T51"
+    },
+    {
+      "id": "model:faw:t57",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao T57",
+        "zh-CN": "佳宝T57",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "佳宝T57(2013–2018),一汽吉林微型皮卡,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao T57",
+      "zh-CN": "佳宝T57"
+    },
+    {
+      "id": "model:faw:v52",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao V52",
+        "zh-CN": "佳宝V52",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2016",
+      "note": "佳宝V52(2009–2016),一汽吉林微型面包车,2016年停产",
+      "verified": "verified",
+      "en": "Jiabao V52",
+      "zh-CN": "佳宝V52"
+    },
+    {
+      "id": "model:faw:v55",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao V55",
+        "zh-CN": "佳宝V55",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "佳宝V55(2012–2018),一汽吉林微型面包车,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao V55",
+      "zh-CN": "佳宝V55"
+    },
+    {
+      "id": "model:faw:v70",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao V70",
+        "zh-CN": "佳宝V70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2018",
+      "note": "佳宝V70(2010–2018),一汽吉林微型面包车,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao V70",
+      "zh-CN": "佳宝V70"
+    },
+    {
+      "id": "model:faw:v70-ii",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao V70 II Gen",
+        "zh-CN": "佳宝V70 II代",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "佳宝V70二代(2014–2018),一汽吉林微型面包车,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao V70 II",
+      "zh-CN": "佳宝V70 II代"
+    },
+    {
+      "id": "model:faw:v75",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao V75",
+        "zh-CN": "佳宝V75",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "佳宝V75(2012–2018),一汽吉林微型面包车,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao V75",
+      "zh-CN": "佳宝V75"
+    },
+    {
+      "id": "model:faw:v77",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao V77",
+        "zh-CN": "佳宝V77",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "佳宝V77(2014–2018),一汽吉林微型面包车,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao V77",
+      "zh-CN": "佳宝V77"
+    },
+    {
+      "id": "model:faw:v80",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiabao V80",
+        "zh-CN": "佳宝V80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "佳宝V80(2014–2018),一汽吉林微型面包车,2018年停产",
+      "verified": "verified",
+      "en": "Jiabao V80",
+      "zh-CN": "佳宝V80"
+    },
+    {
+      "id": "model:faw:fec9e3e278",
+      "brand": "FAW",
+      "names": {
+        "en": "Kuncheng",
+        "zh-CN": "坤程",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2015",
+      "note": "坤程(2011–2015),一汽轻型皮卡,2015年停产",
+      "verified": "verified",
+      "en": "Kuncheng",
+      "zh-CN": "坤程"
+    },
+    {
+      "id": "model:faw:c9de719000",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW",
+        "zh-CN": "夏利",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1986–2015",
+      "note": "夏利(1986–2015),天津一汽经典微型车(源自大发Charade),2015年停产",
+      "verified": "verified",
+      "en": "Xiali",
+      "zh-CN": "夏利"
+    },
+    {
+      "id": "model:faw:faw-n5",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW N5",
+        "zh-CN": "夏利N5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2015",
+      "note": "夏利N5(2009–2015),夏利系列改款,2015年停产",
+      "verified": "verified",
+      "en": "Xiali N5",
+      "zh-CN": "夏利N5"
+    },
+    {
+      "id": "model:faw:faw-n7",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW N7",
+        "zh-CN": "夏利N7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2015",
+      "note": "夏利N7(2012–2015),夏利系列跨界两厢,2015年停产",
+      "verified": "verified",
+      "en": "Xiali N7",
+      "zh-CN": "夏利N7"
+    },
+    {
+      "id": "model:faw:6fe9e22560",
+      "brand": "FAW",
+      "names": {
+        "en": "Weile",
+        "zh-CN": "威乐",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2010",
+      "note": "威乐(2004–2010),天津一汽三厢轿车(源自丰田Vitz平台),2010年停产",
+      "verified": "verified",
+      "en": "Weile",
+      "zh-CN": "威乐"
+    },
+    {
+      "id": "model:faw:4a8ee259f4",
+      "brand": "FAW",
+      "names": {
+        "en": "Vizi",
+        "zh-CN": "威姿",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2010",
+      "note": "威姿(2002–2010),天津一汽两厢轿车(丰田Vitz贴牌),2010年停产",
+      "verified": "verified",
+      "en": "Vizi",
+      "zh-CN": "威姿"
+    },
+    {
+      "id": "model:faw:cfd87f58bc",
+      "brand": "FAW",
+      "names": {
+        "en": "Weizhi",
+        "zh-CN": "威志",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2013",
+      "note": "威志(2006–2013),天津一汽自主小型车,2013年停产",
+      "verified": "verified",
+      "en": "Weizhi",
+      "zh-CN": "威志"
+    },
+    {
+      "id": "model:faw:faw-v2",
+      "brand": "FAW",
+      "names": {
+        "en": "Weizhi V2",
+        "zh-CN": "威志V2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2013",
+      "note": "威志V2(2010–2013),威志两厢版,2013年停产",
+      "verified": "verified",
+      "en": "Weizhi V2",
+      "zh-CN": "威志V2"
+    },
+    {
+      "id": "model:faw:faw-v5",
+      "brand": "FAW",
+      "names": {
+        "en": "Weizhi V5",
+        "zh-CN": "威志V5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2016",
+      "note": "威志V5(2012–2016),威志改款,2016年停产",
+      "verified": "verified",
+      "en": "Weizhi V5",
+      "zh-CN": "威志V5"
+    },
+    {
+      "id": "model:faw:m80",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW Senya M80",
+        "zh-CN": "森雅M80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2013",
+      "note": "森雅M80(2009–2013),一汽吉林紧凑MPV(源自大发Xenia),2013年停产",
+      "verified": "verified",
+      "en": "Senya M80",
+      "zh-CN": "森雅M80"
+    },
+    {
+      "id": "model:faw:faw-r7",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW Senya R7",
+        "zh-CN": "森雅R7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
       "years": "2016–2020",
-      "note": "骏派(Junpai)子品牌紧凑型轿车;已停产,年份待核实",
-      "verified": "pending"
+      "note": "森雅R7(2016–2020),一汽吉林小型SUV,2020年停产",
+      "verified": "verified",
+      "en": "Senya R7",
+      "zh-CN": "森雅R7"
+    },
+    {
+      "id": "model:faw:faw-r8",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW Senya R8",
+        "zh-CN": "森雅R8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "森雅R8(2018–2020),一汽吉林小型SUV,2020年停产",
+      "verified": "verified",
+      "en": "Senya R8",
+      "zh-CN": "森雅R8"
+    },
+    {
+      "id": "model:faw:faw-r9",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW Senya R9",
+        "zh-CN": "森雅R9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "森雅R9(2018–2020),一汽吉林紧凑型SUV,2020年停产",
+      "verified": "verified",
+      "en": "Senya R9",
+      "zh-CN": "森雅R9"
+    },
+    {
+      "id": "model:faw:s80",
+      "brand": "FAW",
+      "names": {
+        "en": "FAW Senya S80",
+        "zh-CN": "森雅S80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2015",
+      "note": "森雅S80(2011–2015),一汽吉林小型SUV(源自大发),2015年停产",
+      "verified": "verified",
+      "en": "Senya S80",
+      "zh-CN": "森雅S80"
+    },
+    {
+      "id": "model:faw:9fd331d736",
+      "brand": "FAW",
+      "names": {
+        "en": "Senya Hongyan",
+        "zh-CN": "森雅鸿雁",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "森雅鸿雁(2018–2020),一汽吉林小型SUV,2020年停产",
+      "verified": "verified",
+      "en": "Senya Hongyan",
+      "zh-CN": "森雅鸿雁"
+    },
+    {
+      "id": "model:faw:t80",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiefang T80",
+        "zh-CN": "解放T80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "解放T80(2015–2020),一汽解放微型皮卡,2020年停产",
+      "verified": "verified",
+      "en": "Jiefang T80",
+      "zh-CN": "解放T80"
+    },
+    {
+      "id": "model:faw:t90",
+      "brand": "FAW",
+      "names": {
+        "en": "Jiefang T90",
+        "zh-CN": "解放T90",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "解放T90(2015–2020),一汽解放微型皮卡,2020年停产",
+      "verified": "verified",
+      "en": "Jiefang T90",
+      "zh-CN": "解放T90"
+    },
+    {
+      "id": "model:faw:a70e",
+      "brand": "FAW",
+      "names": {
+        "en": "Junpai A70E",
+        "zh-CN": "骏派A70E",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "骏派A70E(2017–2019),骏派A70纯电版,2019年停产",
+      "verified": "verified",
+      "en": "Junpai A70E",
+      "zh-CN": "骏派A70E"
+    },
+    {
+      "id": "model:faw:cx65",
+      "brand": "FAW",
+      "names": {
+        "en": "Junpai CX65",
+        "zh-CN": "骏派CX65",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "骏派CX65(2018–2020),骏派子品牌旅行车,2020年停产",
+      "verified": "verified",
+      "en": "Junpai CX65",
+      "zh-CN": "骏派CX65"
+    },
+    {
+      "id": "model:faw:d80",
+      "brand": "FAW",
+      "names": {
+        "en": "Junpai D80",
+        "zh-CN": "骏派D80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "骏派D80(2018–2020),骏派子品牌紧凑型SUV,2020年停产",
+      "verified": "verified",
+      "en": "Junpai D80",
+      "zh-CN": "骏派D80"
     }
   ]
 }

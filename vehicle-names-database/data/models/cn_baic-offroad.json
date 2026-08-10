@@ -101,6 +101,57 @@
       "years": "2019–present",
       "note": "北京越野大型SUV,基于奔驰GLS同源底盘(2019年上市,含3.0T/4.0T版本)",
       "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:bj40-2",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ40 EREV",
+        "zh-CN": "BJ40增程",
+        "zh-TW": "BJ40增程",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "北京BJ40增程(2024-),BJ40增程混动版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:bj60-2",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BJ60 EREV",
+        "zh-CN": "BJ60增程",
+        "zh-TW": "BJ60增程",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "北京BJ60增程(2024-),BJ60增程混动版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:baic-offroad:f40",
+      "brand": "BAIC Offroad",
+      "names": {
+        "en": "BAIC Offroad F40",
+        "zh-CN": "北京越野F40",
+        "zh-TW": "F40",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "北京越野F40(2018-2020),BJ40皮卡版,已停产",
+      "verified": "verified"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:changhe:beidouxing",
       "brand": "Changhe",
-      "names": {"en": "Changhe Beidouxing", "zh-CN": "北斗星", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe Beidouxing",
+        "zh-CN": "北斗星",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:changhe:beidouxing-x5",
       "brand": "Changhe",
-      "names": {"en": "Changhe Beidouxing X5", "zh-CN": "北斗星X5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe Beidouxing X5",
+        "zh-CN": "北斗星X5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:changhe:furida",
       "brand": "Changhe",
-      "names": {"en": "Changhe Furida", "zh-CN": "福瑞达", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe Furida",
+        "zh-CN": "福瑞达",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:changhe:m50s",
       "brand": "Changhe",
-      "names": {"en": "Changhe M50S", "zh-CN": "M50S", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe M50S",
+        "zh-CN": "M50S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:changhe:m70",
       "brand": "Changhe",
-      "names": {"en": "Changhe M70", "zh-CN": "M70", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe M70",
+        "zh-CN": "M70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:changhe:q25",
       "brand": "Changhe",
-      "names": {"en": "Changhe Q25", "zh-CN": "Q25", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe Q25",
+        "zh-CN": "Q25",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:changhe:q35",
       "brand": "Changhe",
-      "names": {"en": "Changhe Q35", "zh-CN": "Q35", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe Q35",
+        "zh-CN": "Q35",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:changhe:q7",
       "brand": "Changhe",
-      "names": {"en": "Changhe Q7", "zh-CN": "Q7", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Changhe Q7",
+        "zh-CN": "Q7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

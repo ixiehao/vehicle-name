@@ -662,6 +662,80 @@
       "years": "2010–2016",
       "note": "中大型MPV,一汽马自达国产(海外对应Mazda MPV第三代),2016年前后停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:mazda:mazda-2-2",
+      "brand": "Mazda",
+      "names": {
+        "en": "2 Jinxiang",
+        "zh-CN": "2劲翔",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2013",
+      "note": "马自达2劲翔(2008-2013),Mazda2三厢版,长安马自达,2013年停产",
+      "verified": "verified",
+      "en": "Mazda2 Jinxiang",
+      "zh-CN": "马自达2劲翔",
+      "zh-TW": "Mazda2勁翔"
+    },
+    {
+      "id": "model:mazda:cx-30-ev",
+      "brand": "Mazda",
+      "names": {
+        "en": "CX-30 EV",
+        "zh-CN": "CX-30 EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "CX-30 EV(2021-),长安马自达纯电SUV,中国市场特供",
+      "verified": "verified",
+      "zh-TW": "CX-30 EV"
+    },
+    {
+      "id": "model:mazda:ez-6",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda EZ-6",
+        "zh-CN": "马自达EZ-6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "EZ-6(2024-),长安马自达首款新能源轿车,基于深蓝SL03平台,含纯电与增程版",
+      "verified": "verified",
+      "zh-TW": "EZ-6"
+    },
+    {
+      "id": "model:mazda:ez-60",
+      "brand": "Mazda",
+      "names": {
+        "en": "Mazda EZ-60",
+        "zh-CN": "马自达EZ-60",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "EZ-60(2025-),长安马自达纯电SUV,基于深蓝S05平台",
+      "verified": "verified",
+      "zh-TW": "EZ-60"
     }
   ]
 }

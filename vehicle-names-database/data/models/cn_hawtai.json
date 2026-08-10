@@ -3,7 +3,12 @@
     {
       "id": "model:hawtai:santa-fe",
       "brand": "Hawtai",
-      "names": {"en": "Hawtai Santa Fe", "zh-CN": "圣达菲", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hawtai Santa Fe",
+        "zh-CN": "圣达菲",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:hawtai:santa-fe-classic",
       "brand": "Hawtai",
-      "names": {"en": "Hawtai Santa Fe Classic", "zh-CN": "圣达菲经典", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hawtai Santa Fe Classic",
+        "zh-CN": "圣达菲经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:hawtai:boliger",
       "brand": "Hawtai",
-      "names": {"en": "Hawtai Boliger", "zh-CN": "宝利格", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hawtai Boliger",
+        "zh-CN": "宝利格",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:hawtai:lusheng-e70",
       "brand": "Hawtai",
-      "names": {"en": "Hawtai Lusheng E70", "zh-CN": "路盛E70", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Hawtai Lusheng E70",
+        "zh-CN": "路盛E70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -47,6 +67,222 @@
       "years": "2013–2017",
       "note": "紧凑型轿车,华泰主力轿车",
       "verified": "verified"
+    },
+    {
+      "id": "model:hawtai:ev160b",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Hawtai EV160B",
+        "zh-CN": "华泰EV160B",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:city-car",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "华泰EV160B(2017-2019),纯电微型车,已停产",
+      "verified": "verified",
+      "zh-TW": "EV160B"
+    },
+    {
+      "id": "model:hawtai:ev160r",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Hawtai EV160R",
+        "zh-CN": "华泰EV160R",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:city-car",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "华泰EV160R(2017-2019),纯电微型车,已停产",
+      "verified": "verified",
+      "zh-TW": "EV160R"
+    },
+    {
+      "id": "model:hawtai:xev260",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Hawtai XEV260",
+        "zh-CN": "华泰XEV260",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "华泰XEV260(2016-2018),圣达菲纯电版SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "XEV260"
+    },
+    {
+      "id": "model:hawtai:iev230",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Hawtai iEV230",
+        "zh-CN": "华泰iEV230",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "华泰iEV230(2016-2018),路盛E70纯电版,已停产",
+      "verified": "verified",
+      "zh-TW": "iEV230"
+    },
+    {
+      "id": "model:hawtai:hawtai-2",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Santa Fe 2",
+        "zh-CN": "圣达菲2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "圣达菲2(2017-2019),小型新能源SUV(XEV360),已停产",
+      "verified": "verified",
+      "zh-TW": "聖達菲2"
+    },
+    {
+      "id": "model:hawtai:hawtai-s1",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Lusheng S1",
+        "zh-CN": "路盛S1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "路盛S1(2017-2019),小型新能源SUV(iEV360),已停产",
+      "verified": "verified",
+      "zh-TW": "路盛S1"
+    },
+    {
+      "id": "model:hawtai:hawtai-s5",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Lusheng S5",
+        "zh-CN": "路盛S5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "路盛S5(2017-),紧凑型纯电轿车(iEV230/EV330),已停产",
+      "verified": "verified",
+      "zh-TW": "路盛S5"
+    },
+    {
+      "id": "model:hawtai:b11",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Hawtai B11",
+        "zh-CN": "华泰B11",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2014",
+      "note": "华泰B11(2010-2014),华泰首款轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "B11"
+    },
+    {
+      "id": "model:hawtai:hawtai-5-2",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Santa Fe 5",
+        "zh-CN": "圣达菲5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "圣达菲5(2017-2019),紧凑型SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "聖達菲5"
+    },
+    {
+      "id": "model:hawtai:hawtai-7-2",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Santa Fe 7",
+        "zh-CN": "圣达菲7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "圣达菲7(2018-2020),紧凑型SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "聖達菲7"
+    },
+    {
+      "id": "model:hawtai:dd5b1a39f4",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Terracan",
+        "zh-CN": "特拉卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2012",
+      "note": "特拉卡(Terracan,2005-2012),基于现代Terracan平台,华泰早期SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "特拉卡"
+    },
+    {
+      "id": "model:hawtai:e80",
+      "brand": "Hawtai",
+      "names": {
+        "en": "Lusheng E80",
+        "zh-CN": "路盛E80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "路盛E80(2016-2019),紧凑型轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "路盛E80"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:hongqi:h5",
       "brand": "Hongqi",
-      "names": {"en": "H5", "zh-CN": "红旗H5", "zh-TW": "Hongqi H5", "ja": "H5"},
+      "names": {
+        "en": "H5",
+        "zh-CN": "红旗H5",
+        "zh-TW": "Hongqi H5",
+        "ja": "H5"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:hongqi:h6",
       "brand": "Hongqi",
-      "names": {"en": "H6", "zh-CN": "红旗H6", "zh-TW": "Hongqi H6", "ja": "H6"},
+      "names": {
+        "en": "H6",
+        "zh-CN": "红旗H6",
+        "zh-TW": "Hongqi H6",
+        "ja": "H6"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,19 +37,29 @@
     {
       "id": "model:hongqi:h7",
       "brand": "Hongqi",
-      "names": {"en": "H7", "zh-CN": "红旗H7", "zh-TW": "Hongqi H7", "ja": "H7"},
+      "names": {
+        "en": "H7",
+        "zh-CN": "红旗H7",
+        "zh-TW": "Hongqi H7",
+        "ja": "H7"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2013–present",
-      "note": "红旗品牌复兴首款战略车型(2013年上市);现售状态待核实",
-      "verified": "pending"
+      "years": "2013-present",
+      "note": "红旗H7(2013-),红旗品牌复兴首款战略车型;2024年换代",
+      "verified": "verified"
     },
     {
       "id": "model:hongqi:h9",
       "brand": "Hongqi",
-      "names": {"en": "H9", "zh-CN": "红旗H9", "zh-TW": "Hongqi H9", "ja": "H9"},
+      "names": {
+        "en": "H9",
+        "zh-CN": "红旗H9",
+        "zh-TW": "Hongqi H9",
+        "ja": "H9"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:hongqi:hq9",
       "brand": "Hongqi",
-      "names": {"en": "HQ9", "zh-CN": "红旗HQ9", "zh-TW": "Hongqi HQ9", "ja": "HQ9"},
+      "names": {
+        "en": "HQ9",
+        "zh-CN": "红旗HQ9",
+        "zh-TW": "Hongqi HQ9",
+        "ja": "HQ9"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:hongqi:e-hs3",
       "brand": "Hongqi",
-      "names": {"en": "E-HS3", "zh-CN": "红旗E-HS3", "zh-TW": "Hongqi E-HS3", "ja": "—"},
+      "names": {
+        "en": "E-HS3",
+        "zh-CN": "红旗E-HS3",
+        "zh-TW": "Hongqi E-HS3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:hongqi:e-hs9",
       "brand": "Hongqi",
-      "names": {"en": "E-HS9", "zh-CN": "红旗E-HS9", "zh-TW": "Hongqi E-HS9", "ja": "E-HS9"},
+      "names": {
+        "en": "E-HS9",
+        "zh-CN": "红旗E-HS9",
+        "zh-TW": "Hongqi E-HS9",
+        "ja": "E-HS9"
+      },
       "segment": "class:cn:d",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -87,7 +122,12 @@
     {
       "id": "model:hongqi:hs3",
       "brand": "Hongqi",
-      "names": {"en": "HS3", "zh-CN": "红旗HS3", "zh-TW": "Hongqi HS3", "ja": "HS3"},
+      "names": {
+        "en": "HS3",
+        "zh-CN": "红旗HS3",
+        "zh-TW": "Hongqi HS3",
+        "ja": "HS3"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:hongqi:hs5",
       "brand": "Hongqi",
-      "names": {"en": "HS5", "zh-CN": "红旗HS5", "zh-TW": "Hongqi HS5", "ja": "HS5"},
+      "names": {
+        "en": "HS5",
+        "zh-CN": "红旗HS5",
+        "zh-TW": "Hongqi HS5",
+        "ja": "HS5"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:hongqi:hs7",
       "brand": "Hongqi",
-      "names": {"en": "HS7", "zh-CN": "红旗HS7", "zh-TW": "Hongqi HS7", "ja": "HS7"},
+      "names": {
+        "en": "HS7",
+        "zh-CN": "红旗HS7",
+        "zh-TW": "Hongqi HS7",
+        "ja": "HS7"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:hongqi:guoli",
       "brand": "Hongqi",
-      "names": {"en": "Guoli", "zh-CN": "国礼", "zh-TW": "Hongqi Guoli", "ja": "—"},
+      "names": {
+        "en": "Guoli",
+        "zh-CN": "国礼",
+        "zh-TW": "Hongqi Guoli",
+        "ja": "—"
+      },
       "segment": "class:cn:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:hongqi:l5",
       "brand": "Hongqi",
-      "names": {"en": "L5", "zh-CN": "红旗L5", "zh-TW": "Hongqi L5", "ja": "—"},
+      "names": {
+        "en": "L5",
+        "zh-CN": "红旗L5",
+        "zh-TW": "Hongqi L5",
+        "ja": "—"
+      },
       "segment": "class:cn:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:hongqi:eh7",
       "brand": "Hongqi",
-      "names": {"en": "EH7", "zh-CN": "红旗EH7", "zh-TW": "Hongqi EH7(未导入)", "ja": "EH7"},
+      "names": {
+        "en": "EH7",
+        "zh-CN": "红旗EH7",
+        "zh-TW": "Hongqi EH7(未导入)",
+        "ja": "EH7"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -159,7 +224,12 @@
     {
       "id": "model:hongqi:ehs7",
       "brand": "Hongqi",
-      "names": {"en": "EHS7", "zh-CN": "红旗EHS7", "zh-TW": "Hongqi EHS7(未导入)", "ja": "EHS7"},
+      "names": {
+        "en": "EHS7",
+        "zh-CN": "红旗EHS7",
+        "zh-TW": "Hongqi EHS7(未导入)",
+        "ja": "EHS7"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -167,6 +237,441 @@
       "years": "2024–present",
       "note": "红旗「天工」纯电平台中大型SUV,2024年上市,与EH7同代姊妹车",
       "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:e-qm5",
+      "brand": "Hongqi",
+      "names": {
+        "en": "E-QM5",
+        "zh-CN": "E-QM5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "E-QM5(2021-),红旗纯电中型轿车(网约车/家用)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:hongqi:31159e2e32",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Century Star",
+        "zh-CN": "世纪星",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000-2008",
+      "note": "红旗世纪星(2000-2008),红旗早期中高级轿车,2008年停产",
+      "verified": "verified",
+      "en": "Century Star",
+      "zh-CN": "世纪星"
+    },
+    {
+      "id": "model:hongqi:hongqi-05",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Tiangong 05",
+        "zh-CN": "天工05",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "天工05(2025-),红旗天工系列轿车",
+      "verified": "verified",
+      "en": "Tiangong 05",
+      "zh-CN": "天工05"
+    },
+    {
+      "id": "model:hongqi:hongqi-06",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Tiangong 06",
+        "zh-CN": "天工06",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "天工06(2025-),红旗天工系列SUV",
+      "verified": "verified",
+      "en": "Tiangong 06",
+      "zh-CN": "天工06"
+    },
+    {
+      "id": "model:hongqi:hongqi-07",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Tiangong 07",
+        "zh-CN": "天工07",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "天工07(2025-),红旗天工系列SUV",
+      "verified": "verified",
+      "en": "Tiangong 07",
+      "zh-CN": "天工07"
+    },
+    {
+      "id": "model:hongqi:hongqi-08",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Tiangong 08",
+        "zh-CN": "天工08",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "天工08(2025-),红旗天工系列SUV",
+      "verified": "verified",
+      "en": "Tiangong 08",
+      "zh-CN": "天工08"
+    },
+    {
+      "id": "model:hongqi:aae882d121",
+      "brand": "Hongqi",
+      "names": {
+        "en": "New MingShi",
+        "zh-CN": "新明仕",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2010",
+      "note": "红旗新明仕(2006-2010),红旗明仕改款,2010年停产",
+      "verified": "verified",
+      "en": "New Mingshi",
+      "zh-CN": "新明仕"
+    },
+    {
+      "id": "model:hongqi:19857c6da5",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Flagship",
+        "zh-CN": "旗舰",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998-2006",
+      "note": "红旗旗舰(1998-2006),红旗顶级轿车(基于林肯Town Car平台),2006年停产",
+      "verified": "verified",
+      "en": "Flagship",
+      "zh-CN": "旗舰"
+    },
+    {
+      "id": "model:hongqi:b3582589f3",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Shengshi",
+        "zh-CN": "盛世",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2008",
+      "note": "红旗盛世(2006-2008),基于丰田皇冠Majesta平台,2008年停产",
+      "verified": "verified",
+      "en": "Shengshi",
+      "zh-CN": "盛世"
+    },
+    {
+      "id": "model:hongqi:ca770",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi CA770",
+        "zh-CN": "红旗CA770",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966-1998",
+      "note": "红旗CA770(1966-1998),红旗经典礼宾车,中国汽车工业标志",
+      "verified": "verified",
+      "en": "CA770",
+      "zh-CN": "红旗CA770"
+    },
+    {
+      "id": "model:hongqi:h5-phev",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi H5 PHEV",
+        "zh-CN": "红旗H5 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗H5 PHEV(2024-),红旗H5插电混动版",
+      "verified": "verified",
+      "en": "H5 PHEV",
+      "zh-CN": "红旗H5 PHEV"
+    },
+    {
+      "id": "model:hongqi:h7-phev",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi H7 PHEV",
+        "zh-CN": "红旗H7 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗H7 PHEV(2024-),红旗H7插电混动版",
+      "verified": "verified",
+      "en": "H7 PHEV",
+      "zh-CN": "红旗H7 PHEV"
+    },
+    {
+      "id": "model:hongqi:h9-phev",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi H9 PHEV",
+        "zh-CN": "红旗H9 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗H9 PHEV(2024-),红旗H9插电混动版",
+      "verified": "verified",
+      "en": "H9 PHEV",
+      "zh-CN": "红旗H9 PHEV"
+    },
+    {
+      "id": "model:hongqi:hq9-phev",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi HQ9 PHEV",
+        "zh-CN": "红旗HQ9 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "红旗HQ9 PHEV(2023-),红旗HQ9 MPV插电混动版",
+      "verified": "verified",
+      "en": "HQ9 PHEV",
+      "zh-CN": "红旗HQ9 PHEV"
+    },
+    {
+      "id": "model:hongqi:hs3-phev",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi HS3 PHEV",
+        "zh-CN": "红旗HS3 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗HS3 PHEV(2024-),红旗HS3插电混动版",
+      "verified": "verified",
+      "en": "HS3 PHEV",
+      "zh-CN": "红旗HS3 PHEV"
+    },
+    {
+      "id": "model:hongqi:hs6-phev",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi HS6 PHEV",
+        "zh-CN": "红旗HS6 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗HS6 PHEV(2024-),红旗HS6插电混动版",
+      "verified": "verified",
+      "en": "HS6 PHEV",
+      "zh-CN": "红旗HS6 PHEV"
+    },
+    {
+      "id": "model:hongqi:hs7-phev",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi HS7 PHEV",
+        "zh-CN": "红旗HS7 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗HS7 PHEV(2024-),红旗HS7插电混动版",
+      "verified": "verified",
+      "en": "HS7 PHEV",
+      "zh-CN": "红旗HS7 PHEV"
+    },
+    {
+      "id": "model:hongqi:hongqi-l7",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi L7",
+        "zh-CN": "红旗L7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014-2024",
+      "note": "红旗L7(2014-2024),红旗L系列礼宾轿车,2024年由金葵花国礼接替",
+      "verified": "verified",
+      "en": "L7",
+      "zh-CN": "红旗L7"
+    },
+    {
+      "id": "model:hongqi:hongqi-l9",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi L9",
+        "zh-CN": "红旗L9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2024",
+      "note": "红旗L9(2013-2024),红旗L系列顶级礼宾轿车,2024年由金葵花国礼接替",
+      "verified": "verified",
+      "en": "L9",
+      "zh-CN": "红旗L9"
+    },
+    {
+      "id": "model:hongqi:71aac80b32",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi Golden Sunflower Guoli",
+        "zh-CN": "红旗金葵花国礼",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗金葵花国礼(2024-),红旗L5换代车型,金葵花品牌旗舰",
+      "verified": "verified",
+      "en": "Golden Sunflower Guoli",
+      "zh-CN": "红旗金葵花国礼"
+    },
+    {
+      "id": "model:hongqi:938cfd29c9",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Hongqi Golden Sunflower Guoyao",
+        "zh-CN": "红旗金葵花国耀",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗金葵花国耀(2024-),金葵花品牌大型SUV",
+      "verified": "verified",
+      "en": "Golden Sunflower Guoyao",
+      "zh-CN": "红旗金葵花国耀"
+    },
+    {
+      "id": "model:hongqi:4bf910ef6f",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Golden Sunflower Guoyue",
+        "zh-CN": "金葵花国悦",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗金葵花国悦(2024-),金葵花品牌MPV",
+      "verified": "verified",
+      "en": "Golden Sunflower Guoyue",
+      "zh-CN": "金葵花国悦"
+    },
+    {
+      "id": "model:hongqi:1d8921f9c1",
+      "brand": "Hongqi",
+      "names": {
+        "en": "Golden Sunflower Guoya",
+        "zh-CN": "金葵花国雅",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "红旗金葵花国雅(2024-),金葵花品牌大型轿车",
+      "verified": "verified",
+      "en": "Golden Sunflower Guoya",
+      "zh-CN": "金葵花国雅"
     }
   ]
 }

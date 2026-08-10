@@ -3,7 +3,12 @@
     {
       "id": "model:smart:fortwo",
       "brand": "Smart",
-      "names": {"en": "fortwo", "zh-CN": "smart fortwo", "zh-TW": "smart fortwo", "ja": "スマート・フォーツー"},
+      "names": {
+        "en": "fortwo",
+        "zh-CN": "smart fortwo",
+        "zh-TW": "smart fortwo",
+        "ja": "スマート・フォーツー"
+      },
       "segment": "class:eu:a",
       "body_style": "body:city-car",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:smart:forfour",
       "brand": "Smart",
-      "names": {"en": "forfour", "zh-CN": "smart forfour", "zh-TW": "smart forfour", "ja": "スマート・フォーフォー"},
+      "names": {
+        "en": "forfour",
+        "zh-CN": "smart forfour",
+        "zh-TW": "smart forfour",
+        "ja": "スマート・フォーフォー"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:smart:hashtag-1",
       "brand": "Smart",
-      "names": {"en": "#1", "zh-CN": "smart精灵#1", "zh-TW": "smart #1", "ja": "スマート#1"},
+      "names": {
+        "en": "#1",
+        "zh-CN": "smart精灵#1",
+        "zh-TW": "smart #1",
+        "ja": "スマート#1"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:smart:hashtag-3",
       "brand": "Smart",
-      "names": {"en": "#3", "zh-CN": "smart精灵#3", "zh-TW": "smart #3", "ja": "スマート#3"},
+      "names": {
+        "en": "#3",
+        "zh-CN": "smart精灵#3",
+        "zh-TW": "smart #3",
+        "ja": "スマート#3"
+      },
       "segment": "class:eu:c",
       "body_style": "body:coupe",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:smart:hashtag-5",
       "brand": "Smart",
-      "names": {"en": "#5", "zh-CN": "smart精灵#5", "zh-TW": "smart #5", "ja": "スマート#5"},
+      "names": {
+        "en": "#5",
+        "zh-CN": "smart精灵#5",
+        "zh-TW": "smart #5",
+        "ja": "スマート#5"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:smart:roadster",
       "brand": "Smart",
-      "names": {"en": "Roadster", "zh-CN": "smart Roadster", "zh-TW": "smart Roadster", "ja": "スマート・ロードスター"},
+      "names": {
+        "en": "Roadster",
+        "zh-CN": "smart Roadster",
+        "zh-TW": "smart Roadster",
+        "ja": "スマート・ロードスター"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:smart:crossblade",
       "brand": "Smart",
-      "names": {"en": "Crossblade", "zh-CN": "Crossblade", "zh-TW": "Crossblade", "ja": "スマート・クロスブレード"},
+      "names": {
+        "en": "Crossblade",
+        "zh-CN": "Crossblade",
+        "zh-TW": "Crossblade",
+        "ja": "スマート・クロスブレード"
+      },
       "segment": "class:eu:a",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",

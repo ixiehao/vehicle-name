@@ -3,7 +3,12 @@
     {
       "id": "model:swm:x7",
       "brand": "SWM",
-      "names": {"en": "SWM X7", "zh-CN": "X7", "zh-TW": "X7", "ja": "—"},
+      "names": {
+        "en": "SWM X7",
+        "zh-CN": "X7",
+        "zh-TW": "X7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:swm:g01",
       "brand": "SWM",
-      "names": {"en": "SWM G01", "zh-CN": "G01", "zh-TW": "G01", "ja": "—"},
+      "names": {
+        "en": "SWM G01",
+        "zh-CN": "G01",
+        "zh-TW": "G01",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:swm:x3",
       "brand": "SWM",
-      "names": {"en": "SWM X3", "zh-CN": "X3", "zh-TW": "X3", "ja": "—"},
+      "names": {
+        "en": "SWM X3",
+        "zh-CN": "X3",
+        "zh-TW": "X3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,14 +54,87 @@
     {
       "id": "model:swm:x2",
       "brand": "SWM",
-      "names": {"en": "SWM X2", "zh-CN": "X2", "zh-TW": "X2", "ja": "—"},
+      "names": {
+        "en": "SWM X2",
+        "zh-CN": "斯威X2",
+        "zh-TW": "斯威X2",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2020–2021",
       "note": "SWM斯威X2小型SUV",
-      "verified": "pending"
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:swm-g05",
+      "brand": "SWM",
+      "names": {
+        "en": "SWM G05",
+        "zh-CN": "SWM斯威G05",
+        "zh-TW": "SWM斯威G05",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "SWM斯威G05紧凑型SUV,2019年上市,7座布局",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:swm",
+      "brand": "SWM",
+      "names": {
+        "en": "SWM Big Tiger",
+        "zh-CN": "SWM斯威大虎",
+        "zh-TW": "SWM斯威大虎",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "SWM斯威大虎中型SUV,2022年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:swm-edi",
+      "brand": "SWM",
+      "names": {
+        "en": "SWM Big Tiger EDi",
+        "zh-CN": "SWM斯威大虎EDi",
+        "zh-TW": "SWM斯威大虎EDi",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "SWM斯威大虎插电混动版,2023年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:swm:swm-2",
+      "brand": "SWM",
+      "names": {
+        "en": "SWM Iron Man",
+        "zh-CN": "SWM钢铁侠",
+        "zh-TW": "SWM鋼鐵俠",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "SWM斯威钢铁侠紧凑型SUV,2021年上市",
+      "verified": "verified"
     }
   ]
 }

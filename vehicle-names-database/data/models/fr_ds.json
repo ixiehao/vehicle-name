@@ -3,7 +3,12 @@
     {
       "id": "model:ds:ds-3",
       "brand": "DS",
-      "names": {"en": "DS 3", "zh-CN": "DS 3", "zh-TW": "DS 3", "ja": "DS 3(ディーエス・トロワ)"},
+      "names": {
+        "en": "DS 3",
+        "zh-CN": "DS 3",
+        "zh-TW": "DS 3",
+        "ja": "DS 3(ディーエス・トロワ)"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:ds:ds-4",
       "brand": "DS",
-      "names": {"en": "DS 4", "zh-CN": "DS 4", "zh-TW": "DS 4", "ja": "DS 4"},
+      "names": {
+        "en": "DS 4",
+        "zh-CN": "DS 4",
+        "zh-TW": "DS 4",
+        "ja": "DS 4"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:ds:ds-7",
       "brand": "DS",
-      "names": {"en": "DS 7", "zh-CN": "DS 7", "zh-TW": "DS 7", "ja": "DS 7"},
+      "names": {
+        "en": "DS 7",
+        "zh-CN": "DS 7",
+        "zh-TW": "DS 7",
+        "ja": "DS 7"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:ds:ds-9",
       "brand": "DS",
-      "names": {"en": "DS 9", "zh-CN": "DS 9", "zh-TW": "DS 9", "ja": "DS 9"},
+      "names": {
+        "en": "DS 9",
+        "zh-CN": "DS 9",
+        "zh-TW": "DS 9",
+        "ja": "DS 9"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:ds:ds-5",
       "brand": "DS",
-      "names": {"en": "DS 5", "zh-CN": "DS 5", "zh-TW": "DS 5", "ja": "DS 5"},
+      "names": {
+        "en": "DS 5",
+        "zh-CN": "DS 5",
+        "zh-TW": "DS 5",
+        "ja": "DS 5"
+      },
       "segment": "class:eu:d",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:ds:ds-5ls",
       "brand": "DS",
-      "names": {"en": "DS 5LS", "zh-CN": "DS 5LS", "zh-TW": "DS 5LS", "ja": "DS 5LS"},
+      "names": {
+        "en": "DS 5LS",
+        "zh-CN": "DS 5LS",
+        "zh-TW": "DS 5LS",
+        "ja": "DS 5LS"
+      },
       "segment": "class:eu:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:ds:ds-6",
       "brand": "DS",
-      "names": {"en": "DS 6", "zh-CN": "DS 6", "zh-TW": "DS 6", "ja": "DS 6"},
+      "names": {
+        "en": "DS 6",
+        "zh-CN": "DS 6",
+        "zh-TW": "DS 6",
+        "ja": "DS 6"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:ds:ds-4s",
       "brand": "DS",
-      "names": {"en": "DS 4S", "zh-CN": "DS 4S", "zh-TW": "DS 4S", "ja": "DS 4S"},
+      "names": {
+        "en": "DS 4S",
+        "zh-CN": "DS 4S",
+        "zh-TW": "DS 4S",
+        "ja": "DS 4S"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",

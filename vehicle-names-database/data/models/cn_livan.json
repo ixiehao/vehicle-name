@@ -3,7 +3,12 @@
     {
       "id": "model:livan:x3-pro",
       "brand": "Livan",
-      "names": {"en": "Livan X3 PRO", "zh-CN": "睿蓝X3 PRO", "zh-TW": "Livan X3 PRO", "ja": "—"},
+      "names": {
+        "en": "Livan X3 PRO",
+        "zh-CN": "睿蓝X3 PRO",
+        "zh-TW": "Livan X3 PRO",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:livan:7",
       "brand": "Livan",
-      "names": {"en": "Livan 7", "zh-CN": "睿蓝7", "zh-TW": "Livan 7", "ja": "—"},
+      "names": {
+        "en": "Livan 7",
+        "zh-CN": "睿蓝7",
+        "zh-TW": "Livan 7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:livan:9",
       "brand": "Livan",
-      "names": {"en": "Livan 9", "zh-CN": "睿蓝9", "zh-TW": "Livan 9", "ja": "—"},
+      "names": {
+        "en": "Livan 9",
+        "zh-CN": "睿蓝9",
+        "zh-TW": "Livan 9",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:livan:8",
       "brand": "Livan",
-      "names": {"en": "Livan 8", "zh-CN": "睿蓝8", "zh-TW": "Livan 8", "ja": "—"},
+      "names": {
+        "en": "Livan 8",
+        "zh-CN": "睿蓝8",
+        "zh-TW": "Livan 8",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",

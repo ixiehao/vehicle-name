@@ -3,7 +3,12 @@
     {
       "id": "model:volvo:xc40",
       "brand": "Volvo",
-      "names": {"en": "XC40", "zh-CN": "XC40", "zh-TW": "XC40", "ja": "XC40"},
+      "names": {
+        "en": "XC40",
+        "zh-CN": "XC40",
+        "zh-TW": "XC40",
+        "ja": "XC40"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:volvo:xc60",
       "brand": "Volvo",
-      "names": {"en": "XC60", "zh-CN": "XC60", "zh-TW": "XC60", "ja": "XC60"},
+      "names": {
+        "en": "XC60",
+        "zh-CN": "XC60",
+        "zh-TW": "XC60",
+        "ja": "XC60"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:volvo:xc90",
       "brand": "Volvo",
-      "names": {"en": "XC90", "zh-CN": "XC90", "zh-TW": "XC90", "ja": "XC90"},
+      "names": {
+        "en": "XC90",
+        "zh-CN": "XC90",
+        "zh-TW": "XC90",
+        "ja": "XC90"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:volvo:s60",
       "brand": "Volvo",
-      "names": {"en": "S60", "zh-CN": "S60", "zh-TW": "S60", "ja": "S60"},
+      "names": {
+        "en": "S60",
+        "zh-CN": "S60",
+        "zh-TW": "S60",
+        "ja": "S60"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:volvo:s90",
       "brand": "Volvo",
-      "names": {"en": "S90", "zh-CN": "S90", "zh-TW": "S90", "ja": "S90"},
+      "names": {
+        "en": "S90",
+        "zh-CN": "S90",
+        "zh-TW": "S90",
+        "ja": "S90"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:volvo:v60",
       "brand": "Volvo",
-      "names": {"en": "V60", "zh-CN": "V60", "zh-TW": "V60", "ja": "V60"},
+      "names": {
+        "en": "V60",
+        "zh-CN": "V60",
+        "zh-TW": "V60",
+        "ja": "V60"
+      },
       "segment": "class:eu:d",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:volvo:v90",
       "brand": "Volvo",
-      "names": {"en": "V90", "zh-CN": "V90", "zh-TW": "V90", "ja": "V90"},
+      "names": {
+        "en": "V90",
+        "zh-CN": "V90",
+        "zh-TW": "V90",
+        "ja": "V90"
+      },
       "segment": "class:eu:e",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:volvo:ex30",
       "brand": "Volvo",
-      "names": {"en": "EX30", "zh-CN": "EX30", "zh-TW": "EX30", "ja": "EX30"},
+      "names": {
+        "en": "EX30",
+        "zh-CN": "EX30",
+        "zh-TW": "EX30",
+        "ja": "EX30"
+      },
       "segment": "class:eu:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -99,7 +139,12 @@
     {
       "id": "model:volvo:ex90",
       "brand": "Volvo",
-      "names": {"en": "EX90", "zh-CN": "EX90", "zh-TW": "EX90", "ja": "EX90"},
+      "names": {
+        "en": "EX90",
+        "zh-CN": "EX90",
+        "zh-TW": "EX90",
+        "ja": "EX90"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -111,7 +156,12 @@
     {
       "id": "model:volvo:em90",
       "brand": "Volvo",
-      "names": {"en": "EM90", "zh-CN": "EM90", "zh-TW": "EM90", "ja": "EM90"},
+      "names": {
+        "en": "EM90",
+        "zh-CN": "EM90",
+        "zh-TW": "EM90",
+        "ja": "EM90"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -123,7 +173,12 @@
     {
       "id": "model:volvo:s40",
       "brand": "Volvo",
-      "names": {"en": "S40", "zh-CN": "S40", "zh-TW": "S40", "ja": "S40"},
+      "names": {
+        "en": "S40",
+        "zh-CN": "S40",
+        "zh-TW": "S40",
+        "ja": "S40"
+      },
       "segment": "class:eu:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:volvo:v40",
       "brand": "Volvo",
-      "names": {"en": "V40", "zh-CN": "V40", "zh-TW": "V40", "ja": "V40"},
+      "names": {
+        "en": "V40",
+        "zh-CN": "V40",
+        "zh-TW": "V40",
+        "ja": "V40"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:volvo:s70",
       "brand": "Volvo",
-      "names": {"en": "S70", "zh-CN": "S70", "zh-TW": "S70", "ja": "S70"},
+      "names": {
+        "en": "S70",
+        "zh-CN": "S70",
+        "zh-TW": "S70",
+        "ja": "S70"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:volvo:v70",
       "brand": "Volvo",
-      "names": {"en": "V70", "zh-CN": "V70", "zh-TW": "V70", "ja": "V70"},
+      "names": {
+        "en": "V70",
+        "zh-CN": "V70",
+        "zh-TW": "V70",
+        "ja": "V70"
+      },
       "segment": "class:eu:d",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:volvo:850",
       "brand": "Volvo",
-      "names": {"en": "850", "zh-CN": "850", "zh-TW": "850", "ja": "850"},
+      "names": {
+        "en": "850",
+        "zh-CN": "850",
+        "zh-TW": "850",
+        "ja": "850"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:volvo:240",
       "brand": "Volvo",
-      "names": {"en": "240", "zh-CN": "240", "zh-TW": "240", "ja": "240"},
+      "names": {
+        "en": "240",
+        "zh-CN": "240",
+        "zh-TW": "240",
+        "ja": "240"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:volvo:740",
       "brand": "Volvo",
-      "names": {"en": "740", "zh-CN": "740", "zh-TW": "740", "ja": "740"},
+      "names": {
+        "en": "740",
+        "zh-CN": "740",
+        "zh-TW": "740",
+        "ja": "740"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:volvo:940",
       "brand": "Volvo",
-      "names": {"en": "940", "zh-CN": "940", "zh-TW": "940", "ja": "940"},
+      "names": {
+        "en": "940",
+        "zh-CN": "940",
+        "zh-TW": "940",
+        "ja": "940"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:volvo:c30",
       "brand": "Volvo",
-      "names": {"en": "C30", "zh-CN": "C30", "zh-TW": "C30", "ja": "C30"},
+      "names": {
+        "en": "C30",
+        "zh-CN": "C30",
+        "zh-TW": "C30",
+        "ja": "C30"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:volvo:c70",
       "brand": "Volvo",
-      "names": {"en": "C70", "zh-CN": "C70", "zh-TW": "C70", "ja": "C70"},
+      "names": {
+        "en": "C70",
+        "zh-CN": "C70",
+        "zh-TW": "C70",
+        "ja": "C70"
+      },
       "segment": "class:eu:d",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:volvo:s80",
       "brand": "Volvo",
-      "names": {"en": "S80", "zh-CN": "S80", "zh-TW": "S80", "ja": "S80"},
+      "names": {
+        "en": "S80",
+        "zh-CN": "S80",
+        "zh-TW": "S80",
+        "ja": "S80"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:volvo:p1800",
       "brand": "Volvo",
-      "names": {"en": "P1800", "zh-CN": "P1800", "zh-TW": "P1800", "ja": "P1800"},
+      "names": {
+        "en": "P1800",
+        "zh-CN": "P1800",
+        "zh-TW": "P1800",
+        "ja": "P1800"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -267,13 +377,52 @@
     {
       "id": "model:volvo:xc-classic",
       "brand": "Volvo",
-      "names": {"en": "XC Classic", "zh-CN": "XC Classic", "zh-TW": "XC Classic", "ja": "XC Classic"},
+      "names": {
+        "en": "XC Classic",
+        "zh-CN": "XC Classic",
+        "zh-TW": "XC Classic",
+        "ja": "XC Classic"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2015–2016",
       "note": "老款(第一代)XC90的中国特供复产版,国产销售,与新一代XC90并行销售;2016年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volvo:es90",
+      "brand": "Volvo",
+      "names": {
+        "en": "Volvo ES90",
+        "zh-CN": "沃尔沃ES90",
+        "zh-TW": "沃爾沃ES90",
+        "ja": "ボルボES90"
+      },
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "沃尔沃纯电旗舰轿车,基于SPA2架构,2025年发布",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volvo:v50",
+      "brand": "Volvo",
+      "names": {
+        "en": "Volvo V50",
+        "zh-CN": "沃尔沃V50",
+        "zh-TW": "沃爾沃V50",
+        "ja": "ボルボV50"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2012",
+      "note": "紧凑型旅行车,与S40同平台;含V50 T5性能版",
       "verified": "verified"
     }
   ]

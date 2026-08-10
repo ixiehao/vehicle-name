@@ -3,7 +3,12 @@
     {
       "id": "model:youngman-lotus:l3",
       "brand": "Youngman Lotus",
-      "names": {"en": "Youngman Lotus L3", "zh-CN": "莲花L3", "zh-TW": "蓮花L3", "ja": "—"},
+      "names": {
+        "en": "Youngman Lotus L3",
+        "zh-CN": "莲花L3",
+        "zh-TW": "蓮花L3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:youngman-lotus:l5",
       "brand": "Youngman Lotus",
-      "names": {"en": "Youngman Lotus L5", "zh-CN": "莲花L5", "zh-TW": "蓮花L5", "ja": "—"},
+      "names": {
+        "en": "Youngman Lotus L5",
+        "zh-CN": "莲花L5",
+        "zh-TW": "蓮花L5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",

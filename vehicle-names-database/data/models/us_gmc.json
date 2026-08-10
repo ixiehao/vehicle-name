@@ -3,7 +3,12 @@
     {
       "id": "model:gmc:sierra",
       "brand": "GMC",
-      "names": {"en": "Sierra", "zh-CN": "Sierra", "zh-TW": "Sierra(未導入)", "ja": "シエラ"},
+      "names": {
+        "en": "Sierra",
+        "zh-CN": "Sierra",
+        "zh-TW": "Sierra(未導入)",
+        "ja": "シエラ"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:gmc:yukon",
       "brand": "GMC",
-      "names": {"en": "Yukon", "zh-CN": "育空", "zh-TW": "Yukon(未導入)", "ja": "ユーコン"},
+      "names": {
+        "en": "Yukon",
+        "zh-CN": "育空",
+        "zh-TW": "Yukon(未導入)",
+        "ja": "ユーコン"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:gmc:terrain",
       "brand": "GMC",
-      "names": {"en": "Terrain", "zh-CN": "Terrain", "zh-TW": "Terrain(未導入)", "ja": "テレイン"},
+      "names": {
+        "en": "Terrain",
+        "zh-CN": "Terrain",
+        "zh-TW": "Terrain(未導入)",
+        "ja": "テレイン"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:gmc:acadia",
       "brand": "GMC",
-      "names": {"en": "Acadia", "zh-CN": "Acadia", "zh-TW": "Acadia(未導入)", "ja": "アカディア"},
+      "names": {
+        "en": "Acadia",
+        "zh-CN": "Acadia",
+        "zh-TW": "Acadia(未導入)",
+        "ja": "アカディア"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:gmc:canyon",
       "brand": "GMC",
-      "names": {"en": "Canyon", "zh-CN": "Canyon", "zh-TW": "Canyon(未導入)", "ja": "キャニオン"},
+      "names": {
+        "en": "Canyon",
+        "zh-CN": "Canyon",
+        "zh-TW": "Canyon(未導入)",
+        "ja": "キャニオン"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:gmc:hummer-ev",
       "brand": "GMC",
-      "names": {"en": "Hummer EV", "zh-CN": "悍马EV", "zh-TW": "Hummer EV(未導入)", "ja": "ハマーEV"},
+      "names": {
+        "en": "Hummer EV",
+        "zh-CN": "悍马EV",
+        "zh-TW": "Hummer EV(未導入)",
+        "ja": "ハマーEV"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:bev",

@@ -3,7 +3,12 @@
     {
       "id": "model:fiat:500",
       "brand": "Fiat",
-      "names": {"en": "Fiat 500", "zh-CN": "菲亚特500", "zh-TW": "飛雅特500", "ja": "フィアット500"},
+      "names": {
+        "en": "Fiat 500",
+        "zh-CN": "菲亚特500",
+        "zh-TW": "飛雅特500",
+        "ja": "フィアット500"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:fiat:panda",
       "brand": "Fiat",
-      "names": {"en": "Fiat Panda", "zh-CN": "菲亚特熊猫", "zh-TW": "飛雅特Panda", "ja": "フィアット パンダ"},
+      "names": {
+        "en": "Fiat Panda",
+        "zh-CN": "菲亚特熊猫",
+        "zh-TW": "飛雅特Panda",
+        "ja": "フィアット パンダ"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:fiat:500x",
       "brand": "Fiat",
-      "names": {"en": "Fiat 500X", "zh-CN": "菲亚特500X", "zh-TW": "飛雅特500X", "ja": "フィアット500X"},
+      "names": {
+        "en": "Fiat 500X",
+        "zh-CN": "菲亚特500X",
+        "zh-TW": "飛雅特500X",
+        "ja": "フィアット500X"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:fiat:500l",
       "brand": "Fiat",
-      "names": {"en": "Fiat 500L", "zh-CN": "菲亚特500L", "zh-TW": "飛雅特500L", "ja": "フィアット500L"},
+      "names": {
+        "en": "Fiat 500L",
+        "zh-CN": "菲亚特500L",
+        "zh-TW": "飛雅特500L",
+        "ja": "フィアット500L"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:fiat:tipo",
       "brand": "Fiat",
-      "names": {"en": "Fiat Tipo", "zh-CN": "菲亚特Tipo", "zh-TW": "飛雅特Tipo", "ja": "フィアット ティーポ"},
+      "names": {
+        "en": "Fiat Tipo",
+        "zh-CN": "菲亚特Tipo",
+        "zh-TW": "飛雅特Tipo",
+        "ja": "フィアット ティーポ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:fiat:punto",
       "brand": "Fiat",
-      "names": {"en": "Fiat Punto", "zh-CN": "菲亚特Punto", "zh-TW": "飛雅特Punto", "ja": "フィアット プント"},
+      "names": {
+        "en": "Fiat Punto",
+        "zh-CN": "菲亚特Punto",
+        "zh-TW": "飛雅特Punto",
+        "ja": "フィアット プント"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:fiat:bravo",
       "brand": "Fiat",
-      "names": {"en": "Fiat Bravo", "zh-CN": "菲亚特Bravo", "zh-TW": "飛雅特Bravo", "ja": "フィアット ブラボー"},
+      "names": {
+        "en": "Fiat Bravo",
+        "zh-CN": "菲亚特Bravo",
+        "zh-TW": "飛雅特Bravo",
+        "ja": "フィアット ブラボー"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:fiat:stilo",
       "brand": "Fiat",
-      "names": {"en": "Fiat Stilo", "zh-CN": "菲亚特Stilo", "zh-TW": "飛雅特Stilo", "ja": "フィアット スティーロ"},
+      "names": {
+        "en": "Fiat Stilo",
+        "zh-CN": "菲亚特Stilo",
+        "zh-TW": "飛雅特Stilo",
+        "ja": "フィアット スティーロ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:fiat:croma",
       "brand": "Fiat",
-      "names": {"en": "Fiat Croma", "zh-CN": "菲亚特Croma", "zh-TW": "飛雅特Croma", "ja": "フィアット クロマ"},
+      "names": {
+        "en": "Fiat Croma",
+        "zh-CN": "菲亚特Croma",
+        "zh-TW": "飛雅特Croma",
+        "ja": "フィアット クロマ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:fiat:brava",
       "brand": "Fiat",
-      "names": {"en": "Fiat Brava", "zh-CN": "菲亚特Brava", "zh-TW": "飛雅特Brava", "ja": "フィアット ブラーバ"},
+      "names": {
+        "en": "Fiat Brava",
+        "zh-CN": "菲亚特Brava",
+        "zh-TW": "飛雅特Brava",
+        "ja": "フィアット ブラーバ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:fiat:palio",
       "brand": "Fiat",
-      "names": {"en": "Fiat Palio", "zh-CN": "菲亚特Palio", "zh-TW": "飛雅特Palio", "ja": "フィアット パリオ"},
+      "names": {
+        "en": "Fiat Palio",
+        "zh-CN": "菲亚特Palio",
+        "zh-TW": "飛雅特Palio",
+        "ja": "フィアット パリオ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:fiat:uno",
       "brand": "Fiat",
-      "names": {"en": "Fiat Uno", "zh-CN": "菲亚特Uno", "zh-TW": "飛雅特Uno", "ja": "フィアット ウーノ"},
+      "names": {
+        "en": "Fiat Uno",
+        "zh-CN": "菲亚特Uno",
+        "zh-TW": "飛雅特Uno",
+        "ja": "フィアット ウーノ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:fiat:126",
       "brand": "Fiat",
-      "names": {"en": "Fiat 126", "zh-CN": "菲亚特126", "zh-TW": "飛雅特126", "ja": "フィアット126"},
+      "names": {
+        "en": "Fiat 126",
+        "zh-CN": "菲亚特126",
+        "zh-TW": "飛雅特126",
+        "ja": "フィアット126"
+      },
       "segment": "class:eu:a",
       "body_style": "body:city-car",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:fiat:124-spider",
       "brand": "Fiat",
-      "names": {"en": "Fiat 124 Spider", "zh-CN": "菲亚特124 Spider", "zh-TW": "飛雅特124 Spider", "ja": "フィアット124スパイダー"},
+      "names": {
+        "en": "Fiat 124 Spider",
+        "zh-CN": "菲亚特124 Spider",
+        "zh-TW": "飛雅特124 Spider",
+        "ja": "フィアット124スパイダー"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:fiat:multipla",
       "brand": "Fiat",
-      "names": {"en": "Fiat Multipla", "zh-CN": "菲亚特Multipla", "zh-TW": "飛雅特Multipla", "ja": "フィアット ムルティプラ"},
+      "names": {
+        "en": "Fiat Multipla",
+        "zh-CN": "菲亚特Multipla",
+        "zh-TW": "飛雅特Multipla",
+        "ja": "フィアット ムルティプラ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:fiat:ducato",
       "brand": "Fiat",
-      "names": {"en": "Fiat Ducato", "zh-CN": "菲亚特Ducato", "zh-TW": "飛雅特Ducato", "ja": "フィアット ドゥカート"},
+      "names": {
+        "en": "Fiat Ducato",
+        "zh-CN": "菲亚特Ducato",
+        "zh-TW": "飛雅特Ducato",
+        "ja": "フィアット ドゥカート"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:fiat:fiorino",
       "brand": "Fiat",
-      "names": {"en": "Fiat Fiorino", "zh-CN": "菲亚特Fiorino", "zh-TW": "飛雅特Fiorino", "ja": "フィアット フィオリーノ"},
+      "names": {
+        "en": "Fiat Fiorino",
+        "zh-CN": "菲亚特Fiorino",
+        "zh-TW": "飛雅特Fiorino",
+        "ja": "フィアット フィオリーノ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:fiat:doblo",
       "brand": "Fiat",
-      "names": {"en": "Fiat Doblò", "zh-CN": "菲亚特Doblò", "zh-TW": "飛雅特Doblò", "ja": "フィアット ドブロ"},
+      "names": {
+        "en": "Fiat Doblò",
+        "zh-CN": "菲亚特Doblò",
+        "zh-TW": "飛雅特Doblò",
+        "ja": "フィアット ドブロ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:fiat:viaggio",
       "brand": "Fiat",
-      "names": {"en": "Fiat Viaggio", "zh-CN": "菲翔", "zh-TW": "飛雅特Viaggio", "ja": "—"},
+      "names": {
+        "en": "Fiat Viaggio",
+        "zh-CN": "菲翔",
+        "zh-TW": "飛雅特Viaggio",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:fiat:ottimo",
       "brand": "Fiat",
-      "names": {"en": "Fiat Ottimo", "zh-CN": "致悦", "zh-TW": "飛雅特Ottimo", "ja": "—"},
+      "names": {
+        "en": "Fiat Ottimo",
+        "zh-CN": "致悦",
+        "zh-TW": "飛雅特Ottimo",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -243,13 +343,120 @@
     {
       "id": "model:fiat:freemont",
       "brand": "Fiat",
-      "names": {"en": "Fiat Freemont", "zh-CN": "菲跃", "zh-TW": "飛雅特Freemont", "ja": "—"},
+      "names": {
+        "en": "Fiat Freemont",
+        "zh-CN": "菲跃",
+        "zh-TW": "飛雅特Freemont",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2012–2017",
       "note": "中型7座SUV,以进口形式引入(欧洲名Freemont,基于道奇酷威);2017年前后停售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:f14d4ae730",
+      "brand": "Fiat",
+      "names": {
+        "en": "Fiat Palio Weekend",
+        "zh-CN": "菲亚特周末风",
+        "zh-TW": "飛雅特周末風",
+        "ja": "フィアット パリオ ウィークエンド"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2008",
+      "note": "南京菲亚特Palio旅行版,名周末风(Palio Weekend),2003年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:091013f157",
+      "brand": "Fiat",
+      "names": {
+        "en": "Fiat Perla",
+        "zh-CN": "菲亚特派朗",
+        "zh-TW": "飛雅特派朗",
+        "ja": "フィアット ペルラ"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2008",
+      "note": "南京菲亚特三厢轿车,2006年上市,中国市场特供",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:124",
+      "brand": "Fiat",
+      "names": {
+        "en": "Fiat 124",
+        "zh-CN": "菲亚特124",
+        "zh-TW": "飛雅特124",
+        "ja": "フィアット124"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1966–1974",
+      "note": "经典中型轿车,1966年欧洲年度车;苏联拉达基于此车设计,全球销量超1500万辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:fiat-8v",
+      "brand": "Fiat",
+      "names": {
+        "en": "Fiat 8V",
+        "zh-CN": "菲亚特8V",
+        "zh-TW": "飛雅特8V",
+        "ja": "フィアット8V"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1952–1954",
+      "note": "搭载2.0L V8发动机的双门GT跑车,仅生产约114辆",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:5e41c4ca7b",
+      "brand": "Fiat",
+      "names": {
+        "en": "Fiat Siena",
+        "zh-CN": "菲亚特西耶那",
+        "zh-TW": "飛雅特西耶那",
+        "ja": "フィアット シエナ"
+      },
+      "segment": "class:eu:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2008",
+      "note": "Palio的三厢轿车版,南京菲亚特国产,全球市场名Siena",
+      "verified": "verified"
+    },
+    {
+      "id": "model:fiat:7e37c7e188",
+      "brand": "Fiat",
+      "names": {
+        "en": "Fiat Linea",
+        "zh-CN": "菲亚特领雅",
+        "zh-TW": "飛雅特領雅",
+        "ja": "フィアット リネア"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2015",
+      "note": "基于Punto平台的三厢轿车,面向新兴市场;南京菲亚特进口引入",
       "verified": "verified"
     }
   ]

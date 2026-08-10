@@ -3,7 +3,12 @@
     {
       "id": "model:lincoln:corsair",
       "brand": "Lincoln",
-      "names": {"en": "Corsair", "zh-CN": "冒险家", "zh-TW": "Corsair", "ja": "コルセア"},
+      "names": {
+        "en": "Corsair",
+        "zh-CN": "冒险家",
+        "zh-TW": "Corsair",
+        "ja": "コルセア"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:lincoln:nautilus",
       "brand": "Lincoln",
-      "names": {"en": "Nautilus", "zh-CN": "航海家", "zh-TW": "Nautilus", "ja": "ノーチラス"},
+      "names": {
+        "en": "Nautilus",
+        "zh-CN": "航海家",
+        "zh-TW": "Nautilus",
+        "ja": "ノーチラス"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:lincoln:aviator",
       "brand": "Lincoln",
-      "names": {"en": "Aviator", "zh-CN": "飞行家", "zh-TW": "Aviator", "ja": "アビエーター"},
+      "names": {
+        "en": "Aviator",
+        "zh-CN": "飞行家",
+        "zh-TW": "Aviator",
+        "ja": "アビエーター"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:lincoln:navigator",
       "brand": "Lincoln",
-      "names": {"en": "Navigator", "zh-CN": "领航员", "zh-TW": "Navigator", "ja": "ナビゲーター"},
+      "names": {
+        "en": "Navigator",
+        "zh-CN": "领航员",
+        "zh-TW": "Navigator",
+        "ja": "ナビゲーター"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:lincoln:continental",
       "brand": "Lincoln",
-      "names": {"en": "Continental", "zh-CN": "大陆", "zh-TW": "Continental", "ja": "コンチネンタル"},
+      "names": {
+        "en": "Continental",
+        "zh-CN": "大陆",
+        "zh-TW": "Continental",
+        "ja": "コンチネンタル"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:lincoln:mkz",
       "brand": "Lincoln",
-      "names": {"en": "MKZ", "zh-CN": "MKZ", "zh-TW": "MKZ", "ja": "MKZ"},
+      "names": {
+        "en": "MKZ",
+        "zh-CN": "MKZ",
+        "zh-TW": "MKZ",
+        "ja": "MKZ"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:lincoln:mks",
       "brand": "Lincoln",
-      "names": {"en": "MKS", "zh-CN": "MKS", "zh-TW": "MKS", "ja": "MKS"},
+      "names": {
+        "en": "MKS",
+        "zh-CN": "MKS",
+        "zh-TW": "MKS",
+        "ja": "MKS"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:lincoln:mkt",
       "brand": "Lincoln",
-      "names": {"en": "MKT", "zh-CN": "MKT", "zh-TW": "MKT", "ja": "MKT"},
+      "names": {
+        "en": "MKT",
+        "zh-CN": "MKT",
+        "zh-TW": "MKT",
+        "ja": "MKT"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:lincoln:mkx",
       "brand": "Lincoln",
-      "names": {"en": "MKX", "zh-CN": "MKX", "zh-TW": "MKX", "ja": "MKX"},
+      "names": {
+        "en": "MKX",
+        "zh-CN": "MKX",
+        "zh-TW": "MKX",
+        "ja": "MKX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:lincoln:town-car",
       "brand": "Lincoln",
-      "names": {"en": "Town Car", "zh-CN": "城市", "zh-TW": "Town Car", "ja": "タウンカー"},
+      "names": {
+        "en": "Town Car",
+        "zh-CN": "城市",
+        "zh-TW": "Town Car",
+        "ja": "タウンカー"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:lincoln:zephyr",
       "brand": "Lincoln",
-      "names": {"en": "Zephyr", "zh-CN": "Zephyr", "zh-TW": "Zephyr", "ja": "ゼファー"},
+      "names": {
+        "en": "Zephyr",
+        "zh-CN": "Zephyr",
+        "zh-TW": "Zephyr",
+        "ja": "ゼファー"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:lincoln:z",
       "brand": "Lincoln",
-      "names": {"en": "Lincoln Z", "zh-CN": "林肯Z", "zh-TW": "林肯Z(未导入)", "ja": "—"},
+      "names": {
+        "en": "Lincoln Z",
+        "zh-CN": "林肯Z",
+        "zh-TW": "林肯Z(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:lincoln:mkc",
       "brand": "Lincoln",
-      "names": {"en": "MKC", "zh-CN": "MKC", "zh-TW": "MKC", "ja": "MKC"},
+      "names": {
+        "en": "MKC",
+        "zh-CN": "MKC",
+        "zh-TW": "MKC",
+        "ja": "MKC"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

@@ -3,7 +3,12 @@
     {
       "id": "model:chery-nev:eq",
       "brand": "Chery NEV",
-      "names": {"en": "Chery eQ", "zh-CN": "奇瑞eQ", "zh-TW": "Chery eQ", "ja": "—"},
+      "names": {
+        "en": "Chery eQ",
+        "zh-CN": "奇瑞eQ",
+        "zh-TW": "Chery eQ",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:chery-nev:ant",
       "brand": "Chery NEV",
-      "names": {"en": "Chery eQ1 (Ant)", "zh-CN": "小蚂蚁", "zh-TW": "Chery eQ1", "ja": "—"},
+      "names": {
+        "en": "Chery eQ1 (Ant)",
+        "zh-CN": "小蚂蚁",
+        "zh-TW": "Chery eQ1",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:chery-nev:qq-ice-cream",
       "brand": "Chery NEV",
-      "names": {"en": "Chery QQ Ice Cream", "zh-CN": "QQ冰淇淋", "zh-TW": "QQ Ice Cream", "ja": "—"},
+      "names": {
+        "en": "Chery QQ Ice Cream",
+        "zh-CN": "QQ冰淇淋",
+        "zh-TW": "QQ Ice Cream",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -39,13 +54,154 @@
     {
       "id": "model:chery-nev:eq5",
       "brand": "Chery NEV",
-      "names": {"en": "Chery eQ5", "zh-CN": "大蚂蚁", "zh-TW": "Chery eQ5", "ja": "—"},
+      "names": {
+        "en": "Chery eQ5",
+        "zh-CN": "大蚂蚁",
+        "zh-TW": "Chery eQ5",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
       "status": "discontinued",
       "years": "2020–2023",
       "note": "中型纯电SUV(2020年上市),官方名eQ5(大蚂蚁),基于@LIFE全铝纯电平台;约2023年停售",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:c3e",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery C3e",
+        "zh-CN": "奇瑞C3e",
+        "zh-TW": "奇瑞C3e",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "奇瑞新能源A00级纯电微型车,基于奇瑞eQ平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:qq3ev",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery QQ3EV",
+        "zh-CN": "奇瑞QQ3EV",
+        "zh-TW": "奇瑞QQ3EV",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2010–2014",
+      "note": "奇瑞QQ3纯电动版,奇瑞新能源早期车型,后被eQ取代",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:pro",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery Wujie Pro",
+        "zh-CN": "奇瑞无界Pro",
+        "zh-TW": "奇瑞無界Pro",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "奇瑞新能源A00级纯电微型车,2022年上市,官方英文名Wujie Pro",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:756f291532",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery Comfort Family",
+        "zh-CN": "奇瑞舒享家",
+        "zh-TW": "奇瑞舒享家",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "奇瑞新能源纯电SUV,2023年上市,英文名eQ7/Comfort Family",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:3xe",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery Tiggo 3xe",
+        "zh-CN": "瑞虎3xe",
+        "zh-TW": "瑞虎3xe",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "瑞虎3x纯电动版,2018年上市,奇瑞新能源纯电小型SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:chery-nev-e",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery Tiggo e",
+        "zh-CN": "瑞虎e",
+        "zh-TW": "瑞虎e",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "瑞虎5x纯电动版,2019年上市,名瑞虎e",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:chery-nev-5e",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery Arrizo 5e",
+        "zh-CN": "艾瑞泽5e",
+        "zh-TW": "艾瑞澤5e",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "艾瑞泽5纯电动版,2017年上市,续航约400km",
+      "verified": "verified"
+    },
+    {
+      "id": "model:chery-nev:chery-nev-e-2",
+      "brand": "Chery NEV",
+      "names": {
+        "en": "Chery Arrizo e",
+        "zh-CN": "艾瑞泽e",
+        "zh-TW": "艾瑞澤e",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "艾瑞泽5e改款车型,2019年上市,名艾瑞泽e",
       "verified": "verified"
     }
   ]

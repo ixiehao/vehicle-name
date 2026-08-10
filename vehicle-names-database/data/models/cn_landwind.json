@@ -3,7 +3,12 @@
     {
       "id": "model:landwind:x2",
       "brand": "Landwind",
-      "names": {"en": "Landwind X2", "zh-CN": "陆风X2", "zh-TW": "Landwind X2", "ja": "—"},
+      "names": {
+        "en": "Landwind X2",
+        "zh-CN": "陆风X2",
+        "zh-TW": "Landwind X2",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:landwind:x5",
       "brand": "Landwind",
-      "names": {"en": "Landwind X5", "zh-CN": "陆风X5", "zh-TW": "Landwind X5", "ja": "—"},
+      "names": {
+        "en": "Landwind X5",
+        "zh-CN": "陆风X5",
+        "zh-TW": "Landwind X5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:landwind:x7",
       "brand": "Landwind",
-      "names": {"en": "Landwind X7", "zh-CN": "陆风X7", "zh-TW": "Landwind X7", "ja": "—"},
+      "names": {
+        "en": "Landwind X7",
+        "zh-CN": "陆风X7",
+        "zh-TW": "Landwind X7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:landwind:x8",
       "brand": "Landwind",
-      "names": {"en": "Landwind X8", "zh-CN": "陆风X8", "zh-TW": "Landwind X8", "ja": "—"},
+      "names": {
+        "en": "Landwind X8",
+        "zh-CN": "陆风X8",
+        "zh-TW": "Landwind X8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

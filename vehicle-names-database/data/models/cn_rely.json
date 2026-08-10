@@ -3,7 +3,12 @@
     {
       "id": "model:rely:v5",
       "brand": "Rely",
-      "names": {"en": "Rely V5", "zh-CN": "威麟V5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Rely V5",
+        "zh-CN": "威麟V5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:rely:x5",
       "brand": "Rely",
-      "names": {"en": "Rely X5", "zh-CN": "威麟X5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Rely X5",
+        "zh-CN": "威麟X5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:rely:h3",
       "brand": "Rely",
-      "names": {"en": "Rely H3", "zh-CN": "威麟H3", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Rely H3",
+        "zh-CN": "威麟H3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:rely:h5",
       "brand": "Rely",
-      "names": {"en": "Rely H5", "zh-CN": "威麟H5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Rely H5",
+        "zh-CN": "威麟H5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",

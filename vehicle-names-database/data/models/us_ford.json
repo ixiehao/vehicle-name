@@ -3,7 +3,12 @@
     {
       "id": "model:ford:focus",
       "brand": "Ford",
-      "names": {"en": "Focus", "zh-CN": "福克斯", "zh-TW": "Focus", "ja": "フォーカス"},
+      "names": {
+        "en": "Focus",
+        "zh-CN": "福克斯",
+        "zh-TW": "Focus",
+        "ja": "フォーカス"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:ford:fiesta",
       "brand": "Ford",
-      "names": {"en": "Fiesta", "zh-CN": "嘉年华", "zh-TW": "Fiesta", "ja": "フィエスタ"},
+      "names": {
+        "en": "Fiesta",
+        "zh-CN": "嘉年华",
+        "zh-TW": "Fiesta",
+        "ja": "フィエスタ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:ford:mustang",
       "brand": "Ford",
-      "names": {"en": "Mustang", "zh-CN": "福特Mustang(野马)", "zh-TW": "Mustang(俗稱野馬)", "ja": "マスタング"},
+      "names": {
+        "en": "Mustang",
+        "zh-CN": "福特Mustang(野马)",
+        "zh-TW": "Mustang(俗稱野馬)",
+        "ja": "マスタング"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:ford:mustang-mach-e",
       "brand": "Ford",
-      "names": {"en": "Mustang Mach-E", "zh-CN": "福特电马", "zh-TW": "Mustang Mach-E", "ja": "マスタング マッハE"},
+      "names": {
+        "en": "Mustang Mach-E",
+        "zh-CN": "福特电马",
+        "zh-TW": "Mustang Mach-E",
+        "ja": "マスタング マッハE"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:ford:mondeo",
       "brand": "Ford",
-      "names": {"en": "Mondeo", "zh-CN": "蒙迪欧", "zh-TW": "Mondeo", "ja": "モンデオ"},
+      "names": {
+        "en": "Mondeo",
+        "zh-CN": "蒙迪欧",
+        "zh-TW": "Mondeo",
+        "ja": "モンデオ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:ford:escort",
       "brand": "Ford",
-      "names": {"en": "Escort", "zh-CN": "Escort(福睿斯)", "zh-TW": "Escort", "ja": "エスコート"},
+      "names": {
+        "en": "Escort",
+        "zh-CN": "Escort(福睿斯)",
+        "zh-TW": "Escort",
+        "ja": "エスコート"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:ford:taurus",
       "brand": "Ford",
-      "names": {"en": "Taurus", "zh-CN": "金牛座", "zh-TW": "Taurus", "ja": "トーラス"},
+      "names": {
+        "en": "Taurus",
+        "zh-CN": "金牛座",
+        "zh-TW": "Taurus",
+        "ja": "トーラス"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:ford:fusion",
       "brand": "Ford",
-      "names": {"en": "Fusion", "zh-CN": "Fusion", "zh-TW": "Fusion", "ja": "フュージョン"},
+      "names": {
+        "en": "Fusion",
+        "zh-CN": "Fusion",
+        "zh-TW": "Fusion",
+        "ja": "フュージョン"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:ford:f-150",
       "brand": "Ford",
-      "names": {"en": "F-150", "zh-CN": "F-150", "zh-TW": "F-150", "ja": "F-150"},
+      "names": {
+        "en": "F-150",
+        "zh-CN": "F-150",
+        "zh-TW": "F-150",
+        "ja": "F-150"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:ford:ranger",
       "brand": "Ford",
-      "names": {"en": "Ranger", "zh-CN": "游骑侠", "zh-TW": "Ranger", "ja": "レンジャー"},
+      "names": {
+        "en": "Ranger",
+        "zh-CN": "游骑侠",
+        "zh-TW": "Ranger",
+        "ja": "レンジャー"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:ford:maverick",
       "brand": "Ford",
-      "names": {"en": "Maverick", "zh-CN": "Maverick", "zh-TW": "Maverick", "ja": "マーベリック"},
+      "names": {
+        "en": "Maverick",
+        "zh-CN": "Maverick",
+        "zh-TW": "Maverick",
+        "ja": "マーベリック"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:ford:bronco",
       "brand": "Ford",
-      "names": {"en": "Bronco", "zh-CN": "烈马", "zh-TW": "Bronco", "ja": "ブロンコ"},
+      "names": {
+        "en": "Bronco",
+        "zh-CN": "烈马",
+        "zh-TW": "Bronco",
+        "ja": "ブロンコ"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:ford:bronco-sport",
       "brand": "Ford",
-      "names": {"en": "Bronco Sport", "zh-CN": "Bronco Sport", "zh-TW": "Bronco Sport", "ja": "ブロンコ スポーツ"},
+      "names": {
+        "en": "Bronco Sport",
+        "zh-CN": "Bronco Sport",
+        "zh-TW": "Bronco Sport",
+        "ja": "ブロンコ スポーツ"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:ford:edge",
       "brand": "Ford",
-      "names": {"en": "Edge", "zh-CN": "锐界", "zh-TW": "Edge", "ja": "エッジ"},
+      "names": {
+        "en": "Edge",
+        "zh-CN": "锐界",
+        "zh-TW": "Edge",
+        "ja": "エッジ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:ford:escape",
       "brand": "Ford",
-      "names": {"en": "Escape", "zh-CN": "翼虎→锐际", "zh-TW": "Escape", "ja": "エスケープ"},
+      "names": {
+        "en": "Escape",
+        "zh-CN": "翼虎→锐际",
+        "zh-TW": "Escape",
+        "ja": "エスケープ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:ford:explorer",
       "brand": "Ford",
-      "names": {"en": "Explorer", "zh-CN": "探险者", "zh-TW": "Explorer", "ja": "エクスプローラー"},
+      "names": {
+        "en": "Explorer",
+        "zh-CN": "探险者",
+        "zh-TW": "Explorer",
+        "ja": "エクスプローラー"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:ford:expedition",
       "brand": "Ford",
-      "names": {"en": "Expedition", "zh-CN": "征服者", "zh-TW": "Expedition", "ja": "エクスペディション"},
+      "names": {
+        "en": "Expedition",
+        "zh-CN": "征服者",
+        "zh-TW": "Expedition",
+        "ja": "エクスペディション"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:ford:ecosport",
       "brand": "Ford",
-      "names": {"en": "EcoSport", "zh-CN": "翼搏", "zh-TW": "EcoSport", "ja": "エコスポーツ"},
+      "names": {
+        "en": "EcoSport",
+        "zh-CN": "翼搏",
+        "zh-TW": "EcoSport",
+        "ja": "エコスポーツ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:ford:flex",
       "brand": "Ford",
-      "names": {"en": "Flex", "zh-CN": "Flex", "zh-TW": "Flex", "ja": "フレックス"},
+      "names": {
+        "en": "Flex",
+        "zh-CN": "Flex",
+        "zh-TW": "Flex",
+        "ja": "フレックス"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:ford:c-max",
       "brand": "Ford",
-      "names": {"en": "C-Max", "zh-CN": "C-Max", "zh-TW": "C-Max", "ja": "C-MAX(シーマックス)"},
+      "names": {
+        "en": "C-Max",
+        "zh-CN": "C-Max",
+        "zh-TW": "C-Max",
+        "ja": "C-MAX(シーマックス)"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:ford:transit",
       "brand": "Ford",
-      "names": {"en": "Transit", "zh-CN": "全顺", "zh-TW": "Transit", "ja": "トランジット"},
+      "names": {
+        "en": "Transit",
+        "zh-CN": "全顺",
+        "zh-TW": "Transit",
+        "ja": "トランジット"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:ford:e-series",
       "brand": "Ford",
-      "names": {"en": "E-Series", "zh-CN": "E系列", "zh-TW": "E-Series", "ja": "Eシリーズ"},
+      "names": {
+        "en": "E-Series",
+        "zh-CN": "E系列",
+        "zh-TW": "E-Series",
+        "ja": "Eシリーズ"
+      },
       "segment": "class:us:large",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:ford:galaxie",
       "brand": "Ford",
-      "names": {"en": "Galaxie", "zh-CN": "Galaxie", "zh-TW": "Galaxie", "ja": "ギャラクシー"},
+      "names": {
+        "en": "Galaxie",
+        "zh-CN": "Galaxie",
+        "zh-TW": "Galaxie",
+        "ja": "ギャラクシー"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:ford:granada",
       "brand": "Ford",
-      "names": {"en": "Granada", "zh-CN": "Granada", "zh-TW": "Granada", "ja": "グラナダ"},
+      "names": {
+        "en": "Granada",
+        "zh-CN": "Granada",
+        "zh-TW": "Granada",
+        "ja": "グラナダ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:ford:thunderbird",
       "brand": "Ford",
-      "names": {"en": "Thunderbird", "zh-CN": "雷鸟", "zh-TW": "Thunderbird", "ja": "サンダーバード"},
+      "names": {
+        "en": "Thunderbird",
+        "zh-CN": "雷鸟",
+        "zh-TW": "Thunderbird",
+        "ja": "サンダーバード"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:ford:gt",
       "brand": "Ford",
-      "names": {"en": "Ford GT", "zh-CN": "福特GT", "zh-TW": "GT", "ja": "GT"},
+      "names": {
+        "en": "Ford GT",
+        "zh-CN": "福特GT",
+        "zh-TW": "GT",
+        "ja": "GT"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:ford:crown-victoria",
       "brand": "Ford",
-      "names": {"en": "Crown Victoria", "zh-CN": "Crown Victoria", "zh-TW": "Crown Victoria", "ja": "クラウンビクトリア"},
+      "names": {
+        "en": "Crown Victoria",
+        "zh-CN": "Crown Victoria",
+        "zh-TW": "Crown Victoria",
+        "ja": "クラウンビクトリア"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:ford:evos",
       "brand": "Ford",
-      "names": {"en": "EVOS", "zh-CN": "EVOS", "zh-TW": "EVOS", "ja": "—"},
+      "names": {
+        "en": "EVOS",
+        "zh-CN": "EVOS",
+        "zh-TW": "EVOS",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:ford:everest",
       "brand": "Ford",
-      "names": {"en": "Everest", "zh-CN": "撼路者", "zh-TW": "Everest", "ja": "—"},
+      "names": {
+        "en": "Everest",
+        "zh-CN": "撼路者",
+        "zh-TW": "Everest",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:ford:mondeo-zhisheng",
       "brand": "Ford",
-      "names": {"en": "Mondeo Zhisheng", "zh-CN": "致胜", "zh-TW": "Mondeo Zhisheng", "ja": "—"},
+      "names": {
+        "en": "Mondeo Zhisheng",
+        "zh-CN": "致胜",
+        "zh-TW": "Mondeo Zhisheng",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:ford:tourneo",
       "brand": "Ford",
-      "names": {"en": "Tourneo", "zh-CN": "途睿欧", "zh-TW": "Tourneo", "ja": "—"},
+      "names": {
+        "en": "Tourneo",
+        "zh-CN": "途睿欧",
+        "zh-TW": "Tourneo",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -375,7 +530,12 @@
     {
       "id": "model:ford:territory",
       "brand": "Ford",
-      "names": {"en": "Territory", "zh-CN": "领界", "zh-TW": "Territory", "ja": "—"},
+      "names": {
+        "en": "Territory",
+        "zh-CN": "领界",
+        "zh-TW": "Territory",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:ford:equator-sport",
       "brand": "Ford",
-      "names": {"en": "Equator Sport", "zh-CN": "领睿", "zh-TW": "Equator Sport", "ja": "—"},
+      "names": {
+        "en": "Equator Sport",
+        "zh-CN": "领睿",
+        "zh-TW": "Equator Sport",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:ford:equator",
       "brand": "Ford",
-      "names": {"en": "Equator", "zh-CN": "领裕", "zh-TW": "Equator", "ja": "—"},
+      "names": {
+        "en": "Equator",
+        "zh-CN": "领裕",
+        "zh-TW": "Equator",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -407,6 +577,405 @@
       "years": "2021–present",
       "note": "江铃福特国产中大型SUV「领裕」(Equator)",
       "verified": "verified"
+    },
+    {
+      "id": "model:ford:atlas",
+      "brand": "Ford",
+      "names": {
+        "en": "Atlas",
+        "zh-CN": "Atlas",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2019",
+      "note": "Atlas(2013-2019),福特印度市场MPV",
+      "verified": "verified",
+      "en": "Atlas",
+      "zh-CN": "Atlas(未引入)"
+    },
+    {
+      "id": "model:ford:ford-e",
+      "brand": "Ford",
+      "names": {
+        "en": "E Transit",
+        "zh-CN": "E全顺",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "E全顺(E-Transit,2022-),全顺纯电版",
+      "verified": "verified",
+      "en": "E-Transit",
+      "zh-CN": "E全顺"
+    },
+    {
+      "id": "model:ford:f-150-2",
+      "brand": "Ford",
+      "names": {
+        "en": "F-150 Raptor",
+        "zh-CN": "F-150猛禽",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010-present",
+      "note": "F-150猛禽(Raptor,2010-),F-150高性能越野版,中国官方进口",
+      "verified": "verified",
+      "en": "F-150 Raptor",
+      "zh-CN": "F-150猛禽"
+    },
+    {
+      "id": "model:ford:grand-c-max",
+      "brand": "Ford",
+      "names": {
+        "en": "Grand C-MAX",
+        "zh-CN": "Grand C-MAX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2019",
+      "note": "Grand C-MAX(2010-2019),C-MAX七座版,欧洲市场,2019年停产",
+      "verified": "verified",
+      "en": "Grand C-MAX",
+      "zh-CN": "Grand C-MAX(未引入)"
+    },
+    {
+      "id": "model:ford:model-a",
+      "brand": "Ford",
+      "names": {
+        "en": "Model A",
+        "zh-CN": "Model A",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1927-1931",
+      "note": "Model A(1927-1931),福特T型车继任者,经典车型",
+      "verified": "verified",
+      "en": "Model A",
+      "zh-CN": "Model A"
+    },
+    {
+      "id": "model:ford:puma",
+      "brand": "Ford",
+      "names": {
+        "en": "PUMA New Energy",
+        "zh-CN": "PUMA新能源",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "PUMA新能源(2021-),福特PUMA新能源版(中国市场)",
+      "verified": "verified",
+      "en": "PUMA New Energy",
+      "zh-CN": "PUMA新能源"
+    },
+    {
+      "id": "model:ford:s-max",
+      "brand": "Ford",
+      "names": {
+        "en": "S-MAX",
+        "zh-CN": "S-MAX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2022",
+      "note": "S-MAX(2006-2022),福特欧洲市场MPV,2022年停产",
+      "verified": "verified",
+      "en": "S-MAX",
+      "zh-CN": "S-MAX(未引入)"
+    },
+    {
+      "id": "model:ford:ford-t8",
+      "brand": "Ford",
+      "names": {
+        "en": "Transit T8",
+        "zh-CN": "全顺T8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "全顺T8(2023-),江铃福特新一代全顺",
+      "verified": "verified",
+      "en": "Transit T8",
+      "zh-CN": "全顺T8"
+    },
+    {
+      "id": "model:ford:9b8e0fa21c",
+      "brand": "Ford",
+      "names": {
+        "en": "Transit New Generation",
+        "zh-CN": "新世代全顺",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008-present",
+      "note": "新世代全顺(2008-),江铃福特全顺(Transit Custom中国版)",
+      "verified": "verified",
+      "en": "Transit New Generation",
+      "zh-CN": "新世代全顺"
+    },
+    {
+      "id": "model:ford:active",
+      "brand": "Ford",
+      "names": {
+        "en": "Focus Active",
+        "zh-CN": "福克斯Active",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018-present",
+      "note": "福克斯Active(2018-),福克斯跨界版",
+      "verified": "verified",
+      "en": "Focus Active",
+      "zh-CN": "福克斯Active"
+    },
+    {
+      "id": "model:ford:e350",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford E350",
+        "zh-CN": "福特E350",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1992-2014",
+      "note": "E350(1992-2014),福特E系列大型厢式车,2014年停产",
+      "verified": "verified",
+      "en": "E350",
+      "zh-CN": "福特E350"
+    },
+    {
+      "id": "model:ford:f-250",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford F-250",
+        "zh-CN": "福特F-250",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1948-present",
+      "note": "F-250(1948-),F系列重型皮卡(Super Duty)",
+      "verified": "verified",
+      "en": "F-250",
+      "zh-CN": "福特F-250"
+    },
+    {
+      "id": "model:ford:f-350",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford F-350",
+        "zh-CN": "福特F-350",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1953-present",
+      "note": "F-350(1953-),F系列重型皮卡(Super Duty)",
+      "verified": "verified",
+      "en": "F-350",
+      "zh-CN": "福特F-350"
+    },
+    {
+      "id": "model:ford:f-450",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford F-450",
+        "zh-CN": "福特F-450",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1980-present",
+      "note": "F-450(1980-),F系列超重型皮卡(Super Duty)",
+      "verified": "verified",
+      "en": "F-450",
+      "zh-CN": "福特F-450"
+    },
+    {
+      "id": "model:ford:f-650",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford F-650",
+        "zh-CN": "福特F-650",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2000-present",
+      "note": "F-650(2000-),F系列中重型卡车(Super Duty)",
+      "verified": "verified",
+      "en": "F-650",
+      "zh-CN": "福特F-650"
+    },
+    {
+      "id": "model:ford:gpw",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford GPW",
+        "zh-CN": "福特GPW",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1941-1945",
+      "note": "GPW(1941-1945),二战吉普(Willys MB的福特版)",
+      "verified": "verified",
+      "en": "GPW",
+      "zh-CN": "福特GPW"
+    },
+    {
+      "id": "model:ford:ford-ka",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford Ka",
+        "zh-CN": "福特Ka",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:city-car",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1996-2020",
+      "note": "Ka(1996-2020),福特欧洲微型车,2020年停产",
+      "verified": "verified",
+      "en": "Ka",
+      "zh-CN": "福特Ka(未引入)"
+    },
+    {
+      "id": "model:ford:33379c9433",
+      "brand": "Ford",
+      "names": {
+        "en": "Ford Riley",
+        "zh-CN": "福特莱利",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1938-1969",
+      "note": "福特莱利(Riley,1938-1969),英国Riley品牌车型(福特收购后)",
+      "verified": "verified",
+      "en": "Riley",
+      "zh-CN": "福特莱利"
+    },
+    {
+      "id": "model:ford:754b965eb8",
+      "brand": "Ford",
+      "names": {
+        "en": "Transit Classic",
+        "zh-CN": "经典全顺",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997-2015",
+      "note": "经典全顺(1997-2015),江铃福特全顺老款,2015年停产",
+      "verified": "verified",
+      "en": "Transit Classic",
+      "zh-CN": "经典全顺"
+    },
+    {
+      "id": "model:ford:7817e85697",
+      "brand": "Ford",
+      "names": {
+        "en": "Kuga",
+        "zh-CN": "翼虎",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2008-present",
+      "note": "翼虎(Kuga,2008-),福特紧凑型SUV(中国版为长安福特翼虎,2023年停产后欧洲停产)",
+      "verified": "verified",
+      "en": "Kuga",
+      "zh-CN": "翼虎"
+    },
+    {
+      "id": "model:ford:ford-ev",
+      "brand": "Ford",
+      "names": {
+        "en": "Territory EV",
+        "zh-CN": "领界EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019-2022",
+      "note": "领界EV(2019-2022),江铃福特领界纯电版,2022年停产",
+      "verified": "verified",
+      "en": "Territory EV",
+      "zh-CN": "领界EV"
     }
   ]
 }

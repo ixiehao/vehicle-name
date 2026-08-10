@@ -3,7 +3,12 @@
     {
       "id": "model:bisu:m3",
       "brand": "Bisu",
-      "names": {"en": "Bisu M3", "zh-CN": "比速M3", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Bisu M3",
+        "zh-CN": "比速M3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:bisu:t3",
       "brand": "Bisu",
-      "names": {"en": "Bisu T3", "zh-CN": "比速T3", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Bisu T3",
+        "zh-CN": "比速T3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:bisu:t5",
       "brand": "Bisu",
-      "names": {"en": "Bisu T5", "zh-CN": "比速T5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Bisu T5",
+        "zh-CN": "比速T5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

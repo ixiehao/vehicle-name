@@ -3,7 +3,12 @@
     {
       "id": "model:xpeng:p5",
       "brand": "XPeng",
-      "names": {"en": "P5", "zh-CN": "小鹏P5", "zh-TW": "P5(未导入)", "ja": "—"},
+      "names": {
+        "en": "P5",
+        "zh-CN": "小鹏P5",
+        "zh-TW": "P5(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:xpeng:p7",
       "brand": "XPeng",
-      "names": {"en": "P7", "zh-CN": "小鹏P7", "zh-TW": "P7(未导入)", "ja": "—"},
+      "names": {
+        "en": "P7",
+        "zh-CN": "小鹏P7",
+        "zh-TW": "P7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:xpeng:p6",
       "brand": "XPeng",
-      "names": {"en": "P6", "zh-CN": "小鹏P6", "zh-TW": "P6(未导入)", "ja": "—"},
+      "names": {
+        "en": "P6",
+        "zh-CN": "小鹏P6",
+        "zh-TW": "P6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:xpeng:g3",
       "brand": "XPeng",
-      "names": {"en": "G3", "zh-CN": "小鹏G3", "zh-TW": "G3(未导入)", "ja": "—"},
+      "names": {
+        "en": "G3",
+        "zh-CN": "小鹏G3",
+        "zh-TW": "G3(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:xpeng:g6",
       "brand": "XPeng",
-      "names": {"en": "G6", "zh-CN": "小鹏G6", "zh-TW": "G6(未导入)", "ja": "—"},
+      "names": {
+        "en": "G6",
+        "zh-CN": "小鹏G6",
+        "zh-TW": "G6(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:xpeng:g7",
       "brand": "XPeng",
-      "names": {"en": "G7", "zh-CN": "小鹏G7", "zh-TW": "G7(未导入)", "ja": "—"},
+      "names": {
+        "en": "G7",
+        "zh-CN": "小鹏G7",
+        "zh-TW": "G7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:xpeng:g9",
       "brand": "XPeng",
-      "names": {"en": "G9", "zh-CN": "小鹏G9", "zh-TW": "G9(未导入)", "ja": "—"},
+      "names": {
+        "en": "G9",
+        "zh-CN": "小鹏G9",
+        "zh-TW": "G9(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -87,7 +122,12 @@
     {
       "id": "model:xpeng:x9",
       "brand": "XPeng",
-      "names": {"en": "X9", "zh-CN": "小鹏X9", "zh-TW": "X9(未导入)", "ja": "—"},
+      "names": {
+        "en": "X9",
+        "zh-CN": "小鹏X9",
+        "zh-TW": "X9(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -99,7 +139,12 @@
     {
       "id": "model:xpeng:mona-m03",
       "brand": "XPeng",
-      "names": {"en": "MONA M03", "zh-CN": "MONA M03", "zh-TW": "MONA M03(未导入)", "ja": "—"},
+      "names": {
+        "en": "MONA M03",
+        "zh-CN": "MONA M03",
+        "zh-TW": "MONA M03(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -111,7 +156,12 @@
     {
       "id": "model:xpeng:p7-plus",
       "brand": "XPeng",
-      "names": {"en": "P7+", "zh-CN": "小鹏P7+", "zh-TW": "P7+(未导入)", "ja": "—"},
+      "names": {
+        "en": "P7+",
+        "zh-CN": "小鹏P7+",
+        "zh-TW": "P7+(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",

@@ -3,7 +3,12 @@
     {
       "id": "model:nissan:skyline",
       "brand": "Nissan",
-      "names": {"en": "Skyline", "zh-CN": "Skyline", "zh-TW": "Skyline", "ja": "スカイライン"},
+      "names": {
+        "en": "Skyline",
+        "zh-CN": "Skyline",
+        "zh-TW": "Skyline",
+        "ja": "スカイライン"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:nissan:x-trail",
       "brand": "Nissan",
-      "names": {"en": "X-Trail", "zh-CN": "奇骏", "zh-TW": "X-Trail", "ja": "エクストレイル"},
+      "names": {
+        "en": "X-Trail",
+        "zh-CN": "奇骏",
+        "zh-TW": "X-Trail",
+        "ja": "エクストレイル"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:nissan:rogue",
       "brand": "Nissan",
-      "names": {"en": "Rogue", "zh-CN": "Rogue", "zh-TW": "Rogue", "ja": "—"},
+      "names": {
+        "en": "Rogue",
+        "zh-CN": "Rogue",
+        "zh-TW": "Rogue",
+        "ja": "—"
+      },
       "segment": "class:us:compact",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:nissan:note",
       "brand": "Nissan",
-      "names": {"en": "Note", "zh-CN": "Note", "zh-TW": "Note", "ja": "ノート"},
+      "names": {
+        "en": "Note",
+        "zh-CN": "Note",
+        "zh-TW": "Note",
+        "ja": "ノート"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:nissan:serena",
       "brand": "Nissan",
-      "names": {"en": "Serena", "zh-CN": "Serena", "zh-TW": "Serena", "ja": "セレナ"},
+      "names": {
+        "en": "Serena",
+        "zh-CN": "Serena",
+        "zh-TW": "Serena",
+        "ja": "セレナ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:nissan:sylphy",
       "brand": "Nissan",
-      "names": {"en": "Sylphy / Sentra", "zh-CN": "轩逸", "zh-TW": "Super Sentra(俗稱仙草)", "ja": "シルフィ"},
+      "names": {
+        "en": "Sylphy / Sentra",
+        "zh-CN": "轩逸",
+        "zh-TW": "Super Sentra(俗稱仙草)",
+        "ja": "シルフィ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:nissan:altima",
       "brand": "Nissan",
-      "names": {"en": "Altima", "zh-CN": "Altima", "zh-TW": "Altima", "ja": "アルティマ"},
+      "names": {
+        "en": "Altima",
+        "zh-CN": "Altima",
+        "zh-TW": "Altima",
+        "ja": "アルティマ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:nissan:teana",
       "brand": "Nissan",
-      "names": {"en": "Teana", "zh-CN": "天籁", "zh-TW": "Teana(天籟)", "ja": "ティアナ"},
+      "names": {
+        "en": "Teana",
+        "zh-CN": "天籁",
+        "zh-TW": "Teana(天籟)",
+        "ja": "ティアナ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:nissan:ariya",
       "brand": "Nissan",
-      "names": {"en": "Ariya", "zh-CN": "艾睿雅", "zh-TW": "Ariya", "ja": "アリア"},
+      "names": {
+        "en": "Ariya",
+        "zh-CN": "艾睿雅",
+        "zh-TW": "Ariya",
+        "ja": "アリア"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -111,7 +156,12 @@
     {
       "id": "model:nissan:leaf",
       "brand": "Nissan",
-      "names": {"en": "Leaf", "zh-CN": "聆风", "zh-TW": "Leaf", "ja": "リーフ"},
+      "names": {
+        "en": "Leaf",
+        "zh-CN": "聆风",
+        "zh-TW": "Leaf",
+        "ja": "リーフ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -123,7 +173,12 @@
     {
       "id": "model:nissan:kicks",
       "brand": "Nissan",
-      "names": {"en": "Kicks", "zh-CN": "劲客", "zh-TW": "Kicks", "ja": "キックス"},
+      "names": {
+        "en": "Kicks",
+        "zh-CN": "劲客",
+        "zh-TW": "Kicks",
+        "ja": "キックス"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:nissan:juke",
       "brand": "Nissan",
-      "names": {"en": "Juke", "zh-CN": "Juke", "zh-TW": "Juke", "ja": "ジューク"},
+      "names": {
+        "en": "Juke",
+        "zh-CN": "Juke",
+        "zh-TW": "Juke",
+        "ja": "ジューク"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:nissan:qashqai",
       "brand": "Nissan",
-      "names": {"en": "Qashqai", "zh-CN": "逍客", "zh-TW": "Qashqai", "ja": "キャシュカイ"},
+      "names": {
+        "en": "Qashqai",
+        "zh-CN": "逍客",
+        "zh-TW": "Qashqai",
+        "ja": "キャシュカイ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:nissan:murano",
       "brand": "Nissan",
-      "names": {"en": "Murano", "zh-CN": "楼兰", "zh-TW": "Murano", "ja": "ムラーノ"},
+      "names": {
+        "en": "Murano",
+        "zh-CN": "楼兰",
+        "zh-TW": "Murano",
+        "ja": "ムラーノ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:nissan:pathfinder",
       "brand": "Nissan",
-      "names": {"en": "Pathfinder", "zh-CN": "探路者", "zh-TW": "Pathfinder", "ja": "パスファインダー"},
+      "names": {
+        "en": "Pathfinder",
+        "zh-CN": "探路者",
+        "zh-TW": "Pathfinder",
+        "ja": "パスファインダー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:nissan:armada",
       "brand": "Nissan",
-      "names": {"en": "Armada", "zh-CN": "Armada", "zh-TW": "Armada", "ja": "アルマーダ"},
+      "names": {
+        "en": "Armada",
+        "zh-CN": "Armada",
+        "zh-TW": "Armada",
+        "ja": "アルマーダ"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:nissan:patrol",
       "brand": "Nissan",
-      "names": {"en": "Patrol", "zh-CN": "途乐", "zh-TW": "Patrol", "ja": "パトロール"},
+      "names": {
+        "en": "Patrol",
+        "zh-CN": "途乐",
+        "zh-TW": "Patrol",
+        "ja": "パトロール"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:nissan:frontier",
       "brand": "Nissan",
-      "names": {"en": "Frontier", "zh-CN": "Frontier", "zh-TW": "Frontier", "ja": "フロンティア"},
+      "names": {
+        "en": "Frontier",
+        "zh-CN": "Frontier",
+        "zh-TW": "Frontier",
+        "ja": "フロンティア"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:nissan:navara",
       "brand": "Nissan",
-      "names": {"en": "Navara", "zh-CN": "纳瓦拉", "zh-TW": "Navara", "ja": "ナバラ"},
+      "names": {
+        "en": "Navara",
+        "zh-CN": "纳瓦拉",
+        "zh-TW": "Navara",
+        "ja": "ナバラ"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:nissan:z",
       "brand": "Nissan",
-      "names": {"en": "Z", "zh-CN": "Z", "zh-TW": "Z", "ja": "フェアレディZ"},
+      "names": {
+        "en": "Z",
+        "zh-CN": "Z",
+        "zh-TW": "Z",
+        "ja": "フェアレディZ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:nissan:elgrand",
       "brand": "Nissan",
-      "names": {"en": "Elgrand", "zh-CN": "Elgrand", "zh-TW": "Elgrand", "ja": "エルグランド"},
+      "names": {
+        "en": "Elgrand",
+        "zh-CN": "Elgrand",
+        "zh-TW": "Elgrand",
+        "ja": "エルグランド"
+      },
       "segment": "class:eu:m",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:nissan:march",
       "brand": "Nissan",
-      "names": {"en": "March / Micra", "zh-CN": "玛驰(大陆已停)", "zh-TW": "March", "ja": "マーチ"},
+      "names": {
+        "en": "March / Micra",
+        "zh-CN": "玛驰(大陆已停)",
+        "zh-TW": "March",
+        "ja": "マーチ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:nissan:gt-r",
       "brand": "Nissan",
-      "names": {"en": "GT-R", "zh-CN": "GT-R(战神)", "zh-TW": "GT-R", "ja": "GT-R(ジーティーアール)"},
+      "names": {
+        "en": "GT-R",
+        "zh-CN": "GT-R(战神)",
+        "zh-TW": "GT-R",
+        "ja": "GT-R(ジーティーアール)"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:nissan:maxima",
       "brand": "Nissan",
-      "names": {"en": "Maxima", "zh-CN": "西玛", "zh-TW": "Maxima", "ja": "マキシマ"},
+      "names": {
+        "en": "Maxima",
+        "zh-CN": "西玛",
+        "zh-TW": "Maxima",
+        "ja": "マキシマ"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:nissan:titan",
       "brand": "Nissan",
-      "names": {"en": "Titan", "zh-CN": "Titan", "zh-TW": "Titan", "ja": "タイタン"},
+      "names": {
+        "en": "Titan",
+        "zh-CN": "Titan",
+        "zh-TW": "Titan",
+        "ja": "タイタン"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:nissan:cedric",
       "brand": "Nissan",
-      "names": {"en": "Cedric", "zh-CN": "公爵", "zh-TW": "Cedric", "ja": "セドリック"},
+      "names": {
+        "en": "Cedric",
+        "zh-CN": "公爵",
+        "zh-TW": "Cedric",
+        "ja": "セドリック"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:nissan:cefiro",
       "brand": "Nissan",
-      "names": {"en": "Cefiro", "zh-CN": "风度", "zh-TW": "Cefiro(風度)", "ja": "セフィーロ"},
+      "names": {
+        "en": "Cefiro",
+        "zh-CN": "风度",
+        "zh-TW": "Cefiro(風度)",
+        "ja": "セフィーロ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:nissan:laurel",
       "brand": "Nissan",
-      "names": {"en": "Laurel", "zh-CN": "Laurel", "zh-TW": "Laurel", "ja": "ローレル"},
+      "names": {
+        "en": "Laurel",
+        "zh-CN": "Laurel",
+        "zh-TW": "Laurel",
+        "ja": "ローレル"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:nissan:bluebird",
       "brand": "Nissan",
-      "names": {"en": "Bluebird", "zh-CN": "蓝鸟", "zh-TW": "Bluebird(青鳥)", "ja": "ブルーバード"},
+      "names": {
+        "en": "Bluebird",
+        "zh-CN": "蓝鸟",
+        "zh-TW": "Bluebird(青鳥)",
+        "ja": "ブルーバード"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:nissan:sunny",
       "brand": "Nissan",
-      "names": {"en": "Sunny", "zh-CN": "阳光", "zh-TW": "Sunny(太陽)", "ja": "サニー"},
+      "names": {
+        "en": "Sunny",
+        "zh-CN": "阳光",
+        "zh-TW": "Sunny(太陽)",
+        "ja": "サニー"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:nissan:silvia",
       "brand": "Nissan",
-      "names": {"en": "Silvia", "zh-CN": "Silvia", "zh-TW": "Silvia", "ja": "シルビア"},
+      "names": {
+        "en": "Silvia",
+        "zh-CN": "Silvia",
+        "zh-TW": "Silvia",
+        "ja": "シルビア"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -375,7 +530,12 @@
     {
       "id": "model:nissan:president",
       "brand": "Nissan",
-      "names": {"en": "President", "zh-CN": "President", "zh-TW": "President", "ja": "プレジデント"},
+      "names": {
+        "en": "President",
+        "zh-CN": "President",
+        "zh-TW": "President",
+        "ja": "プレジデント"
+      },
       "segment": "class:cn:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:nissan:tiida",
       "brand": "Nissan",
-      "names": {"en": "Tiida", "zh-CN": "骐达(两厢)/颐达(三厢)", "zh-TW": "Tiida", "ja": "ティーダ"},
+      "names": {
+        "en": "Tiida",
+        "zh-CN": "骐达(两厢)/颐达(三厢)",
+        "zh-TW": "Tiida",
+        "ja": "ティーダ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:nissan:cube",
       "brand": "Nissan",
-      "names": {"en": "Cube", "zh-CN": "Cube", "zh-TW": "Cube", "ja": "キューブ"},
+      "names": {
+        "en": "Cube",
+        "zh-CN": "Cube",
+        "zh-TW": "Cube",
+        "ja": "キューブ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -411,19 +581,29 @@
     {
       "id": "model:nissan:gloria",
       "brand": "Nissan",
-      "names": {"en": "Gloria", "zh-CN": "Gloria(大陆无通行译名)", "zh-TW": "Gloria", "ja": "グロリア"},
+      "names": {
+        "en": "Gloria",
+        "zh-CN": "Gloria(大陆无通行译名)",
+        "zh-TW": "Gloria",
+        "ja": "グロリア"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "1960–2004",
-      "note": "与姊妹车 Cedric 同为日产行政级轿车(Gloria 承 Prince 血脉);2004 年与 Cedric 同时停产,后继 Fuga(参考日产官方历史/维基)",
-      "verified": "pending"
+      "years": "1959-2004",
+      "note": "Gloria(1959-2004),日产行政级轿车(承Prince血脉),与Cedric为姊妹车,2004年停产,后继Fuga",
+      "verified": "verified"
     },
     {
       "id": "model:nissan:cherry",
       "brand": "Nissan",
-      "names": {"en": "Cherry", "zh-CN": "Cherry", "zh-TW": "Cherry", "ja": "チェリー"},
+      "names": {
+        "en": "Cherry",
+        "zh-CN": "Cherry",
+        "zh-TW": "Cherry",
+        "ja": "チェリー"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:nissan:pulsar",
       "brand": "Nissan",
-      "names": {"en": "Pulsar", "zh-CN": "Pulsar", "zh-TW": "Pulsar", "ja": "パルサー"},
+      "names": {
+        "en": "Pulsar",
+        "zh-CN": "Pulsar",
+        "zh-TW": "Pulsar",
+        "ja": "パルサー"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -447,7 +632,12 @@
     {
       "id": "model:nissan:be-1",
       "brand": "Nissan",
-      "names": {"en": "Be-1", "zh-CN": "Be-1", "zh-TW": "Be-1", "ja": "ビー1"},
+      "names": {
+        "en": "Be-1",
+        "zh-CN": "Be-1",
+        "zh-TW": "Be-1",
+        "ja": "ビー1"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -459,7 +649,12 @@
     {
       "id": "model:nissan:pao",
       "brand": "Nissan",
-      "names": {"en": "Pao", "zh-CN": "Pao", "zh-TW": "Pao", "ja": "パオ"},
+      "names": {
+        "en": "Pao",
+        "zh-CN": "Pao",
+        "zh-TW": "Pao",
+        "ja": "パオ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -471,7 +666,12 @@
     {
       "id": "model:nissan:figaro",
       "brand": "Nissan",
-      "names": {"en": "Figaro", "zh-CN": "Figaro", "zh-TW": "Figaro", "ja": "フィガロ"},
+      "names": {
+        "en": "Figaro",
+        "zh-CN": "Figaro",
+        "zh-TW": "Figaro",
+        "ja": "フィガロ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -483,7 +683,12 @@
     {
       "id": "model:nissan:s-cargo",
       "brand": "Nissan",
-      "names": {"en": "S-Cargo", "zh-CN": "S-Cargo", "zh-TW": "S-Cargo", "ja": "エスカルゴ"},
+      "names": {
+        "en": "S-Cargo",
+        "zh-CN": "S-Cargo",
+        "zh-TW": "S-Cargo",
+        "ja": "エスカルゴ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -495,7 +700,12 @@
     {
       "id": "model:nissan:primera",
       "brand": "Nissan",
-      "names": {"en": "Primera", "zh-CN": "Primera", "zh-TW": "Primera", "ja": "プリメーラ"},
+      "names": {
+        "en": "Primera",
+        "zh-CN": "Primera",
+        "zh-TW": "Primera",
+        "ja": "プリメーラ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -507,19 +717,29 @@
     {
       "id": "model:nissan:cima",
       "brand": "Nissan",
-      "names": {"en": "Cima", "zh-CN": "Cima", "zh-TW": "Cima", "ja": "シーマ"},
+      "names": {
+        "en": "Cima",
+        "zh-CN": "Cima",
+        "zh-TW": "Cima",
+        "ja": "シーマ"
+      },
       "segment": "class:cn:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "1988–2022",
-      "note": "日产豪华旗舰轿车,北美以英菲尼迪 Q45 销售;2010 年停产后 2012 年以 Skyline 高级版复产,故年份含中断(参考维基)",
-      "verified": "pending"
+      "years": "1988-2010",
+      "note": "Cima(1988-2010),日产豪华旗舰轿车,北美以英菲尼迪Q45销售,2010年停产后2012年以Skyline高级版复产",
+      "verified": "verified"
     },
     {
       "id": "model:nissan:fuga",
       "brand": "Nissan",
-      "names": {"en": "Fuga", "zh-CN": "风雅", "zh-TW": "Fuga(風雅)", "ja": "フーガ"},
+      "names": {
+        "en": "Fuga",
+        "zh-CN": "风雅",
+        "zh-TW": "Fuga(風雅)",
+        "ja": "フーガ"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -531,19 +751,29 @@
     {
       "id": "model:nissan:terrano",
       "brand": "Nissan",
-      "names": {"en": "Terrano", "zh-CN": "Terrano", "zh-TW": "Terrano", "ja": "テラノ"},
+      "names": {
+        "en": "Terrano",
+        "zh-CN": "Terrano",
+        "zh-TW": "Terrano",
+        "ja": "テラノ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "1986–2002",
-      "note": "日产紧凑/中型 SUV(与 Pathfinder 同平台);日本 1986–2002,欧洲 Terrano II 至 2006;2012–2022 俄/印市场以 Dacia Duster 贴牌续用此名,年份待核实",
-      "verified": "pending"
+      "years": "1986-2022",
+      "note": "Terrano(1986-2022),日产紧凑/中型SUV(与Pathfinder同平台);日本1986-2002,欧洲Terrano II至2006;2012-2022俄/印市场以Dacia Duster贴牌续用此名",
+      "verified": "verified"
     },
     {
       "id": "model:nissan:rasheen",
       "brand": "Nissan",
-      "names": {"en": "Rasheen", "zh-CN": "Rasheen", "zh-TW": "Rasheen", "ja": "ラシーン"},
+      "names": {
+        "en": "Rasheen",
+        "zh-CN": "Rasheen",
+        "zh-TW": "Rasheen",
+        "ja": "ラシーン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -555,7 +785,12 @@
     {
       "id": "model:nissan:dayz",
       "brand": "Nissan",
-      "names": {"en": "Dayz", "zh-CN": "Dayz", "zh-TW": "Dayz", "ja": "デイズ"},
+      "names": {
+        "en": "Dayz",
+        "zh-CN": "Dayz",
+        "zh-TW": "Dayz",
+        "ja": "デイズ"
+      },
       "segment": "class:jp:kei",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -567,7 +802,12 @@
     {
       "id": "model:nissan:caravan",
       "brand": "Nissan",
-      "names": {"en": "Caravan / Urvan", "zh-CN": "Caravan", "zh-TW": "Caravan", "ja": "キャラバン"},
+      "names": {
+        "en": "Caravan / Urvan",
+        "zh-CN": "Caravan",
+        "zh-TW": "Caravan",
+        "ja": "キャラバン"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -579,7 +819,12 @@
     {
       "id": "model:nissan:nv200",
       "brand": "Nissan",
-      "names": {"en": "NV200 / e-NV200", "zh-CN": "NV200", "zh-TW": "NV200", "ja": "NV200バネット"},
+      "names": {
+        "en": "NV200 / e-NV200",
+        "zh-CN": "NV200",
+        "zh-TW": "NV200",
+        "ja": "NV200バネット"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -591,7 +836,12 @@
     {
       "id": "model:nissan:datsun-truck",
       "brand": "Nissan",
-      "names": {"en": "Datsun Truck", "zh-CN": "Datsun 皮卡", "zh-TW": "Datsun Truck", "ja": "ダットサントラック"},
+      "names": {
+        "en": "Datsun Truck",
+        "zh-CN": "Datsun 皮卡",
+        "zh-TW": "Datsun Truck",
+        "ja": "ダットサントラック"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -603,7 +853,12 @@
     {
       "id": "model:nissan:datsun-go",
       "brand": "Nissan",
-      "names": {"en": "Datsun Go", "zh-CN": "Datsun Go", "zh-TW": "Datsun Go", "ja": "ダットサン・ゴー"},
+      "names": {
+        "en": "Datsun Go",
+        "zh-CN": "Datsun Go",
+        "zh-TW": "Datsun Go",
+        "ja": "ダットサン・ゴー"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -615,7 +870,12 @@
     {
       "id": "model:nissan:leopard",
       "brand": "Nissan",
-      "names": {"en": "Leopard", "zh-CN": "Leopard", "zh-TW": "Leopard", "ja": "レパード"},
+      "names": {
+        "en": "Leopard",
+        "zh-CN": "Leopard",
+        "zh-TW": "Leopard",
+        "ja": "レパード"
+      },
       "segment": "class:cn:c",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -627,7 +887,12 @@
     {
       "id": "model:nissan:stanza",
       "brand": "Nissan",
-      "names": {"en": "Stanza", "zh-CN": "Stanza", "zh-TW": "Stanza", "ja": "スタンザ"},
+      "names": {
+        "en": "Stanza",
+        "zh-CN": "Stanza",
+        "zh-TW": "Stanza",
+        "ja": "スタンザ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -639,7 +904,12 @@
     {
       "id": "model:nissan:paladin",
       "brand": "Nissan",
-      "names": {"en": "Paladin", "zh-CN": "帕拉丁", "zh-TW": "Paladin", "ja": "—"},
+      "names": {
+        "en": "Paladin",
+        "zh-CN": "帕拉丁",
+        "zh-TW": "Paladin",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -651,31 +921,46 @@
     {
       "id": "model:nissan:quest",
       "brand": "Nissan",
-      "names": {"en": "Quest", "zh-CN": "贵士", "zh-TW": "Quest", "ja": "クエスト"},
+      "names": {
+        "en": "Quest",
+        "zh-CN": "贵士",
+        "zh-TW": "Quest",
+        "ja": "クエスト"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
-      "status": "current",
-      "years": "2004–present",
-      "note": "日产进口中大型MPV,大陆曾以「贵士」销售;北美版实际已停产,年份/状态待核实",
-      "verified": "pending"
+      "status": "discontinued",
+      "years": "1992-2017",
+      "note": "贵士(Quest,1992-2017),日产进口中大型MPV,大陆曾以贵士销售,2017年停产",
+      "verified": "verified"
     },
     {
       "id": "model:nissan:terra",
       "brand": "Nissan",
-      "names": {"en": "Terra", "zh-CN": "途达", "zh-TW": "Terra", "ja": "—"},
+      "names": {
+        "en": "Terra",
+        "zh-CN": "途达",
+        "zh-TW": "Terra",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2018–present",
-      "note": "郑州日产生产、东风日产销售的中型硬派SUV,与Navara(D23)同平台",
-      "verified": "pending"
+      "years": "2018-present",
+      "note": "途达(Terra,2018-),郑州日产生产、东风日产销售的中型硬派SUV,与Navara(D23)同平台",
+      "verified": "verified"
     },
     {
       "id": "model:nissan:livina",
       "brand": "Nissan",
-      "names": {"en": "Livina", "zh-CN": "骊威", "zh-TW": "Livina", "ja": "—"},
+      "names": {
+        "en": "Livina",
+        "zh-CN": "骊威",
+        "zh-TW": "Livina",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -683,6 +968,384 @@
       "years": "2007–2020",
       "note": "东风日产紧凑两厢/MPV,2020年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:nissan:sentra",
+      "brand": "Nissan",
+      "names": {
+        "en": "Sentra",
+        "zh-CN": "Sentra",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1982-present",
+      "note": "Sentra(1982-),日产紧凑型轿车(北美市场);中国版名轩逸(Sylphy)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:nissan:nissan-zn",
+      "brand": "Nissan",
+      "names": {
+        "en": "ZN Van",
+        "zh-CN": "ZN厢式车",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005-2015",
+      "note": "ZN厢式车(2005-2015),郑州日产轻型厢式车",
+      "verified": "verified",
+      "en": "ZN Van",
+      "zh-CN": "ZN厢式车"
+    },
+    {
+      "id": "model:nissan:350z",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan 350Z",
+        "zh-CN": "日产350Z",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002-2008",
+      "note": "350Z(Z33,2002-2008),日产Z系列跑车,2008年由370Z接替",
+      "verified": "verified",
+      "en": "350Z",
+      "zh-CN": "日产350Z"
+    },
+    {
+      "id": "model:nissan:370z",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan 370Z",
+        "zh-CN": "日产370Z",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2020",
+      "note": "370Z(Z34,2008-2020),日产Z系列跑车,2020年停产,后继Z(400Z)",
+      "verified": "verified",
+      "en": "370Z",
+      "zh-CN": "日产370Z"
+    },
+    {
+      "id": "model:nissan:d22",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan D22",
+        "zh-CN": "日产D22",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1997-2015",
+      "note": "日产D22(1997-2015),郑州日产Navara前身皮卡,2015年停产",
+      "verified": "verified",
+      "en": "D22",
+      "zh-CN": "日产D22"
+    },
+    {
+      "id": "model:nissan:magnite",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan MAGNITE",
+        "zh-CN": "日产MAGNITE",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020-present",
+      "note": "MAGNITE(2020-),日产印度市场小型SUV",
+      "verified": "verified",
+      "en": "MAGNITE",
+      "zh-CN": "日产MAGNITE(未引入)"
+    },
+    {
+      "id": "model:nissan:nissan-n6",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan N6",
+        "zh-CN": "日产N6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "日产N6(2025-),东风日产中国特供纯电轿车",
+      "verified": "verified",
+      "en": "N6",
+      "zh-CN": "日产N6"
+    },
+    {
+      "id": "model:nissan:nissan-n7",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan N7",
+        "zh-CN": "日产N7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "日产N7(2025-),东风日产中国特供纯电轿车",
+      "verified": "verified",
+      "en": "N7",
+      "zh-CN": "日产N7"
+    },
+    {
+      "id": "model:nissan:nv200-2",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan NV200",
+        "zh-CN": "日产NV200",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2009-present",
+      "note": "NV200(2009-),日产紧凑型厢式车,郑州日产生产;2020年停产Evalia版",
+      "verified": "verified",
+      "en": "NV200",
+      "zh-CN": "日产NV200"
+    },
+    {
+      "id": "model:nissan:nv300",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan NV300",
+        "zh-CN": "日产NV300",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016-2022",
+      "note": "NV300(2016-2022),雷诺Trafic贴牌,欧洲市场,2022年停产",
+      "verified": "verified",
+      "en": "NV300",
+      "zh-CN": "日产NV300(未引入)"
+    },
+    {
+      "id": "model:nissan:nv3500",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan NV3500",
+        "zh-CN": "日产NV3500",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:d",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011-2021",
+      "note": "NV3500(2011-2021),日产北美大型厢式车(与NV2500/NV1500同系),2021年停产",
+      "verified": "verified",
+      "en": "NV3500",
+      "zh-CN": "日产NV3500(未引入)"
+    },
+    {
+      "id": "model:nissan:nx8",
+      "brand": "Nissan",
+      "names": {
+        "en": "Nissan NX8",
+        "zh-CN": "日产NX8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2026-present",
+      "note": "日产NX8(2026-),东风日产中国特供中大型SUV(增程/纯电)",
+      "verified": "verified",
+      "en": "NX8",
+      "zh-CN": "日产NX8"
+    },
+    {
+      "id": "model:nissan:4a857eaca8",
+      "brand": "Nissan",
+      "names": {
+        "en": "March",
+        "zh-CN": "玛驰",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1982-2022",
+      "note": "玛驰(March,1982-2022),日产微型车(欧洲名Micra),中国曾国产(2010-2015),2022年停产",
+      "verified": "verified",
+      "en": "March",
+      "zh-CN": "玛驰"
+    },
+    {
+      "id": "model:nissan:982b7a329a",
+      "brand": "Nissan",
+      "names": {
+        "en": "Civilian",
+        "zh-CN": "碧莲",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1971-present",
+      "note": "碧莲(Civilian,1971-),日产中巴客车,中国以进口形式销售",
+      "verified": "verified",
+      "en": "Civilian",
+      "zh-CN": "碧莲"
+    },
+    {
+      "id": "model:nissan:46ea844fcf",
+      "brand": "Nissan",
+      "names": {
+        "en": "Bluebird Sylphy",
+        "zh-CN": "蓝鸟·印象",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015-2020",
+      "note": "蓝鸟·印象(2015-2020),东风日产紧凑型轿车(LANNA),2020年停产",
+      "verified": "verified",
+      "en": "Bluebird Sylphy",
+      "zh-CN": "蓝鸟·印象"
+    },
+    {
+      "id": "model:nissan:b19701155d",
+      "brand": "Nissan",
+      "names": {
+        "en": "Bluebird Classic",
+        "zh-CN": "蓝鸟经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2000-2004",
+      "note": "蓝鸟经典(2000-2004),日产蓝鸟(U13)中国国产版,2004年停产",
+      "verified": "verified",
+      "en": "Bluebird Classic",
+      "zh-CN": "蓝鸟经典"
+    },
+    {
+      "id": "model:nissan:c811ab570a",
+      "brand": "Nissan",
+      "names": {
+        "en": "Sylphy EV",
+        "zh-CN": "轩逸·纯电",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2018-present",
+      "note": "轩逸·纯电(2018-),东风日产轩逸纯电版",
+      "verified": "verified",
+      "en": "Sylphy EV",
+      "zh-CN": "轩逸·纯电"
+    },
+    {
+      "id": "model:nissan:frontier-pro",
+      "brand": "Nissan",
+      "names": {
+        "en": "Frontier Pro",
+        "zh-CN": "锋坦Frontier Pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "锋坦Frontier Pro(2025-),郑州日产中型皮卡(汽油/柴油)",
+      "verified": "verified",
+      "en": "Frontier Pro",
+      "zh-CN": "锋坦Frontier Pro"
+    },
+    {
+      "id": "model:nissan:frontier-pro-phev",
+      "brand": "Nissan",
+      "names": {
+        "en": "Frontier Pro Frontier Pro PHEV",
+        "zh-CN": "锋坦Frontier Pro PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2026-present",
+      "note": "锋坦Frontier Pro PHEV(2026-),郑州日产皮卡插混版",
+      "verified": "verified",
+      "en": "Frontier Pro PHEV",
+      "zh-CN": "锋坦Frontier Pro PHEV"
+    },
+    {
+      "id": "model:nissan:e97300071d",
+      "brand": "Nissan",
+      "names": {
+        "en": "Grand Livina",
+        "zh-CN": "骏逸",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2013",
+      "note": "骏逸(Grand Livina,2006-2013),日产紧凑型MPV,郑州日产生产,2013年停产",
+      "verified": "verified",
+      "en": "Grand Livina",
+      "zh-CN": "骏逸"
     }
   ]
 }

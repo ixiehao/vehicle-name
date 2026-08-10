@@ -3,7 +3,12 @@
     {
       "id": "model:gonow:xinglang",
       "brand": "Gonow",
-      "names": {"en": "Gonow Xinglang", "zh-CN": "吉奥星朗", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Gonow Xinglang",
+        "zh-CN": "吉奥星朗",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:gonow:shuaibao",
       "brand": "Gonow",
-      "names": {"en": "Gonow Shuaibao", "zh-CN": "吉奥帅豹", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Gonow Shuaibao",
+        "zh-CN": "吉奥帅豹",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:gonow:aoxuan-g5",
       "brand": "Gonow",
-      "names": {"en": "Gonow Aoxuan G5", "zh-CN": "吉奥奥轩G5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Gonow Aoxuan G5",
+        "zh-CN": "吉奥奥轩G5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:gonow:aoxuan-gx5",
       "brand": "Gonow",
-      "names": {"en": "Gonow Aoxuan GX5", "zh-CN": "吉奥奥轩GX5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Gonow Aoxuan GX5",
+        "zh-CN": "吉奥奥轩GX5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -47,6 +67,265 @@
       "years": "2012–2015",
       "note": "吉奥奥轩GX5中型SUV,2012年上市,奥轩G5的改款车型",
       "verified": "verified"
+    },
+    {
+      "id": "model:gonow:gonow-e",
+      "brand": "Gonow",
+      "names": {
+        "en": "E-Mei",
+        "zh-CN": "E美",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2016",
+      "note": "E美(2014-2016),广汽吉奥首款轿车,与传祺GA3同平台,厂家线上直销",
+      "verified": "verified",
+      "en": "Gonow E-Mei",
+      "zh-TW": "E美"
+    },
+    {
+      "id": "model:gonow:b2e8848af8",
+      "brand": "Gonow",
+      "names": {
+        "en": "Kairui",
+        "zh-CN": "凯睿",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2011",
+      "note": "凯睿(2006-),吉奥紧凑型SUV,2009款在售",
+      "verified": "verified",
+      "en": "Gonow Kairui",
+      "zh-TW": "凱睿"
+    },
+    {
+      "id": "model:gonow:bcf9bb52a2",
+      "brand": "Gonow",
+      "names": {
+        "en": "Gonow Kaixuan",
+        "zh-CN": "吉奥凯旋",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2010",
+      "note": "凯旋,吉奥早期SUV车型",
+      "verified": "verified",
+      "en": "Gonow Kaixuan",
+      "zh-TW": "凱旋"
+    },
+    {
+      "id": "model:gonow:c5f311c425",
+      "brand": "Gonow",
+      "names": {
+        "en": "Shuaiwei",
+        "zh-CN": "帅威",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2008",
+      "note": "帅威(2004-),吉奥早期SUV,2004年12月上市",
+      "verified": "verified",
+      "en": "Gonow Shuaiwei",
+      "zh-TW": "帥威"
+    },
+    {
+      "id": "model:gonow:gp150",
+      "brand": "Gonow",
+      "names": {
+        "en": "Gonow GP150",
+        "zh-CN": "广汽吉奥GP150",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2016",
+      "note": "GP150(2014-2016),广汽吉奥皮卡,2014年11月上市",
+      "verified": "verified",
+      "zh-TW": "GP150"
+    },
+    {
+      "id": "model:gonow:gx6",
+      "brand": "Gonow",
+      "names": {
+        "en": "Gonow GX6",
+        "zh-CN": "广汽吉奥GX6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2016",
+      "note": "GX6(2014-2016),广汽吉奥中型SUV,2014年10月上市",
+      "verified": "verified",
+      "zh-TW": "GX6"
+    },
+    {
+      "id": "model:gonow:819098c1fd",
+      "brand": "Gonow",
+      "names": {
+        "en": "Xingwang",
+        "zh-CN": "星旺",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2016",
+      "note": "星旺(2010-2016),吉奥微面,载人载货两用",
+      "verified": "verified",
+      "zh-TW": "星旺"
+    },
+    {
+      "id": "model:gonow:gonow-cl",
+      "brand": "Gonow",
+      "names": {
+        "en": "Xingwang CL",
+        "zh-CN": "星旺CL",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2016",
+      "note": "星旺CL,星旺微面改款版",
+      "verified": "verified",
+      "zh-TW": "星旺CL"
+    },
+    {
+      "id": "model:gonow:gonow-l",
+      "brand": "Gonow",
+      "names": {
+        "en": "Xingwang L",
+        "zh-CN": "星旺L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "星旺L,星旺微面加长版",
+      "verified": "verified",
+      "zh-TW": "星旺L"
+    },
+    {
+      "id": "model:gonow:gonow-m1",
+      "brand": "Gonow",
+      "names": {
+        "en": "Xingwang M1",
+        "zh-CN": "星旺M1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2016",
+      "note": "星旺M1(2012-),星旺微面系列",
+      "verified": "verified",
+      "zh-TW": "星旺M1"
+    },
+    {
+      "id": "model:gonow:gonow-m2",
+      "brand": "Gonow",
+      "names": {
+        "en": "Xingwang M2",
+        "zh-CN": "星旺M2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "星旺M2,星旺微面系列",
+      "verified": "verified",
+      "zh-TW": "星旺M2"
+    },
+    {
+      "id": "model:gonow:100",
+      "brand": "Gonow",
+      "names": {
+        "en": "Caiyun 100",
+        "zh-CN": "财运100",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2014",
+      "note": "财运100,吉奥财运系列皮卡",
+      "verified": "verified",
+      "en": "Gonow Caiyun 100",
+      "zh-TW": "財運100"
+    },
+    {
+      "id": "model:gonow:300",
+      "brand": "Gonow",
+      "names": {
+        "en": "Caiyun 300",
+        "zh-CN": "财运300",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2014",
+      "note": "财运300,吉奥财运系列皮卡",
+      "verified": "verified",
+      "en": "Gonow Caiyun 300",
+      "zh-TW": "財運300"
+    },
+    {
+      "id": "model:gonow:500",
+      "brand": "Gonow",
+      "names": {
+        "en": "Caiyun 500",
+        "zh-CN": "财运500",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2014",
+      "note": "财运500,吉奥财运系列皮卡",
+      "verified": "verified",
+      "en": "Gonow Caiyun 500",
+      "zh-TW": "財運500"
     }
   ]
 }

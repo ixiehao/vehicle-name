@@ -3,7 +3,12 @@
     {
       "id": "model:renault:clio",
       "brand": "Renault",
-      "names": {"en": "Clio", "zh-CN": "Clio", "zh-TW": "Clio", "ja": "クリオ"},
+      "names": {
+        "en": "Clio",
+        "zh-CN": "Clio",
+        "zh-TW": "Clio",
+        "ja": "クリオ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:renault:captur",
       "brand": "Renault",
-      "names": {"en": "Captur", "zh-CN": "科雷缤", "zh-TW": "Captur", "ja": "キャプチャー"},
+      "names": {
+        "en": "Captur",
+        "zh-CN": "科雷缤",
+        "zh-TW": "Captur",
+        "ja": "キャプチャー"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:renault:megane",
       "brand": "Renault",
-      "names": {"en": "Mégane", "zh-CN": "梅甘娜", "zh-TW": "Megane", "ja": "メガーヌ"},
+      "names": {
+        "en": "Mégane",
+        "zh-CN": "梅甘娜",
+        "zh-TW": "Megane",
+        "ja": "メガーヌ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:renault:scenic",
       "brand": "Renault",
-      "names": {"en": "Scénic", "zh-CN": "风景", "zh-TW": "Scenic", "ja": "セニック"},
+      "names": {
+        "en": "Scénic",
+        "zh-CN": "风景",
+        "zh-TW": "Scenic",
+        "ja": "セニック"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:renault:espace",
       "brand": "Renault",
-      "names": {"en": "Espace", "zh-CN": "Espace(太空)", "zh-TW": "Espace", "ja": "エスパース"},
+      "names": {
+        "en": "Espace",
+        "zh-CN": "Espace(太空)",
+        "zh-TW": "Espace",
+        "ja": "エスパース"
+      },
       "segment": "class:eu:d",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:renault:austral",
       "brand": "Renault",
-      "names": {"en": "Austral", "zh-CN": "Austral", "zh-TW": "Austral", "ja": "オーストラル"},
+      "names": {
+        "en": "Austral",
+        "zh-CN": "Austral",
+        "zh-TW": "Austral",
+        "ja": "オーストラル"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:renault:rafale",
       "brand": "Renault",
-      "names": {"en": "Rafale", "zh-CN": "Rafale", "zh-TW": "Rafale", "ja": "ラファール"},
+      "names": {
+        "en": "Rafale",
+        "zh-CN": "Rafale",
+        "zh-TW": "Rafale",
+        "ja": "ラファール"
+      },
       "segment": "class:eu:d",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:renault:symbioz",
       "brand": "Renault",
-      "names": {"en": "Symbioz", "zh-CN": "Symbioz", "zh-TW": "Symbioz", "ja": "サンビオズ"},
+      "names": {
+        "en": "Symbioz",
+        "zh-CN": "Symbioz",
+        "zh-TW": "Symbioz",
+        "ja": "サンビオズ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:renault:koleos",
       "brand": "Renault",
-      "names": {"en": "Koleos", "zh-CN": "科雷傲", "zh-TW": "Koleos", "ja": "コレオス"},
+      "names": {
+        "en": "Koleos",
+        "zh-CN": "科雷傲",
+        "zh-TW": "Koleos",
+        "ja": "コレオス"
+      },
       "segment": "class:eu:d",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:renault:kangoo",
       "brand": "Renault",
-      "names": {"en": "Kangoo", "zh-CN": "Kangoo", "zh-TW": "Kangoo", "ja": "カングー"},
+      "names": {
+        "en": "Kangoo",
+        "zh-CN": "Kangoo",
+        "zh-TW": "Kangoo",
+        "ja": "カングー"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:renault:trafic",
       "brand": "Renault",
-      "names": {"en": "Trafic", "zh-CN": "Trafic", "zh-TW": "Trafic", "ja": "トラフィック"},
+      "names": {
+        "en": "Trafic",
+        "zh-CN": "Trafic",
+        "zh-TW": "Trafic",
+        "ja": "トラフィック"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:renault:master",
       "brand": "Renault",
-      "names": {"en": "Master", "zh-CN": "Master", "zh-TW": "Master", "ja": "マスター"},
+      "names": {
+        "en": "Master",
+        "zh-CN": "Master",
+        "zh-TW": "Master",
+        "ja": "マスター"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:renault:5-e-tech",
       "brand": "Renault",
-      "names": {"en": "5 E-Tech", "zh-CN": "5 E-Tech(雷诺5)", "zh-TW": "5 E-Tech", "ja": "5 E-Tech"},
+      "names": {
+        "en": "5 E-Tech",
+        "zh-CN": "5 E-Tech(雷诺5)",
+        "zh-TW": "5 E-Tech",
+        "ja": "5 E-Tech"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -159,7 +224,12 @@
     {
       "id": "model:renault:4-e-tech",
       "brand": "Renault",
-      "names": {"en": "4 E-Tech", "zh-CN": "4 E-Tech(雷诺4)", "zh-TW": "4 E-Tech", "ja": "4 E-Tech"},
+      "names": {
+        "en": "4 E-Tech",
+        "zh-CN": "4 E-Tech(雷诺4)",
+        "zh-TW": "4 E-Tech",
+        "ja": "4 E-Tech"
+      },
       "segment": "class:eu:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -171,7 +241,12 @@
     {
       "id": "model:renault:zoe",
       "brand": "Renault",
-      "names": {"en": "Zoe", "zh-CN": "Zoe", "zh-TW": "Zoe", "ja": "ゾエ"},
+      "names": {
+        "en": "Zoe",
+        "zh-CN": "Zoe",
+        "zh-TW": "Zoe",
+        "ja": "ゾエ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -183,7 +258,12 @@
     {
       "id": "model:renault:twizy",
       "brand": "Renault",
-      "names": {"en": "Twizy", "zh-CN": "Twizy", "zh-TW": "Twizy", "ja": "トゥイジー"},
+      "names": {
+        "en": "Twizy",
+        "zh-CN": "Twizy",
+        "zh-TW": "Twizy",
+        "ja": "トゥイジー"
+      },
       "segment": "class:eu:a",
       "body_style": "body:quadricycle",
       "powertrain": "pt:bev",
@@ -195,7 +275,12 @@
     {
       "id": "model:renault:arkana",
       "brand": "Renault",
-      "names": {"en": "Arkana", "zh-CN": "Arkana", "zh-TW": "Arkana", "ja": "アルカナ"},
+      "names": {
+        "en": "Arkana",
+        "zh-CN": "Arkana",
+        "zh-TW": "Arkana",
+        "ja": "アルカナ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:renault:kadjar",
       "brand": "Renault",
-      "names": {"en": "Kadjar", "zh-CN": "科雷嘉", "zh-TW": "Kadjar", "ja": "キャジャー"},
+      "names": {
+        "en": "Kadjar",
+        "zh-CN": "科雷嘉",
+        "zh-TW": "Kadjar",
+        "ja": "キャジャー"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:renault:talisman",
       "brand": "Renault",
-      "names": {"en": "Talisman", "zh-CN": "塔利斯曼", "zh-TW": "Talisman", "ja": "タリスマン"},
+      "names": {
+        "en": "Talisman",
+        "zh-CN": "塔利斯曼",
+        "zh-TW": "Talisman",
+        "ja": "タリスマン"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:renault:laguna",
       "brand": "Renault",
-      "names": {"en": "Laguna", "zh-CN": "拉古那", "zh-TW": "Laguna", "ja": "ラグナ"},
+      "names": {
+        "en": "Laguna",
+        "zh-CN": "拉古那",
+        "zh-TW": "Laguna",
+        "ja": "ラグナ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:renault:twingo",
       "brand": "Renault",
-      "names": {"en": "Twingo", "zh-CN": "Twingo", "zh-TW": "Twingo", "ja": "トゥインゴ"},
+      "names": {
+        "en": "Twingo",
+        "zh-CN": "Twingo",
+        "zh-TW": "Twingo",
+        "ja": "トゥインゴ"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:renault:fluence",
       "brand": "Renault",
-      "names": {"en": "Fluence", "zh-CN": "风朗", "zh-TW": "Fluence", "ja": "—"},
+      "names": {
+        "en": "Fluence",
+        "zh-CN": "风朗",
+        "zh-TW": "Fluence",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -263,6 +373,139 @@
       "years": "2011–2018",
       "note": "紧凑型轿车,以进口形式引入中国,名「风朗」;2018年前后停售",
       "verified": "verified"
+    },
+    {
+      "id": "model:renault:duster",
+      "brand": "Renault",
+      "names": {
+        "en": "Duster",
+        "zh-CN": "Duster",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2010–present",
+      "note": "Duster(2010-),雷诺-日产联盟低成本紧凑SUV,南美/东欧/印度市场,中国未销售",
+      "verified": "verified",
+      "zh-TW": "Duster",
+      "ja": "ダスター"
+    },
+    {
+      "id": "model:renault:duster-oroch",
+      "brand": "Renault",
+      "names": {
+        "en": "Duster Oroch",
+        "zh-CN": "Duster Oroch",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2021",
+      "note": "Duster Oroch(2015-2021),基于Duster的皮卡,南美市场",
+      "verified": "verified",
+      "zh-TW": "Duster Oroch",
+      "ja": "ダスター・オロック"
+    },
+    {
+      "id": "model:renault:renault-e",
+      "brand": "Renault",
+      "names": {
+        "en": "e-Nuo",
+        "zh-CN": "e诺",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "e诺(City K-ZE,2019-2022),雷诺中国纯电小型车,与启辰e30/风行T1EV同源,已停产",
+      "verified": "verified",
+      "en": "Renault City K-ZE",
+      "zh-TW": "e諾"
+    },
+    {
+      "id": "model:renault:ce421b26ee",
+      "brand": "Renault",
+      "names": {
+        "en": "Vel Satis",
+        "zh-CN": "威赛帝",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001–2009",
+      "note": "威赛帝(Vel Satis,2001-2009),雷诺旗舰轿车,造型独特,已停产",
+      "verified": "verified",
+      "zh-TW": "威賽帝",
+      "ja": "ヴェルサティス"
+    },
+    {
+      "id": "model:renault:6acaee71fe",
+      "brand": "Renault",
+      "names": {
+        "en": "Latitude",
+        "zh-CN": "纬度",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2017",
+      "note": "纬度(Latitude,2010-2017),雷诺中型轿车,基于雷诺三星SM5,中国曾进口销售",
+      "verified": "verified",
+      "zh-TW": "緯度",
+      "ja": "ラティテュード"
+    },
+    {
+      "id": "model:renault:qm6",
+      "brand": "Renault",
+      "names": {
+        "en": "Renault QM6",
+        "zh-CN": "雷诺QM6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "QM6(2016-),雷诺韩国(原雷诺三星)中型SUV,韩国市场",
+      "verified": "verified",
+      "zh-TW": "QM6",
+      "ja": "QM6"
+    },
+    {
+      "id": "model:renault:sm6",
+      "brand": "Renault",
+      "names": {
+        "en": "Samsung SM6",
+        "zh-CN": "雷诺三星SM6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "雷诺三星SM6(2016-),韩国市场中型轿车,雷诺Talisman的韩国版",
+      "verified": "verified",
+      "zh-TW": "SM6",
+      "ja": "SM6"
     }
   ]
 }

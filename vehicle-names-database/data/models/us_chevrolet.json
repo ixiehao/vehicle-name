@@ -3,7 +3,12 @@
     {
       "id": "model:chevrolet:malibu",
       "brand": "Chevrolet",
-      "names": {"en": "Malibu", "zh-CN": "迈锐宝", "zh-TW": "Malibu", "ja": "マリブ"},
+      "names": {
+        "en": "Malibu",
+        "zh-CN": "迈锐宝",
+        "zh-TW": "Malibu",
+        "ja": "マリブ"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:chevrolet:corvette",
       "brand": "Chevrolet",
-      "names": {"en": "Corvette", "zh-CN": "科尔维特", "zh-TW": "Corvette", "ja": "コルベット"},
+      "names": {
+        "en": "Corvette",
+        "zh-CN": "科尔维特",
+        "zh-TW": "Corvette",
+        "ja": "コルベット"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:chevrolet:camaro",
       "brand": "Chevrolet",
-      "names": {"en": "Camaro", "zh-CN": "科迈罗", "zh-TW": "Camaro", "ja": "カマロ"},
+      "names": {
+        "en": "Camaro",
+        "zh-CN": "科迈罗",
+        "zh-TW": "Camaro",
+        "ja": "カマロ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:chevrolet:impala",
       "brand": "Chevrolet",
-      "names": {"en": "Impala", "zh-CN": "英帕拉", "zh-TW": "Impala", "ja": "インパラ"},
+      "names": {
+        "en": "Impala",
+        "zh-CN": "英帕拉",
+        "zh-TW": "Impala",
+        "ja": "インパラ"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:chevrolet:cruze",
       "brand": "Chevrolet",
-      "names": {"en": "Cruze", "zh-CN": "科鲁兹", "zh-TW": "Cruze", "ja": "クルーズ"},
+      "names": {
+        "en": "Cruze",
+        "zh-CN": "科鲁兹",
+        "zh-TW": "Cruze",
+        "ja": "クルーズ"
+      },
       "segment": "class:us:compact",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:chevrolet:equinox",
       "brand": "Chevrolet",
-      "names": {"en": "Equinox", "zh-CN": "探界者", "zh-TW": "Equinox", "ja": "エクイノックス"},
+      "names": {
+        "en": "Equinox",
+        "zh-CN": "探界者",
+        "zh-TW": "Equinox",
+        "ja": "エクイノックス"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:chevrolet:traverse",
       "brand": "Chevrolet",
-      "names": {"en": "Traverse", "zh-CN": "Traverse", "zh-TW": "Traverse", "ja": "トラバース"},
+      "names": {
+        "en": "Traverse",
+        "zh-CN": "Traverse",
+        "zh-TW": "Traverse",
+        "ja": "トラバース"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:chevrolet:tahoe",
       "brand": "Chevrolet",
-      "names": {"en": "Tahoe", "zh-CN": "Tahoe(太浩)", "zh-TW": "Tahoe", "ja": "タホ"},
+      "names": {
+        "en": "Tahoe",
+        "zh-CN": "Tahoe(太浩)",
+        "zh-TW": "Tahoe",
+        "ja": "タホ"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:chevrolet:suburban",
       "brand": "Chevrolet",
-      "names": {"en": "Suburban", "zh-CN": "Suburban", "zh-TW": "Suburban", "ja": "サバーバン"},
+      "names": {
+        "en": "Suburban",
+        "zh-CN": "Suburban",
+        "zh-TW": "Suburban",
+        "ja": "サバーバン"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:chevrolet:silverado",
       "brand": "Chevrolet",
-      "names": {"en": "Silverado", "zh-CN": "索罗德", "zh-TW": "Silverado", "ja": "シルバラード"},
+      "names": {
+        "en": "Silverado",
+        "zh-CN": "索罗德",
+        "zh-TW": "Silverado",
+        "ja": "シルバラード"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:chevrolet:colorado",
       "brand": "Chevrolet",
-      "names": {"en": "Colorado", "zh-CN": "Colorado", "zh-TW": "Colorado", "ja": "コロラド"},
+      "names": {
+        "en": "Colorado",
+        "zh-CN": "Colorado",
+        "zh-TW": "Colorado",
+        "ja": "コロラド"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:chevrolet:trailblazer",
       "brand": "Chevrolet",
-      "names": {"en": "Trailblazer", "zh-CN": "创界", "zh-TW": "Trailblazer", "ja": "トレイルブレイザー"},
+      "names": {
+        "en": "Trailblazer",
+        "zh-CN": "创界",
+        "zh-TW": "Trailblazer",
+        "ja": "トレイルブレイザー"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:chevrolet:trax",
       "brand": "Chevrolet",
-      "names": {"en": "Trax", "zh-CN": "创酷", "zh-TW": "Trax", "ja": "トラックス"},
+      "names": {
+        "en": "Trax",
+        "zh-CN": "创酷",
+        "zh-TW": "Trax",
+        "ja": "トラックス"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:chevrolet:blazer",
       "brand": "Chevrolet",
-      "names": {"en": "Blazer", "zh-CN": "开拓者", "zh-TW": "Blazer", "ja": "ブレイザー"},
+      "names": {
+        "en": "Blazer",
+        "zh-CN": "开拓者",
+        "zh-TW": "Blazer",
+        "ja": "ブレイザー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:chevrolet:bolt-ev",
       "brand": "Chevrolet",
-      "names": {"en": "Bolt EV", "zh-CN": "Bolt EV", "zh-TW": "Bolt EV", "ja": "ボルトEV"},
+      "names": {
+        "en": "Bolt EV",
+        "zh-CN": "Bolt EV",
+        "zh-TW": "Bolt EV",
+        "ja": "ボルトEV"
+      },
       "segment": "class:us:subcompact",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -183,7 +258,12 @@
     {
       "id": "model:chevrolet:spark",
       "brand": "Chevrolet",
-      "names": {"en": "Spark", "zh-CN": "斯帕可(乐驰)", "zh-TW": "Spark", "ja": "スパーク"},
+      "names": {
+        "en": "Spark",
+        "zh-CN": "斯帕可(乐驰)",
+        "zh-TW": "Spark",
+        "ja": "スパーク"
+      },
       "segment": "class:us:subcompact",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:chevrolet:aveo",
       "brand": "Chevrolet",
-      "names": {"en": "Aveo", "zh-CN": "爱唯欧", "zh-TW": "Aveo", "ja": "アベオ"},
+      "names": {
+        "en": "Aveo",
+        "zh-CN": "爱唯欧",
+        "zh-TW": "Aveo",
+        "ja": "アベオ"
+      },
       "segment": "class:us:subcompact",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:chevrolet:sonic",
       "brand": "Chevrolet",
-      "names": {"en": "Sonic", "zh-CN": "Sonic", "zh-TW": "Sonic", "ja": "ソニック"},
+      "names": {
+        "en": "Sonic",
+        "zh-CN": "Sonic",
+        "zh-TW": "Sonic",
+        "ja": "ソニック"
+      },
       "segment": "class:us:subcompact",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:chevrolet:cobalt",
       "brand": "Chevrolet",
-      "names": {"en": "Cobalt", "zh-CN": "Cobalt", "zh-TW": "Cobalt", "ja": "コバルト"},
+      "names": {
+        "en": "Cobalt",
+        "zh-CN": "Cobalt",
+        "zh-TW": "Cobalt",
+        "ja": "コバルト"
+      },
       "segment": "class:us:compact",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:chevrolet:chevelle",
       "brand": "Chevrolet",
-      "names": {"en": "Chevelle", "zh-CN": "Chevelle", "zh-TW": "Chevelle", "ja": "シェベル"},
+      "names": {
+        "en": "Chevelle",
+        "zh-CN": "Chevelle",
+        "zh-TW": "Chevelle",
+        "ja": "シェベル"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:chevrolet:nova",
       "brand": "Chevrolet",
-      "names": {"en": "Nova", "zh-CN": "Nova", "zh-TW": "Nova", "ja": "ノバ"},
+      "names": {
+        "en": "Nova",
+        "zh-CN": "Nova",
+        "zh-TW": "Nova",
+        "ja": "ノバ"
+      },
       "segment": "class:us:compact",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:chevrolet:bel-air",
       "brand": "Chevrolet",
-      "names": {"en": "Bel Air", "zh-CN": "Bel Air", "zh-TW": "Bel Air", "ja": "ベルエア"},
+      "names": {
+        "en": "Bel Air",
+        "zh-CN": "Bel Air",
+        "zh-TW": "Bel Air",
+        "ja": "ベルエア"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:chevrolet:caprice",
       "brand": "Chevrolet",
-      "names": {"en": "Caprice", "zh-CN": "Caprice", "zh-TW": "Caprice", "ja": "カプリス"},
+      "names": {
+        "en": "Caprice",
+        "zh-CN": "Caprice",
+        "zh-TW": "Caprice",
+        "ja": "カプリス"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:chevrolet:volt",
       "brand": "Chevrolet",
-      "names": {"en": "Volt", "zh-CN": "沃蓝达", "zh-TW": "Volt", "ja": "ボルト"},
+      "names": {
+        "en": "Volt",
+        "zh-CN": "沃蓝达",
+        "zh-TW": "Volt",
+        "ja": "ボルト"
+      },
       "segment": "class:us:compact",
       "body_style": "body:hatchback",
       "powertrain": "pt:erev",
@@ -291,7 +411,12 @@
     {
       "id": "model:chevrolet:express",
       "brand": "Chevrolet",
-      "names": {"en": "Express", "zh-CN": "Express", "zh-TW": "Express", "ja": "エクスプレス"},
+      "names": {
+        "en": "Express",
+        "zh-CN": "Express",
+        "zh-TW": "Express",
+        "ja": "エクスプレス"
+      },
       "segment": "class:us:large",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:chevrolet:lova-rv",
       "brand": "Chevrolet",
-      "names": {"en": "Lova RV", "zh-CN": "乐风RV", "zh-TW": "Lova RV", "ja": "—"},
+      "names": {
+        "en": "Lova RV",
+        "zh-CN": "乐风RV",
+        "zh-TW": "Lova RV",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:chevrolet:seeker",
       "brand": "Chevrolet",
-      "names": {"en": "Seeker", "zh-CN": "星迈罗", "zh-TW": "Seeker", "ja": "—"},
+      "names": {
+        "en": "Seeker",
+        "zh-CN": "星迈罗",
+        "zh-TW": "Seeker",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:chevrolet:epica",
       "brand": "Chevrolet",
-      "names": {"en": "Epica", "zh-CN": "景程", "zh-TW": "Epica", "ja": "—"},
+      "names": {
+        "en": "Epica",
+        "zh-CN": "景程",
+        "zh-TW": "Epica",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -339,19 +479,29 @@
     {
       "id": "model:chevrolet:orlando",
       "brand": "Chevrolet",
-      "names": {"en": "Orlando", "zh-CN": "沃兰多", "zh-TW": "Orlando", "ja": "—"},
+      "names": {
+        "en": "Orlando",
+        "zh-CN": "沃兰多",
+        "zh-TW": "Orlando",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
-      "status": "current",
-      "years": "2018–present",
-      "note": "上汽通用国产紧凑MPV「沃兰多」(Orlando),2018年上市",
-      "verified": "pending"
+      "status": "discontinued",
+      "years": "2018–2022",
+      "note": "沃兰多(Orlando,2018-2022),上汽通用紧凑MPV,已停产",
+      "verified": "verified"
     },
     {
       "id": "model:chevrolet:captiva",
       "brand": "Chevrolet",
-      "names": {"en": "Captiva", "zh-CN": "科帕奇", "zh-TW": "Captiva", "ja": "—"},
+      "names": {
+        "en": "Captiva",
+        "zh-CN": "科帕奇",
+        "zh-TW": "Captiva",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -363,19 +513,29 @@
     {
       "id": "model:chevrolet:cavalier",
       "brand": "Chevrolet",
-      "names": {"en": "Cavalier", "zh-CN": "科沃兹", "zh-TW": "Cavalier", "ja": "—"},
+      "names": {
+        "en": "Cavalier",
+        "zh-CN": "科沃兹",
+        "zh-TW": "Cavalier",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2016–present",
-      "note": "上汽通用雪佛兰紧凑轿车「科沃兹」(Cavalier),2016年上市",
-      "verified": "pending"
+      "note": "科沃兹(Cavalier,2016-),上汽通用雪佛兰紧凑轿车(北美历史名号1982-2005年曾用)",
+      "verified": "verified"
     },
     {
       "id": "model:chevrolet:monza",
       "brand": "Chevrolet",
-      "names": {"en": "Monza", "zh-CN": "科鲁泽", "zh-TW": "Monza", "ja": "—"},
+      "names": {
+        "en": "Monza",
+        "zh-CN": "科鲁泽",
+        "zh-TW": "Monza",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:chevrolet:sail",
       "brand": "Chevrolet",
-      "names": {"en": "Sail", "zh-CN": "赛欧", "zh-TW": "Sail", "ja": "—"},
+      "names": {
+        "en": "Sail",
+        "zh-CN": "赛欧",
+        "zh-TW": "Sail",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -395,6 +560,98 @@
       "years": "2001–2018",
       "note": "原为别克品牌(2001),2005年起改挂雪佛兰标;2018年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:chevrolet:34a16a42b3",
+      "brand": "Chevrolet",
+      "names": {
+        "en": "Lova",
+        "zh-CN": "乐风",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2011",
+      "note": "乐风(Lova,2006-2011),上汽通用雪佛兰小型轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "樂風"
+    },
+    {
+      "id": "model:chevrolet:plus",
+      "brand": "Chevrolet",
+      "names": {
+        "en": "Equinox Plus",
+        "zh-CN": "探界者Plus",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "探界者Plus(2024-),Equinox插混版,中国市场",
+      "verified": "verified",
+      "zh-TW": "探界者Plus"
+    },
+    {
+      "id": "model:chevrolet:1dca30ad12",
+      "brand": "Chevrolet",
+      "names": {
+        "en": "Menlo",
+        "zh-CN": "畅巡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:wagon",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2023",
+      "note": "畅巡(Menlo,2020-2023),上汽通用纯电休旅车,已停产",
+      "verified": "verified",
+      "zh-TW": "暢巡"
+    },
+    {
+      "id": "model:chevrolet:niva",
+      "brand": "Chevrolet",
+      "names": {
+        "en": "Chevrolet Niva",
+        "zh-CN": "雪佛兰Niva",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2019",
+      "note": "Chevrolet Niva(2002-2019),通用-伏尔加合资生产,俄罗斯市场,后改挂Lada标",
+      "verified": "verified",
+      "zh-TW": "Chevrolet Niva",
+      "ja": "シボレー・ニーバ"
+    },
+    {
+      "id": "model:chevrolet:chevrolet-ss",
+      "brand": "Chevrolet",
+      "names": {
+        "en": "Chevrolet SS",
+        "zh-CN": "雪佛兰SS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2017",
+      "note": "Chevrolet SS(2013-2017),基于霍顿Commodore的V8性能轿车,北美市场",
+      "verified": "verified",
+      "zh-TW": "Chevrolet SS",
+      "ja": "シボレーSS"
     }
   ]
 }

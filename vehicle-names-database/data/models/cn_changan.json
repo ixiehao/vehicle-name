@@ -3,7 +3,12 @@
     {
       "id": "model:changan:cs35",
       "brand": "Changan",
-      "names": {"en": "CS35", "zh-CN": "长安CS35", "zh-TW": "Changan CS35", "ja": "—"},
+      "names": {
+        "en": "CS35",
+        "zh-CN": "长安CS35",
+        "zh-TW": "Changan CS35",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:changan:cs55",
       "brand": "Changan",
-      "names": {"en": "CS55", "zh-CN": "长安CS55", "zh-TW": "Changan CS55", "ja": "—"},
+      "names": {
+        "en": "CS55",
+        "zh-CN": "长安CS55",
+        "zh-TW": "Changan CS55",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:changan:cs75",
       "brand": "Changan",
-      "names": {"en": "CS75", "zh-CN": "长安CS75", "zh-TW": "Changan CS75", "ja": "—"},
+      "names": {
+        "en": "CS75",
+        "zh-CN": "长安CS75",
+        "zh-TW": "Changan CS75",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:changan:cs75-plus",
       "brand": "Changan",
-      "names": {"en": "CS75 Plus", "zh-CN": "长安CS75 PLUS", "zh-TW": "Changan CS75 Plus", "ja": "—"},
+      "names": {
+        "en": "CS75 Plus",
+        "zh-CN": "长安CS75 PLUS",
+        "zh-TW": "Changan CS75 Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,19 +71,29 @@
     {
       "id": "model:changan:cs95",
       "brand": "Changan",
-      "names": {"en": "CS95", "zh-CN": "长安CS95", "zh-TW": "Changan CS95", "ja": "—"},
+      "names": {
+        "en": "CS95",
+        "zh-CN": "长安CS95",
+        "zh-TW": "Changan CS95",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2017–present",
-      "note": "中大型SUV(7座);现售状态待核实",
-      "verified": "pending"
+      "note": "中大型SUV(7座),2017年上市,2019年中期改款",
+      "verified": "verified"
     },
     {
       "id": "model:changan:eado",
       "brand": "Changan",
-      "names": {"en": "Eado", "zh-CN": "长安逸动", "zh-TW": "Changan Eado", "ja": "—"},
+      "names": {
+        "en": "Eado",
+        "zh-CN": "长安逸动",
+        "zh-TW": "Changan Eado",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:changan:eado-plus",
       "brand": "Changan",
-      "names": {"en": "Eado Plus", "zh-CN": "长安逸动PLUS", "zh-TW": "Changan Eado Plus", "ja": "—"},
+      "names": {
+        "en": "Eado Plus",
+        "zh-CN": "长安逸动PLUS",
+        "zh-TW": "Changan Eado Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:changan:raeton-cc",
       "brand": "Changan",
-      "names": {"en": "Raeton CC", "zh-CN": "长安锐程CC", "zh-TW": "Changan Raeton CC", "ja": "—"},
+      "names": {
+        "en": "Raeton CC",
+        "zh-CN": "长安锐程CC",
+        "zh-TW": "Changan Raeton CC",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:changan:uni-k",
       "brand": "Changan",
-      "names": {"en": "UNI-K", "zh-CN": "长安UNI-K", "zh-TW": "Changan UNI-K", "ja": "—"},
+      "names": {
+        "en": "UNI-K",
+        "zh-CN": "长安UNI-K",
+        "zh-TW": "Changan UNI-K",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:changan:uni-t",
       "brand": "Changan",
-      "names": {"en": "UNI-T", "zh-CN": "长安UNI-T", "zh-TW": "Changan UNI-T", "ja": "—"},
+      "names": {
+        "en": "UNI-T",
+        "zh-CN": "长安UNI-T",
+        "zh-TW": "Changan UNI-T",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:changan:uni-v",
       "brand": "Changan",
-      "names": {"en": "UNI-V", "zh-CN": "长安UNI-V", "zh-TW": "Changan UNI-V", "ja": "—"},
+      "names": {
+        "en": "UNI-V",
+        "zh-CN": "长安UNI-V",
+        "zh-TW": "Changan UNI-V",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:changan:qiyuan-a05",
       "brand": "Changan",
-      "names": {"en": "Qiyuan A05", "zh-CN": "长安启源A05", "zh-TW": "Changan Qiyuan A05", "ja": "—"},
+      "names": {
+        "en": "Qiyuan A05",
+        "zh-CN": "长安启源A05",
+        "zh-TW": "Changan Qiyuan A05",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -147,7 +207,12 @@
     {
       "id": "model:changan:qiyuan-a07",
       "brand": "Changan",
-      "names": {"en": "Qiyuan A07", "zh-CN": "长安启源A07", "zh-TW": "Changan Qiyuan A07", "ja": "—"},
+      "names": {
+        "en": "Qiyuan A07",
+        "zh-CN": "长安启源A07",
+        "zh-TW": "Changan Qiyuan A07",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:erev",
@@ -159,7 +224,12 @@
     {
       "id": "model:changan:qiyuan-q05",
       "brand": "Changan",
-      "names": {"en": "Qiyuan Q05", "zh-CN": "长安启源Q05", "zh-TW": "Changan Qiyuan Q05", "ja": "—"},
+      "names": {
+        "en": "Qiyuan Q05",
+        "zh-CN": "长安启源Q05",
+        "zh-TW": "Changan Qiyuan Q05",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -171,7 +241,12 @@
     {
       "id": "model:changan:deepal-sl03",
       "brand": "Changan",
-      "names": {"en": "Deepal SL03", "zh-CN": "深蓝SL03", "zh-TW": "Deepal SL03", "ja": "—"},
+      "names": {
+        "en": "Deepal SL03",
+        "zh-CN": "深蓝SL03",
+        "zh-TW": "Deepal SL03",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:erev",
@@ -183,7 +258,12 @@
     {
       "id": "model:changan:deepal-s07",
       "brand": "Changan",
-      "names": {"en": "Deepal S07", "zh-CN": "深蓝S07", "zh-TW": "Deepal S07", "ja": "—"},
+      "names": {
+        "en": "Deepal S07",
+        "zh-CN": "深蓝S07",
+        "zh-TW": "Deepal S07",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -195,7 +275,12 @@
     {
       "id": "model:changan:avatr-11",
       "brand": "Changan",
-      "names": {"en": "Avatr 11", "zh-CN": "阿维塔11", "zh-TW": "Avatr 11", "ja": "—"},
+      "names": {
+        "en": "Avatr 11",
+        "zh-CN": "阿维塔11",
+        "zh-TW": "Avatr 11",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -207,7 +292,12 @@
     {
       "id": "model:changan:avatr-12",
       "brand": "Changan",
-      "names": {"en": "Avatr 12", "zh-CN": "阿维塔12", "zh-TW": "Avatr 12", "ja": "—"},
+      "names": {
+        "en": "Avatr 12",
+        "zh-CN": "阿维塔12",
+        "zh-TW": "Avatr 12",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -219,19 +309,29 @@
     {
       "id": "model:changan:benben-ev",
       "brand": "Changan",
-      "names": {"en": "Benben EV", "zh-CN": "长安奔奔EV", "zh-TW": "Changan Benben EV", "ja": "—"},
+      "names": {
+        "en": "Benben EV",
+        "zh-CN": "长安奔奔EV",
+        "zh-TW": "Changan Benben EV",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
       "status": "discontinued",
       "years": "2016–2020",
-      "note": "A00级纯电微型车(含奔奔E-Star衍生);已停产,停产时间待核实",
-      "verified": "pending"
+      "note": "A00级纯电微型车(含奔奔E-Star衍生),2020年停产",
+      "verified": "verified"
     },
     {
       "id": "model:changan:yuexiang",
       "brand": "Changan",
-      "names": {"en": "Yuexiang", "zh-CN": "长安悦翔", "zh-TW": "Changan Yuexiang", "ja": "—"},
+      "names": {
+        "en": "Yuexiang",
+        "zh-CN": "长安悦翔",
+        "zh-TW": "Changan Yuexiang",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:changan:lingxuan",
       "brand": "Changan",
-      "names": {"en": "Changan Lingxuan", "zh-CN": "长安凌轩", "zh-TW": "Changan Lingxuan", "ja": "—"},
+      "names": {
+        "en": "Changan Lingxuan",
+        "zh-CN": "长安凌轩",
+        "zh-TW": "Changan Lingxuan",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:changan:benben",
       "brand": "Changan",
-      "names": {"en": "Changan Benben", "zh-CN": "长安奔奔", "zh-TW": "Changan Benben", "ja": "—"},
+      "names": {
+        "en": "Changan Benben",
+        "zh-CN": "长安奔奔",
+        "zh-TW": "Changan Benben",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:changan:benben-mini",
       "brand": "Changan",
-      "names": {"en": "Changan Benben Mini", "zh-CN": "长安奔奔MINI", "zh-TW": "Changan Benben Mini", "ja": "—"},
+      "names": {
+        "en": "Changan Benben Mini",
+        "zh-CN": "长安奔奔MINI",
+        "zh-TW": "Changan Benben Mini",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:changan:yuexiang-v3",
       "brand": "Changan",
-      "names": {"en": "Changan Yuexiang V3", "zh-CN": "长安悦翔V3", "zh-TW": "Changan Yuexiang V3", "ja": "—"},
+      "names": {
+        "en": "Changan Yuexiang V3",
+        "zh-CN": "长安悦翔V3",
+        "zh-TW": "Changan Yuexiang V3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:changan:yuexiang-v5",
       "brand": "Changan",
-      "names": {"en": "Changan Yuexiang V5", "zh-CN": "长安悦翔V5", "zh-TW": "Changan Yuexiang V5", "ja": "—"},
+      "names": {
+        "en": "Changan Yuexiang V5",
+        "zh-CN": "长安悦翔V5",
+        "zh-TW": "Changan Yuexiang V5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:changan:yuexiang-v7",
       "brand": "Changan",
-      "names": {"en": "Changan Yuexiang V7", "zh-CN": "长安悦翔V7", "zh-TW": "Changan Yuexiang V7", "ja": "—"},
+      "names": {
+        "en": "Changan Yuexiang V7",
+        "zh-CN": "长安悦翔V7",
+        "zh-TW": "Changan Yuexiang V7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:changan:raeton",
       "brand": "Changan",
-      "names": {"en": "Changan Raeton", "zh-CN": "长安睿骋", "zh-TW": "Changan Raeton", "ja": "—"},
+      "names": {
+        "en": "Changan Raeton",
+        "zh-CN": "长安睿骋",
+        "zh-TW": "Changan Raeton",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -327,19 +462,31 @@
     {
       "id": "model:changan:eado-dt",
       "brand": "Changan",
-      "names": {"en": "Changan Eado DT", "zh-CN": "长安逸动DT", "zh-TW": "Changan Eado DT", "ja": "—"},
+      "names": {
+        "en": "Changan Eado DT",
+        "zh-CN": "长安逸动DT",
+        "zh-TW": "Changan Eado DT",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2018–present",
-      "note": "紧凑型轿车(基于悦翔V7打造,2018年上市);现售状态待核实",
-      "verified": "pending"
+      "note": "紧凑型轿车(基于悦翔V7打造,2018年上市)",
+      "verified": "verified",
+      "en": "Eado DT",
+      "zh-CN": "逸动DT"
     },
     {
       "id": "model:changan:eado-xt",
       "brand": "Changan",
-      "names": {"en": "Changan Eado XT", "zh-CN": "长安逸动XT", "zh-TW": "Changan Eado XT", "ja": "—"},
+      "names": {
+        "en": "Changan Eado XT",
+        "zh-CN": "长安逸动XT",
+        "zh-TW": "Changan Eado XT",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -351,19 +498,31 @@
     {
       "id": "model:changan:eado-ev",
       "brand": "Changan",
-      "names": {"en": "Changan Eado EV", "zh-CN": "长安逸动新能源", "zh-TW": "Changan Eado EV", "ja": "—"},
+      "names": {
+        "en": "Changan Eado EV",
+        "zh-CN": "长安逸动新能源",
+        "zh-TW": "Changan Eado EV",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
       "status": "current",
       "years": "2015–present",
-      "note": "纯电动紧凑型轿车(逸动纯电版,含EV460等);现售状态待核实",
-      "verified": "pending"
+      "note": "纯电动紧凑型轿车(逸动纯电版,含EV460等)",
+      "verified": "verified",
+      "en": "Eado EV",
+      "zh-CN": "逸动新能源"
     },
     {
       "id": "model:changan:yida",
       "brand": "Changan",
-      "names": {"en": "Changan Yida", "zh-CN": "长安逸达", "zh-TW": "Changan Yida", "ja": "—"},
+      "names": {
+        "en": "Changan Yida",
+        "zh-CN": "长安逸达",
+        "zh-TW": "Changan Yida",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -375,7 +534,12 @@
     {
       "id": "model:changan:raeton-plus",
       "brand": "Changan",
-      "names": {"en": "Changan Raeton Plus", "zh-CN": "长安锐程PLUS", "zh-TW": "Changan Raeton Plus", "ja": "—"},
+      "names": {
+        "en": "Changan Raeton Plus",
+        "zh-CN": "长安锐程PLUS",
+        "zh-TW": "Changan Raeton Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -387,31 +551,50 @@
     {
       "id": "model:changan:cs15",
       "brand": "Changan",
-      "names": {"en": "Changan CS15", "zh-CN": "长安CS15", "zh-TW": "Changan CS15", "ja": "—"},
+      "names": {
+        "en": "Changan CS15",
+        "zh-CN": "长安CS15",
+        "zh-TW": "Changan CS15",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2016–present",
-      "note": "小型SUV(2016年上市);现售状态待核实",
-      "verified": "pending"
+      "note": "小型SUV(2016年上市)",
+      "verified": "verified",
+      "en": "CS15",
+      "zh-CN": "长安CS15"
     },
     {
       "id": "model:changan:cs85-coupe",
       "brand": "Changan",
-      "names": {"en": "Changan CS85 Coupe", "zh-CN": "长安CS85 COUPE", "zh-TW": "Changan CS85 Coupe", "ja": "—"},
+      "names": {
+        "en": "Changan CS85 Coupe",
+        "zh-CN": "长安CS85 COUPE",
+        "zh-TW": "Changan CS85 Coupe",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2019–present",
-      "note": "中型轿跑SUV(2019年上市);现售状态待核实",
-      "verified": "pending"
+      "note": "中型轿跑SUV(2019年上市)",
+      "verified": "verified",
+      "en": "CS85 Coupe",
+      "zh-CN": "长安CS85 COUPE"
     },
     {
       "id": "model:changan:cx20",
       "brand": "Changan",
-      "names": {"en": "Changan CX20", "zh-CN": "长安CX20", "zh-TW": "Changan CX20", "ja": "—"},
+      "names": {
+        "en": "Changan CX20",
+        "zh-CN": "长安CX20",
+        "zh-TW": "Changan CX20",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -423,7 +606,12 @@
     {
       "id": "model:changan:cx30",
       "brand": "Changan",
-      "names": {"en": "Changan CX30", "zh-CN": "长安CX30", "zh-TW": "Changan CX30", "ja": "—"},
+      "names": {
+        "en": "Changan CX30",
+        "zh-CN": "长安CX30",
+        "zh-TW": "Changan CX30",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -435,7 +623,12 @@
     {
       "id": "model:changan:uni-z",
       "brand": "Changan",
-      "names": {"en": "Changan UNI-Z", "zh-CN": "长安UNI-Z", "zh-TW": "Changan UNI-Z", "ja": "—"},
+      "names": {
+        "en": "Changan UNI-Z",
+        "zh-CN": "长安UNI-Z",
+        "zh-TW": "Changan UNI-Z",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -443,6 +636,633 @@
       "years": "2024–present",
       "note": "UNI系列紧凑型SUV(2024年上市,插混,另有纯电版)",
       "verified": "verified"
+    },
+    {
+      "id": "model:changan:a05",
+      "brand": "Changan",
+      "names": {
+        "en": "A05 Classic",
+        "zh-CN": "A05经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "启源A05经典版(2025–),启源A05的老款同堂销售",
+      "verified": "verified",
+      "en": "Qiyuan A05 Classic",
+      "zh-CN": "启源A05经典"
+    },
+    {
+      "id": "model:changan:q05",
+      "brand": "Changan",
+      "names": {
+        "en": "Q05 Classic",
+        "zh-CN": "Q05经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "启源Q05经典版(2025–),启源Q05的老款同堂销售",
+      "verified": "verified",
+      "en": "Qiyuan Q05 Classic",
+      "zh-CN": "启源Q05经典"
+    },
+    {
+      "id": "model:changan:lumin",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Lumin",
+        "zh-CN": "长安Lumin",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "长安Lumin(2022–),A00级纯电微型车",
+      "verified": "verified",
+      "en": "Lumin",
+      "zh-CN": "长安Lumin"
+    },
+    {
+      "id": "model:changan:a05l",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Qiyuan A05L",
+        "zh-CN": "长安启源A05L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "启源A05L(2025–),启源A05的改款插混轿车",
+      "verified": "verified",
+      "en": "Qiyuan A05L",
+      "zh-CN": "启源A05L"
+    },
+    {
+      "id": "model:changan:a05-2",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Qiyuan A05 Classic",
+        "zh-CN": "长安启源A05经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "启源A05(2023–),启源子品牌插混紧凑型轿车",
+      "verified": "verified",
+      "en": "Qiyuan A05",
+      "zh-CN": "启源A05"
+    },
+    {
+      "id": "model:changan:a06",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Qiyuan A06",
+        "zh-CN": "长安启源A06",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "启源A06(2025–),启源子品牌插混紧凑型轿车",
+      "verified": "verified",
+      "en": "Qiyuan A06",
+      "zh-CN": "启源A06"
+    },
+    {
+      "id": "model:changan:e07",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Qiyuan E07",
+        "zh-CN": "长安启源E07",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:crossover",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "启源E07(2024–),启源子品牌中大型纯电跨界SUV(皮卡式尾箱)",
+      "verified": "verified",
+      "en": "Qiyuan E07",
+      "zh-CN": "启源E07"
+    },
+    {
+      "id": "model:changan:q05-2",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Qiyuan Q05 Classic",
+        "zh-CN": "长安启源Q05经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "启源Q05(2023–),启源子品牌插混紧凑型SUV",
+      "verified": "verified",
+      "en": "Qiyuan Q05",
+      "zh-CN": "启源Q05"
+    },
+    {
+      "id": "model:changan:q06",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Qiyuan Q06",
+        "zh-CN": "长安启源Q06",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "启源Q06(2025–),启源子品牌插混紧凑型SUV",
+      "verified": "verified",
+      "en": "Qiyuan Q06",
+      "zh-CN": "启源Q06"
+    },
+    {
+      "id": "model:changan:q07",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Qiyuan Q07",
+        "zh-CN": "长安启源Q07",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "启源Q07(2025–),启源子品牌中大型插混SUV",
+      "verified": "verified",
+      "en": "Qiyuan Q07",
+      "zh-CN": "启源Q07"
+    },
+    {
+      "id": "model:changan:k50",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Hunter K50",
+        "zh-CN": "长安猎手 K50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "长安猎手K50(2024–),猎手皮卡的增程版",
+      "verified": "verified",
+      "en": "Hunter K50",
+      "zh-CN": "长安猎手K50"
+    },
+    {
+      "id": "model:changan:cs55-2",
+      "brand": "Changan",
+      "names": {
+        "en": "CS55 EV",
+        "zh-CN": "CS55纯电版",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "CS55纯电版(2020–),CS55的纯电动版",
+      "verified": "verified",
+      "en": "CS55 EV",
+      "zh-CN": "CS55纯电版"
+    },
+    {
+      "id": "model:changan:cs75-plus-idd",
+      "brand": "Changan",
+      "names": {
+        "en": "CS75 PLUS iDD",
+        "zh-CN": "CS75 PLUS 智电iDD",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "CS75 PLUS智电iDD(2022–),CS75 PLUS插电混动版",
+      "verified": "verified",
+      "en": "CS75 Plus iDD",
+      "zh-CN": "CS75 PLUS 智电iDD"
+    },
+    {
+      "id": "model:changan:f70",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan F70 Blue Whale",
+        "zh-CN": "F70蓝鲸",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "凯程F70(2019–),长安凯程皮卡,与PSA合作开发(雪铁龙标致同源)",
+      "verified": "verified",
+      "en": "F70",
+      "zh-CN": "凯程F70"
+    },
+    {
+      "id": "model:changan:uni-k-idd",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan UNI-K iDD",
+        "zh-CN": "UNI-K 智电iDD",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "UNI-K智电iDD(2022–),UNI-K插电混动版",
+      "verified": "verified",
+      "en": "UNI-K iDD",
+      "zh-CN": "UNI-K 智电iDD"
+    },
+    {
+      "id": "model:changan:uni-v-idd",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan UNI-V iDD",
+        "zh-CN": "UNI-V 智电iDD",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "UNI-V智电iDD(2022–),UNI-V插电混动版",
+      "verified": "verified",
+      "en": "UNI-V iDD",
+      "zh-CN": "UNI-V 智电iDD"
+    },
+    {
+      "id": "model:changan:x5-plus",
+      "brand": "Changan",
+      "names": {
+        "en": "X5 PLUS",
+        "zh-CN": "X5 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "欧尚X5 PLUS(2022–),长安欧尚紧凑型SUV",
+      "verified": "verified",
+      "en": "X5 PLUS",
+      "zh-CN": "欧尚X5 PLUS"
+    },
+    {
+      "id": "model:changan:x7-plus",
+      "brand": "Changan",
+      "names": {
+        "en": "X7 PLUS",
+        "zh-CN": "X7 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "欧尚X7 PLUS(2021–),长安欧尚紧凑型SUV",
+      "verified": "verified",
+      "en": "X7 PLUS",
+      "zh-CN": "欧尚X7 PLUS"
+    },
+    {
+      "id": "model:changan:e-star",
+      "brand": "Changan",
+      "names": {
+        "en": "Benben E-Star",
+        "zh-CN": "奔奔E-Star",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "奔奔E-Star(2020–),奔奔EV的改款纯电微型车",
+      "verified": "verified",
+      "en": "Benben E-Star",
+      "zh-CN": "奔奔E-Star"
+    },
+    {
+      "id": "model:changan:love",
+      "brand": "Changan",
+      "names": {
+        "en": "Benben LOVE",
+        "zh-CN": "奔奔LOVE",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2012",
+      "note": "奔奔LOVE(2009–2012),奔奔的改款,2012年停产",
+      "verified": "verified",
+      "en": "Benben LOVE",
+      "zh-CN": "奔奔LOVE"
+    },
+    {
+      "id": "model:changan:changan-i",
+      "brand": "Changan",
+      "names": {
+        "en": "Benben i",
+        "zh-CN": "奔奔i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2010",
+      "note": "奔奔i(2006–2010),奔奔初代,2010年停产",
+      "verified": "verified",
+      "en": "Benben i",
+      "zh-CN": "奔奔i"
+    },
+    {
+      "id": "model:changan:aeb80b000e",
+      "brand": "Changan",
+      "names": {
+        "en": "Zhixiang",
+        "zh-CN": "志翔",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2010",
+      "note": "志翔(2008–2010),长安紧凑型轿车,2010年停产",
+      "verified": "verified",
+      "en": "Zhixiang",
+      "zh-CN": "志翔"
+    },
+    {
+      "id": "model:changan:e-pro",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan New Energy E-Pro",
+        "zh-CN": "新能源E-Pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "长安E-Pro(2019–2021),长安新能源纯电小型SUV,2021年停产",
+      "verified": "verified",
+      "en": "E-Pro",
+      "zh-CN": "长安E-Pro"
+    },
+    {
+      "id": "model:changan:8aaf4d8dad",
+      "brand": "Changan",
+      "names": {
+        "en": "Jiexun",
+        "zh-CN": "杰勋",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2010",
+      "note": "杰勋(2007–2010),长安紧凑型MPV,2010年停产",
+      "verified": "verified",
+      "en": "Jiexun",
+      "zh-CN": "杰勋"
+    },
+    {
+      "id": "model:changan:changan-et",
+      "brand": "Changan",
+      "names": {
+        "en": "Eado ET",
+        "zh-CN": "逸动ET",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2020",
+      "note": "逸动ET(2019–2020),逸动两厢纯电版,2020年停产",
+      "verified": "verified",
+      "en": "Eado ET",
+      "zh-CN": "逸动ET"
+    },
+    {
+      "id": "model:changan:phev",
+      "brand": "Changan",
+      "names": {
+        "en": "Eado PHEV",
+        "zh-CN": "逸动PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "逸动PHEV(2025–),第三代逸动的插电混动版,2025年3月上市",
+      "verified": "verified",
+      "en": "Eado PHEV",
+      "zh-CN": "逸动PHEV"
+    },
+    {
+      "id": "model:changan:cs15ev",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan CS15EV",
+        "zh-CN": "长安CS15EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2018–present",
+      "note": "CS15EV(2018–),CS15的纯电动版",
+      "verified": "verified",
+      "en": "CS15 EV",
+      "zh-CN": "长安CS15EV"
+    },
+    {
+      "id": "model:changan:cs35plus",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan CS35PLUS",
+        "zh-CN": "长安CS35PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "CS35 PLUS(2018–),CS35的换代,现售",
+      "verified": "verified",
+      "en": "CS35 Plus",
+      "zh-CN": "长安CS35PLUS"
+    },
+    {
+      "id": "model:changan:cs55plus",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan CS55PLUS",
+        "zh-CN": "长安CS55PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "CS55 PLUS(2019–),CS55的换代,现售",
+      "verified": "verified",
+      "en": "CS55 Plus",
+      "zh-CN": "长安CS55PLUS"
+    },
+    {
+      "id": "model:changan:cs55plus-phev",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan CS55PLUS PHEV",
+        "zh-CN": "长安CS55PLUS PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "CS55 PLUS PHEV(2025–),CS55 PLUS插电混动版,2025年3月上市",
+      "verified": "verified",
+      "en": "CS55 Plus PHEV",
+      "zh-CN": "长安CS55PLUS PHEV"
+    },
+    {
+      "id": "model:changan:e30",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan E30",
+        "zh-CN": "长安E30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2011–2014",
+      "note": "长安E30(2011–2014),长安纯电动轿车(出租车),2014年停产",
+      "verified": "verified",
+      "en": "E30",
+      "zh-CN": "长安E30"
+    },
+    {
+      "id": "model:changan:3f5fbf837a",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Hunter",
+        "zh-CN": "长安猎手",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "长安猎手(2024–),长安增程式皮卡",
+      "verified": "verified",
+      "en": "Hunter",
+      "zh-CN": "长安猎手"
+    },
+    {
+      "id": "model:changan:1663f678b8",
+      "brand": "Changan",
+      "names": {
+        "en": "Changan Hunter Explorer",
+        "zh-CN": "长安览拓者",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "长安览拓者(2022–),长安燃油皮卡,与猎手为同平台",
+      "verified": "verified",
+      "en": "Hunter Explorer",
+      "zh-CN": "长安览拓者"
     }
   ]
 }

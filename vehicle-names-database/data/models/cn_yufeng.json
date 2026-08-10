@@ -3,7 +3,12 @@
     {
       "id": "model:dongfeng-yufeng:yufeng",
       "brand": "Dongfeng Yufeng",
-      "names": {"en": "Dongfeng Yufeng", "zh-CN": "御风", "zh-TW": "禦風", "ja": "—"},
+      "names": {
+        "en": "Dongfeng Yufeng",
+        "zh-CN": "御风",
+        "zh-TW": "禦風",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",

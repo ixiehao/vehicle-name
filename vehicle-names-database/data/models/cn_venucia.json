@@ -3,7 +3,12 @@
     {
       "id": "model:venucia:d50",
       "brand": "Venucia",
-      "names": {"en": "Venucia D50", "zh-CN": "启辰D50", "zh-TW": "Venucia D50", "ja": "—"},
+      "names": {
+        "en": "Venucia D50",
+        "zh-CN": "启辰D50",
+        "zh-TW": "Venucia D50",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:venucia:d60",
       "brand": "Venucia",
-      "names": {"en": "Venucia D60", "zh-CN": "启辰D60", "zh-TW": "Venucia D60", "ja": "—"},
+      "names": {
+        "en": "Venucia D60",
+        "zh-CN": "启辰D60",
+        "zh-TW": "Venucia D60",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:venucia:m50v",
       "brand": "Venucia",
-      "names": {"en": "Venucia M50V", "zh-CN": "启辰M50V", "zh-TW": "Venucia M50V", "ja": "—"},
+      "names": {
+        "en": "Venucia M50V",
+        "zh-CN": "启辰M50V",
+        "zh-TW": "Venucia M50V",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:venucia:r30",
       "brand": "Venucia",
-      "names": {"en": "Venucia R30", "zh-CN": "启辰R30", "zh-TW": "Venucia R30", "ja": "—"},
+      "names": {
+        "en": "Venucia R30",
+        "zh-CN": "启辰R30",
+        "zh-TW": "Venucia R30",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:venucia:r50",
       "brand": "Venucia",
-      "names": {"en": "Venucia R50", "zh-CN": "启辰R50", "zh-TW": "Venucia R50", "ja": "—"},
+      "names": {
+        "en": "Venucia R50",
+        "zh-CN": "启辰R50",
+        "zh-TW": "Venucia R50",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:venucia:r50x",
       "brand": "Venucia",
-      "names": {"en": "Venucia R50X", "zh-CN": "启辰R50X", "zh-TW": "Venucia R50X", "ja": "—"},
+      "names": {
+        "en": "Venucia R50X",
+        "zh-CN": "启辰R50X",
+        "zh-TW": "Venucia R50X",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:venucia:t60",
       "brand": "Venucia",
-      "names": {"en": "Venucia T60", "zh-CN": "启辰T60", "zh-TW": "Venucia T60", "ja": "—"},
+      "names": {
+        "en": "Venucia T60",
+        "zh-CN": "启辰T60",
+        "zh-TW": "Venucia T60",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:venucia:t70",
       "brand": "Venucia",
-      "names": {"en": "Venucia T70", "zh-CN": "启辰T70", "zh-TW": "Venucia T70", "ja": "—"},
+      "names": {
+        "en": "Venucia T70",
+        "zh-CN": "启辰T70",
+        "zh-TW": "Venucia T70",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:venucia:t70x",
       "brand": "Venucia",
-      "names": {"en": "Venucia T70X", "zh-CN": "启辰T70X", "zh-TW": "Venucia T70X", "ja": "—"},
+      "names": {
+        "en": "Venucia T70X",
+        "zh-CN": "启辰T70X",
+        "zh-TW": "Venucia T70X",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:venucia:t90",
       "brand": "Venucia",
-      "names": {"en": "Venucia T90", "zh-CN": "启辰T90", "zh-TW": "Venucia T90", "ja": "—"},
+      "names": {
+        "en": "Venucia T90",
+        "zh-CN": "启辰T90",
+        "zh-TW": "Venucia T90",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:venucia:v",
       "brand": "Venucia",
-      "names": {"en": "Venucia V", "zh-CN": "启辰大V", "zh-TW": "Venucia V", "ja": "—"},
+      "names": {
+        "en": "Venucia V",
+        "zh-CN": "启辰大V",
+        "zh-TW": "Venucia V",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:venucia:xing",
       "brand": "Venucia",
-      "names": {"en": "Venucia Xing", "zh-CN": "启辰星", "zh-TW": "Venucia Xing", "ja": "—"},
+      "names": {
+        "en": "Venucia Xing",
+        "zh-CN": "启辰星",
+        "zh-TW": "Venucia Xing",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -143,6 +203,132 @@
       "years": "2020–present",
       "note": "启辰星紧凑型SUV,基于启辰VSA平台,启辰首款自主平台车型;2020年上市",
       "verified": "verified"
+    },
+    {
+      "id": "model:venucia:d60ev",
+      "brand": "Venucia",
+      "names": {
+        "en": "Venucia D60EV",
+        "zh-CN": "启辰D60EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "启辰D60EV(2019-),纯电紧凑型轿车,基于D60",
+      "verified": "verified",
+      "zh-TW": "D60EV"
+    },
+    {
+      "id": "model:venucia:t60ev",
+      "brand": "Venucia",
+      "names": {
+        "en": "Venucia T60EV",
+        "zh-CN": "启辰T60EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "启辰T60EV(2019-),纯电小型SUV,基于T60",
+      "verified": "verified",
+      "zh-TW": "T60EV"
+    },
+    {
+      "id": "model:venucia:vx6",
+      "brand": "Venucia",
+      "names": {
+        "en": "Venucia VX6",
+        "zh-CN": "启辰VX6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "启辰VX6(2023-),纯电紧凑型SUV",
+      "verified": "verified",
+      "zh-TW": "VX6"
+    },
+    {
+      "id": "model:venucia:e30",
+      "brand": "Venucia",
+      "names": {
+        "en": "Venucia e30",
+        "zh-CN": "启辰e30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "启辰e30(2019-2021),纯电小型车,与雷诺e诺同源,已停产",
+      "verified": "verified",
+      "zh-TW": "e30"
+    },
+    {
+      "id": "model:venucia:v-dd-i",
+      "brand": "Venucia",
+      "names": {
+        "en": "Venucia Grand V DD-i",
+        "zh-CN": "启辰大V DD-i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "启辰大V DD-i(2023-),大V插电混动版",
+      "verified": "verified",
+      "zh-TW": "大V DD-i"
+    },
+    {
+      "id": "model:venucia:venucia-v",
+      "brand": "Venucia",
+      "names": {
+        "en": "Venucia Grand V Hydrogen",
+        "zh-CN": "启辰大V氢境",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:fcev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "启辰大V氢境(2023-),氢燃料电池SUV",
+      "verified": "verified",
+      "zh-TW": "大V氫境"
+    },
+    {
+      "id": "model:venucia:38399683eb",
+      "brand": "Venucia",
+      "names": {
+        "en": "Morning Breeze",
+        "zh-CN": "晨风",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2014–2017",
+      "note": "启辰晨风(2014-2017),纯电轿车,基于日产聆风,中国合资品牌首批纯电车型,已停产",
+      "verified": "verified",
+      "zh-TW": "晨風"
     }
   ]
 }

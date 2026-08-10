@@ -3,7 +3,12 @@
     {
       "id": "model:peugeot:208",
       "brand": "Peugeot",
-      "names": {"en": "208", "zh-CN": "208", "zh-TW": "208", "ja": "208"},
+      "names": {
+        "en": "208",
+        "zh-CN": "208",
+        "zh-TW": "208",
+        "ja": "208"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:peugeot:2008",
       "brand": "Peugeot",
-      "names": {"en": "2008", "zh-CN": "2008", "zh-TW": "2008", "ja": "2008"},
+      "names": {
+        "en": "2008",
+        "zh-CN": "2008",
+        "zh-TW": "2008",
+        "ja": "2008"
+      },
       "segment": "class:eu:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:peugeot:308",
       "brand": "Peugeot",
-      "names": {"en": "308", "zh-CN": "308", "zh-TW": "308", "ja": "308"},
+      "names": {
+        "en": "308",
+        "zh-CN": "308",
+        "zh-TW": "308",
+        "ja": "308"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:peugeot:3008",
       "brand": "Peugeot",
-      "names": {"en": "3008", "zh-CN": "3008", "zh-TW": "3008", "ja": "3008"},
+      "names": {
+        "en": "3008",
+        "zh-CN": "3008",
+        "zh-TW": "3008",
+        "ja": "3008"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:peugeot:408",
       "brand": "Peugeot",
-      "names": {"en": "408", "zh-CN": "408", "zh-TW": "408", "ja": "408"},
+      "names": {
+        "en": "408",
+        "zh-CN": "408",
+        "zh-TW": "408",
+        "ja": "408"
+      },
       "segment": "class:eu:c",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:peugeot:508",
       "brand": "Peugeot",
-      "names": {"en": "508", "zh-CN": "508", "zh-TW": "508", "ja": "508"},
+      "names": {
+        "en": "508",
+        "zh-CN": "508",
+        "zh-TW": "508",
+        "ja": "508"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:peugeot:5008",
       "brand": "Peugeot",
-      "names": {"en": "5008", "zh-CN": "5008", "zh-TW": "5008", "ja": "5008"},
+      "names": {
+        "en": "5008",
+        "zh-CN": "5008",
+        "zh-TW": "5008",
+        "ja": "5008"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:peugeot:rifter",
       "brand": "Peugeot",
-      "names": {"en": "Rifter", "zh-CN": "Rifter", "zh-TW": "Rifter", "ja": "リフター"},
+      "names": {
+        "en": "Rifter",
+        "zh-CN": "Rifter",
+        "zh-TW": "Rifter",
+        "ja": "リフター"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:peugeot:partner",
       "brand": "Peugeot",
-      "names": {"en": "Partner", "zh-CN": "Partner", "zh-TW": "Partner", "ja": "パートナー"},
+      "names": {
+        "en": "Partner",
+        "zh-CN": "Partner",
+        "zh-TW": "Partner",
+        "ja": "パートナー"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:peugeot:expert",
       "brand": "Peugeot",
-      "names": {"en": "Expert", "zh-CN": "Expert", "zh-TW": "Expert", "ja": "エキスパート"},
+      "names": {
+        "en": "Expert",
+        "zh-CN": "Expert",
+        "zh-TW": "Expert",
+        "ja": "エキスパート"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:peugeot:traveller",
       "brand": "Peugeot",
-      "names": {"en": "Traveller", "zh-CN": "Traveller", "zh-TW": "Traveller", "ja": "トラベラー"},
+      "names": {
+        "en": "Traveller",
+        "zh-CN": "Traveller",
+        "zh-TW": "Traveller",
+        "ja": "トラベラー"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:peugeot:landtrek",
       "brand": "Peugeot",
-      "names": {"en": "Landtrek", "zh-CN": "Landtrek", "zh-TW": "Landtrek", "ja": "ランドトレック"},
+      "names": {
+        "en": "Landtrek",
+        "zh-CN": "Landtrek",
+        "zh-TW": "Landtrek",
+        "ja": "ランドトレック"
+      },
       "segment": "class:eu:j",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:peugeot:406",
       "brand": "Peugeot",
-      "names": {"en": "406", "zh-CN": "406", "zh-TW": "406", "ja": "406"},
+      "names": {
+        "en": "406",
+        "zh-CN": "406",
+        "zh-TW": "406",
+        "ja": "406"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:peugeot:407",
       "brand": "Peugeot",
-      "names": {"en": "407", "zh-CN": "407", "zh-TW": "407", "ja": "407"},
+      "names": {
+        "en": "407",
+        "zh-CN": "407",
+        "zh-TW": "407",
+        "ja": "407"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:peugeot:607",
       "brand": "Peugeot",
-      "names": {"en": "607", "zh-CN": "607", "zh-TW": "607", "ja": "607"},
+      "names": {
+        "en": "607",
+        "zh-CN": "607",
+        "zh-TW": "607",
+        "ja": "607"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:peugeot:rcz",
       "brand": "Peugeot",
-      "names": {"en": "RCZ", "zh-CN": "RCZ", "zh-TW": "RCZ", "ja": "RCZ"},
+      "names": {
+        "en": "RCZ",
+        "zh-CN": "RCZ",
+        "zh-TW": "RCZ",
+        "ja": "RCZ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:peugeot:107",
       "brand": "Peugeot",
-      "names": {"en": "107", "zh-CN": "107", "zh-TW": "107", "ja": "107"},
+      "names": {
+        "en": "107",
+        "zh-CN": "107",
+        "zh-TW": "107",
+        "ja": "107"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:peugeot:108",
       "brand": "Peugeot",
-      "names": {"en": "108", "zh-CN": "108", "zh-TW": "108", "ja": "108"},
+      "names": {
+        "en": "108",
+        "zh-CN": "108",
+        "zh-TW": "108",
+        "ja": "108"
+      },
       "segment": "class:eu:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:peugeot:205",
       "brand": "Peugeot",
-      "names": {"en": "205", "zh-CN": "205", "zh-TW": "205", "ja": "205"},
+      "names": {
+        "en": "205",
+        "zh-CN": "205",
+        "zh-TW": "205",
+        "ja": "205"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:peugeot:206",
       "brand": "Peugeot",
-      "names": {"en": "206", "zh-CN": "206", "zh-TW": "206", "ja": "206"},
+      "names": {
+        "en": "206",
+        "zh-CN": "206",
+        "zh-TW": "206",
+        "ja": "206"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:peugeot:207",
       "brand": "Peugeot",
-      "names": {"en": "207", "zh-CN": "207", "zh-TW": "207", "ja": "207"},
+      "names": {
+        "en": "207",
+        "zh-CN": "207",
+        "zh-TW": "207",
+        "ja": "207"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -255,14 +360,323 @@
     {
       "id": "model:peugeot:301",
       "brand": "Peugeot",
-      "names": {"en": "301", "zh-CN": "301", "zh-TW": "301", "ja": "301"},
+      "names": {
+        "en": "301",
+        "zh-CN": "301",
+        "zh-TW": "301",
+        "ja": "301"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012-2020",
+      "note": "标致301(2012-2020),东风标致紧凑三厢轿车,面向中国市场,2020年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:peugeot:4008",
+      "brand": "Peugeot",
+      "names": {
+        "en": "4008 (imported)",
+        "zh-CN": "4008(进口)",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2013",
+      "note": "4008(2008-2013),三菱ASX贴牌的进口版;中国另有东风标致4008(国产,另行收录)",
+      "verified": "verified",
+      "en": "4008",
+      "zh-CN": "4008(进口)"
+    },
+    {
+      "id": "model:peugeot:5008-2",
+      "brand": "Peugeot",
+      "names": {
+        "en": "5008 Classic",
+        "zh-CN": "5008经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017-2021",
+      "note": "5008经典(2017-2021),东风标致5008老款,2021年停产",
+      "verified": "verified",
+      "en": "5008 Classic",
+      "zh-CN": "5008经典"
+    },
+    {
+      "id": "model:peugeot:508l",
+      "brand": "Peugeot",
+      "names": {
+        "en": "508L New Energy",
+        "zh-CN": "508L新能源",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
       "status": "current",
-      "years": "2013–present",
-      "note": "东风标致紧凑三厢轿车,面向中国市场;实际已停产,停产年份待核实",
-      "verified": "pending"
+      "years": "2020-present",
+      "note": "508L新能源(2020-),东风标致508L插电混动版",
+      "verified": "verified",
+      "en": "508L New Energy",
+      "zh-CN": "508L新能源"
+    },
+    {
+      "id": "model:peugeot:e-208",
+      "brand": "Peugeot",
+      "names": {
+        "en": "E-208",
+        "zh-CN": "E-208",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019-present",
+      "note": "e-208(2019-),标致208的纯电版,欧洲市场",
+      "verified": "verified",
+      "en": "e-208",
+      "zh-CN": "e-208(未引入)"
+    },
+    {
+      "id": "model:peugeot:e-expert",
+      "brand": "Peugeot",
+      "names": {
+        "en": "e-Expert",
+        "zh-CN": "e-Expert",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "e-Expert(2020-),Expert的纯电版",
+      "verified": "verified",
+      "en": "e-Expert",
+      "zh-CN": "e-Expert(未引入)"
+    },
+    {
+      "id": "model:peugeot:e-partner",
+      "brand": "Peugeot",
+      "names": {
+        "en": "e-Partner",
+        "zh-CN": "e-Partner",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "e-Partner(2020-),Partner的纯电版",
+      "verified": "verified",
+      "en": "e-Partner",
+      "zh-CN": "e-Partner(未引入)"
+    },
+    {
+      "id": "model:peugeot:e-traveller",
+      "brand": "Peugeot",
+      "names": {
+        "en": "e-Traveller",
+        "zh-CN": "e-Traveller",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "e-Traveller(2020-),Traveller的纯电版",
+      "verified": "verified",
+      "en": "e-Traveller",
+      "zh-CN": "e-Traveller(未引入)"
+    },
+    {
+      "id": "model:peugeot:307-2",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot 307",
+        "zh-CN": "标致307",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001-2014",
+      "note": "标致307(2001-2014),东风标致紧凑型车,2014年停产",
+      "verified": "verified",
+      "en": "307",
+      "zh-CN": "标致307"
+    },
+    {
+      "id": "model:peugeot:308s",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot 308S",
+        "zh-CN": "标致308S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015-2019",
+      "note": "308S(2015-2019),东风标致308两厢版,2019年停产",
+      "verified": "verified",
+      "en": "308S",
+      "zh-CN": "标致308S"
+    },
+    {
+      "id": "model:peugeot:4007",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot 4007",
+        "zh-CN": "标致4007",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007-2012",
+      "note": "4007(2007-2012),三菱Outlander贴牌,2012年停产",
+      "verified": "verified",
+      "en": "4007",
+      "zh-CN": "标致4007"
+    },
+    {
+      "id": "model:peugeot:408x",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot 408X",
+        "zh-CN": "标致408X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "408X(2023-),东风标致跨界轿车(欧版为全球车型)",
+      "verified": "verified",
+      "en": "408X",
+      "zh-CN": "标致408X"
+    },
+    {
+      "id": "model:peugeot:6008",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot 6008",
+        "zh-CN": "标致6008",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012-2016",
+      "note": "6008(2012-2016),标致大型SUV(中国特供),2016年停产",
+      "verified": "verified",
+      "en": "6008",
+      "zh-CN": "标致6008"
+    },
+    {
+      "id": "model:peugeot:608",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot 608",
+        "zh-CN": "标致608",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009-2013",
+      "note": "608(2009-2013),标致旗舰轿跑(未量产,计划车型)",
+      "verified": "verified",
+      "en": "608",
+      "zh-CN": "标致608"
+    },
+    {
+      "id": "model:peugeot:807",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot 807",
+        "zh-CN": "标致807",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002-2014",
+      "note": "807(2002-2014),标致大型MPV,2014年停产",
+      "verified": "verified",
+      "en": "807",
+      "zh-CN": "标致807"
+    },
+    {
+      "id": "model:peugeot:e2008",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot e2008",
+        "zh-CN": "标致e2008",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "e-2008(2020-),标致2008纯电版",
+      "verified": "verified",
+      "en": "e-2008",
+      "zh-CN": "标致e2008"
+    },
+    {
+      "id": "model:peugeot:ion",
+      "brand": "Peugeot",
+      "names": {
+        "en": "Peugeot iOn",
+        "zh-CN": "标致iOn",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2010-2018",
+      "note": "iOn(2010-2018),三菱i-MiEV贴牌的纯电微型车,2018年停产",
+      "verified": "verified",
+      "en": "iOn",
+      "zh-CN": "标致iOn"
     }
   ]
 }

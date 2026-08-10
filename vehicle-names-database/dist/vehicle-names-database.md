@@ -3,7 +3,7 @@
 - **版本**:1.1.0 | **更新日期**:2026-08-09
 - **Schema 版本**:1.1.0
 - **覆盖语言**:`en` 英文 / `zh-CN` 简体中文 / `zh-TW` 繁体中文 / `ja` 日语
-- **条目统计**:品牌 164 · 车型 2041 · 跨市场异名 24 · 术语 72
+- **条目统计**:品牌 164 · 车型 3030 · 跨市场异名 24 · 术语 72
 - **状态标记**:`verified` = 已核实;`pending` = 待复核
 - **数据源**:本文件由 `scripts/build.py` 从 `data/` 生成,请勿直接编辑。
 
@@ -444,14 +444,23 @@
 | model:arcfox:alpha-s | Arcfox αS | 极狐阿尔法S | Arcfox αS(未导入) | — | class:cn:c | body:sedan | pt:bev | current · 2021–present | 中大型纯电轿车(2021年上市,含华为HI版/Hi先行版) |
 | model:arcfox:alpha-s5 | Arcfox αS5 | 极狐阿尔法S5 | Arcfox αS5(未导入) | — | class:cn:b | body:sedan | pt:bev | current · 2024–present | 中型纯电轿跑(2024年上市) |
 | model:arcfox:alpha-t | Arcfox αT | 极狐阿尔法T | Arcfox αT(未导入) | — | class:cn:b | body:suv | pt:bev | current · 2020–present | 极狐首款量产车(2020年上市,北汽蓝谷与麦格纳合资),中大型纯电SUV |
+| model:arcfox:arcfox-s | Kaola S | 极狐 考拉S | — | — | class:cn:mpv | body:mpv | pt:bev | current · 2024–present | 极狐考拉S(2024-),考拉系列新增车型,亲子定位纯电MPV |
+| model:arcfox:arcfox-s3 | Beta S3 | 极狐贝塔S3 | — | — | class:cn:a | body:sedan | pt:bev | current · 2025–present | 极狐贝塔S3(2025-),贝塔系列紧凑型轿车 |
+| model:arcfox:arcfox-t5 | Alpha T5 | 极狐 阿尔法T5 | — | — | class:cn:a | body:suv | pt:bev | current · 2024–present | 极狐阿尔法T5(2024-),紧凑型纯电SUV |
+| model:arcfox:arcfox-t7 | Alpha T7 | 极狐 阿尔法T7 | — | — | class:cn:b | body:suv | pt:bev | current · 2026–present | 极狐阿尔法T7(2026-),大五座SUV,可选纯电或增程动力 |
+| model:arcfox:arcfox-v9 | Wendao V9 | 极狐问道V9 | — | — | class:cn:mpv | body:mpv | pt:erev | current · 2026–present | 极狐问道V9(2026-),问道系列首款量产车,中大型增程MPV |
 | model:arcfox:kaola | Arcfox Kaola | 极狐考拉 | Arcfox Kaola(未导入) | — | class:cn:mpv | body:mpv | pt:bev | current · 2023–present | 「亲子车」定位纯电MPV(2023年上市) |
 
 ## Aston Martin
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:aston-martin:070471a06a | Aston Martin Vulcan | 阿斯顿·马丁Vulcan | 奧斯頓馬丁Vulcan | アストンマーティン ヴァルカン | class:eu:s | body:supercar | pt:ice | discontinued · 2015–2016 | 阿斯顿·马丁Vulcan(2015-2016),赛道专用超跑,7.0L V12,限量24台 |
 | model:aston-martin:db11 | Aston Martin DB11 | 阿斯顿·马丁DB11 | 奧斯頓馬丁DB11 | アストンマーティンDB11 | class:eu:s | body:coupe | pt:ice | discontinued · 2016–2023 | DB9的继任者,2016年推出,2023年被DB12取代 |
 | model:aston-martin:db12 | Aston Martin DB12 | 阿斯顿·马丁DB12 | 奧斯頓馬丁DB12 | アストンマーティンDB12 | class:eu:s | body:coupe | pt:ice | current · 2023–present | 现售旗舰GT,2023年发布,取代DB11;另有敞篷版DB12 Volante |
+| model:aston-martin:db4 | Aston Martin DB4 | 阿斯顿·马丁DB4 | 奧斯頓馬丁DB4 | アストンマーティンDB4 | class:eu:s | body:coupe | pt:ice | discontinued · 1958–1963 | 经典GT跑车,DB4系列含DB4 GT、DB4 Zagato等变体 |
+| model:aston-martin:db5 | Aston Martin DB5 | 阿斯顿·马丁DB5 | 奧斯頓馬丁DB5 | アストンマーティンDB5 | class:eu:s | body:coupe | pt:ice | discontinued · 1963–1965 | 因007系列电影《金手指》闻名的经典GT跑车 |
+| model:aston-martin:db6 | Aston Martin DB6 | 阿斯顿·马丁DB6 | 奧斯頓馬丁DB6 | アストンマーティンDB6 | class:eu:s | body:coupe | pt:ice | discontinued · 1965–1970 | DB5的继任者,改进空气动力学设计的GT跑车,含DB6 Volante敞篷版 |
 | model:aston-martin:db7 | Aston Martin DB7 | 阿斯顿·马丁DB7 | 奧斯頓馬丁DB7 | アストンマーティンDB7 | class:eu:s | body:coupe | pt:ice | discontinued · 1993–2003 | 90年代拯救品牌的GT车型,含DB7 Vantage与敞篷版Volante |
 | model:aston-martin:db9 | Aston Martin DB9 | 阿斯顿·马丁DB9 | 奧斯頓馬丁DB9 | アストンマーティンDB9 | class:eu:s | body:coupe | pt:ice | discontinued · 2004–2016 | DB7的继任者,经典GT轿跑,2016年被DB11取代 |
 | model:aston-martin:dbs | Aston Martin DBS | 阿斯顿·马丁DBS | 奧斯頓馬丁DBS | アストンマーティンDBS | class:eu:s | body:coupe | pt:ice | discontinued · 2018–2024 | DBS Superleggera(2018–2024),V12旗舰GT;名称另有1967–1972年经典DBS与2007–2012年DBS V12 |
@@ -459,6 +468,7 @@
 | model:aston-martin:lagonda | Aston Martin Lagonda | 阿斯顿·马丁Lagonda | 奧斯頓馬丁Lagonda | アストンマーティン ラゴンダ | class:eu:f | body:sedan | pt:ice | discontinued · 1976–1989 | 楔形设计的四门豪华轿车;Lagonda亦为阿斯顿·马丁曾用的子品牌名(2015年Lagonda Taraf) |
 | model:aston-martin:one-77 | Aston Martin One-77 | 阿斯顿·马丁One-77 | 奧斯頓馬丁One-77 | アストンマーティン ワン-77 | class:eu:s | body:coupe | pt:ice | discontinued · 2009–2012 | 限量77台的旗舰超跑,碳纤维车身+V12发动机 |
 | model:aston-martin:rapide | Aston Martin Rapide | 阿斯顿·马丁Rapide | 奧斯頓馬丁Rapide | アストンマーティン ラピード | class:eu:s | body:sedan | pt:ice | discontinued · 2010–2020 | 品牌四门GT轿车,含Rapide S性能版,2020年停产 |
+| model:aston-martin:taraf | Lagonda Taraf | 拉共达Taraf | 拉共達Taraf | ラゴンダ タラフ | class:eu:f | body:sedan | pt:ice | discontinued · 2015–2016 | 阿斯顿·马丁旗下Lagonda子品牌四门豪华轿车,6.0L V12,限量200台 |
 | model:aston-martin:valhalla | Aston Martin Valhalla | 阿斯顿·马丁瓦尔哈拉 | 奧斯頓馬丁Valhalla | アストンマーティン ヴァルハラ | class:eu:s | body:supercar | pt:phev | current · 2025–present | 中置引擎插电混动超跑,2025年起交付 |
 | model:aston-martin:valkyrie | Aston Martin Valkyrie | 阿斯顿·马丁女武神 | 奧斯頓馬丁Valkyrie | アストンマーティン ヴァルキリー | class:eu:s | body:supercar | pt:hev | discontinued · 2021–2024 | 与红牛F1合作开发的混动Hypercar,限量生产,2021年交付 |
 | model:aston-martin:vanquish | Aston Martin Vanquish | 阿斯顿·马丁Vanquish | 奧斯頓馬丁Vanquish | アストンマーティン ヴァンキッシュ | class:eu:s | body:coupe | pt:ice | current · 2024–present | V12旗舰GT,2024年发布;名称先例:V12 Vanquish(2001–2007)与Vanquish(2012–2018) |
@@ -479,34 +489,75 @@
 | model:audi:a5l | A5L | 奥迪A5L | A5L | A5L(エーファイブエル) | class:cn:b | body:sedan | pt:ice | current · 2025–present | 一汽奥迪国产长轴版A5(B10),2025年上市;另有A5L Sportback掀背版同属本系列 |
 | model:audi:a6 | A6 | 奥迪A6L | Audi A6 | A6(エーロク) | class:eu:e | body:sedan | pt:ice | current · 1994–present | 前身为奥迪100;中国版为一汽-大众奥迪A6L(长轴);S6/RS6高性能版属本系列 |
 | model:audi:a6-e-tron | A6 e-tron | A6 e-tron | A6 e-tron | A6 e-tron(エーロク・イートロン) | class:eu:e | body:sedan | pt:bev | current · 2024–present | PPE平台纯电行政轿车,另有Avant旅行版 |
+| model:audi:a6l | A6L New Energy | A6L新能源 | — | — | class:cn:c | body:sedan | pt:phev | discontinued · 2019–2022 | A6L新能源(2019–2022),一汽-奥迪A6L插电混动版(55 TFSI e),2022年停产 |
+| model:audi:a6l-e-tron | A6L e-tron | A6L e-tron | — | — | class:cn:c | body:sedan | pt:bev | current · 2025–present | A6L e-tron(2025–),一汽-奥迪中国特供长轴纯电轿车(PPE平台) |
 | model:audi:a7 | A7 | A7 | Audi A7 | A7(エーセブン) | class:eu:e | body:sedan | pt:ice | current · 2010–present | 五门轿跑(liftback);中国另有上汽奥迪A7L长轴轿车(2021年起) |
 | model:audi:a7l | A7L | 奥迪A7L | A7L | A7L(エーセブンエル) | class:cn:c | body:sedan | pt:ice | current · 2021–present | 上汽奥迪特供长轴三厢版A7 |
 | model:audi:a8 | A8 | 奥迪A8L | Audi A8 | A8(エーハチ) | class:eu:f | body:sedan | pt:ice | current · 1994–present | 奥迪旗舰豪华轿车,前身为奥迪V8;中国版为A8L长轴 |
+| model:audi:audi-s1 | Audi S1 | 奥迪S1 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2014–2018 | S1(2014–2018),A1的S性能版,2018年停产 |
+| model:audi:audi-s3 | Audi S3 | 奥迪S3 | — | — | class:cn:a | body:sedan | pt:ice | current · 1999–present | S3(1999–),A3的S性能版 |
+| model:audi:audi-s4 | Audi S4 | 奥迪S4 | — | — | class:cn:a | body:sedan | pt:ice | current · 1991–present | S4(1991–),A4的S性能版 |
+| model:audi:audi-s5 | Audi S5 | 奥迪S5 | — | — | class:cn:a | body:coupe | pt:ice | current · 2007–present | S5(2007–),A5的S性能版 |
+| model:audi:audi-s6 | Audi S6 | 奥迪S6 | — | — | class:cn:a | body:sedan | pt:ice | current · 1994–present | S6(1994–),A6的S性能版 |
+| model:audi:audi-s7 | Audi S7 | 奥迪S7 | — | — | class:cn:a | body:hatchback | pt:ice | current · 2012–present | S7(2012–),A7的S性能版 |
+| model:audi:audi-s8 | Audi S8 | 奥迪S8 | — | — | class:cn:a | body:sedan | pt:ice | current · 1996–present | S8(1996–),A8的S性能版 |
+| model:audi:coupe | Audi Coupe | 奥迪Coupe | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1980–1991 | Coupe(B2,1980–1991),奥迪双门轿跑,与初代Quattro同平台 |
 | model:audi:e-tron | e-tron | e-tron | e-tron | e-tron(イートロン) | class:eu:j | body:suv | pt:bev | discontinued · 2018–2025 | 奥迪首款量产纯电SUV,2023年改名Q8 e-tron,2025年停产;国产版e-tron同属本系列 |
 | model:audi:e-tron-gt | e-tron GT | e-tron GT | e-tron GT | e-tron GT(イートロンGT) | class:eu:s | body:sedan | pt:bev | current · 2020–present | 与保时捷Taycan同平台的纯电轿跑;RS e-tron GT高性能版属本系列 |
 | model:audi:q2 | Q2 | Q2L | Audi Q2 | Q2(キュー・ツー) | class:eu:b | body:suv | pt:ice | discontinued · 2017–2026 | 奥迪小型SUV;中国版为一汽-大众Q2L(加长),2026年停产 |
+| model:audi:q2l | Audi Q2L | 奥迪Q2L | — | — | class:cn:a | body:suv | pt:ice | current · 2018–present | Q2L(2018–),一汽-奥迪中国特供长轴小型SUV(Q2的长轴版) |
+| model:audi:q2l-e-tron | Q2L e-tron | Q2L e-tron | — | — | class:cn:b | body:suv | pt:bev | discontinued · 2019–2022 | Q2L e-tron(2019–2022),一汽-奥迪Q2L纯电版,2022年停产 |
 | model:audi:q3 | Q3 | Q3 | Audi Q3 | Q3(キュー・スリー) | class:eu:c | body:suv | pt:ice | current · 2011–present | 紧凑型SUV,另有Q3 Sportback轿跑版 |
+| model:audi:q3-sportback | Q3 Sportback | Q3 Sportback | — | — | class:cn:a | body:coupe | pt:ice | current · 2020–present | Q3 Sportback(2020–),Q3的轿跑SUV版,中国由一汽-奥迪国产 |
 | model:audi:q4-e-tron | Q4 e-tron | Q4 e-tron | Q4 e-tron | Q4 e-tron(キュー・フォー・イートロン) | class:eu:c | body:suv | pt:bev | current · 2021–present | MEB平台纯电紧凑型SUV,另有Sportback版 |
 | model:audi:q5 | Q5 | 奥迪Q5L | Audi Q5 | Q5(キュー・ファイブ) | class:eu:d | body:suv | pt:ice | current · 2008–present | 中型豪华SUV;中国版为一汽-大众奥迪Q5L(长轴);SQ5高性能版属本系列 |
+| model:audi:q5-e-tron | Q5 e-tron | Q5 e-tron | — | — | class:cn:b | body:suv | pt:bev | current · 2022–present | Q5 e-tron(2022–),上汽奥迪纯电SUV(MEB平台,中国特供) |
+| model:audi:q5l-sportback | Audi Q5L Sportback | 奥迪Q5L Sportback | — | — | class:cn:b | body:coupe | pt:ice | current · 2020–present | Q5L Sportback(2020–),一汽-奥迪Q5L的轿跑版 |
 | model:audi:q6 | Q6 | 奥迪Q6 | Audi Q6 | Q6(キュー・シックス) | class:cn:d | body:suv | pt:ice | current · 2022–present | 上汽奥迪特供大型SUV,仅中国市场销售 |
 | model:audi:q6-e-tron | Q6 e-tron | Q6 e-tron | Q6 e-tron | Q6 e-tron(キュー・シックス・イートロン) | class:eu:d | body:suv | pt:bev | current · 2024–present | PPE平台纯电中型SUV,与中国特供Q6无关联 |
+| model:audi:q6l-e-tron | Q6L e-tron | Q6L e-tron | — | — | class:cn:b | body:suv | pt:bev | current · 2025–present | Q6L e-tron(2025–),一汽-奥迪中国特供长轴纯电SUV(PPE平台) |
+| model:audi:q6l-sportback-e-tron | Q6L Sportback e-tron | Q6L Sportback e-tron | — | — | class:cn:b | body:coupe | pt:bev | current · 2025–present | Q6L Sportback e-tron(2025–),一汽-奥迪Q6L e-tron的轿跑版(PPE平台) |
 | model:audi:q7 | Q7 | 奥迪Q7 | Audi Q7 | Q7(キュー・セブン) | class:eu:j | body:suv | pt:ice | current · 2005–present | 奥迪首款SUV,与大众途锐/保时捷卡宴同平台;2026年换代 |
 | model:audi:q8 | Q8 | 奥迪Q8 | Audi Q8 | Q8(キュー・エイト) | class:eu:j | body:suv | pt:ice | current · 2018–present | 奥迪旗舰轿跑SUV;Q8 e-tron(2018–2025)为纯电SUV,前身即e-tron |
 | model:audi:quattro | Quattro | Quattro | Audi Quattro | クワトロ | class:eu:s | body:coupe | pt:ice | discontinued · 1980–1991 | 四驱系统的开山之作,1980年代WRC赛场传奇 |
 | model:audi:r8 | R8 | R8 | Audi R8 | R8(アールエイト) | class:eu:s | body:sports | pt:ice | discontinued · 2006–2024 | 奥迪超级跑车(5.2 V10),2024年停产;R8 e-tron为限量电动版(2015) |
+| model:audi:rs-3 | RS 3 | RS 3 | — | — | class:cn:a | body:hatchback | pt:ice | current · 2011–present | RS 3(2011–),A3的RS顶级性能版 |
+| model:audi:rs-4 | Audi RS 4 | 奥迪RS 4 | — | — | class:cn:a | body:wagon | pt:ice | current · 1999–present | RS 4(1999–),A4的RS顶级性能版(旅行车为主) |
+| model:audi:rs-5 | RS 5 | RS 5 | — | — | class:cn:a | body:coupe | pt:ice | current · 2010–present | RS 5(2010–),A5的RS顶级性能版 |
+| model:audi:rs-6 | Audi RS 6 | 奥迪RS 6 | — | — | class:cn:a | body:wagon | pt:ice | current · 2002–present | RS 6(2002–),A6的RS顶级性能版(旅行车) |
+| model:audi:rs-7 | RS 7 | RS 7 | — | — | class:cn:a | body:hatchback | pt:ice | current · 2013–present | RS 7(2013–),A7的RS顶级性能版 |
+| model:audi:rs-q3 | RS Q3 | RS Q3 | — | — | class:cn:a | body:suv | pt:ice | current · 2013–present | RS Q3(2013–),Q3的RS顶级性能版 |
+| model:audi:rs-q8 | RS Q8 | RS Q8 | — | — | class:cn:c | body:suv | pt:ice | current · 2019–present | RS Q8(2019–),Q8的RS顶级性能版 |
+| model:audi:sq2 | Audi SQ2 | 奥迪SQ2 | — | — | class:cn:a | body:suv | pt:ice | current · 2019–present | SQ2(2019–),Q2的S性能版 |
+| model:audi:sq5 | Audi SQ5 | 奥迪SQ5 | — | — | class:cn:b | body:suv | pt:ice | current · 2013–present | SQ5(2013–),Q5的S性能版 |
+| model:audi:sq5-sportback | Audi SQ5 Sportback | 奥迪SQ5 Sportback | — | — | class:cn:b | body:coupe | pt:ice | current · 2021–present | SQ5 Sportback(2021–),Q5 Sportback的S性能版 |
+| model:audi:sq6-e-tron | SQ6 e-tron | SQ6 e-tron | — | — | class:cn:b | body:suv | pt:bev | current · 2025–present | SQ6 e-tron(2025–),Q6 e-tron的S性能版(PPE平台) |
+| model:audi:sq7 | Audi SQ7 | 奥迪SQ7 | — | — | class:cn:c | body:suv | pt:ice | current · 2016–present | SQ7(2016–),Q7的S性能版 |
+| model:audi:sq8 | Audi SQ8 | 奥迪SQ8 | — | — | class:cn:c | body:suv | pt:ice | current · 2019–present | SQ8(2019–),Q8的S性能版 |
 | model:audi:tt | TT | TT | Audi TT | TT(ティーティー) | class:eu:s | body:coupe | pt:ice | discontinued · 1998–2023 | 奥迪经典轿跑(含Roadster敞篷与TTS/TT RS性能版),2023年停产 |
+| model:audi:tt-rs | TT RS | TT RS | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2009–2023 | TT RS(2009–2023),TT的RS顶级性能版,2023年停产 |
+| model:audi:tts | Audi TTS | 奥迪TTS | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2008–2023 | TTS(2008–2023),TT的S性能版,2023年停产 |
 
 ## BAIC
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:baic:baic-cc | Senova CC | 绅宝CC | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2015–2018 | 绅宝CC(2015-2018),绅宝运动型轿车,基于D60平台,已停产 |
 | model:baic:d20 | Senova D20 | 绅宝D20 | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2014–2018 | 北汽绅宝小型两厢/三厢车(2014年上市,源自北汽E系列平台) |
 | model:baic:d50 | Senova D50 | 绅宝D50 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2018 | 北汽绅宝紧凑型轿车(2014年上市,2019年由北京U5接替) |
+| model:baic:d60 | Senova D60 | 绅宝D60 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2016 | 绅宝D60(2014-2016),紧凑型轿车,已停产 |
 | model:baic:d70 | Senova D70 | 绅宝D70 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2013–2017 | 北汽绅宝品牌首款车型,中型轿车,源自萨博9-5技术平台(2013年上市) |
+| model:baic:d80 | Senova D80 | 绅宝D80 | — | — | class:cn:c | body:sedan | pt:ice | discontinued · 2015–2017 | 绅宝D80(2015-2017),绅宝旗舰轿车,基于萨博9-5平台,已停产 |
 | model:baic:e-series | E-Series | E系列 | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2012–2015 | 北京汽车小型两厢/三厢车(2012年上市,后由绅宝D20接替) |
 | model:baic:eu5 | BEIJING-EU5 | 北京EU5 | — | — | class:cn:a | body:sedan | pt:bev | current · 2018–present | 北汽新能源紧凑型纯电轿车(2018年上市,网约车/出租车市场主力,品牌统一后称BEIJING-EU5) |
+| model:baic:eu5-plus | BAIC EU5 PLUS | 北京EU5 PLUS | — | — | class:cn:a | body:sedan | pt:ice | current · 2021–present | 北京EU5 PLUS(2021-),EU5升级版,北汽新能源紧凑型纯电轿车 |
+| model:baic:eu7 | BAIC EU7 | 北京EU7 | — | — | class:cn:b | body:sedan | pt:ice | current · 2019–present | 北京EU7(2019-),北汽新能源中型纯电轿车 |
+| model:baic:eu8 | BAIC EU8 | 北京EU8 | — | — | class:cn:b | body:sedan | pt:ice | current · 2025–present | 北京EU8(2025-),B级纯电营运轿车,支持换电 |
+| model:baic:ex3 | BAIC EX3 | 北京EX3 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2019–2022 | 北京EX3(2019-2022),北汽新能源纯电小型SUV,已停产 |
+| model:baic:ex5 | BAIC EX5 | 北京EX5 | — | — | class:cn:c | body:suv | pt:ice | discontinued · 2019–2021 | 北京EX5(2019-2021),北汽新能源纯电紧凑型SUV,已停产 |
 | model:baic:mofang | Magic Cube | 魔方 | — | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 北京汽车紧凑型SUV(2022年上市,搭载华为鸿蒙智能座舱) |
 | model:baic:u5 | BEIJING-U5 | 北京U5 | — | — | class:cn:a | body:sedan | pt:ice | current · 2019–present | 北京汽车紧凑型轿车(2019年上市,由绅宝D50更名而来,含U5 PLUS版) |
+| model:baic:u5-plus | BAIC U5 PLUS | 北京U5 PLUS | — | — | class:cn:a | body:sedan | pt:ice | current · 2021–present | 北京U5 PLUS(2021-),U5改款升级版 |
 | model:baic:u7 | BEIJING-U7 | 北京U7 | — | — | class:cn:b | body:sedan | pt:ice | current · 2018–present | 北京汽车中型轿车(2018年上市,前身绅宝智道,定位接替绅宝D70) |
 | model:baic:x25 | Senova X25 | 绅宝X25 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2015–2018 | 北汽绅宝小型SUV(2015年上市) |
 | model:baic:x3 | BEIJING-X3 | 北京X3 | — | — | class:cn:a0 | body:suv | pt:ice | current · 2020–present | 北京汽车小型SUV(2020年上市,由绅宝X35更名而来) |
@@ -524,16 +575,26 @@
 | model:baic-offroad:bj20 | BJ20 | 北京BJ20 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2016–2021 | 北京越野紧凑型SUV,城市风格硬派造型(2016年上市) |
 | model:baic-offroad:bj30 | BJ30 | 北京BJ30 | — | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 北京越野紧凑型SUV,轻越野定位(2021年上市,2024年换代,含混动版) |
 | model:baic-offroad:bj40 | BJ40 | 北京BJ40 | — | — | class:cn:b | body:suv | pt:ice | current · 2013–present | 北京越野硬派越野SUV,非承载式车身(2013年上市,含城市猎人/刀锋英雄等版本) |
+| model:baic-offroad:bj40-2 | BJ40 EREV | BJ40增程 | BJ40增程 | — | class:cn:b | body:suv | pt:erev | current · 2024–present | 北京BJ40增程(2024-),BJ40增程混动版 |
 | model:baic-offroad:bj60 | BJ60 | 北京BJ60 | — | — | class:cn:c | body:suv | pt:ice | current · 2022–present | 北京越野中大型硬派SUV,非承载式车身(2022年上市,后续推出增程混动版) |
+| model:baic-offroad:bj60-2 | BJ60 EREV | BJ60增程 | BJ60增程 | — | class:cn:c | body:suv | pt:erev | current · 2024–present | 北京BJ60增程(2024-),BJ60增程混动版 |
 | model:baic-offroad:bj80 | BJ80 | 北京BJ80 | — | — | class:cn:c | body:suv | pt:ice | current · 2017–present | 北京越野中大型硬派SUV,非承载式车身,外观风格类奔驰G级(2017年上市) |
 | model:baic-offroad:bj90 | BJ90 | 北京BJ90 | — | — | class:cn:c | body:suv | pt:ice | current · 2019–present | 北京越野大型SUV,基于奔驰GLS同源底盘(2019年上市,含3.0T/4.0T版本) |
+| model:baic-offroad:f40 | BAIC Offroad F40 | 北京越野F40 | F40 | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2018–2020 | 北京越野F40(2018-2020),BJ40皮卡版,已停产 |
 
 ## BAW
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
 | model:baw:212 | BAW 212 | 212 | BAW 212 | — | class:cn:b | body:suv | pt:ice | current · 1966–present | 经典轻型越野车BJ212,1966年投产,中国汽车工业符号;2024年新一代212(T01)上市,现由BAW生产销售 |
+| model:baw:2aed7f4f9b | Zhanqi Pickup | 战旗皮卡 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2005–2015 | 战旗皮卡,战旗系列皮卡版,已停产 |
+| model:baw:82104fd1e0 | Yuanbao | 元宝 | — | — | class:cn:a00 | body:city-car | pt:bev | current · 2023–present | 元宝(2023-),北汽制造纯电微型车 |
 | model:baw:bw007 | BAW BW007 | BW007 | BAW BW007 | — | class:cn:b | body:suv | pt:ice | discontinued · 2015–2020 | 中型硬派SUV(2015年上市),源自勇士平台;约2020年停产 |
+| model:baw:cebb8550b6 | Calorie | 卡路里 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2022–present | 卡路里(2022-),北汽制造小型皮卡 |
+| model:baw:d6099cd5d6 | Luba | 陆霸 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2003–2010 | 陆霸(2003-2010),北汽SUV,基于丰田普拉多(90系)技术,已停产 |
+| model:baw:d8394ba5f7 | Zhanqi | 战旗 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2005–2015 | 战旗(2005-2015),北汽制造经典越野SUV,已停产 |
+| model:baw:f4da434a6a | Brave Warrior Pickup | 勇士皮卡 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2014–present | 勇士皮卡,勇士系列皮卡版 |
+| model:baw:s12 | Knight S12 | 骑士S12 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2011–2015 | 骑士S12(2011-2015),北汽SUV,已停产 |
 | model:baw:t01 | 212 T01 | 212 T01 | 212 T01 | — | class:cn:c | body:suv | pt:ice | current · 2024–present | 新212换代款中大型硬派SUV(2024年8月上市,代号T01),非承载式车身,搭载2.0T发动机 |
 | model:baw:warrior | BAW Warrior | 勇士 | BAW Warrior | — | class:cn:b | body:suv | pt:ice | discontinued · 2007–2020 | 中型硬派越野车,军用勇士民用化产品,2007年前后上市;2020年前后停产 |
 
@@ -563,35 +624,66 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:bmw:1-m | 1 Series M | 1系M | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2011–2012 | 1系M(2011–2012),1系的M性能版(E82),限量生产 |
 | model:bmw:1-series | 1 Series | 宝马1系 | BMW 1系列 | BMW 1シリーズ | class:eu:c | body:hatchback | pt:ice | current · 2004–present | 紧凑型豪华两厢,北美市场不售;中国另有1系三厢版(F52,2017–2023) |
 | model:bmw:2-series | 2 Series | 宝马2系 | BMW 2系列 | BMW 2シリーズ | class:eu:c | body:coupe | pt:ice | current · 2014–present | 轿跑与敞篷版(G42);另有2系Gran Coupé四门轿跑(F74)同属本系列 |
 | model:bmw:2-series-active-tourer | 2 Series Active Tourer | 宝马2系多功能旅行车 | BMW 2系列Active Tourer | BMW 2シリーズ アクティブツアラー | class:eu:m | body:mpv | pt:ice | current · 2014–present | 前驱平台紧凑型MPV |
+| model:bmw:3-gt | 3 Series GT | 3系GT | — | — | class:cn:b | body:hatchback | pt:ice | discontinued · 2013–2020 | 3系GT(F34,2013–2020),3系的掀背GT版,2020年停产 |
 | model:bmw:3-series | 3 Series | 宝马3系 | BMW 3系列 | BMW 3シリーズ | class:eu:d | body:sedan | pt:ice | current · 1975–present | 宝马销量支柱与运动标杆;中国版为华晨宝马3系(长轴G28);M3高性能版属本系列;欧洲另有旅行版 |
+| model:bmw:328 | BMW 328 | 宝马328 | — | — | class:cn:a | body:roadster | pt:ice | discontinued · 1936–1940 | 328(1936–1940),宝马经典赛车,战前高性能跑车 |
 | model:bmw:4-series | 4 Series | 宝马4系 | BMW 4系列 | BMW 4シリーズ | class:eu:d | body:coupe | pt:ice | current · 2014–present | 自3系独立出的轿跑/敞篷系列,另有Gran Coupé四门版;M4属本系列 |
+| model:bmw:5-gt | 5 Series GT | 5系GT | — | — | class:cn:c | body:hatchback | pt:ice | discontinued · 2010–2017 | 5系GT(F07,2010–2017),5系的掀背GT版,2017年由6系GT接替 |
 | model:bmw:5-series | 5 Series | 宝马5系 | BMW 5系列 | BMW 5シリーズ | class:eu:e | body:sedan | pt:ice | current · 1972–present | 中大型行政轿车;中国版为华晨宝马5系(长轴G68);M5高性能版属本系列;5系GT掀背版(2010–2018)已停产 |
+| model:bmw:502 | BMW 502 | 宝马502 | — | — | class:cn:c | body:sedan | pt:ice | discontinued · 1952–1963 | 502(1952–1963),宝马战后V8豪华轿车 |
+| model:bmw:6-gt | 6 Series GT | 6系GT | — | — | class:cn:c | body:hatchback | pt:ice | discontinued · 2017–2023 | 6系GT(G32,2017–2023),5系GT继任者,2023年停产 |
 | model:bmw:6-series | 6 Series | 宝马6系 | BMW 6系列 | BMW 6シリーズ | class:eu:e | body:coupe | pt:ice | discontinued · 1976–2023 | 豪华轿跑系列(E24/E63/F06/G32),2023年停产;M6属本系列 |
 | model:bmw:7-series | 7 Series | 宝马7系 | BMW 7系列 | BMW 7シリーズ | class:eu:f | body:sedan | pt:ice | current · 1977–present | 宝马旗舰豪华轿车;M760/M7高性能版属本系列;中国另有长轴与M760Le插混 |
 | model:bmw:8-series | 8 Series | 宝马8系 | BMW 8系列 | BMW 8シリーズ | class:eu:s | body:coupe | pt:ice | discontinued · 1989–2026 | 第一代E31(1989–1999)为V12旗舰轿跑;第二代G15(2018–2026)含Cabrio/GC,2026年停产;M8属本系列 |
+| model:bmw:bmw-m2 | BMW M2 | 宝马M2 | — | — | class:cn:a | body:coupe | pt:ice | current · 2016–present | M2(F87/G87,2016–),2系的M性能版 |
+| model:bmw:bmw-m3 | BMW M3 | 宝马M3 | — | — | class:cn:b | body:sedan | pt:ice | current · 1986–present | M3(1986–),3系的M性能版,宝马性能标杆 |
+| model:bmw:bmw-m4 | BMW M4 | 宝马M4 | — | — | class:cn:b | body:coupe | pt:ice | current · 2014–present | M4(F82/G82,2014–),4系的M性能版 |
+| model:bmw:bmw-m5-2 | BMW M5 | 宝马M5 | — | — | class:cn:b | body:sedan | pt:ice | current · 1985–present | M5(1985–),5系的M性能版 |
+| model:bmw:bmw-m6 | BMW M6 | 宝马M6 | — | — | class:cn:b | body:coupe | pt:ice | discontinued · 1983–2018 | M6(1983–2018),6系的M性能版(含M635CSi),2018年停产 |
+| model:bmw:bmw-m8 | BMW M8 | 宝马M8 | — | — | class:cn:a | body:coupe | pt:ice | current · 2019–present | M8(F91/F92,2019–),8系的M性能版 |
 | model:bmw:i3 | i3 | 宝马i3 | BMW i3 | BMW i3 | class:eu:b | body:hatchback | pt:bev | discontinued · 2013–2022 | 碳纤维车身城市纯电车,2022年停产;中国市场的「i3」另指3系纯电轿车(G28,2022起) |
 | model:bmw:i4 | i4 | 宝马i4 | BMW i4 | BMW i4 | class:eu:d | body:sedan | pt:bev | current · 2021–present | 4系Gran Coupé的纯电版,中国已国产 |
+| model:bmw:i4-m | i4 M | i4 M | — | — | class:cn:b | body:sedan | pt:bev | current · 2025–present | i4 M(2025–),i4的M性能纯电版 |
 | model:bmw:i5 | i5 | 宝马i5 | BMW i5 | BMW i5 | class:eu:e | body:sedan | pt:bev | current · 2023–present | 5系纯电版;另有i5 Touring旅行版 |
+| model:bmw:i5-m60 | i5 M60 | i5 M60 | — | — | class:cn:a | body:sedan | pt:bev | current · 2023–present | i5 M60(2023–),i5的M Performance纯电版 |
 | model:bmw:i7 | i7 | 宝马i7 | BMW i7 | BMW i7 | class:eu:f | body:sedan | pt:bev | current · 2022–present | 7系纯电版 |
+| model:bmw:i7-m70l | i7 M70L | i7 M70L | — | — | class:cn:a | body:sedan | pt:bev | current · 2023–present | i7 M70L(2023–),i7长轴的M Performance纯电版 |
 | model:bmw:i8 | i8 | 宝马i8 | BMW i8 | BMW i8 | class:eu:s | body:sports | pt:phev | discontinued · 2014–2020 | 插混跑车,2020年停产 |
 | model:bmw:ix | iX | 宝马iX | BMW iX | BMW iX | class:eu:e | body:suv | pt:bev | current · 2021–present | 全新纯电专属平台中型SUV |
+| model:bmw:ix-m60 | iX M60 | iX M60 | — | — | class:cn:b | body:suv | pt:bev | current · 2022–present | iX M60(2022–),iX的M Performance纯电版 |
 | model:bmw:ix1 | iX1 | 宝马iX1 | BMW iX1 | BMW iX1 | class:eu:c | body:suv | pt:bev | current · 2022–present | X1纯电版,中国已国产 |
 | model:bmw:ix2 | iX2 | 宝马iX2 | BMW iX2 | BMW iX2 | class:eu:c | body:coupe | pt:bev | current · 2023–present | X2纯电版 |
 | model:bmw:ix3 | iX3 | 宝马iX3 | BMW iX3 | BMW iX3 | class:eu:d | body:suv | pt:bev | current · 2020–present | X3纯电版,中国华晨宝马生产;2025年换代至Neue Klasse平台 |
+| model:bmw:ix5 | BMW iX5 | 宝马iX5 | — | — | class:cn:c | body:suv | pt:fcev | current · 2022–present | iX5 Hydrogen(2022–),X5的氢燃料电池车,2022年小规模量产 |
 | model:bmw:m1 | M1 | 宝马M1 | BMW M1 | BMW M1 | class:eu:s | body:sports | pt:ice | discontinued · 1978–1981 | M部门首款独立跑车,中置后驱 |
+| model:bmw:m235l | BMW M235L | 宝马M235L | — | — | class:cn:a | body:sedan | pt:ice | current · 2024–present | M235L(2024–),中国特供长轴2系四门轿车的M Performance版 |
+| model:bmw:m240i | BMW M240i | 宝马M240i | — | — | class:cn:a | body:coupe | pt:ice | current · 2016–present | M240i(2016–),2系的M Performance版 |
+| model:bmw:m760le | BMW M760Le | 宝马M760Le | — | — | class:cn:a | body:sedan | pt:phev | current · 2022–present | M760Le(2022–),7系长轴的M Performance插混版 |
 | model:bmw:x1 | X1 | 宝马X1 | BMW X1 | BMW X1 | class:eu:c | body:suv | pt:ice | current · 2009–present | 紧凑型SUV;中国版为华晨宝马X1(长轴) |
+| model:bmw:x1-m35li | X1 M35Li | X1 M35Li | — | — | class:cn:a | body:suv | pt:ice | current · 2024–present | X1 M35Li(2024–),中国特供长轴X1的M性能版 |
 | model:bmw:x2 | X2 | 宝马X2 | BMW X2 | BMW X2 | class:eu:c | body:coupe | pt:ice | current · 2018–present | X1的轿跑SUV版 |
+| model:bmw:x2-m35i | X2 M35i | X2 M35i | — | — | class:cn:a | body:suv | pt:ice | current · 2024–present | X2 M35i(2024–),第二代X2的M性能版 |
 | model:bmw:x3 | X3 | 宝马X3 | BMW X3 | BMW X3 | class:eu:d | body:suv | pt:ice | current · 2003–present | 中型豪华SUV;中国版为华晨宝马X3(长轴G48);X3 M与X3 M40i高性能版属本系列 |
+| model:bmw:x3-m | X3 M | X3 M | — | — | class:cn:b | body:suv | pt:ice | current · 2019–present | X3 M(F97,2019–),X3的M性能版 |
+| model:bmw:x3-m40i | X3 M40i | X3 M40i | — | — | class:cn:b | body:suv | pt:ice | current · 2018–present | X3 M40i(2018–),X3的M Performance版 |
+| model:bmw:x3-m50 | X3 M50 | X3 M50 | — | — | class:cn:b | body:suv | pt:ice | current · 2025–present | X3 M50(2025–),第四代X3的M Performance版 |
 | model:bmw:x4 | X4 | 宝马X4 | BMW X4 | BMW X4 | class:eu:d | body:coupe | pt:ice | current · 2014–present | X3的轿跑SUV版 |
+| model:bmw:x4-m | BMW X4 M | 宝马X4 M | — | — | class:cn:b | body:coupe | pt:ice | current · 2019–present | X4 M(F98,2019–),X4轿跑SUV的M性能版 |
+| model:bmw:x4-m40i | BMW X4 M40i | 宝马X4 M40i | — | — | class:cn:b | body:coupe | pt:ice | current · 2018–present | X4 M40i(2018–),X4轿跑SUV的M Performance版 |
 | model:bmw:x5 | X5 | 宝马X5 | BMW X5 | BMW X5 | class:eu:e | body:suv | pt:ice | current · 1999–present | 开创豪华SUV先河;中国版为华晨宝马X5(国产长轴);X5 M属本系列 |
+| model:bmw:x5-m | X5 M | X5 M | — | — | class:cn:c | body:suv | pt:ice | current · 2009–present | X5 M(F95,2019–),X5的M性能版,初代2009年上市 |
 | model:bmw:x6 | X6 | 宝马X6 | BMW X6 | BMW X6 | class:eu:e | body:coupe | pt:ice | current · 2008–present | 轿跑SUV鼻祖;X6 M属本系列 |
+| model:bmw:x6-m | X6 M | X6 M | — | — | class:cn:c | body:coupe | pt:ice | current · 2009–present | X6 M(F96,2019–),X6轿跑SUV的M性能版,初代2009年上市 |
 | model:bmw:x7 | X7 | 宝马X7 | BMW X7 | BMW X7 | class:eu:f | body:suv | pt:ice | current · 2018–present | 宝马旗舰全尺寸SUV;另有超豪华Alpina XB7 |
+| model:bmw:x7-m60i | X7 M60i | X7 M60i | — | — | class:cn:c | body:suv | pt:ice | current · 2023–present | X7 M60i(2023–),X7的M Performance版(改款后替代M50i) |
 | model:bmw:xm | XM | 宝马XM | BMW XM | BMW XM | class:eu:f | body:suv | pt:phev | current · 2022–present | M部门独立研发的旗舰插混SUV |
 | model:bmw:z3 | Z3 | 宝马Z3 | BMW Z3 | BMW Z3 | class:eu:s | body:roadster | pt:ice | discontinued · 1995–2002 | 首款量产Z系列跑车,007电影《黄金眼》同款 |
 | model:bmw:z4 | Z4 | 宝马Z4 | BMW Z4 | BMW Z4 | class:eu:s | body:roadster | pt:ice | current · 2002–present | 双座敞篷跑车,与丰田Supra同平台(现款G29) |
+| model:bmw:z4-m40i-2 | BMW Z4 M40i | 宝马Z4 M40i | — | — | class:cn:a | body:roadster | pt:ice | current · 2018–present | Z4 M40i(G29,2018–),Z4敞篷跑车的M Performance版 |
 | model:bmw:z8 | Z8 | 宝马Z8 | BMW Z8 | BMW Z8 | class:eu:s | body:roadster | pt:ice | discontinued · 2000–2003 | 向507致敬的复古豪华敞篷跑车 |
 
 ## Borgward
@@ -606,8 +698,15 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:brilliance:3195a14684 | Zunchi | 尊驰 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2004–2012 | 尊驰(2004-2012),中华中型轿车,已停产 |
+| model:brilliance:3fc6138a87 | Junjie | 骏捷 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2006–2011 | 骏捷(2006-2011),中华经典中型轿车,已停产 |
+| model:brilliance:b7634eed47 | Brilliance Coupe | 中华酷宝 | — | — | class:cn:b | body:coupe | pt:ice | discontinued · 2007–2010 | 酷宝(2007-2010),中华双门轿跑,已停产 |
+| model:brilliance:cross | Brilliance Junjie Cross | 中华骏捷Cross | — | — | class:cn:a | body:crossover | pt:ice | discontinued · 2009–2011 | 骏捷Cross(2009-2011),骏捷FRV跨界版,已停产 |
+| model:brilliance:frv | Brilliance Junjie FRV | 中华骏捷FRV | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2008–2013 | 骏捷FRV(2008-2013),中华紧凑型两厢车,被H320接替,已停产 |
+| model:brilliance:fsv | Brilliance Junjie FSV | 中华骏捷FSV | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2009–2013 | 骏捷FSV(2009-2013),骏捷FRV三厢版,已停产 |
 | model:brilliance:h220 | Brilliance H220 | 中华H220 | Brilliance H220 | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2013–2015 | 小型两厢车,中华入门级车型 |
 | model:brilliance:h230 | Brilliance H230 | 中华H230 | Brilliance H230 | — | class:cn:a0 | body:sedan | pt:ice | discontinued · 2012–2015 | 小型轿车 |
+| model:brilliance:h230ev | Brilliance H230EV | 中华H230EV | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2016–2018 | 中华H230EV(2016-2018),H230纯电版,已停产 |
 | model:brilliance:h3 | Brilliance H3 | 中华H3 | Brilliance H3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2017–2019 | 紧凑型轿车,运动风格设计 |
 | model:brilliance:h320 | Brilliance H320 | 中华H320 | Brilliance H320 | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2012–2015 | 紧凑型两厢车,骏捷FRV改款车型 |
 | model:brilliance:h330 | Brilliance H330 | 中华H330 | Brilliance H330 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2016 | 紧凑型轿车 |
@@ -631,6 +730,14 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:buick:378b6c7926 | New Century | 新世纪 | — | — | class:cn:d | body:sedan | pt:ice | discontinued · 1999–2003 | 别克新世纪(1999-2003),上汽通用国产旗舰轿车,被君威接替 |
+| model:buick:8130f93099 | Royale | 荣御 | — | — | class:cn:d | body:sedan | pt:ice | discontinued · 2005–2008 | 荣御(Royale,2005-2008),别克旗舰轿车,基于霍顿Statesman,已停产 |
+| model:buick:buick-7 | Velite 7 | 微蓝7 | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2020–2022 | 微蓝7(Velite 7,2020-2022),别克纯电小型SUV,已停产 |
+| model:buick:buick-e4 | Buick E4 | 别克E4 | — | — | class:cn:b | body:suv | pt:bev | current · 2023–present | 别克E4(2023-),Electra系列纯电SUV(E4) |
+| model:buick:buick-e5 | Buick E5 | 别克E5 | — | — | class:cn:b | body:suv | pt:bev | current · 2023–present | 别克E5(2023-),Electra系列纯电SUV(E5) |
+| model:buick:buick-e7 | Buick Zhijing E7 | 别克至境E7 | — | — | class:cn:b | body:suv | pt:bev | current · 2025–present | 别克至境E7(2025-),至境系列纯电SUV |
+| model:buick:buick-l7 | Buick Zhijing L7 | 别克至境L7 | — | — | class:cn:c | body:sedan | pt:erev | current · 2025–present | 别克至境L7(2025-),至境系列大型轿车,先期增程版 |
+| model:buick:cascada | Buick Cascada | 别克Cascada | — | — | class:us:compact | body:convertible | pt:ice | discontinued · 2016–2019 | Cascada(2016-2019),别克敞篷车,基于欧宝Cascada,北美市场,2019年停产 |
 | model:buick:century | Century | 世纪 | Century | センチュリー | class:us:midsize | body:sedan | pt:ice | discontinued · 1936–2005 | 历史车系,2005年停产;注意与别克GL8世纪(2022)区分 |
 | model:buick:enclave | Enclave | 昂科旗 | Enclave | エンクレーブ | class:eu:j | body:suv | pt:ice | current · 2007–present | 中国版「昂科旗」(2019年起国产);早期进口版中文名「昂科雷」(2008–2019) |
 | model:buick:encore | Encore | 昂科拉 | Encore | アンコール | class:us:small-suv | body:crossover | pt:ice | discontinued · 2012–2022 | 2022年停产,由Encore GX与Envista接替 |
@@ -654,6 +761,26 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:byd:06-dm-i | Seal 06 DM-i Touring | 海豹06 DM-i旅行版 | — | — | class:cn:b | body:wagon | pt:phev | current · — | 海豹06 DM-i旅行版(2025-),海洋网插混旅行车 |
+| model:byd:06gt | Seal 06 GT | 海豹06GT | — | — | class:cn:b | body:hatchback | pt:bev | current · — | 海豹06GT(2024-),海洋网纯电运动两厢车 |
+| model:byd:07-dm-i | Seal 07 DM-i | 海豹07 DM-i | — | — | class:cn:b | body:sedan | pt:phev | current · — | 海豹07 DM-i(2024-),海洋网插混轿车 |
+| model:byd:07-ev | Seal 07 EV | 海豹07 EV | — | — | class:cn:b | body:sedan | pt:bev | current · — | 海豹07 EV(2024-),海洋网纯电轿车 |
+| model:byd:476da0fa0d | Flyer | 福莱尔 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · — | 福莱尔(2002-2008),比亚迪收购秦川后首款车型(源自秦川福莱尔),2008年停产 |
+| model:byd:byd-08 | Seal 08 | 海豹08 | — | — | class:cn:b | body:suv | pt:phev | current · — | 海豹08(2026-),海洋网旗舰SUV |
+| model:byd:byd-c6 | C6 | C6 | — | — | class:cn:mpv | body:van | pt:bev | current · — | C6(2015-),比亚迪纯电动中巴客车 |
+| model:byd:byd-d1 | BYD D1 | 比亚迪D1 | — | — | class:cn:a | body:mpv | pt:bev | current · — | D1(2020-),比亚迪纯电MPV(滴滴定制网约车) |
+| model:byd:byd-e1 | BYD e1 | 比亚迪e1 | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · — | e1(2019-2021),比亚迪纯电微型车(基于F0),2021年停产 |
+| model:byd:byd-e3 | BYD e3 | 比亚迪e3 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · — | e3(2019-2022),比亚迪纯电紧凑型轿车(网约车),2022年停产 |
+| model:byd:byd-e7 | BYD e7 | 比亚迪e7 | — | — | class:cn:a | body:sedan | pt:bev | current · — | e7(2025-),比亚迪纯电紧凑型轿车(网约车) |
+| model:byd:byd-e9 | BYD e9 | 比亚迪e9 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · — | e9(2021-2023),比亚迪纯电轿车(网约车),2023年停产 |
+| model:byd:byd-f6 | BYD F6 | 比亚迪F6 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · — | F6(2008-2013),比亚迪B级轿车,2013年停产 |
+| model:byd:byd-g3 | BYD G3 | 比亚迪G3 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · — | G3(2009-2014),比亚迪紧凑型轿车(网约车),2014年停产 |
+| model:byd:byd-g6 | BYD G6 | 比亚迪G6 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · — | G6(2011-2016),比亚迪B级轿车,2016年停产 |
+| model:byd:byd-l | Tang L | 唐L | — | — | class:cn:a | body:suv | pt:ice | current · — | 唐L(2025-),王朝系列中大型SUV,唐的旗舰版 |
+| model:byd:byd-l-2 | Han L | 汉L | — | — | class:cn:a | body:sedan | pt:ice | current · — | 汉L(2025-),王朝系列旗舰轿车,汉的换代 |
+| model:byd:byd-m9 | BYD M9 | 比亚迪M9 | — | — | class:cn:a | body:mpv | pt:phev | current · — | M9(2025-),比亚迪夏的出口版中大型插混MPV(先面向墨西哥) |
+| model:byd:byd-s2 | BYD S2 | 比亚迪S2 | — | — | class:cn:a | body:suv | pt:bev | discontinued · — | S2(2019-2021),比亚迪纯电小型SUV,2021年停产 |
+| model:byd:byd-s8 | BYD S8 | 比亚迪S8 | — | — | class:cn:a | body:convertible | pt:ice | discontinued · — | S8(2009-2013),比亚迪硬顶敞篷跑车,2013年停产 |
 | model:byd:denza-d9 | Denza D9 | 腾势D9 | Denza D9 | — | class:cn:mpv | body:mpv | pt:phev | current · 2022–present | 腾势(Denza)子品牌(比亚迪控股)中大型MPV;DM-i插混/EV双动力 |
 | model:byd:denza-n7 | Denza N7 | 腾势N7 | Denza N7 | — | class:cn:b | body:suv | pt:bev | current · 2023–present | 腾势(Denza)子品牌中型纯电SUV(2023年上市,猎跑造型) |
 | model:byd:denza-n8 | Denza N8 | 腾势N8 | Denza N8 | — | class:cn:b | body:suv | pt:phev | current · 2023–present | 腾势(Denza)子品牌中大型SUV(2023年上市,插混/纯电) |
@@ -661,19 +788,24 @@
 | model:byd:denza-z9 | Denza Z9 | 腾势Z9 | Denza Z9 | — | class:cn:c | body:sedan | pt:phev | current · 2024–present | 腾势(Denza)子品牌旗舰轿车(2024年上市,插混/纯电,含Z9GT猎装版) |
 | model:byd:destroyer-05 | Destroyer 05 | 驱逐舰05 | Destroyer 05 | — | class:cn:a | body:sedan | pt:phev | discontinued · 2022–2025 | 海洋系列紧凑型插混轿车;2025年中国市场更名为海豹05(Seal 05)并停用本名;海外称Chazor King/Seal 5 |
 | model:byd:dolphin | Dolphin | 海豚 | Dolphin | ドルフィン(DOLPHIN) | class:cn:a0 | body:hatchback | pt:bev | current · 2021–present | 海洋系列小型纯电两厢车;日本2023年导入(ドルフィン);e-Platform 3.0首款车型 |
-| model:byd:e2 | e2 | e2 | e2 | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2019–2023 | 紧凑型纯电两厢,主供出租/网约车;中国市场已停产,停产时间待核实 |
+| model:byd:e2 | e2 | e2 | e2 | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2019–2023 | e2(2019-2022),紧凑型纯电两厢,主供出租/网约车,2022年停产 |
 | model:byd:e5 | e5 | e5 | e5 | — | class:cn:a | body:sedan | pt:bev | discontinued · 2016–2021 | 紧凑型纯电轿车,主供出租/网约车市场;2021年停产 |
 | model:byd:e6 | e6 | e6 | e6 | — | class:cn:mpv | body:mpv | pt:bev | current · 2021–present | 第二代基于宋MAX的纯电紧凑MPV,主供出租/网约车;初代e6为2009–2021 |
 | model:byd:f0 | F0 | F0 | F0 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2008–2015 | A00级微型车,2015年停产 |
 | model:byd:f3 | F3 | F3 | F3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2005–2021 | 比亚迪成名之作,曾长期位居自主品牌轿车销量前列;2021年停产 |
+| model:byd:f3r | BYD F3R | 比亚迪F3R | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · — | F3R(2008-2013),F3的两厢版,2013年停产 |
 | model:byd:fangchengbao-bao-5 | Fangchengbao Bao 5 | 方程豹豹5 | Fangchengbao Bao 5 | — | class:cn:b | body:suv | pt:phev | current · 2023–present | 方程豹(Fangchengbao)子品牌首款车型(2023年上市,超级混动越野SUV,DMO平台) |
 | model:byd:fangchengbao-bao-8 | Fangchengbao Bao 8 | 方程豹豹8 | Fangchengbao Bao 8 | — | class:cn:c | body:suv | pt:phev | current · 2024–present | 方程豹(Fangchengbao)子品牌中大型越野SUV(2024年上市,含华为智驾版) |
 | model:byd:fangchengbao-tai-7 | Fangchengbao Tai 7 | 方程豹钛7 | Fangchengbao Tai 7 | — | class:cn:c | body:suv | pt:phev | current · 2025–present | 方程豹(Fangchengbao)子品牌钛系列中大型SUV(2025年9月上市,承载式车身,1.5T插混,车长4999mm) |
 | model:byd:frigate-07 | Frigate 07 | 护卫舰07 | Frigate 07 | — | class:cn:b | body:suv | pt:phev | discontinued · 2022–2025 | 海洋系列中型SUV(DM-i/DM-p);2025年停产 |
+| model:byd:g3r | BYD G3R | 比亚迪G3R | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · — | G3R(2011-2014),G3的两厢版,2014年停产 |
 | model:byd:g5 | G5 | G5 | G5 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2017 | 紧凑型轿车,2014年上市,2017年停产 |
-| model:byd:han | Han | 汉 | Han(台湾导入状态待核实) | ハン | class:cn:c | body:sedan | pt:phev | current · 2020–present | 王朝系列旗舰中大型轿车,EV/DM-i/DM-p多动力;海外市场沿用Han;台湾导入状态待核实 |
+| model:byd:han | Han | 汉 | Han(台湾导入状态待核实) | ハン | class:cn:c | body:sedan | pt:phev | current · 2020–present | 王朝系列旗舰中大型轿车,EV/DM-i/DM-p多动力;海外市场沿用Han;2025年推出汉L |
+| model:byd:l-ev | Song L EV | 宋L EV | — | — | class:cn:b | body:suv | pt:bev | current · — | 宋L EV(2023-),王朝系列中大型纯电SUV(猎装风格) |
 | model:byd:l3 | L3 | L3 | L3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2016 | 紧凑型轿车(源自F3平台),2012年上市,2016年停产 |
 | model:byd:m6 | M6 | M6 | M6 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2010–2020 | MPV(7座),2010年上市,含多次改款;2020年前后停产 |
+| model:byd:max-2 | Qin MAX | 秦MAX | — | — | class:cn:a | body:mpv | pt:phev | current · — | 秦MAX(2026-),王朝系列MPV |
+| model:byd:pro-2 | Qin Pro | 秦Pro | — | — | class:cn:a | body:sedan | pt:ice | discontinued · — | 秦Pro(2018-2021),秦的换代,2021年由秦PLUS接替 |
 | model:byd:qin | Qin | 秦 | Qin | — | class:cn:a | body:sedan | pt:phev | discontinued · 2013–2021 | 王朝系列初代紧凑型轿车,2013年上市,含燃油/插混(秦DM)/纯电(秦EV即秦新能源)历代;2021年由秦PLUS接替 |
 | model:byd:qin-l | Qin L | 秦L | Qin L | — | class:cn:b | body:sedan | pt:phev | current · 2024–present | 中型轿车(A+级),DM-i/EV;海外称Seal 6 |
 | model:byd:qin-plus | Qin Plus | 秦PLUS | Qin Plus | — | class:cn:a | body:sedan | pt:phev | current · 2021–present | 紧凑型轿车,DM-i/EV;早期秦EV(2019–2021)、秦Pro等并入本条 |
@@ -693,28 +825,32 @@
 | model:byd:song-plus | Song Plus | 宋PLUS | Song Plus | — | class:cn:a | body:suv | pt:phev | current · 2020–present | 紧凑型SUV,DM-i/EV;海外称Seal U或Sealion 6;中国市场2025年停售(转海外生产) |
 | model:byd:song-pro | Song Pro | 宋Pro | Song Pro | — | class:cn:a | body:suv | pt:phev | current · 2019–present | 紧凑型SUV,DM-i为主;海外称Song Pro/Sealion 5 |
 | model:byd:suru | Surui | 速锐 | Surui | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2017 | 紧凑型轿车,2012年上市,2017年停产 |
-| model:byd:tang | Tang | 唐 | Tang(台湾导入状态待核实) | タン | class:cn:b | body:suv | pt:phev | current · 2018–present | 王朝系列中型SUV,DM-i/DM-p/EV多动力;初代2015–2018;海外名Tang(部分市场Tan/Sealion 8) |
+| model:byd:tang | Tang | 唐 | Tang(台湾导入状态待核实) | タン | class:cn:b | body:suv | pt:phev | current · 2018–present | 王朝系列中型SUV,DM-i/DM-p/EV多动力;初代2015-2018;海外名Tang(部分市场Tan/Sealion 8) |
+| model:byd:ultra | Song Ultra | 宋Ultra | — | — | class:cn:a | body:suv | pt:phev | current · — | 宋Ultra(2025-),王朝系列中大型SUV |
 | model:byd:yangwang-u8 | Yangwang U8 | 仰望U8 | Yangwang U8 | — | class:cn:d | body:suv | pt:erev | current · 2023–present | 仰望(Yangwang)子品牌(比亚迪旗下)大型越野SUV,增程式,四电机原地掉头等 |
 | model:byd:yangwang-u9 | Yangwang U9 | 仰望U9 | Yangwang U9 | — | class:eu:s | body:supercar | pt:bev | current · 2024–present | 仰望(Yangwang)子品牌纯电超级跑车(2024年上市,四电机,云辇-X) |
 | model:byd:yuan | Yuan | 元 | Yuan | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2022 | 王朝系列小型SUV(燃油),2016年上市;燃油版2022年前后停产,后以纯电(元新能源/元Pro)为主 |
 | model:byd:yuan-plus | Yuan Plus (Atto 3) | 元PLUS | Atto 3 | アット3(ATTO 3) | class:cn:a | body:suv | pt:bev | current · 2022–present | 紧凑型纯电SUV;海外市场(含日本)统一称ATTO 3(アット3) |
-| model:byd:yuan-pro | Yuan Pro | 元Pro | Yuan Pro | — | class:cn:a0 | body:suv | pt:bev | current · 2018–present | 王朝系列小型纯电SUV;本条合并元新能源(元EV,2018年上市),2021年改款更名元Pro;当前在售状态待核实 |
-| model:byd:yuan-up | Yuan Up (Atto 2) | 元UP | Atto 2 | — | class:cn:a0 | body:suv | pt:bev | current · 2024–present | 小型纯电SUV;海外称Atto 2(2025年欧洲上市);日本导入状态待核实 |
+| model:byd:yuan-pro | Yuan Pro | 元Pro | Yuan Pro | — | class:cn:a0 | body:suv | pt:bev | current · 2018–present | 元Pro(2021-),王朝系列小型纯电SUV;本条合并元新能源(元EV,2018年上市),2021年改款更名元Pro |
+| model:byd:yuan-up | Yuan Up (Atto 2) | 元UP | Atto 2 | — | class:cn:a0 | body:suv | pt:bev | current · 2024–present | 元UP(2024-),小型纯电SUV;海外称Atto 2(2025年欧洲上市) |
 
 ## Cadillac
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
 | model:cadillac:ats | ATS | ATS(ATS-L) | ATS | ATS | class:cn:b | body:sedan | pt:ice | discontinued · 2012–2019 | 中国版加长ATS-L(2014–2019) |
+| model:cadillac:bls | Cadillac BLS | 凯迪拉克BLS | 凱迪拉克BLS | キャデラックBLS | class:eu:d | body:sedan | pt:ice | discontinued · 2005–2009 | 基于萨博9-3平台打造的紧凑型豪华轿车,主攻欧洲市场;含 wagon 版 BLS SportWagon |
 | model:cadillac:brougham | Brougham | Brougham | Brougham | ブロアム | class:us:large | body:sedan | pt:ice | discontinued · 1986–1992 | 全尺寸后驱豪华轿车 |
 | model:cadillac:celestiq | Celestiq | Celestiq | Celestiq | セレスティーク | class:eu:f | body:sedan | pt:bev | current · 2023–present | 手工定制纯电旗舰轿车 |
 | model:cadillac:ct4 | CT4 | CT4 | CT4 | CT4 | class:eu:d | body:sedan | pt:ice | current · 2019–present | 北美2026年停产,中国继续生产 |
 | model:cadillac:ct5 | CT5 | CT5 | CT5 | CT5 | class:eu:e | body:sedan | pt:ice | current · 2019–present | 上汽通用国产CT5;有高性能版CT5-V |
 | model:cadillac:ct6 | CT6 | CT6 | CT6 | CT6 | class:eu:f | body:sedan | pt:ice | current · 2016–present | 北美2020年停产;中国继续生产(2023款) |
+| model:cadillac:ct6-plug-in | Cadillac CT6 Plug-in | 凯迪拉克CT6插电混动 | 凱迪拉克CT6插電混動 | キャデラックCT6プラグインハイブリッド | class:eu:f | body:sedan | pt:phev | discontinued · 2017–2020 | CT6插电混动版,2.0T+电机,纯电续航约80km(中国版) |
 | model:cadillac:cts | CTS | CTS | CTS | CTS | class:cn:c | body:sedan | pt:ice | discontinued · 2005–2018 | 中型/中大型运动轿车,进口与上海通用国产并行;2018年停产 |
 | model:cadillac:devill | DeVille | 帝威 | DeVille | デビル | class:us:large | body:sedan | pt:ice | discontinued · 1959–2005 | 大陆译名「帝威」 |
 | model:cadillac:dts | DTS | DTS | DTS | DTS | class:us:large | body:sedan | pt:ice | discontinued · 2005–2011 | 全尺寸前驱豪华轿车 |
 | model:cadillac:eldorado | Eldorado | 埃尔多拉多 | Eldorado | エルドラド | class:us:large | body:coupe | pt:ice | discontinued · 1952–2002 | 个人豪华双门轿跑,2002年停产 |
+| model:cadillac:elr | Cadillac ELR | 凯迪拉克ELR | 凱迪拉克ELR | キャデラックELR | class:eu:d | body:coupe | pt:phev | discontinued · 2014–2016 | 插电混动豪华双门轿跑,基于雪佛兰Volt平台,1.4L+电机 |
 | model:cadillac:escalade | Escalade | 凯雷德 | Escalade(凱雷德) | エスカレード | class:us:standard-suv | body:suv | pt:ice | current · 1998–present | 大陆官方译名「凯雷德」;与Tahoe/Suburban同平台,有纯电Escalade IQ |
 | model:cadillac:fleetwood | Fleetwood | 弗雷特伍德 | Fleetwood | フリートウッド | class:us:large | body:sedan | pt:ice | discontinued · 1976–1996 | 大陆译名「弗雷特伍德」 |
 | model:cadillac:gt4 | GT4 | GT4 | GT4 | GT4 | class:cn:a | body:crossover | pt:ice | current · 2023–present | 上汽通用国产紧凑型轿跑SUV(2023年上市),凯迪拉克最入门车型 |
@@ -724,8 +860,10 @@
 | model:cadillac:srx | SRX | SRX | SRX | SRX | class:eu:j | body:crossover | pt:ice | discontinued · 2003–2016 | 中国进口版SRX(2007–2016) |
 | model:cadillac:sts | STS | STS | STS | STS | class:us:midsize | body:sedan | pt:ice | discontinued · 2005–2011 | 接替Seville(1975–2004) |
 | model:cadillac:vistiq | Vistiq | Vistiq | Vistiq | ビスティック | class:eu:j | body:crossover | pt:bev | current · 2025–present | 三排座纯电中大型SUV(2026款) |
+| model:cadillac:xlr | Cadillac XLR | 凯迪拉克XLR | 凱迪拉克XLR | キャデラックXLR | class:eu:s | body:roadster | pt:ice | discontinued · 2003–2009 | 豪华硬顶敞篷跑车,与雪佛兰Corvette C6同平台,4.6L/4.4L V8北极星发动机 |
 | model:cadillac:xt4 | XT4 | XT4 | XT4 | XT4 | class:eu:j | body:crossover | pt:ice | current · 2018–present | 北美2025年停产,中国继续生产 |
 | model:cadillac:xt5 | XT5 | XT5 | XT5 | XT5 | class:eu:j | body:crossover | pt:ice | current · 2016–present | 上汽通用国产XT5(2024年换代) |
+| model:cadillac:xt5-phev | Cadillac XT5 PHEV | 凯迪拉克XT5插电混动 | 凱迪拉克XT5插電混動 | キャデラックXT5プラグインハイブリッド | class:eu:j | body:crossover | pt:phev | discontinued · 2019–2022 | XT5插电混动版,中国特供,2.0T+电机 |
 | model:cadillac:xt6 | XT6 | XT6 | XT6 | XT6 | class:eu:j | body:crossover | pt:ice | current · 2019–present | 三排座中大型SUV;北美2025年停产,中国继续 |
 | model:cadillac:xts | XTS | XTS | XTS | XTS | class:cn:c | body:sedan | pt:ice | discontinued · 2013–2019 | 中国版生产至2020年 |
 
@@ -739,28 +877,57 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:changan:1663f678b8 | Changan Hunter Explorer | 长安览拓者 | — | — | class:cn:a | body:pickup | pt:ice | current · 2022–present | 长安览拓者(2022–),长安燃油皮卡,与猎手为同平台 |
+| model:changan:3f5fbf837a | Changan Hunter | 长安猎手 | — | — | class:cn:a | body:pickup | pt:erev | current · 2024–present | 长安猎手(2024–),长安增程式皮卡 |
+| model:changan:8aaf4d8dad | Jiexun | 杰勋 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2007–2010 | 杰勋(2007–2010),长安紧凑型MPV,2010年停产 |
+| model:changan:a05 | A05 Classic | A05经典 | — | — | class:cn:a | body:sedan | pt:ice | current · 2025–present | 启源A05经典版(2025–),启源A05的老款同堂销售 |
+| model:changan:a05-2 | Changan Qiyuan A05 Classic | 长安启源A05经典 | — | — | class:cn:a | body:sedan | pt:phev | current · 2023–present | 启源A05(2023–),启源子品牌插混紧凑型轿车 |
+| model:changan:a05l | Changan Qiyuan A05L | 长安启源A05L | — | — | class:cn:a | body:sedan | pt:phev | current · 2025–present | 启源A05L(2025–),启源A05的改款插混轿车 |
+| model:changan:a06 | Changan Qiyuan A06 | 长安启源A06 | — | — | class:cn:a | body:sedan | pt:phev | current · 2025–present | 启源A06(2025–),启源子品牌插混紧凑型轿车 |
+| model:changan:aeb80b000e | Zhixiang | 志翔 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2010 | 志翔(2008–2010),长安紧凑型轿车,2010年停产 |
 | model:changan:avatr-11 | Avatr 11 | 阿维塔11 | Avatr 11 | — | class:cn:b | body:suv | pt:bev | current · 2022–present | 阿维塔(AVATR)子品牌(长安-华为-宁德时代)中型纯电SUV,2024年新增增程版 |
 | model:changan:avatr-12 | Avatr 12 | 阿维塔12 | Avatr 12 | — | class:cn:b | body:sedan | pt:bev | current · 2023–present | 阿维塔(AVATR)子品牌中大型纯电轿车,2024年新增增程版 |
 | model:changan:benben | Changan Benben | 长安奔奔 | Changan Benben | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2006–2015 | A00级微型两厢车(燃油版);已停产 |
-| model:changan:benben-ev | Benben EV | 长安奔奔EV | Changan Benben EV | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2016–2020 | A00级纯电微型车(含奔奔E-Star衍生);已停产,停产时间待核实 |
+| model:changan:benben-ev | Benben EV | 长安奔奔EV | Changan Benben EV | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2016–2020 | A00级纯电微型车(含奔奔E-Star衍生),2020年停产 |
 | model:changan:benben-mini | Changan Benben Mini | 长安奔奔MINI | Changan Benben Mini | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2010–2015 | A00级微型两厢车(奔奔衍生);已停产 |
-| model:changan:cs15 | Changan CS15 | 长安CS15 | Changan CS15 | — | class:cn:a0 | body:suv | pt:ice | current · 2016–present | 小型SUV(2016年上市);现售状态待核实 |
+| model:changan:changan-et | Eado ET | 逸动ET | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2019–2020 | 逸动ET(2019–2020),逸动两厢纯电版,2020年停产 |
+| model:changan:changan-i | Benben i | 奔奔i | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2006–2010 | 奔奔i(2006–2010),奔奔初代,2010年停产 |
+| model:changan:cs15 | Changan CS15 | 长安CS15 | Changan CS15 | — | class:cn:a0 | body:suv | pt:ice | current · 2016–present | 小型SUV(2016年上市) |
+| model:changan:cs15ev | Changan CS15EV | 长安CS15EV | — | — | class:cn:a0 | body:suv | pt:bev | current · 2018–present | CS15EV(2018–),CS15的纯电动版 |
 | model:changan:cs35 | CS35 | 长安CS35 | Changan CS35 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2012–2018 | 小型SUV,2018年停产,继任为CS35 PLUS(现售) |
+| model:changan:cs35plus | Changan CS35PLUS | 长安CS35PLUS | — | — | class:cn:a | body:suv | pt:ice | current · 2018–present | CS35 PLUS(2018–),CS35的换代,现售 |
 | model:changan:cs55 | CS55 | 长安CS55 | Changan CS55 | — | class:cn:a | body:suv | pt:ice | current · 2017–present | 紧凑型SUV,现售为CS55 PLUS |
+| model:changan:cs55-2 | CS55 EV | CS55纯电版 | — | — | class:cn:a | body:suv | pt:bev | current · 2020–present | CS55纯电版(2020–),CS55的纯电动版 |
+| model:changan:cs55plus | Changan CS55PLUS | 长安CS55PLUS | — | — | class:cn:a | body:suv | pt:ice | current · 2019–present | CS55 PLUS(2019–),CS55的换代,现售 |
+| model:changan:cs55plus-phev | Changan CS55PLUS PHEV | 长安CS55PLUS PHEV | — | — | class:cn:a | body:suv | pt:phev | current · 2025–present | CS55 PLUS PHEV(2025–),CS55 PLUS插电混动版,2025年3月上市 |
 | model:changan:cs75 | CS75 | 长安CS75 | Changan CS75 | — | class:cn:a | body:suv | pt:ice | current · 2014–present | 紧凑型SUV(燃油),CS75 PLUS为现售主力 |
 | model:changan:cs75-plus | CS75 Plus | 长安CS75 PLUS | Changan CS75 Plus | — | class:cn:a | body:suv | pt:ice | current · 2019–present | 紧凑型SUV主力车型,2024年第四代;另有智电iDD插混 |
-| model:changan:cs85-coupe | Changan CS85 Coupe | 长安CS85 COUPE | Changan CS85 Coupe | — | class:cn:b | body:crossover | pt:ice | current · 2019–present | 中型轿跑SUV(2019年上市);现售状态待核实 |
-| model:changan:cs95 | CS95 | 长安CS95 | Changan CS95 | — | class:cn:c | body:suv | pt:ice | current · 2017–present | 中大型SUV(7座);现售状态待核实 |
+| model:changan:cs75-plus-idd | CS75 PLUS iDD | CS75 PLUS 智电iDD | — | — | class:cn:a | body:suv | pt:phev | current · 2022–present | CS75 PLUS智电iDD(2022–),CS75 PLUS插电混动版 |
+| model:changan:cs85-coupe | Changan CS85 Coupe | 长安CS85 COUPE | Changan CS85 Coupe | — | class:cn:b | body:crossover | pt:ice | current · 2019–present | 中型轿跑SUV(2019年上市) |
+| model:changan:cs95 | CS95 | 长安CS95 | Changan CS95 | — | class:cn:c | body:suv | pt:ice | current · 2017–present | 中大型SUV(7座),2017年上市,2019年中期改款 |
 | model:changan:cx20 | Changan CX20 | 长安CX20 | Changan CX20 | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2010–2016 | 小型两厢跨界车;已停产 |
 | model:changan:cx30 | Changan CX30 | 长安CX30 | Changan CX30 | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2010–2013 | 紧凑型两厢车(2010年上市);已停产 |
 | model:changan:deepal-s07 | Deepal S07 | 深蓝S07 | Deepal S07 | — | class:cn:b | body:suv | pt:erev | current · 2023–present | 深蓝(Deepal)子品牌中型SUV,增程/纯电 |
 | model:changan:deepal-sl03 | Deepal SL03 | 深蓝SL03 | Deepal SL03 | — | class:cn:b | body:sedan | pt:erev | current · 2022–present | 深蓝(Deepal)子品牌中型轿车,增程/纯电(另有氢电版) |
+| model:changan:e-pro | Changan New Energy E-Pro | 新能源E-Pro | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2019–2021 | 长安E-Pro(2019–2021),长安新能源纯电小型SUV,2021年停产 |
+| model:changan:e-star | Benben E-Star | 奔奔E-Star | — | — | class:cn:a | body:hatchback | pt:bev | current · 2020–present | 奔奔E-Star(2020–),奔奔EV的改款纯电微型车 |
+| model:changan:e07 | Changan Qiyuan E07 | 长安启源E07 | — | — | class:cn:a | body:crossover | pt:bev | current · 2024–present | 启源E07(2024–),启源子品牌中大型纯电跨界SUV(皮卡式尾箱) |
+| model:changan:e30 | Changan E30 | 长安E30 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2011–2014 | 长安E30(2011–2014),长安纯电动轿车(出租车),2014年停产 |
 | model:changan:eado | Eado | 长安逸动 | Changan Eado | — | class:cn:a | body:sedan | pt:ice | current · 2012–present | 紧凑型轿车,多代演进;逸动PLUS为现售主力 |
-| model:changan:eado-dt | Changan Eado DT | 长安逸动DT | Changan Eado DT | — | class:cn:a | body:sedan | pt:ice | current · 2018–present | 紧凑型轿车(基于悦翔V7打造,2018年上市);现售状态待核实 |
-| model:changan:eado-ev | Changan Eado EV | 长安逸动新能源 | Changan Eado EV | — | class:cn:a | body:sedan | pt:bev | current · 2015–present | 纯电动紧凑型轿车(逸动纯电版,含EV460等);现售状态待核实 |
+| model:changan:eado-dt | Changan Eado DT | 长安逸动DT | Changan Eado DT | — | class:cn:a | body:sedan | pt:ice | current · 2018–present | 紧凑型轿车(基于悦翔V7打造,2018年上市) |
+| model:changan:eado-ev | Changan Eado EV | 长安逸动新能源 | Changan Eado EV | — | class:cn:a | body:sedan | pt:bev | current · 2015–present | 纯电动紧凑型轿车(逸动纯电版,含EV460等) |
 | model:changan:eado-plus | Eado Plus | 长安逸动PLUS | Changan Eado Plus | — | class:cn:a | body:sedan | pt:ice | current · 2020–present | 紧凑型轿车(逸动PLUS,2020年上市) |
 | model:changan:eado-xt | Changan Eado XT | 长安逸动XT | Changan Eado XT | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2013–2020 | 紧凑型两厢车(逸动两厢版);已停产 |
+| model:changan:f70 | Changan F70 Blue Whale | F70蓝鲸 | — | — | class:cn:a | body:pickup | pt:ice | current · 2019–present | 凯程F70(2019–),长安凯程皮卡,与PSA合作开发(雪铁龙标致同源) |
+| model:changan:k50 | Changan Hunter K50 | 长安猎手 K50 | — | — | class:cn:a | body:pickup | pt:erev | current · 2024–present | 长安猎手K50(2024–),猎手皮卡的增程版 |
 | model:changan:lingxuan | Changan Lingxuan | 长安凌轩 | Changan Lingxuan | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2017–2020 | 紧凑型MPV(2017年上市);已停产 |
+| model:changan:love | Benben LOVE | 奔奔LOVE | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009–2012 | 奔奔LOVE(2009–2012),奔奔的改款,2012年停产 |
+| model:changan:lumin | Changan Lumin | 长安Lumin | — | — | class:cn:a00 | body:hatchback | pt:bev | current · 2022–present | 长安Lumin(2022–),A00级纯电微型车 |
+| model:changan:phev | Eado PHEV | 逸动PHEV | — | — | class:cn:a | body:sedan | pt:phev | current · 2025–present | 逸动PHEV(2025–),第三代逸动的插电混动版,2025年3月上市 |
+| model:changan:q05 | Q05 Classic | Q05经典 | — | — | class:cn:a | body:suv | pt:ice | current · 2025–present | 启源Q05经典版(2025–),启源Q05的老款同堂销售 |
+| model:changan:q05-2 | Changan Qiyuan Q05 Classic | 长安启源Q05经典 | — | — | class:cn:a | body:suv | pt:phev | current · 2023–present | 启源Q05(2023–),启源子品牌插混紧凑型SUV |
+| model:changan:q06 | Changan Qiyuan Q06 | 长安启源Q06 | — | — | class:cn:a | body:suv | pt:phev | current · 2025–present | 启源Q06(2025–),启源子品牌插混紧凑型SUV |
+| model:changan:q07 | Changan Qiyuan Q07 | 长安启源Q07 | — | — | class:cn:a | body:suv | pt:phev | current · 2025–present | 启源Q07(2025–),启源子品牌中大型插混SUV |
 | model:changan:qiyuan-a05 | Qiyuan A05 | 长安启源A05 | Changan Qiyuan A05 | — | class:cn:a | body:sedan | pt:phev | current · 2023–present | 启源(Qiyuan)子品牌紧凑型插混/纯电轿车 |
 | model:changan:qiyuan-a07 | Qiyuan A07 | 长安启源A07 | Changan Qiyuan A07 | — | class:cn:b | body:sedan | pt:erev | current · 2023–present | 启源(Qiyuan)子品牌中大型轿车,增程/纯电双动力 |
 | model:changan:qiyuan-q05 | Qiyuan Q05 | 长安启源Q05 | Changan Qiyuan Q05 | — | class:cn:a | body:suv | pt:phev | current · 2023–present | 启源(Qiyuan)子品牌紧凑型插混SUV |
@@ -768,9 +935,13 @@
 | model:changan:raeton-cc | Raeton CC | 长安锐程CC | Changan Raeton CC | — | class:cn:b | body:sedan | pt:ice | discontinued · 2019–2022 | 中型轿车;前身睿骋CC(2017–2019);约2022年停产 |
 | model:changan:raeton-plus | Changan Raeton Plus | 长安锐程PLUS | Changan Raeton Plus | — | class:cn:a | body:sedan | pt:ice | current · 2022–present | 紧凑型轿车(锐程CC改款升级) |
 | model:changan:uni-k | UNI-K | 长安UNI-K | Changan UNI-K | — | class:cn:b | body:suv | pt:ice | current · 2021–present | UNI系列中型SUV,含智电iDD插混 |
+| model:changan:uni-k-idd | Changan UNI-K iDD | UNI-K 智电iDD | — | — | class:cn:b | body:suv | pt:phev | current · 2022–present | UNI-K智电iDD(2022–),UNI-K插电混动版 |
 | model:changan:uni-t | UNI-T | 长安UNI-T | Changan UNI-T | — | class:cn:a | body:suv | pt:ice | current · 2020–present | UNI系列紧凑型轿跑SUV |
 | model:changan:uni-v | UNI-V | 长安UNI-V | Changan UNI-V | — | class:cn:a | body:sedan | pt:ice | current · 2022–present | UNI系列紧凑型运动轿车,含智电iDD插混 |
+| model:changan:uni-v-idd | Changan UNI-V iDD | UNI-V 智电iDD | — | — | class:cn:b | body:sedan | pt:phev | current · 2022–present | UNI-V智电iDD(2022–),UNI-V插电混动版 |
 | model:changan:uni-z | Changan UNI-Z | 长安UNI-Z | Changan UNI-Z | — | class:cn:a | body:suv | pt:phev | current · 2024–present | UNI系列紧凑型SUV(2024年上市,插混,另有纯电版) |
+| model:changan:x5-plus | X5 PLUS | X5 PLUS | — | — | class:cn:c | body:suv | pt:ice | current · 2022–present | 欧尚X5 PLUS(2022–),长安欧尚紧凑型SUV |
+| model:changan:x7-plus | X7 PLUS | X7 PLUS | — | — | class:cn:c | body:suv | pt:ice | current · 2021–present | 欧尚X7 PLUS(2021–),长安欧尚紧凑型SUV |
 | model:changan:yida | Changan Yida | 长安逸达 | Changan Yida | — | class:cn:a | body:sedan | pt:ice | current · 2023–present | 紧凑型轿车(2023年上市,方舟架构) |
 | model:changan:yuexiang | Yuexiang | 长安悦翔 | Changan Yuexiang | — | class:cn:a0 | body:sedan | pt:ice | discontinued · 2009–2019 | 入门级小型/紧凑型轿车;约2019年停产 |
 | model:changan:yuexiang-v3 | Changan Yuexiang V3 | 长安悦翔V3 | Changan Yuexiang V3 | — | class:cn:a0 | body:sedan | pt:ice | discontinued · 2012–2016 | 小型轿车(悦翔系列);已停产 |
@@ -804,6 +975,16 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:chery:06-c-dm | Explore 06 C-DM | 探索06 C-DM | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 探索06 C-DM(2024-),探索06插电混动版 |
+| model:chery:0623cc3e6b | Chery eQ1 (Ant) | 小蚂蚁 | — | — | class:cn:a00 | body:hatchback | pt:bev | current · 2017-present | 奇瑞小蚂蚁(eQ1,2017-),奇瑞新能源纯电微型车 |
+| model:chery:0a443f55f9 | Chery Oriental Son | 东方之子 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2003-2012 | 东方之子(2003-2012),奇瑞首款B级轿车,2012年停产 |
+| model:chery:1ab63dcf56 | Fengyun | 风云 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2001-2010 | 风云(2001-2010),奇瑞首款轿车系列,2010年停产 |
+| model:chery:1f33a2d9d5 | Qiyun | 旗云 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2001-2010 | 旗云(2001-2010),奇瑞紧凑型轿车,2010年停产 |
+| model:chery:5-plus | Arrizo 5 Plus | 艾瑞泽5 PLUS | — | — | class:cn:a | body:sedan | pt:ice | current · 2020-present | 艾瑞泽5 PLUS(2020-),艾瑞泽5的升级版 |
+| model:chery:7-c-dm | Tiggo 7 C-DM | 瑞虎7 C-DM | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 瑞虎7 C-DM(2024-),瑞虎7插电混动版 |
+| model:chery:8-plus-c-dm | Tiggo 8 Plus C-DM | 瑞虎8 PLUS C-DM | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 瑞虎8 PLUS C-DM(2024-),瑞虎8 PLUS插电混动版 |
+| model:chery:9-c-dm | Tiggo 9 C-DM | 瑞虎9 C-DM | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 瑞虎9 C-DM(2024-),瑞虎9插电混动版 |
+| model:chery:ant | @ANT | @ANT | — | — | class:cn:a | body:hatchback | pt:bev | current · 2025-present | 奇瑞@ANT(2025-),奇瑞小型纯电车 |
 | model:chery:arrizo-3 | Arrizo 3 | 艾瑞泽3 | Arrizo 3 | — | class:cn:a0 | body:sedan | pt:ice | discontinued · 2014–2017 | 小型轿车,2014年上市,2017年停产 |
 | model:chery:arrizo-5 | Arrizo 5 | 艾瑞泽5 | Arrizo 5 | — | class:cn:a | body:sedan | pt:ice | current · 2016–present | 紧凑型轿车(含5 PLUS/GT);海外称Arrizo 5/6/Omoda S5等 |
 | model:chery:arrizo-5-gt | Arrizo 5 GT | 艾瑞泽5 GT | Arrizo 5 GT | — | class:cn:a | body:sedan | pt:ice | current · 2022–present | 紧凑型轿车(艾瑞泽5的运动版),2022年上市 |
@@ -813,6 +994,20 @@
 | model:chery:arrizo-8-pro | Arrizo 8 Pro | 艾瑞泽8 PRO | Arrizo 8 Pro | — | class:cn:a | body:sedan | pt:ice | current · 2024–present | 紧凑型轿车(A+级,艾瑞泽8的PRO版本),2024年上市 |
 | model:chery:arrizo-gx | Arrizo GX | 艾瑞泽GX | Arrizo GX | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2021 | 紧凑型轿车,2021年停产,更名为艾瑞泽5 PLUS(海外Arrizo 6) |
 | model:chery:arrizo-m7 | Arrizo M7 | 艾瑞泽M7 | Arrizo M7 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2018 | 紧凑型MPV(7座),2015年上市,2018年前后停产 |
+| model:chery:b2046a4c8e | Duomi | 多米 | — | — | class:cn:a | body:suv | pt:bev | current · 2025-present | 奇瑞多米(2025-),奇瑞纯电MINI SUV,QQ小车家族新成员 |
+| model:chery:chery-3 | Qiyun 3 | 旗云3 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2010-2013 | 旗云3(2010-2013),旗云系列改款,2013年停产 |
+| model:chery:chery-6 | Chery Oriental Son 6 | 东方之子6 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2010-2012 | 东方之子6(2010-2012),东方之子换代车型,2012年停产 |
+| model:chery:chery-7l | Tiggo 7L | 瑞虎7L | — | — | class:cn:a | body:suv | pt:ice | current · 2025-present | 瑞虎7L(2025-),瑞虎7的长轴版 |
+| model:chery:chery-a1 | A1 | A1 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2007-2015 | 奇瑞A1(2007-2015),奇瑞微型两厢车,2015年停产 |
+| model:chery:chery-a3 | A3 | A3 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008-2015 | 奇瑞A3(2008-2015),奇瑞紧凑型轿车,2015年停产 |
+| model:chery:chery-a5 | A5 | A5 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2006-2010 | 奇瑞A5(2006-2010),奇瑞紧凑型轿车,2010年停产 |
+| model:chery:chery-e2 | Chery E2 | 奇瑞E2 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015-2018 | 奇瑞E2(2015-2018),奇瑞紧凑型轿车(开瑞E2),2018年停产 |
+| model:chery:chery-e3 | Chery E3 | 奇瑞E3 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013-2018 | 奇瑞E3(2013-2018),奇瑞紧凑型轿车,2018年停产 |
+| model:chery:chery-qq | Chery QQ Ice Cream | QQ冰淇淋 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2021-present | QQ冰淇淋(2021-),奇瑞新能源纯电微型车 |
+| model:chery:chery-tx | Chery TX | 奇瑞TX | — | — | class:cn:a | body:suv | pt:phev | current · 2025-present | 奇瑞TX(2025-),奇瑞中大型SUV(风云T系列) |
+| model:chery:chery-x1 | X1 | X1 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009-2014 | 奇瑞X1(2009-2014),奇瑞微型跨界车,2014年停产 |
+| model:chery:cross | Chery Oriental Son Cross | 东方之子Cross | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2007-2012 | 东方之子Cross(2007-2012),奇瑞MPV,2012年停产 |
+| model:chery:d9982a84e3 | Aika | 爱卡 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2013-2018 | 奇瑞爱卡(2013-2018),奇瑞皮卡,2018年停产 |
 | model:chery:e5 | E5 | E5 | E5 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2011–2016 | 紧凑型轿车(源自旗云/风云平台),2011年上市,2016年停产 |
 | model:chery:exeed-lanyue | Exeed Lanyue | 星途揽月 | Exeed Lanyue | — | class:cn:c | body:suv | pt:ice | current · 2020–present | 星途(Exeed)子品牌中大型SUV(6/7座),含插混;海外名Exeed VX |
 | model:chery:exeed-lingyun | Exeed Lingyun | 星途凌云 | Exeed Lingyun | — | class:cn:b | body:suv | pt:ice | current · 2020–present | 星途(Exeed)子品牌中型SUV(燃油),2020年上市(原星途TXL改名凌云);海外名Exeed TXL |
@@ -821,7 +1016,6 @@
 | model:chery:explore-06 | Explore 06 | 探索06 | Explore 06 | — | class:cn:a | body:suv | pt:ice | current · 2023–present | 紧凑型SUV(方盒子造型),2023年上市,含插混版(探索06 C-DM);海外称Jaecoo J7 |
 | model:chery:fulwin-2 | Fulwin 2 | 风云2 | Fulwin 2 | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2010–2016 | 小型两厢/三厢轿车,2010年上市,2016年停产 |
 | model:chery:fulwin-a8 | Fulwin A8 | 风云A8 | Fulwin A8 | — | class:cn:b | body:sedan | pt:phev | current · 2024–present | 风云(Fulwin)系列紧凑型/中型插混轿车(C-DM),艾瑞泽8插混版 |
-| model:chery:fulwin-a9 | Fulwin A9 | 风云A9 | Fulwin A9 | — | class:cn:b | body:sedan | pt:erev | current · 2026–present | 风云(Fulwin)系列中大型轿车,纯电/增程;上市时间以官方为准 |
 | model:chery:icar-03 | iCar 03 | iCAR 03 | iCar 03 | — | class:cn:a | body:suv | pt:bev | current · 2024–present | iCAR为奇瑞旗下子品牌,紧凑型纯电SUV(方盒子造型);海外亦以Jaecoo J6/Chery iCar 03名销售 |
 | model:chery:jetour-dasheng | Jetour Dasheng | 捷途大圣 | Jetour Dasheng | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 捷途(Jetour)子品牌紧凑型SUV(燃油),2022年上市;另有插混版大圣i-DM |
 | model:chery:jetour-traveller | Jetour Traveller | 捷途旅行者 | Jetour Traveller | — | class:cn:b | body:suv | pt:ice | current · 2023–present | 捷途(Jetour)子品牌中型方盒子SUV,含C-DM插混;捷途山海系列(T1/L6/L9等)同属该子品牌 |
@@ -832,6 +1026,9 @@
 | model:chery:qiyun-1 | Qiyun 1 | 旗云1 | Qiyun 1 | — | class:cn:a00 | body:sedan | pt:ice | discontinued · 2010–2014 | 微型轿车,2010年上市,2014年停产 |
 | model:chery:qiyun-2 | Qiyun 2 | 旗云2 | Qiyun 2 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2010–2015 | 紧凑型轿车(源自风云系列),2010年上市,2015年停产 |
 | model:chery:qq | Chery QQ | 奇瑞QQ | Chery QQ | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2003–2017 | 国民神车微型车(A00),累计销量超百万;后继电动车型为QQ冰淇淋/eQ等 |
+| model:chery:qq3 | Chery QQ3 | 奇瑞QQ3 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2003-2013 | 奇瑞QQ3(2003-2013),奇瑞经典微型车,2013年停产 |
+| model:chery:qq6 | Chery QQ6 | 奇瑞QQ6 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2006-2012 | 奇瑞QQ6(2006-2012),QQ系列三厢变体,2012年停产 |
+| model:chery:qqme | Chery QQme | 奇瑞QQme | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009-2013 | 奇瑞QQme(2009-2013),QQ系列时尚微型车,2013年停产 |
 | model:chery:tiggo | Tiggo | 瑞虎 | Tiggo | — | class:cn:a | body:suv | pt:ice | discontinued · 2005–2015 | 奇瑞首款SUV,初代瑞虎2005年上市,2015年前后由瑞虎3/瑞虎5接替(瑞虎3即初代瑞虎后续车型) |
 | model:chery:tiggo-3 | Tiggo 3 | 瑞虎3 | Tiggo 3 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2005–2023 | 小型SUV,源自初代瑞虎(2005);2023年停产 |
 | model:chery:tiggo-3x | Tiggo 3x | 瑞虎3x | Tiggo 3x | — | class:cn:a0 | body:suv | pt:ice | current · 2016–present | 小型SUV,2016年上市,燃油/轻混;海外称Tiggo 2/Tiggo 3x |
@@ -850,15 +1047,25 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:chery-nev:3xe | Chery Tiggo 3xe | 瑞虎3xe | 瑞虎3xe | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2018–2020 | 瑞虎3x纯电动版,2018年上市,奇瑞新能源纯电小型SUV |
+| model:chery-nev:756f291532 | Chery Comfort Family | 奇瑞舒享家 | 奇瑞舒享家 | — | class:cn:a | body:suv | pt:bev | current · 2023–present | 奇瑞新能源纯电SUV,2023年上市,英文名eQ7/Comfort Family |
 | model:chery-nev:ant | Chery eQ1 (Ant) | 小蚂蚁 | Chery eQ1 | — | class:cn:a00 | body:hatchback | pt:bev | current · 2017–present | 奇瑞新能源A00级纯电微型车(2017年上市),官方名eQ1(小蚂蚁),品牌代表作 |
+| model:chery-nev:c3e | Chery C3e | 奇瑞C3e | 奇瑞C3e | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2018–2021 | 奇瑞新能源A00级纯电微型车,基于奇瑞eQ平台 |
+| model:chery-nev:chery-nev-5e | Chery Arrizo 5e | 艾瑞泽5e | 艾瑞澤5e | — | class:cn:a | body:sedan | pt:bev | discontinued · 2017–2020 | 艾瑞泽5纯电动版,2017年上市,续航约400km |
+| model:chery-nev:chery-nev-e | Chery Tiggo e | 瑞虎e | 瑞虎e | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2019–2022 | 瑞虎5x纯电动版,2019年上市,名瑞虎e |
+| model:chery-nev:chery-nev-e-2 | Chery Arrizo e | 艾瑞泽e | 艾瑞澤e | — | class:cn:a | body:sedan | pt:bev | current · 2019–present | 艾瑞泽5e改款车型,2019年上市,名艾瑞泽e |
 | model:chery-nev:eq | Chery eQ | 奇瑞eQ | Chery eQ | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2014–2020 | 奇瑞新能源首款纯电动微型车(2014年上市),基于奇瑞QQ改装,官方名奇瑞eQ;约2020年停售,由小蚂蚁接棒 |
 | model:chery-nev:eq5 | Chery eQ5 | 大蚂蚁 | Chery eQ5 | — | class:cn:b | body:suv | pt:bev | discontinued · 2020–2023 | 中型纯电SUV(2020年上市),官方名eQ5(大蚂蚁),基于@LIFE全铝纯电平台;约2023年停售 |
+| model:chery-nev:pro | Chery Wujie Pro | 奇瑞无界Pro | 奇瑞無界Pro | — | class:cn:a00 | body:hatchback | pt:bev | current · 2022–present | 奇瑞新能源A00级纯电微型车,2022年上市,官方英文名Wujie Pro |
 | model:chery-nev:qq-ice-cream | Chery QQ Ice Cream | QQ冰淇淋 | QQ Ice Cream | — | class:cn:a00 | body:hatchback | pt:bev | current · 2021–present | A00级纯电微型车(2021年上市),对标五菱宏光MINIEV,官方英文名QQ Ice Cream,海外部分市场称iCar |
+| model:chery-nev:qq3ev | Chery QQ3EV | 奇瑞QQ3EV | 奇瑞QQ3EV | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2010–2014 | 奇瑞QQ3纯电动版,奇瑞新能源早期车型,后被eQ取代 |
 
 ## Chevrolet
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:chevrolet:1dca30ad12 | Menlo | 畅巡 | — | — | class:cn:a | body:wagon | pt:bev | discontinued · 2020–2023 | 畅巡(Menlo,2020-2023),上汽通用纯电休旅车,已停产 |
+| model:chevrolet:34a16a42b3 | Lova | 乐风 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2006–2011 | 乐风(Lova,2006-2011),上汽通用雪佛兰小型轿车,已停产 |
 | model:chevrolet:aveo | Aveo | 爱唯欧 | Aveo | アベオ | class:us:subcompact | body:sedan | pt:ice | discontinued · 2002–2020 | 北美2011年停产,拉丁美洲续产至2020年;中国版「爱唯欧」 |
 | model:chevrolet:bel-air | Bel Air | Bel Air | Bel Air | ベルエア | class:us:large | body:sedan | pt:ice | discontinued · 1950–1981 | 1950年代经典美式轿车代表 |
 | model:chevrolet:blazer | Blazer | 开拓者 | Blazer | ブレイザー | class:eu:j | body:crossover | pt:ice | current · 2018–present | 中国上汽通用国产「开拓者」;历史K5 Blazer(1969–1994)为越野SUV |
@@ -866,8 +1073,9 @@
 | model:chevrolet:camaro | Camaro | 科迈罗 | Camaro | カマロ | class:eu:s | body:coupe | pt:ice | discontinued · 1966–2023 | 2023年停产;电影《变形金刚》「大黄蜂」座驾 |
 | model:chevrolet:caprice | Caprice | Caprice | Caprice | カプリス | class:us:large | body:sedan | pt:ice | discontinued · 1965–1996 | 90年代北美警车主力;中东/中国曾有后续车型 |
 | model:chevrolet:captiva | Captiva | 科帕奇 | Captiva | — | class:cn:b | body:suv | pt:ice | discontinued · 2007–2017 | 上汽通用国产中型SUV「科帕奇」(Captiva),2017年停产 |
-| model:chevrolet:cavalier | Cavalier | 科沃兹 | Cavalier | — | class:cn:a | body:sedan | pt:ice | current · 2016–present | 上汽通用雪佛兰紧凑轿车「科沃兹」(Cavalier),2016年上市 |
+| model:chevrolet:cavalier | Cavalier | 科沃兹 | Cavalier | — | class:cn:a | body:sedan | pt:ice | current · 2016–present | 科沃兹(Cavalier,2016-),上汽通用雪佛兰紧凑轿车(北美历史名号1982-2005年曾用) |
 | model:chevrolet:chevelle | Chevelle | Chevelle | Chevelle | シェベル | class:us:midsize | body:sedan | pt:ice | discontinued · 1964–1977 | 经典肌肉车,含SS454等性能版 |
+| model:chevrolet:chevrolet-ss | Chevrolet SS | 雪佛兰SS | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2017 | Chevrolet SS(2013-2017),基于霍顿Commodore的V8性能轿车,北美市场 |
 | model:chevrolet:cobalt | Cobalt | Cobalt | Cobalt | コバルト | class:us:compact | body:sedan | pt:ice | discontinued · 2005–2010 | 北美,取代Cavalier;乌兹别克斯坦以许可证形式续产 |
 | model:chevrolet:colorado | Colorado | Colorado | Colorado | コロラド | class:us:pickup | body:pickup | pt:ice | current · 2003–present | 中型皮卡,取代S-10 |
 | model:chevrolet:corvette | Corvette | 科尔维特 | Corvette | コルベット | class:eu:s | body:sports | pt:ice | current · 1953–present | C8(2020款起)改中置引擎;美国国宝级跑车 |
@@ -879,8 +1087,10 @@
 | model:chevrolet:lova-rv | Lova RV | 乐风RV | Lova RV | — | class:cn:a0 | body:wagon | pt:ice | discontinued · 2015–2018 | 上汽通用雪佛兰小型休旅车,2015年上市,2018年停产 |
 | model:chevrolet:malibu | Malibu | 迈锐宝 | Malibu | マリブ | class:us:midsize | body:sedan | pt:ice | discontinued · 1978–2025 | 2025年停产,北美最后的雪佛兰轿车;中国版迈锐宝XL(2016–2023) |
 | model:chevrolet:monza | Monza | 科鲁泽 | Monza | — | class:cn:a | body:sedan | pt:ice | current · 2019–present | 上汽通用雪佛兰紧凑轿车「科鲁泽」(Monza),注意与科鲁兹(Cruze)区分 |
+| model:chevrolet:niva | Chevrolet Niva | 雪佛兰Niva | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2002–2019 | Chevrolet Niva(2002-2019),通用-伏尔加合资生产,俄罗斯市场,后改挂Lada标 |
 | model:chevrolet:nova | Nova | Nova | Nova | ノバ | class:us:compact | body:sedan | pt:ice | discontinued · 1962–1988 | 即Chevy II/Nova;1962–1979后驱,1985–1988为前驱 |
-| model:chevrolet:orlando | Orlando | 沃兰多 | Orlando | — | class:cn:mpv | body:mpv | pt:ice | current · 2018–present | 上汽通用国产紧凑MPV「沃兰多」(Orlando),2018年上市 |
+| model:chevrolet:orlando | Orlando | 沃兰多 | Orlando | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018–2022 | 沃兰多(Orlando,2018-2022),上汽通用紧凑MPV,已停产 |
+| model:chevrolet:plus | Equinox Plus | 探界者Plus | — | — | class:cn:a | body:suv | pt:phev | current · 2024–present | 探界者Plus(2024-),Equinox插混版,中国市场 |
 | model:chevrolet:sail | Sail | 赛欧 | Sail | — | class:cn:a0 | body:sedan | pt:ice | discontinued · 2001–2018 | 原为别克品牌(2001),2005年起改挂雪佛兰标;2018年停产 |
 | model:chevrolet:seeker | Seeker | 星迈罗 | Seeker | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 上汽通用国产紧凑SUV「星迈罗」(Seeker),2022年上市 |
 | model:chevrolet:silverado | Silverado | 索罗德 | Silverado | シルバラード | class:us:pickup | body:pickup | pt:ice | current · 1998–present | 大陆官方中文名「索罗德」;含Silverado HD与纯电Silverado EV |
@@ -897,14 +1107,18 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:chrysler:0587f3e66e | Prowler | 猎兽 | — | — | class:eu:s | body:roadster | pt:ice | discontinued · 1997–2002 | 猎兽(Prowler,1997-2002),克莱斯勒复古跑车,已停产 |
 | model:chrysler:200 | 200 | 200 | 200 | 200 | class:us:midsize | body:sedan | pt:ice | discontinued · 2011–2017 | 2017年停产 |
 | model:chrysler:300 | 300 | 300C | 300 | 300C | class:us:large | body:sedan | pt:ice | discontinued · 2005–2023 | 2023年停产;中国进口版称「300C」 |
 | model:chrysler:aspen | Aspen | Aspen | Aspen | アスペン | class:us:standard-suv | body:suv | pt:ice | discontinued · 2007–2009 | 与道奇Durango同平台 |
+| model:chrysler:delta | Chrysler Delta | 克莱斯勒Delta | — | — | class:eu:c | body:hatchback | pt:hev | discontinued · 2011–2014 | Delta(2011-2014),欧洲市场,蓝旗亚Delta换标 |
+| model:chrysler:f740c48357 | Crossfire | 交叉火力 | — | — | class:cn:a | body:roadster | pt:ice | discontinued · 2004–2008 | 交叉火力(Crossfire,2004-2008),基于奔驰SLK平台,含硬顶与敞篷版 |
 | model:chrysler:pacifica | Pacifica | 大捷龙 | Pacifica | パシフィカ | class:us:minivan | body:minivan | pt:ice | current · 2017–present | 中国进口版沿用「大捷龙」名称;有插混版 |
 | model:chrysler:pt-cruiser | PT Cruiser | PT漫步者 | PT Cruiser | PTクルーザー | class:us:compact | body:hatchback | pt:ice | discontinued · 2001–2010 | 复古造型;大陆译名「PT漫步者」 |
 | model:chrysler:sebring | Sebring | Sebring | Sebring | セブリング | class:us:midsize | body:sedan | pt:ice | discontinued · 1995–2010 | 含敞篷版 |
 | model:chrysler:town-and-country | Town & Country | Town & Country | Town & Country | タウン＆カントリー | class:us:minivan | body:minivan | pt:ice | discontinued · 1990–2016 | 2016年停产,由Pacifica接替 |
 | model:chrysler:voyager | Voyager | Voyager | Voyager | ボイジャー | class:us:minivan | body:minivan | pt:ice | discontinued · 1988–2007; 2020–2024 | 2020年以Pacifica低配版复产,2024年停产 |
+| model:chrysler:ypsilon | Chrysler Ypsilon | 克莱斯勒Ypsilon | — | — | class:eu:b | body:hatchback | pt:ice | discontinued · 2011–2017 | Ypsilon(2011-2017),欧洲市场,蓝旗亚Ypsilon换标 |
 
 ## Citroën
 
@@ -912,24 +1126,35 @@
 |---|---|---|---|---|---|---|---|---|---|
 | model:citroen:2cv | 2CV | 2CV | 2CV | 2CV | class:eu:b | body:hatchback | pt:ice | discontinued · 1948–1990 | 雪铁龙传奇国民车「两马力」(Deux Chevaux),生产40余年 |
 | model:citroen:ami | Ami | Ami | Ami | アミ | class:eu:a | body:quadricycle | pt:bev | current · 2020–present | 欧盟L6类四轮微型电动车,2021年引入日本;另有历史名Ami(1961-1978)为另一车型 |
+| model:citroen:b810516d3a | Fukang | 富康 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 1992–2008 | 富康(1992-2008),神龙汽车首款车型,基于雪铁龙ZX,中国经典国民车 |
 | model:citroen:berlingo | Berlingo | Berlingo | Berlingo | ベルランゴ | class:eu:m | body:mpv | pt:ice | current · 1996–present | 紧凑MPV/厢式车,含纯电e-Berlingo;乘用版与Peugeot Rifter同源 |
+| model:citroen:c-crosser | C-Crosser | C-Crosser | — | — | class:eu:d | body:suv | pt:ice | discontinued · 2007–2012 | 中型SUV,与三菱欧蓝德同平台(PSA/三菱合作),未在中国销售 |
 | model:citroen:c-quatre | C-Quatre | 世嘉 | C-Quatre | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2008–2016 | 东风雪铁龙C4中国版,含两厢/三厢版,被C4世嘉取代 |
+| model:citroen:c-zero | C-Zero | C-Zero | — | — | class:eu:a | body:city-car | pt:bev | discontinued · 2010–2019 | 纯电城市微型车,与三菱i-MiEV/标致iOn同源 |
 | model:citroen:c2 | C2 | C2 | C2 | C2 | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2006–2014 | 东风雪铁龙小型两厢车,与标致206同平台,2014年停产 |
 | model:citroen:c3 | C3 | C3 | C3 | C3 | class:eu:b | body:hatchback | pt:ice | current · 2002–present | 含纯电版e-C3(2024);2021年起另有面向印度/拉美的C3(CC21) |
 | model:citroen:c3-aircross | C3 Aircross | C3 Aircross | C3 Aircross | C3 エアクロス | class:eu:b | body:suv | pt:ice | current · 2010–present | 小型SUV;中国曾以C4 Aircross(云逸)销售,2024年换代 |
 | model:citroen:c3-picasso | C3 Picasso | C3 Picasso | C3 Picasso | C3 ピカソ | class:eu:m | body:mpv | pt:ice | discontinued · 2009–2017 | 紧凑MPV,被C3 Aircross取代 |
-| model:citroen:c3-xr | C3-XR | C3-XR | C3-XR | — | class:cn:a0 | body:suv | pt:ice | current · 2014–present | 东风雪铁龙中国特供小型SUV;实际已停产,停产年份待核实 |
+| model:citroen:c3-xr | C3-XR | C3-XR | C3-XR | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2022 | 东风雪铁龙中国特供小型SUV,2022年前后停产 |
+| model:citroen:c3l | Citroën C3L | 雪铁龙C3L | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2020–2022 | C3L(2020-),东风雪铁龙中国特供紧凑轿车(三厢跨界造型),基于C3-XR平台 |
 | model:citroen:c4 | C4 | C4 | C4 | C4 | class:eu:c | body:hatchback | pt:ice | current · 2004–present | 现款为2020年第三代跨界风格(C41);含纯电e-C4;中国曾国产世嘉/C4L等 |
+| model:citroen:c4-aircross-2 | C4 Aircross | 云逸 C4 AIRCROSS | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2018–2021 | 云逸C4 AIRCROSS(2018-2021),东风雪铁龙小型SUV,基于C3 Aircross,2021年前后停产 |
+| model:citroen:c4-cactus-2 | Citroën C4 Cactus | 雪铁龙C4 Cactus | — | — | class:eu:c | body:crossover | pt:ice | discontinued · 2014–2020 | C4 Cactus(2014-2020),紧凑跨界车,Airbump防擦设计,2020年被C4取代 |
 | model:citroen:c4-l | C4L | C4L | C4L | C4L | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2020 | 东风雪铁龙紧凑轿车,加长版C4,2020年停产 |
 | model:citroen:c4-picasso | C4 Picasso | C4 Picasso(大C4毕加索) | C4 Picasso | C4 ピカソ | class:eu:m | body:mpv | pt:ice | discontinued · 2007–2020 | 紧凑MPV,2018年更名C4 SpaceTourer;被C5 Aircross等SUV取代 |
-| model:citroen:c4-quatre | C4 C-Quatre | C4世嘉 | C4 C-Quatre | — | class:cn:a | body:sedan | pt:ice | current · 2015–present | 东风雪铁龙紧凑轿车,世嘉换代车型;实际已停产,停产年份待核实 |
+| model:citroen:c4-quatre | C4 C-Quatre | C4世嘉 | C4 C-Quatre | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015–2020 | 东风雪铁龙紧凑轿车(C4世嘉),世嘉换代车型,2020年前后停产 |
 | model:citroen:c4-x | C4 X | C4 X | C4 X | C4 X | class:eu:c | body:sedan | pt:ice | current · 2022–present | C4的溜背轿车版,含纯电e-C4 X |
 | model:citroen:c5 | C5 | C5 | C5 | C5 | class:eu:d | body:sedan | pt:ice | discontinued · 2000–2017 | 中型轿车,含旅行版C5 Tourer;被C5 X接替 |
 | model:citroen:c5-aircross | C5 Aircross | 天逸C5 AIRCROSS | C5 Aircross | C5 エアクロス | class:eu:c | body:suv | pt:ice | current · 2017–present | 紧凑型SUV,中国官方名「天逸C5 AIRCROSS」;2025年换代 |
 | model:citroen:c5-x | C5 X | 凡尔赛C5 X | C5 X | C5 X | class:eu:d | body:wagon | pt:ice | current · 2021–present | 跨界旅行车,中国官方名「凡尔赛C5 X」;接替C5 |
 | model:citroen:c6 | C6 | C6 | C6 | C6 | class:eu:e | body:sedan | pt:ice | discontinued · 2005–2012 | 行政级轿车(欧版);另有东风雪铁龙中国特供C6(2016-2023) |
 | model:citroen:c8 | C8 | C8 | C8 | C8 | class:eu:m | body:minivan | pt:ice | discontinued · 2002–2014 | 大型MPV,与标致807、菲亚特Ulysse等同平台(Eurovans) |
+| model:citroen:citroen-bx | Citroën BX | 雪铁龙BX | — | — | class:eu:c | body:hatchback | pt:ice | discontinued · 1982–1994 | BX(1982-1994),雪铁龙经典中型车,液压气动悬挂 |
+| model:citroen:citroen-c1 | Citroën C1 | 雪铁龙C1 | — | — | class:eu:a | body:city-car | pt:ice | discontinued · 2005–2022 | C1(2005-2022),城市微型车,与标致108/丰田Aygo同平台 |
+| model:citroen:citroen-cx | Citroën CX | 雪铁龙CX | — | — | class:eu:e | body:sedan | pt:ice | discontinued · 1974–1991 | CX(1974-1991),雪铁龙行政级轿车,DS的继任者,液压气动悬挂 |
+| model:citroen:d38fbabf1f | C-Triomphe | 凯旋 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2006–2013 | 凯旋(C-Triomphe,2006-2013),东风雪铁龙紧凑轿车,基于C4平台,后被C4L取代 |
 | model:citroen:ds | DS | DS(女神) | DS | DS(デーエス) | class:eu:e | body:sedan | pt:ice | discontinued · 1955–1975 | 雪铁龙经典旗舰「女神」(Déesse),液压气动悬挂闻名;DS品牌名即源自此车 |
+| model:citroen:e-mehari | E-MEHARI | E-MEHARI | — | — | class:eu:a | body:convertible | pt:bev | discontinued · 2016–2019 | E-MEHARI(2016-2019),敞篷纯电休闲车,复活经典Méhari |
 | model:citroen:elysee | Elysée | 爱丽舍 | Elysée | — | class:cn:a | body:sedan | pt:ice | discontinued · 2002–2019 | 东风雪铁龙入门紧凑轿车,曾为国内出租车常见车型,2019年停产 |
 | model:citroen:jumpy | Jumpy | Jumpy | Jumpy | ジャンピー | class:eu:m | body:van | pt:ice | current · 1994–present | 中型厢式车,与Peugeot Expert同平台;含纯电e-Jumpy |
 | model:citroen:spacetourer | SpaceTourer | SpaceTourer | SpaceTourer | スペースツアラー | class:eu:m | body:mpv | pt:ice | current · 2015–present | Jumpy的乘用版,含纯电e-SpaceTourer;接替C8 |
@@ -940,10 +1165,20 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:coway:23cb5652e3 | Shiyue | 拾月 | — | — | class:cn:a00 | body:city-car | pt:bev | current · 2023–present | 凯翼拾月(2023-),纯电微型车,对标五菱宏光MINI EV |
 | model:coway:c3 | Coway C3 | C3 | C3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2017 | 凯翼C3紧凑型轿车 |
 | model:coway:c3r | Coway C3R | C3R | C3R | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2014–2017 | 凯翼C3R紧凑型两厢轿车,C3两厢版 |
+| model:coway:c3r-ev | Coway C3R EV | 凯翼C3R EV | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2016–2018 | 凯翼C3R EV(2016-2018),C3R纯电版,已停产 |
+| model:coway:coway-e5 | Coway Finless Porpoise E5 | 凯翼江豚E5 | — | — | class:cn:mpv | body:van | pt:bev | current · 2024–present | 凯翼江豚E5(2024-),纯电微面,开瑞江豚E5换标车型 |
+| model:coway:coway-e7 | Coway Finless Porpoise E7 | 凯翼江豚E7 | — | — | class:cn:mpv | body:van | pt:bev | current · 2024–present | 凯翼江豚E7(2024-),纯电微面,开瑞江豚E7换标车型 |
+| model:coway:coway-ev | Xuandu EV | 轩度EV | — | — | class:cn:a | body:sedan | pt:bev | current · 2025–present | 轩度EV(2025-),纯电紧凑型轿车,续航约500公里 |
+| model:coway:coway-l8 | Coway Kunlun L8 | 凯翼昆仑L8 | — | — | class:cn:b | body:suv | pt:phev | current · 2025–present | 凯翼昆仑L8(2025-),中型插混SUV |
+| model:coway:coway-v7 | Coway V7 | 凯翼V7 | — | — | class:cn:mpv | body:mpv | pt:ice | current · 2022–present | 凯翼V7(2022-),中大型MPV |
+| model:coway:cx3 | Coway CX3 | 凯翼CX3 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2018–2020 | 凯翼CX3(2018-),小型SUV,基于瑞虎3平台,已停产 |
 | model:coway:e3 | Coway E3 | E3 | E3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2016–2019 | 凯翼E3紧凑型轿车,C3系列改款车型 |
 | model:coway:kunlun | Coway Kunlun | 昆仑 | 崑崙 | — | class:cn:b | body:suv | pt:ice | current · 2023–present | 凯翼昆仑中型SUV(2023年上市) |
+| model:coway:pro | Xuanjie Pro | 炫界Pro | — | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 炫界Pro(2021-),炫界升级版 |
+| model:coway:pro-ev | Xuanjie Pro EV | 炫界Pro EV | — | — | class:cn:a | body:suv | pt:bev | current · 2022–present | 炫界Pro EV(2022-),纯电紧凑型SUV,续航约401公里 |
 | model:coway:v3 | Coway V3 | V3 | V3 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2017–2020 | 凯翼V3紧凑型MPV(7座) |
 | model:coway:x3 | Coway X3 | X3 | X3 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2020 | 凯翼X3小型SUV |
 | model:coway:x5 | Coway X5 | X5 | X5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2017–2020 | 凯翼X5紧凑型SUV |
@@ -975,6 +1210,7 @@
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
 | model:daihatsu:atrai | Atrai | — | — | アトレー | class:jp:kei | body:van | pt:ice | current · 1981-present | K-car厢式商用车(4ナンバー);现行S700(2021起) |
+| model:daihatsu:ayla | Ayla | 大发Ayla | — | — | class:cn:a00 | body:hatchback | pt:ice | current · 2013–present | 大发印尼市场微型掀背车,2013年上市,与丰田Agya同源;马来西亚Perodua Axia同平台 |
 | model:daihatsu:boon | Boon | — | — | ブーン | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2004-2023 | 紧凑掀背车;丰田Passo(2004-2023)同源,海外称Sirion;2023年停产 |
 | model:daihatsu:cast | Cast | — | — | キャスト | class:jp:kei | body:hatchback | pt:ice | discontinued · 2015-2023 | K-car掀背;丰田Pixis Joy同源;2023年停产 |
 | model:daihatsu:charade | Charade | 夏利(技术引进) | Charade | シャレード | class:cn:a0 | body:hatchback | pt:ice | discontinued · 1977–2000 | 重要小型车(3代);大陆夏利轿车基于Charade技术国产化(1986起);官方历史资料库收录 |
@@ -982,7 +1218,9 @@
 | model:daihatsu:cuore | Cuore | — | Cuore | クオーレ | class:jp:kei | body:hatchback | pt:ice | discontinued · 1980–2013 | 重要K-car小型车,海外名Mira/Domino;官方历史资料库收录 |
 | model:daihatsu:esse | Esse | — | — | エッセ | class:jp:kei | body:hatchback | pt:ice | discontinued · 2005-2011 | 轻型K-car掀背;2011年停产 |
 | model:daihatsu:fellow | Fellow | — | Fellow | フェロー | class:jp:kei | body:hatchback | pt:ice | discontinued · 1966–1988 | 大发K-car主力车系,Max前身;官方历史资料库收录 |
+| model:daihatsu:gran-max | Gran Max | 大发Gran Max | — | — | class:cn:mpv | body:van | pt:ice | current · 2007–present | 大发印尼市场厢式货车/微卡,2007年上市,与丰田LiteAce同源;含货车(Gran Max Truck)与厢式(Gran Max Van)版 |
 | model:daihatsu:hijet | Hijet | — | — | ハイゼット | class:jp:kei | body:kei-truck | pt:ice | current · 1960-present | K-car货车Hijet Truck/厢式Hijet Cargo;丰田Pixis Truck/Van同源 |
+| model:daihatsu:luxio | Luxio | 大发Luxio | — | — | class:cn:mpv | body:mpv | pt:ice | current · 2009–present | 大发印尼市场厢式MPV,2009年上市,基于Gran Max平台 |
 | model:daihatsu:materia | Materia | — | — | マテリア | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2006-2012 | 盒式紧凑车(风格类似丰田bB);2012年停产 |
 | model:daihatsu:max | Max | — | Max | マックス | class:jp:kei | body:van | pt:ice | discontinued · 1981–1995 | K-car厢式车,Fellow Max后续;官方历史资料库收录 |
 | model:daihatsu:mira | Mira | — | — | ミラ | class:jp:kei | body:hatchback | pt:ice | discontinued · 1980-2018 | 老牌K-car车系;后继车型为Mira e:S |
@@ -991,9 +1229,12 @@
 | model:daihatsu:move-canbus | Move Canbus | — | — | ムーヴキャンバス | class:jp:kei | body:hatchback | pt:ice | current · 2016-present | Move车系复古方盒风格派生K-car |
 | model:daihatsu:opti | Opti | — | Opti | オプティ | class:jp:kei | body:hatchback | pt:ice | discontinued · 1992–2002 | K-car小型车;官方历史资料库收录 |
 | model:daihatsu:rocky | Rocky | — | — | ロッキー | class:us:small-suv | body:crossover | pt:ice | current · 2019-present | 小型跨界SUV(A200/DNGA平台);丰田Raize同源;另有过往非承载式Rocky(1990-1998) |
+| model:daihatsu:sigra | Sigra | 大发Sigra | — | — | class:cn:mpv | body:mpv | pt:ice | current · 2016–present | 大发印尼市场紧凑MPV,2016年上市,与丰田Calya同源 |
+| model:daihatsu:sirion | Sirion | 大发Sirion | — | — | class:cn:a0 | body:hatchback | pt:ice | current · 2004–present | 大发东南亚市场小型掀背车(日本名Boon,另行收录),2004年上市,印尼生产,2017年改款 |
 | model:daihatsu:taft | Taft | — | — | タフト | class:jp:kei | body:crossover | pt:ice | current · 2020-present | K-car跨界风格(LA900系);初代Taft(F10,1974-1984)为迷你越野车 |
 | model:daihatsu:tanto | Tanto | — | — | タント | class:jp:kei | body:mpv | pt:ice | current · 2003-present | 高顶K-car MPV;现行LA650系(2022起) |
 | model:daihatsu:terios | Terios | 特锐 | Terios | テリオス | class:us:small-suv | body:suv | pt:ice | current · 1997-present | 小型SUV;大陆曾由天津华利组装「特锐」(2003-2006);现行J200与丰田Rush同源 |
+| model:daihatsu:xenia | Xenia | 大发Xenia | — | — | class:cn:mpv | body:mpv | pt:ice | current · 2003–present | 大发印尼市场三排座MPV,2003年上市,与丰田Avanza同源;马来西亚Perodua Alza亦同平台 |
 | model:daihatsu:yrv | YRV | — | YRV | YRV(ワイアールブイ) | class:eu:b | body:hatchback | pt:ice | discontinued · 2000–2005 | 小型MPV风格车;官方历史资料库收录 |
 
 ## DeLorean
@@ -1038,9 +1279,46 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:dongfeng:0a8dddc9a9 | Hushi | 虎视 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2007–2016 | 虎视(2007–2016),东风皮卡,2016年停产 |
+| model:dongfeng:3f2a679276 | Dongfeng Pickup | 东风皮卡 | — | — | class:cn:a | body:pickup | pt:ice | current · 2005–present | 东风皮卡(2005–),东风轻型车皮卡系列(含虎视/信天游等) |
+| model:dongfeng:500113dad3 | Fuxiaorui | 福小瑞 | — | — | class:cn:a | body:pickup | pt:ice | current · 2025–present | 福小瑞(2025–),东风微卡(2025款在售) |
+| model:dongfeng:54e0ceede5 | Ruichi Multi-purpose | 锐骐多功能车 | — | — | class:cn:a | body:pickup | pt:ice | current · 2021–present | 锐骐多功能车(2021–),郑州日产皮卡衍生 |
+| model:dongfeng:6-pro | Ruichi 6 pro | 锐骐6 pro | — | — | class:cn:a | body:pickup | pt:ice | current · 2024–present | 锐骐6 Pro(2024–),郑州日产锐骐6改款 |
+| model:dongfeng:767d133101 | Palaso | 帕拉索 | — | — | class:cn:a | body:suv | pt:ice | current · 2020–present | 帕拉索(2020–),郑州日产多用途SUV(锐骐6平台) |
+| model:dongfeng:7b1659c0ba | Dongfeng | 猛士 | — | — | class:cn:a | body:suv | pt:ice | current · 2008–present | 猛士(2008–),东风军用/民用硬派越野车;2023年起猛士独立为豪华电动越野品牌 |
+| model:dongfeng:box | Dongfeng BOX | 纳米BOX | — | — | class:cn:a | body:suv | pt:bev | current · 2022–present | 纳米BOX(2022–),东风纳米子品牌纯电小型SUV |
+| model:dongfeng:ce9f115eb0 | Yuxuan | 御轩 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2007–2013 | 御轩(2007–2013),郑州日产MPV(源自日产Serena平台),2013年停产 |
+| model:dongfeng:dongfeng-01 | Dongfeng 01 | 纳米01 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2024–present | 纳米01(2024–),东风纳米子品牌纯电小型车 |
+| model:dongfeng:dongfeng-06 | Dongfeng 06 | 纳米06 | — | — | class:cn:a | body:suv | pt:bev | current · 2025–present | 纳米06(2025–),东风纳米子品牌纯电小型SUV |
+| model:dongfeng:dongfeng-6 | Ruichi 6 New Energy | 锐骐6新能源 | — | — | class:cn:a | body:pickup | pt:bev | current · 2023–present | 锐骐6新能源(2023–),郑州日产锐骐6纯电版 |
+| model:dongfeng:dongfeng-7 | Ruichi 7 | 锐骐7 | — | — | class:cn:a | body:pickup | pt:ice | current · 2022–present | 锐骐7(2022–),郑州日产皮卡 |
+| model:dongfeng:dongfeng-e | e Elysee | e爱丽舍 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2020–2022 | e爱丽舍(2020–2022),东风雪铁龙爱丽舍纯电版,2022年停产 |
+| model:dongfeng:dongfeng-k6 | Qiankun K6 | 乾坤K6 | — | — | class:cn:a | body:pickup | pt:ice | current · 2023–present | 乾坤K6(2023–),东风轻型车纯电皮卡 |
+| model:dongfeng:dongfeng-m8 | Yipai M8 | 奕派M8 | — | — | class:cn:a | body:mpv | pt:ice | current · 2025–present | 奕派M8(2025–),东风奕派(eπ)子品牌MPV |
+| model:dongfeng:dongfeng-v5 | Ruidalida V5 | 睿立达V5 | — | — | class:cn:a | body:van | pt:ice | current · 2022–present | 睿立达V5(2022–),东风轻型车微面 |
+| model:dongfeng:dongfeng-v7 | Ruidalida V7 | 睿立达V7 | — | — | class:cn:a | body:van | pt:ice | current · 2022–present | 睿立达V7(2022–),东风轻型车微面 |
+| model:dongfeng:dongfeng-z9 | Dongfeng Yufeng Z9 | 郑州日产Z9 | — | — | class:cn:a | body:pickup | pt:ice | current · 2025–present | Z9(2025–),郑州日产全新皮卡 |
+| model:dongfeng:e-007 | eπ007 | eπ007 | — | — | class:cn:a | body:sedan | pt:ice | current · 2024–present | eπ007(2024–),东风奕派(eπ)子品牌纯电轿车 |
+| model:dongfeng:e-008 | eπ008 | eπ008 | — | — | class:cn:a | body:suv | pt:ice | current · 2024–present | eπ008(2024–),东风奕派(eπ)子品牌中大型SUV |
+| model:dongfeng:em10 | Ruitait EM10 | 东风·瑞泰特EM10 | — | — | class:cn:a | body:van | pt:bev | current · 2019–present | 瑞泰特EM10(2019–),东风纯电物流车 |
+| model:dongfeng:em27 | Yufeng EM27 | 御风EM27 | — | — | class:cn:a | body:van | pt:bev | current · 2023–present | 御风EM27(2023–),东风轻型车纯电物流车 |
+| model:dongfeng:em30 | Ruitait EM30 | 东风·瑞泰特EM30 | — | — | class:cn:a | body:van | pt:bev | current · 2019–present | 瑞泰特EM30(2019–),东风纯电物流车 |
+| model:dongfeng:ep7 | Yipai EP7 | 奕派EP7 | — | — | class:cn:b | body:sedan | pt:ice | current · 2025–present | 奕派EP7(2025–),东风奕派(eπ)子品牌轿车 |
+| model:dongfeng:es500 | Fukang ES500 | 富康ES500 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2018–2020 | 富康ES500(2018–2020),东风富康纯电轿车,2020年停产 |
+| model:dongfeng:es600 | Fukang ES600 | 富康ES600 | — | — | class:cn:a | body:sedan | pt:bev | current · 2022–present | 富康ES600(2022–),东风富康纯电轿车(换电版) |
+| model:dongfeng:ev90 | Ruidalida EV90 | 睿立达EV90 | — | — | class:cn:a | body:van | pt:bev | current · 2023–present | 睿立达EV90(2023–),东风轻型车纯电物流车 |
+| model:dongfeng:ex1 | Dongfeng EX1 | 纳米EX1 | — | — | class:cn:a | body:suv | pt:bev | current · 2021–present | 纳米EX1(2021–),东风纳米子品牌纯电小型SUV |
+| model:dongfeng:f086779e87 | Odins | 奥丁 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2007–2016 | 奥丁(2007–2016),郑州日产SUV(日产帕拉丁平台衍生),2016年停产 |
+| model:dongfeng:m50 | Dongfeng M50 | 猛士M50 | — | — | class:cn:a | body:pickup | pt:ice | current · 2021–present | 猛士M50(2021–),东风猛士皮卡版(军转民) |
+| model:dongfeng:p16 | Yufeng P16 | 御风P16 | — | — | class:cn:a | body:pickup | pt:ice | current · 2018–present | 御风P16(2018–),东风轻型车皮卡 |
 | model:dongfeng:ruiqi | Dongfeng Ruiqi | 锐骐 | 銳騏 | — | class:cn:mpv | body:pickup | pt:ice | current · 2005–present | 郑州日产「东风」品牌皮卡,与日产D22技术同源 |
 | model:dongfeng:ruiqi-6 | Dongfeng Ruiqi 6 | 锐骐6 | 銳騏6 | — | class:cn:mpv | body:pickup | pt:ice | current · 2018–present | 郑州日产「东风」品牌皮卡(锐骐换代车型) |
+| model:dongfeng:s16 | Yufeng S16 | 御风S16 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2021 | 御风S16(2018–2021),东风轻型车SUV,2021年停产 |
 | model:dongfeng:shuaike | Dongfeng Shuaike | 帅客 | 帥客 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2010–2020 | 郑州日产「东风」品牌紧凑型MPV(7座) |
+| model:dongfeng:v6e | Ruidalida V6E | 睿立达V6E | — | — | class:cn:a | body:van | pt:bev | current · 2022–present | 睿立达V6E(2022–),东风轻型车纯电微面 |
+| model:dongfeng:v8e | Ruidalida V8E | 睿立达V8E | — | — | class:cn:a | body:van | pt:bev | current · 2022–present | 睿立达V8E(2022–),东风轻型车纯电微面 |
+| model:dongfeng:z9-ge-phev | Dongfeng Yufeng Z9 GE PHEV | 郑州日产Z9 GE PHEV | — | — | class:cn:a | body:pickup | pt:phev | current · 2025–present | Z9 GE PHEV(2025–),郑州日产Z9皮卡插电混动版 |
+| model:dongfeng:zna-rich | Ruichi EV Pickup ZNA RICH | 锐骐纯电皮卡ZNA RICH | — | — | class:cn:a | body:pickup | pt:bev | current · 2022–present | 锐骐纯电皮卡ZNA RICH(2022–),郑州日产纯电皮卡 |
 
 ## Dongfeng Yufeng
 
@@ -1073,15 +1351,46 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:faw:4a8ee259f4 | Vizi | 威姿 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2002–2010 | 威姿(2002–2010),天津一汽两厢轿车(丰田Vitz贴牌),2010年停产 |
+| model:faw:6fe9e22560 | Weile | 威乐 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2004–2010 | 威乐(2004–2010),天津一汽三厢轿车(源自丰田Vitz平台),2010年停产 |
+| model:faw:9fd331d736 | Senya Hongyan | 森雅鸿雁 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2020 | 森雅鸿雁(2018–2020),一汽吉林小型SUV,2020年停产 |
+| model:faw:a70e | Junpai A70E | 骏派A70E | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2017–2019 | 骏派A70E(2017–2019),骏派A70纯电版,2019年停产 |
 | model:faw:besturn-b50 | Besturn B50 | 奔腾B50 | Besturn B50 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2009–2019 | 奔腾(Besturn)子品牌紧凑型轿车(一汽马自达6底盘);约2019年停产 |
 | model:faw:besturn-b70 | Besturn B70 | 奔腾B70 | Besturn B70 | — | class:cn:b | body:sedan | pt:ice | current · 2006–present | 奔腾(Besturn)子品牌中型轿车,2020年第三代换代 |
 | model:faw:besturn-t77 | Besturn T77 | 奔腾T77 | Besturn T77 | — | class:cn:a | body:suv | pt:ice | current · 2018–present | 奔腾(Besturn)子品牌紧凑型SUV |
 | model:faw:besturn-t90 | Besturn T90 | 奔腾T90 | Besturn T90 | — | class:cn:a | body:suv | pt:ice | current · 2023–present | 奔腾(Besturn)子品牌紧凑型SUV(2023年上市) |
 | model:faw:besturn-t99 | Besturn T99 | 奔腾T99 | Besturn T99 | — | class:cn:b | body:suv | pt:ice | current · 2019–present | 奔腾(Besturn)子品牌中型SUV |
-| model:faw:besturn-x40 | Besturn X40 | 奔腾X40 | Besturn X40 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2017–2021 | 奔腾(Besturn)子品牌小型SUV;已停产,停产时间待核实 |
-| model:faw:junpai-a50 | Junpai A50 | 骏派A50 | Junpai A50 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2021 | 骏派(Junpai)子品牌紧凑型轿车;已停产,年份待核实 |
-| model:faw:junpai-a70 | Junpai A70 | 骏派A70 | Junpai A70 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2016–2020 | 骏派(Junpai)子品牌紧凑型轿车;已停产,年份待核实 |
-| model:faw:junpai-d60 | Junpai D60 | 骏派D60 | Junpai D60 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2015–2020 | 骏派(Junpai)子品牌(一汽天津)小型SUV;已停产,年份待核实 |
+| model:faw:besturn-x40 | Besturn X40 | 奔腾X40 | Besturn X40 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2019 | 奔腾X40(2016–2019),奔腾(Besturn)子品牌小型SUV,2019年停产 |
+| model:faw:c9de719000 | FAW | 夏利 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 1986–2015 | 夏利(1986–2015),天津一汽经典微型车(源自大发Charade),2015年停产 |
+| model:faw:cfd87f58bc | Weizhi | 威志 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2006–2013 | 威志(2006–2013),天津一汽自主小型车,2013年停产 |
+| model:faw:cx65 | Junpai CX65 | 骏派CX65 | — | — | class:cn:a | body:wagon | pt:ice | discontinued · 2018–2020 | 骏派CX65(2018–2020),骏派子品牌旅行车,2020年停产 |
+| model:faw:d80 | Junpai D80 | 骏派D80 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2020 | 骏派D80(2018–2020),骏派子品牌紧凑型SUV,2020年停产 |
+| model:faw:faw-h6 | Lanjian H6 | 一汽蓝舰H6 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2017–2020 | 一汽蓝舰H6(2017–2020),一汽吉林皮卡,2020年停产 |
+| model:faw:faw-n5 | FAW N5 | 夏利N5 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2009–2015 | 夏利N5(2009–2015),夏利系列改款,2015年停产 |
+| model:faw:faw-n7 | FAW N7 | 夏利N7 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2012–2015 | 夏利N7(2012–2015),夏利系列跨界两厢,2015年停产 |
+| model:faw:faw-r7 | FAW Senya R7 | 森雅R7 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2016–2020 | 森雅R7(2016–2020),一汽吉林小型SUV,2020年停产 |
+| model:faw:faw-r8 | FAW Senya R8 | 森雅R8 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2020 | 森雅R8(2018–2020),一汽吉林小型SUV,2020年停产 |
+| model:faw:faw-r9 | FAW Senya R9 | 森雅R9 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2020 | 森雅R9(2018–2020),一汽吉林紧凑型SUV,2020年停产 |
+| model:faw:faw-v2 | Weizhi V2 | 威志V2 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2010–2013 | 威志V2(2010–2013),威志两厢版,2013年停产 |
+| model:faw:faw-v5 | Weizhi V5 | 威志V5 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2016 | 威志V5(2012–2016),威志改款,2016年停产 |
+| model:faw:fec9e3e278 | Kuncheng | 坤程 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2011–2015 | 坤程(2011–2015),一汽轻型皮卡,2015年停产 |
+| model:faw:junpai-a50 | Junpai A50 | 骏派A50 | Junpai A50 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2020 | 骏派A50(2018–2020),骏派子品牌紧凑型轿车,2020年停产 |
+| model:faw:junpai-a70 | Junpai A70 | 骏派A70 | Junpai A70 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2016–2019 | 骏派A70(2016–2019),骏派子品牌紧凑型轿车,2019年停产 |
+| model:faw:junpai-d60 | Junpai D60 | 骏派D60 | Junpai D60 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2019 | 骏派D60(2014–2019),骏派(Junpai)子品牌(一汽天津)小型SUV,2019年停产 |
+| model:faw:m80 | FAW Senya M80 | 森雅M80 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2009–2013 | 森雅M80(2009–2013),一汽吉林紧凑MPV(源自大发Xenia),2013年停产 |
+| model:faw:s80 | FAW Senya S80 | 森雅S80 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2011–2015 | 森雅S80(2011–2015),一汽吉林小型SUV(源自大发),2015年停产 |
+| model:faw:t50 | Jiabao T50 | 佳宝T50 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2013–2018 | 佳宝T50(2013–2018),一汽吉林微型皮卡,2018年停产 |
+| model:faw:t51 | Jiabao T51 | 佳宝T51 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2013–2018 | 佳宝T51(2013–2018),一汽吉林微型皮卡,2018年停产 |
+| model:faw:t57 | Jiabao T57 | 佳宝T57 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2013–2018 | 佳宝T57(2013–2018),一汽吉林微型皮卡,2018年停产 |
+| model:faw:t80 | Jiefang T80 | 解放T80 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2015–2020 | 解放T80(2015–2020),一汽解放微型皮卡,2020年停产 |
+| model:faw:t90 | Jiefang T90 | 解放T90 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2015–2020 | 解放T90(2015–2020),一汽解放微型皮卡,2020年停产 |
+| model:faw:v52 | Jiabao V52 | 佳宝V52 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2009–2016 | 佳宝V52(2009–2016),一汽吉林微型面包车,2016年停产 |
+| model:faw:v55 | Jiabao V55 | 佳宝V55 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2012–2018 | 佳宝V55(2012–2018),一汽吉林微型面包车,2018年停产 |
+| model:faw:v70 | Jiabao V70 | 佳宝V70 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2010–2018 | 佳宝V70(2010–2018),一汽吉林微型面包车,2018年停产 |
+| model:faw:v70-ii | Jiabao V70 II Gen | 佳宝V70 II代 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2014–2018 | 佳宝V70二代(2014–2018),一汽吉林微型面包车,2018年停产 |
+| model:faw:v75 | Jiabao V75 | 佳宝V75 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2012–2018 | 佳宝V75(2012–2018),一汽吉林微型面包车,2018年停产 |
+| model:faw:v77 | Jiabao V77 | 佳宝V77 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2014–2018 | 佳宝V77(2014–2018),一汽吉林微型面包车,2018年停产 |
+| model:faw:v80 | Jiabao V80 | 佳宝V80 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2014–2018 | 佳宝V80(2014–2018),一汽吉林微型面包车,2018年停产 |
 
 ## Fengdu
 
@@ -1094,21 +1403,28 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
-| model:fengon:330 | Fengon 330 | 330 | 330 | — | class:cn:mpv | body:mpv | pt:ice | current · 2013–present | 东风风光330紧凑型MPV(2013年上市),低价微面升级车型;近期无改款,在售状态待核实 |
+| model:fengon:330 | Fengon 330 | 330 | 330 | — | class:cn:mpv | body:mpv | pt:ice | current · 2013–present | 东风风光330(2013-),紧凑型MPV,低价微面升级车型,已停产 |
 | model:fengon:350 | Fengon 350 | 350 | 350 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2018 | 东风风光350紧凑型MPV(2015年上市) |
 | model:fengon:360 | Fengon 360 | 360 | 360 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2014–2017 | 东风风光360紧凑型MPV(2014年上市) |
 | model:fengon:370 | Fengon 370 | 370 | 370 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2019 | 东风风光370紧凑型MPV(2015年上市) |
-| model:fengon:500 | Fengon 500 | 500 | 500 | — | class:cn:a0 | body:suv | pt:ice | current · 2020–present | 东风风光500小型SUV(2020年上市);近期无改款,在售状态待核实 |
+| model:fengon:380 | Fengon 380 | 风光380 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2021–2023 | 风光380(2021-2023),紧凑型MPV,已停产 |
+| model:fengon:500 | Fengon 500 | 500 | 500 | — | class:cn:a0 | body:suv | pt:ice | current · 2020–present | 东风风光500(2020-),小型SUV,已停产 |
 | model:fengon:580 | Fengon 580 | 580 | 580 | — | class:cn:b | body:suv | pt:ice | current · 2016–present | 东风风光580中型SUV(2016年上市),风光品牌销量支柱 |
 | model:fengon:580-pro | Fengon 580 Pro | 580Pro | 580 Pro | — | class:cn:b | body:suv | pt:ice | discontinued · 2019–2021 | 东风风光580Pro中型SUV(2019年上市),为580的改款升级版 |
+| model:fengon:e380 | Fengon E380 | 风光E380 | — | — | class:cn:mpv | body:mpv | pt:bev | discontinued · 2022–2023 | 风光E380(2022-2023),纯电MPV,已停产 |
+| model:fengon:fengon-e1 | Fengon E1 | 风光E1 | — | — | class:cn:a00 | body:suv | pt:bev | discontinued · 2020–2021 | 风光E1(2020-2021),纯电小型SUV,与雷诺e诺同源,已停产 |
+| model:fengon:fengon-e3 | Fengon E3 | 风光E3 | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2019–2021 | 风光E3(2019-2021),纯电SUV,已停产 |
 | model:fengon:ix5 | Fengon ix5 | ix5 | ix5 | — | class:cn:a | body:crossover | pt:ice | discontinued · 2018–2021 | 东风风光ix5紧凑型轿跑SUV(2018年上市),溜背跨界造型 |
 | model:fengon:ix7 | Fengon ix7 | ix7 | ix7 | — | class:cn:c | body:suv | pt:ice | discontinued · 2019–2021 | 东风风光ix7中大型SUV(2019年上市),风光旗舰SUV |
-| model:fengon:s560 | Fengon S560 | S560 | S560 | — | class:cn:a | body:suv | pt:ice | current · 2017–present | 东风风光S560紧凑型SUV(2017年上市);近期无改款,在售状态待核实 |
+| model:fengon:miniev | Fengon MINIEV | 风光MINIEV | — | — | class:cn:a00 | body:city-car | pt:bev | discontinued · 2022–2023 | 风光MINIEV(2022-2023),纯电微型车,已停产 |
+| model:fengon:s560 | Fengon S560 | S560 | S560 | — | class:cn:a | body:suv | pt:ice | current · 2017–present | 东风风光S560(2017-),紧凑型SUV,已停产 |
+| model:fengon:s580 | Fengon S580 | 风光S580 | — | — | class:cn:b | body:suv | pt:ice | current · 2022–present | 风光S580(2022-),中型SUV,10.98万起 |
 
 ## Fengshen
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:fengshen:7d4ccc87d8 | Fengnuo | 风诺 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2016–2019 | 风诺(2016-2019),东风风神纯电轿车(E300),基于雷诺风朗平台,已停产 |
 | model:fengshen:a30 | Fengshen A30 | A30 | A30 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2017 | 东风风神A30紧凑型轿车(2014年上市) |
 | model:fengshen:a60 | Fengshen A60 | A60 | A60 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2011–2018 | 东风风神A60紧凑型轿车(2011年上市),源自日产轩逸技术,改款A60已停产 |
 | model:fengshen:a9 | Fengshen A9 | A9 | A9 | — | class:cn:c | body:sedan | pt:ice | discontinued · 2016–2020 | 东风A9中大型轿车(2016年上市),与东风雪铁龙C6同平台,风神旗舰轿车 |
@@ -1116,6 +1432,12 @@
 | model:fengshen:ax4 | Fengshen AX4 | AX4 | AX4 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2017–2020 | 东风风神AX4小型SUV(2017年上市) |
 | model:fengshen:ax5 | Fengshen AX5 | AX5 | AX5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2016–2019 | 东风风神AX5紧凑型SUV(2016年上市) |
 | model:fengshen:ax7 | Fengshen AX7 | AX7 | AX7 | — | class:cn:a | body:suv | pt:ice | current · 2014–present | 东风风神AX7紧凑型SUV(2014年上市),风神销量支柱,现款含马赫动力燃油版 |
+| model:fengshen:e30 | Fengshen E30 | 东风风神E30 | — | — | class:cn:a00 | body:city-car | pt:bev | discontinued · 2014–2016 | 东风风神E30(2014-2016),纯电微型车,已停产 |
+| model:fengshen:e70 | Fengshen E70 | 东风风神E70 | — | — | class:cn:a | body:sedan | pt:bev | current · 2017–present | 东风风神E70(2017-),纯电紧凑型轿车,出行/网约车市场主力 |
+| model:fengshen:ex1 | Fengshen EX1 | 东风风神EX1 | — | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2020–2022 | 东风风神EX1(2020-2022),纯电小型车,与雷诺e诺同源,已停产 |
+| model:fengshen:fengshen-ev | Yixuan EV | 奕炫EV | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2020–2022 | 奕炫EV(2020-2022),奕炫纯电版,已停产 |
+| model:fengshen:fengshen-l7 | Fengshen L7 | 东风风神L7 | — | — | class:cn:a | body:suv | pt:phev | current · 2024–present | 东风风神L7(2024-),插混紧凑型SUV |
+| model:fengshen:fengshen-l8 | Fengshen L8 | 东风风神L8 | — | — | class:cn:a | body:sedan | pt:phev | current · 2025–present | 东风风神L8(2025-),插混紧凑型SUV,12.99万起 |
 | model:fengshen:h30 | Fengshen H30 | H30 | H30 | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009–2014 | 东风风神H30紧凑型两厢车(2009年上市),为S30的两厢版 |
 | model:fengshen:haohan | Fengshen Haohan | 皓瀚 | Haohan | — | class:cn:a | body:suv | pt:ice | current · 2023–present | 东风风神皓瀚紧凑型SUV(2023年上市),主销燃油版,另有DH-i混动/插混版本 |
 | model:fengshen:haoji | Fengshen Haoji | 皓极 | Haoji | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 东风风神皓极紧凑型SUV(2022年上市),轴距2825mm尺寸接近中型SUV,含马赫混动版 |
@@ -1130,45 +1452,76 @@
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
 | model:ferrari:12cilindri | Ferrari 12Cilindri | 法拉利12Cilindri | 法拉利12Cilindri | フェラーリ12チリンドリ | class:eu:s | body:coupe | pt:ice | current · 2024–present | 前置V12自然吸气GT,2024年发布,接替812 Superfast;含敞篷版12Cilindri Spider |
+| model:ferrari:212 | Ferrari 212 | 法拉利212 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1951-1953 | 212(1951-1953),法拉利早期V12跑车 |
+| model:ferrari:275 | Ferrari 275 | 法拉利275 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1964-1968 | 275(1964-1968),法拉利经典V12跑车(275 GTB/GTS/GTB/4) |
 | model:ferrari:288-gto | Ferrari 288 GTO | 法拉利288 GTO | 法拉利288 GTO | フェラーリ288GTO | class:eu:s | body:supercar | pt:ice | discontinued · 1984–1987 | 首款涡轮增压超级跑车,为B组赛车认证打造,限量272台 |
+| model:ferrari:296 | Ferrari 296 | 法拉利296 | — | — | class:cn:a | body:coupe | pt:ice | current · 2021-present | 296 GTB(2021-),法拉利中置V6插混跑车,含296 GTS敞篷版 |
 | model:ferrari:296-gtb | Ferrari 296 GTB | 法拉利296 GTB | 法拉利296 GTB | フェラーリ296GTB | class:eu:s | body:coupe | pt:phev | current · 2021–present | V6插电混动中置跑车,2021年发布;含敞篷版296 GTS |
+| model:ferrari:308 | Ferrari 308 | 法拉利308 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1975-1985 | 308(1975-1985),法拉利中置V8跑车(308 GTB/GTS) |
+| model:ferrari:328 | Ferrari 328 | 法拉利328 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1985-1989 | 328(1985-1989),308的后继中置V8跑车 |
 | model:ferrari:348 | Ferrari 348 | 法拉利348 | 法拉利348 | フェラーリ348 | class:eu:s | body:coupe | pt:ice | discontinued · 1989–1995 | 中置V8跑车,含348 TB/TS与348 Spider,1995年被F355取代 |
 | model:ferrari:360 | Ferrari 360 | 法拉利360 | 法拉利360 | フェラーリ360 | class:eu:s | body:coupe | pt:ice | discontinued · 1999–2005 | 中置V8跑车,含360 Modena、360 Spider与Challenge Stradale |
+| model:ferrari:375 | Ferrari 375 | 法拉利375 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1953-1955 | 375(1953-1955),法拉利早期V12跑车 |
+| model:ferrari:400 | Ferrari 400 | 法拉利400 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1976-1989 | 400(1976-1989),法拉利前置V12 GT(400/412) |
+| model:ferrari:410 | Ferrari 410 | 法拉利410 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1955-1959 | 410(1955-1959),法拉利早期V12跑车 |
+| model:ferrari:456 | Ferrari 456 | 法拉利456 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1992-2003 | 456(1992-2003),法拉利前置V12 GT(456 GT/GTA) |
 | model:ferrari:458 | Ferrari 458 | 法拉利458 | 法拉利458 | フェラーリ458 | class:eu:s | body:coupe | pt:ice | discontinued · 2009–2015 | 中置V8自然吸气跑车,含458 Spider与458 Speciale |
 | model:ferrari:488 | Ferrari 488 | 法拉利488 | 法拉利488 | フェラーリ488 | class:eu:s | body:coupe | pt:ice | discontinued · 2015–2019 | 中置V8涡轮跑车,含488 Spider与488 Pista(2018–2021)性能版 |
+| model:ferrari:500 | Ferrari 500 | 法拉利500 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1952-1955 | 500(1952-1955),法拉利F2赛车衍生车型 |
+| model:ferrari:550 | Ferrari 550 | 法拉利550 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1996-2002 | 550(1996-2002),法拉利前置V12跑车(550 Maranello) |
+| model:ferrari:575m | Ferrari 575M | 法拉利575M | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2002-2006 | 575M(2002-2006),550 Maranello的改进版 |
+| model:ferrari:599 | Ferrari 599 | 法拉利599 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2006-2012 | 599(2006-2012),法拉利前置V12跑车(599 GTB Fiorano) |
+| model:ferrari:612 | Ferrari 612 | 法拉利612 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2004-2011 | 612(2004-2011),法拉利前置V12 2+2跑车(612 Scaglietti) |
+| model:ferrari:812 | Ferrari 812 | 法拉利812 | — | — | class:cn:a | body:coupe | pt:ice | current · 2017-present | 812(2017-),法拉利前置V12跑车(812 Superfast/GTS/Competizione) |
 | model:ferrari:812-superfast | Ferrari 812 Superfast | 法拉利812 Superfast | 法拉利812 Superfast | フェラーリ812スーパーファスト | class:eu:s | body:coupe | pt:ice | discontinued · 2017–2024 | 前置V12旗舰GT,含GTS敞篷版,2024年被12Cilindri取代 |
+| model:ferrari:849 | Ferrari 849 | 法拉利849 | — | — | class:cn:a | body:coupe | pt:phev | current · 2026-present | 849 Testarossa(2026-),SF90的继任者,4.0T V8+三电机插混,2025年9月发布 |
 | model:ferrari:california | Ferrari California | 法拉利California | 法拉利California | フェラーリ カリフォルニア | class:eu:s | body:convertible | pt:ice | discontinued · 2008–2017 | 前置V8硬顶敞篷GT,含California T(2014–2017) |
 | model:ferrari:daytona-sp3 | Ferrari Daytona SP3 | 法拉利Daytona SP3 | 法拉利Daytona SP3 | フェラーリ デイトナSP3 | class:eu:s | body:supercar | pt:ice | discontinued · 2021–2024 | Icona系列限量车型,V12自然吸气,致敬1960年代赛车,限量599台(2021年发布,2022年起交付) |
 | model:ferrari:enzo | Ferrari Enzo | 法拉利Enzo | 法拉利Enzo | フェラーリ エンツォ | class:eu:s | body:supercar | pt:ice | discontinued · 2002–2004 | 以创始人命名的旗舰超跑,V12自然吸气,限量399台 |
 | model:ferrari:f12 | Ferrari F12 | 法拉利F12 | 法拉利F12 | フェラーリF12 | class:eu:s | body:coupe | pt:ice | discontinued · 2012–2017 | 前置V12旗舰GT,含F12berlinetta、F12tdf等版本 |
+| model:ferrari:f355 | Ferrari F355 | 法拉利F355 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1994-1999 | F355(1994-1999),法拉利中置V8跑车 |
 | model:ferrari:f40 | Ferrari F40 | 法拉利F40 | 法拉利F40 | フェラーリF40 | class:eu:s | body:supercar | pt:ice | discontinued · 1987–1992 | 恩佐·法拉利生前批准的最后车型,1987–1992年间世界最快量产车,致敬40周年 |
 | model:ferrari:f430 | Ferrari F430 | 法拉利F430 | 法拉利F430 | フェラーリF430 | class:eu:s | body:coupe | pt:ice | discontinued · 2004–2009 | 中置V8跑车,含Spider敞篷版与Scuderia性能版 |
 | model:ferrari:f50 | Ferrari F50 | 法拉利F50 | 法拉利F50 | フェラーリF50 | class:eu:s | body:supercar | pt:ice | discontinued · 1995–1997 | 致敬50周年的V12超跑,限量349台 |
 | model:ferrari:f8-tributo | Ferrari F8 Tributo | 法拉利F8 Tributo | 法拉利F8 Tributo | フェラーリF8トリブート | class:eu:s | body:coupe | pt:ice | discontinued · 2019–2024 | 中置V8跑车,致敬经典V8引擎;含Spider版,2024年停产 |
+| model:ferrari:f80 | Ferrari F80 | 法拉利F80 | — | — | class:cn:a | body:coupe | pt:hev | current · 2024-present | F80(2024-),法拉利旗舰超级跑车(LaFerrari继任,混动) |
+| model:ferrari:ferrari-f8 | Ferrari F8 | 法拉利F8 | — | — | class:cn:a | body:coupe | pt:ice | current · 2019-present | F8(2019-),法拉利中置V8跑车(F8 Tributo/Spider) |
 | model:ferrari:ff | Ferrari FF | 法拉利FF | 法拉利FF | フェラーリFF | class:eu:s | body:wagon | pt:ice | discontinued · 2011–2016 | 品牌首款四驱猎装车(Shooting Brake),2016年被GTC4Lusso取代 |
 | model:ferrari:gtc4lusso | Ferrari GTC4Lusso | 法拉利GTC4Lusso | 法拉利GTC4Lusso | フェラーリGTC4ルッソ | class:eu:s | body:wagon | pt:ice | discontinued · 2016–2020 | FF的进化版四座猎装车,2020年停产 |
+| model:ferrari:gto | Ferrari GTO | 法拉利GTO | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 1962-1984 | GTO(1962-1984),法拉利经典赛车(250 GTO/288 GTO) |
+| model:ferrari:j50 | Ferrari J50 | 法拉利J50 | — | — | class:cn:a | body:coupe | pt:ice | current · 2016-present | J50(2016-),法拉利One-off定制车型(50周年纪念) |
 | model:ferrari:laferrari | Ferrari LaFerrari | 法拉利LaFerrari | 法拉利LaFerrari | フェラーリ ラフェラーリ | class:eu:s | body:supercar | pt:hev | discontinued · 2013–2018 | 品牌首款混动超跑(V12+电机),限量499台,另有敞篷版LaFerrari Aperta |
+| model:ferrari:luce | Ferrari Luce | 法拉利Luce | — | — | class:cn:a | body:hatchback | pt:bev | current · 2025-present | Luce(2025-),法拉利首款纯电量产车,首款5座车型 |
 | model:ferrari:monza-sp1 | Ferrari Monza SP1 | 法拉利Monza SP1 | 法拉利Monza SP1 | フェラーリ モンツァSP1 | class:eu:s | body:roadster | pt:ice | discontinued · 2018–2022 | Icona系列无挡风玻璃单座speedster,SP1为单座、SP2为双座,合计限量499台 |
+| model:ferrari:p80-c | P80/C | P80/C | — | — | class:cn:a | body:coupe | pt:ice | current · 2019-present | P80/C(2019-),法拉利One-off定制车型(基于488 GT3) |
 | model:ferrari:portofino | Ferrari Portofino | 法拉利Portofino | 法拉利Portofino | フェラーリ ポルトフィーノ | class:eu:s | body:convertible | pt:ice | discontinued · 2017–2023 | 前置V8 GT敞篷,2017年发布,2023年被Roma Spider等接替 |
 | model:ferrari:purosangue | Ferrari Purosangue | 法拉利Purosangue | 法拉利Purosangue | フェラーリ プロサングエ | class:eu:j | body:suv | pt:ice | current · 2022–present | 品牌首款四门四座SUV(官方称FUV),2022年发布、2023年交付 |
 | model:ferrari:roma | Ferrari Roma | 法拉利Roma | 法拉利Roma | フェラーリ ローマ | class:eu:s | body:coupe | pt:ice | current · 2020–present | 前置V8 GT轿跑,2019年发布、2020年交付;含敞篷版Roma Spider(2023–) |
 | model:ferrari:sf90 | Ferrari SF90 Stradale | 法拉利SF90 | 法拉利SF90 Stradale | フェラーリSF90ストラダーレ | class:eu:s | body:coupe | pt:phev | current · 2019–present | 首款插电混动量产法拉利(V8+三电机),2019年发布;含敞篷版SF90 Spider与硬核版XX |
+| model:ferrari:sp38 | Ferrari SP38 | 法拉利SP38 | — | — | class:cn:a | body:coupe | pt:ice | current · 2018-present | SP38(2018-),法拉利One-off定制车型 |
+| model:ferrari:sp3jc | Ferrari SP3JC | 法拉利SP3JC | — | — | class:cn:a | body:coupe | pt:ice | current · 2018-present | SP3JC(2018-),法拉利One-off定制车型 |
 | model:ferrari:testarossa | Ferrari Testarossa | 法拉利Testarossa | 法拉利Testarossa | フェラーリ テスタロッサ | class:eu:s | body:supercar | pt:ice | discontinued · 1984–1996 | 中置V12超级跑车,含Testarossa/512 TR/F512 M三阶段 |
 
 ## Fiat
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:fiat:091013f157 | Fiat Perla | 菲亚特派朗 | 飛雅特派朗 | フィアット ペルラ | class:eu:b | body:sedan | pt:ice | discontinued · 2006–2008 | 南京菲亚特三厢轿车,2006年上市,中国市场特供 |
+| model:fiat:124 | Fiat 124 | 菲亚特124 | 飛雅特124 | フィアット124 | class:eu:c | body:sedan | pt:ice | discontinued · 1966–1974 | 经典中型轿车,1966年欧洲年度车;苏联拉达基于此车设计,全球销量超1500万辆 |
 | model:fiat:124-spider | Fiat 124 Spider | 菲亚特124 Spider | 飛雅特124 Spider | フィアット124スパイダー | class:eu:s | body:roadster | pt:ice | discontinued · 1966–1985 | 经典双座敞篷跑车;2016–2020年曾基于马自达MX-5平台复活同名车型 |
 | model:fiat:126 | Fiat 126 | 菲亚特126 | 飛雅特126 | フィアット126 | class:eu:a | body:city-car | pt:ice | discontinued · 1972–2000 | 后置引擎微型车,500的继任者,在波兰长期生产至2000年 |
 | model:fiat:500 | Fiat 500 | 菲亚特500 | 飛雅特500 | フィアット500 | class:eu:a | body:hatchback | pt:ice | current · 2007–present | 现代版500(2007–)为现售城市车;经典款500(1957–1975)与纯电500e(2020–)见注释 |
 | model:fiat:500l | Fiat 500L | 菲亚特500L | 飛雅特500L | フィアット500L | class:eu:m | body:mpv | pt:ice | discontinued · 2012–2022 | 500的加长MPV版,2022年停产 |
 | model:fiat:500x | Fiat 500X | 菲亚特500X | 飛雅特500X | フィアット500X | class:eu:j | body:crossover | pt:ice | discontinued · 2014–2024 | 小型跨界SUV,2014年推出,2024年停产 |
+| model:fiat:5e41c4ca7b | Fiat Siena | 菲亚特西耶那 | 飛雅特西耶那 | フィアット シエナ | class:eu:b | body:sedan | pt:ice | discontinued · 2001–2008 | Palio的三厢轿车版,南京菲亚特国产,全球市场名Siena |
+| model:fiat:7e37c7e188 | Fiat Linea | 菲亚特领雅 | 飛雅特領雅 | フィアット リネア | class:eu:c | body:sedan | pt:ice | discontinued · 2007–2015 | 基于Punto平台的三厢轿车,面向新兴市场;南京菲亚特进口引入 |
 | model:fiat:brava | Fiat Brava | 菲亚特Brava | 飛雅特Brava | フィアット ブラーバ | class:eu:c | body:hatchback | pt:ice | discontinued · 1995–2001 | Bravo的五门姊妹车型,2001年停产 |
 | model:fiat:bravo | Fiat Bravo | 菲亚特Bravo | 飛雅特Bravo | フィアット ブラボー | class:eu:c | body:hatchback | pt:ice | discontinued · 2007–2014 | 第二代Bravo(2007–2014);初代Bravo/Brava为1995–2001年车型 |
 | model:fiat:croma | Fiat Croma | 菲亚特Croma | 飛雅特Croma | フィアット クロマ | class:eu:d | body:hatchback | pt:ice | discontinued · 1985–2010 | 分两代:第一代(1985–1996)大型掀背,第二代(2005–2010)旅行风;2010年停产 |
 | model:fiat:doblo | Fiat Doblò | 菲亚特Doblò | 飛雅特Doblò | フィアット ドブロ | class:eu:m | body:van | pt:ice | current · 2000–present | 小型厢式车/MPV,第三代(2022–)基于标致/雪铁龙平台,含纯电E-Doblò |
 | model:fiat:ducato | Fiat Ducato | 菲亚特Ducato | 飛雅特Ducato | フィアット ドゥカート | class:eu:m | body:van | pt:ice | current · 1981–present | 轻型商用车/厢式货车,现款为第三代;北美市场以Ram ProMaster销售 |
+| model:fiat:f14d4ae730 | Fiat Palio Weekend | 菲亚特周末风 | 飛雅特周末風 | フィアット パリオ ウィークエンド | class:eu:b | body:wagon | pt:ice | discontinued · 2003–2008 | 南京菲亚特Palio旅行版,名周末风(Palio Weekend),2003年上市 |
+| model:fiat:fiat-8v | Fiat 8V | 菲亚特8V | 飛雅特8V | フィアット8V | class:eu:s | body:coupe | pt:ice | discontinued · 1952–1954 | 搭载2.0L V8发动机的双门GT跑车,仅生产约114辆 |
 | model:fiat:fiorino | Fiat Fiorino | 菲亚特Fiorino | 飛雅特Fiorino | フィアット フィオリーノ | class:eu:m | body:van | pt:ice | current · 1977–present | 微型厢式车,名称沿用数代;欧洲版(2007–2024)已停,南美版(2013–)在产 |
 | model:fiat:freemont | Fiat Freemont | 菲跃 | 飛雅特Freemont | — | class:cn:b | body:suv | pt:ice | discontinued · 2012–2017 | 中型7座SUV,以进口形式引入(欧洲名Freemont,基于道奇酷威);2017年前后停售 |
 | model:fiat:multipla | Fiat Multipla | 菲亚特Multipla | 飛雅特Multipla | フィアット ムルティプラ | class:eu:m | body:mpv | pt:ice | discontinued · 1998–2010 | 六座MPV,造型独特,2010年停产 |
@@ -1185,11 +1538,18 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:ford:33379c9433 | Ford Riley | 福特莱利 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 1938-1969 | 福特莱利(Riley,1938-1969),英国Riley品牌车型(福特收购后) |
+| model:ford:754b965eb8 | Transit Classic | 经典全顺 | — | — | class:cn:a | body:van | pt:ice | discontinued · 1997-2015 | 经典全顺(1997-2015),江铃福特全顺老款,2015年停产 |
+| model:ford:7817e85697 | Kuga | 翼虎 | — | — | class:cn:a | body:suv | pt:ice | current · 2008-present | 翼虎(Kuga,2008-),福特紧凑型SUV(中国版为长安福特翼虎,2023年停产后欧洲停产) |
+| model:ford:9b8e0fa21c | Transit New Generation | 新世代全顺 | — | — | class:cn:a | body:van | pt:ice | current · 2008-present | 新世代全顺(2008-),江铃福特全顺(Transit Custom中国版) |
+| model:ford:active | Focus Active | 福克斯Active | — | — | class:cn:a | body:hatchback | pt:ice | current · 2018-present | 福克斯Active(2018-),福克斯跨界版 |
+| model:ford:atlas | Atlas | Atlas | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2013-2019 | Atlas(2013-2019),福特印度市场MPV |
 | model:ford:bronco | Bronco | 烈马 | Bronco | ブロンコ | class:us:standard-suv | body:suv | pt:ice | current · 1966–1996; 2021–present | 2021年复活;2024年江铃福特国产,中文名「烈马」 |
 | model:ford:bronco-sport | Bronco Sport | Bronco Sport | Bronco Sport | ブロンコ スポーツ | class:us:small-suv | body:crossover | pt:ice | current · 2020–present | 与Bronco同名的城市型紧凑跨界SUV |
 | model:ford:c-max | C-Max | C-Max | C-Max | C-MAX(シーマックス) | class:eu:m | body:mpv | pt:ice | discontinued · 2010–2019 | 北美版2013–2018,含混动/插混版 |
 | model:ford:crown-victoria | Crown Victoria | Crown Victoria | Crown Victoria | クラウンビクトリア | class:us:large | body:sedan | pt:ice | discontinued · 1992–2011 | 北美警用与出租车主力车型 |
 | model:ford:e-series | E-Series | E系列 | E-Series | Eシリーズ | class:us:large | body:van | pt:ice | discontinued · 1961–2014 | 即Econoline;E-350/E-450底盘改装(cutaway)版至今继续生产 |
+| model:ford:e350 | Ford E350 | 福特E350 | — | — | class:cn:a | body:van | pt:ice | discontinued · 1992-2014 | E350(1992-2014),福特E系列大型厢式车,2014年停产 |
 | model:ford:ecosport | EcoSport | 翼搏 | EcoSport | エコスポーツ | class:eu:j | body:crossover | pt:ice | discontinued · 2012–2022 | 北美2021年停产,巴西2022年停产;中国长安福特「翼搏」 |
 | model:ford:edge | Edge | 锐界 | Edge | エッジ | class:eu:j | body:crossover | pt:ice | current · 2006–present | 北美2023年停产;中国长安福特锐界L继续生产 |
 | model:ford:equator | Equator | 领裕 | Equator | — | class:cn:c | body:suv | pt:ice | current · 2021–present | 江铃福特国产中大型SUV「领裕」(Equator) |
@@ -1201,19 +1561,33 @@
 | model:ford:expedition | Expedition | 征服者 | Expedition | エクスペディション | class:us:standard-suv | body:suv | pt:ice | current · 1996–present | 全尺寸SUV,有长轴Expedition Max版 |
 | model:ford:explorer | Explorer | 探险者 | Explorer | エクスプローラー | class:us:standard-suv | body:suv | pt:ice | current · 1990–present | 中国长安福特国产「探险者」 |
 | model:ford:f-150 | F-150 | F-150 | F-150 | F-150 | class:us:pickup | body:pickup | pt:ice | current · 1975–present | 属F系列(1948年起);美国销量冠军,F-250以上为Super Duty;2017年起以「F-150猛禽(Raptor)」名义进口中国 |
+| model:ford:f-150-2 | F-150 Raptor | F-150猛禽 | — | — | class:cn:a | body:pickup | pt:ice | current · 2010-present | F-150猛禽(Raptor,2010-),F-150高性能越野版,中国官方进口 |
+| model:ford:f-250 | Ford F-250 | 福特F-250 | — | — | class:cn:a | body:pickup | pt:ice | current · 1948-present | F-250(1948-),F系列重型皮卡(Super Duty) |
+| model:ford:f-350 | Ford F-350 | 福特F-350 | — | — | class:cn:a | body:pickup | pt:ice | current · 1953-present | F-350(1953-),F系列重型皮卡(Super Duty) |
+| model:ford:f-450 | Ford F-450 | 福特F-450 | — | — | class:cn:a | body:pickup | pt:ice | current · 1980-present | F-450(1980-),F系列超重型皮卡(Super Duty) |
+| model:ford:f-650 | Ford F-650 | 福特F-650 | — | — | class:cn:a | body:pickup | pt:ice | current · 2000-present | F-650(2000-),F系列中重型卡车(Super Duty) |
 | model:ford:fiesta | Fiesta | 嘉年华 | Fiesta | フィエスタ | class:eu:b | body:hatchback | pt:ice | discontinued · 1976–2023 | 欧洲2023年7月停产 |
 | model:ford:flex | Flex | Flex | Flex | フレックス | class:us:midsize | body:wagon | pt:ice | discontinued · 2008–2019 | 北美大型跨界旅行车 |
 | model:ford:focus | Focus | 福克斯 | Focus | フォーカス | class:eu:c | body:hatchback | pt:ice | discontinued · 1998–2025 | 北美2018年停售,欧洲2025年停产;中国长安福特版生产至2025年;另有跨界版「福克斯Active」(2020年上市) |
+| model:ford:ford-e | E Transit | E全顺 | — | — | class:cn:a | body:van | pt:bev | current · 2022-present | E全顺(E-Transit,2022-),全顺纯电版 |
+| model:ford:ford-ev | Territory EV | 领界EV | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2019-2022 | 领界EV(2019-2022),江铃福特领界纯电版,2022年停产 |
+| model:ford:ford-ka | Ford Ka | 福特Ka | — | — | class:cn:a | body:city-car | pt:ice | discontinued · 1996-2020 | Ka(1996-2020),福特欧洲微型车,2020年停产 |
+| model:ford:ford-t8 | Transit T8 | 全顺T8 | — | — | class:cn:a | body:van | pt:ice | current · 2023-present | 全顺T8(2023-),江铃福特新一代全顺 |
 | model:ford:fusion | Fusion | Fusion | Fusion | フュージョン | class:us:midsize | body:sedan | pt:ice | discontinued · 2006–2020 | 北美版Mondeo;2020年停产 |
 | model:ford:galaxie | Galaxie | Galaxie | Galaxie | ギャラクシー | class:us:large | body:sedan | pt:ice | discontinued · 1959–1974 | 全尺寸车系,注意与Galaxy MPV区分 |
+| model:ford:gpw | Ford GPW | 福特GPW | — | — | class:cn:a | body:suv | pt:ice | discontinued · 1941-1945 | GPW(1941-1945),二战吉普(Willys MB的福特版) |
 | model:ford:granada | Granada | Granada | Granada | グラナダ | class:eu:d | body:sedan | pt:ice | discontinued · 1972–1994; 1975–1982 | 欧洲版1972–1994,北美版1975–1982 |
+| model:ford:grand-c-max | Grand C-MAX | Grand C-MAX | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2010-2019 | Grand C-MAX(2010-2019),C-MAX七座版,欧洲市场,2019年停产 |
 | model:ford:gt | Ford GT | 福特GT | GT | GT | class:eu:s | body:supercar | pt:ice | discontinued · 2005–2006; 2017–2022 | 血统源自GT40(1964–1969) |
 | model:ford:maverick | Maverick | Maverick | Maverick | マーベリック | class:us:pickup | body:pickup | pt:ice | current · 2021–present | 紧凑型皮卡;「Maverick」亦曾为1970–1979年紧凑轿车名 |
+| model:ford:model-a | Model A | Model A | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 1927-1931 | Model A(1927-1931),福特T型车继任者,经典车型 |
 | model:ford:mondeo | Mondeo | 蒙迪欧 | Mondeo | モンデオ | class:eu:d | body:sedan | pt:ice | current · 1992–present | 欧洲2022年停产,北美对应Fusion(2006–2020);中国长安福特2022年换代后继续生产 |
 | model:ford:mondeo-zhisheng | Mondeo Zhisheng | 致胜 | Mondeo Zhisheng | — | class:cn:b | body:sedan | pt:ice | discontinued · 2007–2014 | 即国产第二代蒙迪欧,官方名「蒙迪欧-致胜」,简称致胜;2013年换代后回归「蒙迪欧」 |
 | model:ford:mustang | Mustang | 福特Mustang(野马) | Mustang(俗稱野馬) | マスタング | class:eu:s | body:sports | pt:ice | current · 1964–present | Pony car鼻祖;大陆官方名「福特Mustang」,俗称「野马」 |
 | model:ford:mustang-mach-e | Mustang Mach-E | 福特电马 | Mustang Mach-E | マスタング マッハE | class:eu:j | body:crossover | pt:bev | current · 2020–present | 大陆官方名「福特电马」 |
+| model:ford:puma | PUMA New Energy | PUMA新能源 | — | — | class:cn:a | body:suv | pt:phev | current · 2021-present | PUMA新能源(2021-),福特PUMA新能源版(中国市场) |
 | model:ford:ranger | Ranger | 游骑侠 | Ranger | レンジャー | class:us:pickup | body:pickup | pt:ice | current · 1981–present | 2023年江铃福特国产,中文名「游骑侠」 |
+| model:ford:s-max | S-MAX | S-MAX | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2006-2022 | S-MAX(2006-2022),福特欧洲市场MPV,2022年停产 |
 | model:ford:taurus | Taurus | 金牛座 | Taurus | トーラス | class:cn:c | body:sedan | pt:ice | discontinued · 1985–2019 | 北美2019年停产;中国版金牛座2015–2019年国产 |
 | model:ford:territory | Territory | 领界 | Territory | — | class:cn:a | body:suv | pt:ice | current · 2018–present | 江铃福特国产紧凑SUV「领界」(Territory) |
 | model:ford:thunderbird | Thunderbird | 雷鸟 | Thunderbird | サンダーバード | class:eu:s | body:coupe | pt:ice | discontinued · 1955–1997; 2002–2005 | 个人豪华车;大陆常译「雷鸟」 |
@@ -1224,7 +1598,17 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:forthing:82a02fee7a | Jingyi | 景逸 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2007–2016 | 景逸(2007-2016),东风风行首款自主家用车,紧凑型两厢,景逸系列鼻祖 |
 | model:forthing:cm7 | Forthing CM7 | CM7 | CM7 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2014–2019 | 东风风行CM7中大型MPV(2014年上市),风行商务MPV |
+| model:forthing:e0182b4d76 | Forthing Thunder | 风行雷霆 | — | — | class:cn:a | body:suv | pt:bev | current · 2022–present | 风行雷霆(2022-),东风风行首款纯电SUV |
+| model:forthing:f600 | Forthing F600 | 风行F600 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2016–2019 | 风行F600(2016-2019),中大型商务MPV,与CM7同源,已停产 |
+| model:forthing:forthing-m6 | Forthing M6 | 风行M6 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018–2020 | 风行M6(2018-2020),紧凑型商务MPV,已停产 |
+| model:forthing:forthing-m7 | Forthing M7 | 风行M7 | — | — | class:cn:mpv | body:mpv | pt:ice | current · 2018–present | 风行M7(2018-),中大型商务MPV |
+| model:forthing:forthing-s7 | Xinghai S7 | 星海S7 | — | — | class:cn:b | body:sedan | pt:bev | current · 2024–present | 星海S7(2024-),东风风行星海系列纯电轿车 |
+| model:forthing:forthing-t5 | Xinghai T5 | 星海T5 | — | — | class:cn:a | body:suv | pt:bev | current · 2025–present | 星海T5(2025-),星海系列纯电紧凑型SUV |
+| model:forthing:forthing-v9 | Xinghai V9 | 星海V9 | — | — | class:cn:mpv | body:mpv | pt:phev | current · 2024–present | 星海V9(2024-),星海系列首款插混MPV |
+| model:forthing:forthing-x5 | Xinghai X5 | 星海X5 | — | — | class:cn:b | body:suv | pt:phev | current · 2025–present | 星海X5(2025-),星海系列插混SUV |
+| model:forthing:forthing-x7 | Jingyi X7 | 景逸X7 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2018–2020 | 景逸X7(2018-),7座中型SUV,与景逸X5同平台,已停产 |
 | model:forthing:jingyi-s50 | Forthing Jingyi S50 | 景逸S50 | Jingyi S50 | — | class:cn:a | body:sedan | pt:ice | current · 2014–present | 东风风行景逸S50紧凑型轿车(2014年上市),主打家用与网约车市场 |
 | model:forthing:jingyi-x3 | Forthing Jingyi X3 | 景逸X3 | Jingyi X3 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2018 | 东风风行景逸X3小型SUV(2014年上市),景逸家族入门SUV,尺寸略小于主流紧凑SUV |
 | model:forthing:jingyi-x5 | Forthing Jingyi X5 | 景逸X5 | Jingyi X5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2013–2018 | 东风风行景逸X5紧凑型SUV(2013年上市),景逸系列主力SUV |
@@ -1232,21 +1616,39 @@
 | model:forthing:lingzhi | Forthing Lingzhi | 菱智 | Lingzhi | — | class:cn:mpv | body:mpv | pt:ice | current · 2001–present | 东风风行菱智中型MPV(2001年上市),源自三菱Space Gear技术,风行经典商务MPV |
 | model:forthing:lingzhi-plus | Forthing Lingzhi Plus | 菱智PLUS | Lingzhi Plus | — | class:cn:mpv | body:mpv | pt:ice | current · 2021–present | 东风风行菱智PLUS中型MPV(2021年上市),菱智的升级版本 |
 | model:forthing:s500 | Forthing S500 | S500 | S500 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2018 | 东风风行S500紧凑型家用MPV(2015年上市) |
+| model:forthing:s50ev | Forthing S50EV | 风行S50EV | — | — | class:cn:a | body:sedan | pt:bev | current · 2018–present | 风行S50EV(2018-),纯电紧凑型轿车,常见于出行/网约车市场 |
+| model:forthing:suv | Jingyi SUV | 景逸SUV | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2012–2014 | 景逸SUV(2012-2014),景逸跨界SUV版,已停产 |
 | model:forthing:sx6 | Forthing SX6 | SX6 | SX6 | — | class:cn:a | body:suv | pt:ice | current · 2016–present | 东风风行SX6紧凑型7座SUV(2016年上市),车身接近MPV风格,兼具大空间属性 |
+| model:forthing:t1ev | Forthing T1EV | 风行T1EV | — | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2019–2021 | 风行T1EV(2019-2021),纯电微型车,与雷诺e诺/启辰e30同源 |
 | model:forthing:t5 | Forthing T5 | T5 | T5 | — | class:cn:a | body:suv | pt:ice | current · 2018–present | 东风风行T5紧凑型SUV(2018年上市),风行T系列主力车型 |
 | model:forthing:t5-evo | Forthing T5 EVO | T5 EVO | T5 EVO | — | class:cn:a | body:suv | pt:ice | current · 2020–present | 东风风行T5 EVO紧凑型SUV(2020年上市),主打运动造型 |
-| model:forthing:t5l | Forthing T5L | T5L | T5L | — | class:cn:b | body:suv | pt:ice | discontinued · 2019–2022 | 东风风行T5L中型7座SUV(2019年上市),T5的加长版;停产时间待核实 |
+| model:forthing:t5l | Forthing T5L | T5L | T5L | — | class:cn:b | body:suv | pt:ice | discontinued · 2019–2022 | 东风风行T5L(2019-2022),中型7座SUV,T5加长版,已停产 |
 | model:forthing:youting | Forthing Youting | 风行游艇 | Youting | — | class:cn:mpv | body:mpv | pt:ice | current · 2022–present | 东风风行游艇紧凑型家用MPV(2022年上市) |
 
 ## Foton
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:foton:33ec5a64ed | Foton | 拓陆者 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2014–2020 | 拓陆者(Tunland,2014-2020),福田皮卡,含E5/S等系列,已停产 |
+| model:foton:7008502ca1 | Foton Mars | 福田火星 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2023–present | 福田火星(2023-),福田新一代皮卡,含火星7/火星9 |
+| model:foton:7b68693848 | Tunland Shengtu | 拓陆者胜途 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2020–present | 拓陆者胜途(2020-),福田皮卡 |
+| model:foton:e1ad78f9f4 | Tunland Yutu | 拓陆者驭途 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2020–present | 拓陆者驭途(2020-),福田皮卡 |
+| model:foton:f70107fdf7 | Sapu | 萨普 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2007–2020 | 萨普(Sapu,2007-2020),福田经典皮卡,已停产 |
 | model:foton:fengjing | Foton Fengjing | 风景 | 風景 | — | class:cn:mpv | body:van | pt:ice | current · 2009–present | 福田风景系列轻客,经典车型,多次改款延续生产 |
 | model:foton:fengjing-g7 | Foton Fengjing G7 | 风景G7 | 風景G7 | — | class:cn:mpv | body:van | pt:ice | current · 2017–present | 福田风景G7轻客,风景系列新车型 |
+| model:foton:foton-3-2 | Conqueror 3 | 福田征服者3 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 征服者3(2021-),福田皮卡 |
+| model:foton:foton-5-2 | Conqueror 5 | 福田征服者5 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 征服者5(2021-),福田皮卡 |
+| model:foton:foton-7-2 | Conqueror 7 | 福田征服者7 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 征服者7(2021-),福田皮卡 |
+| model:foton:foton-ev | General EV | 大将军EV | — | — | class:cn:mpv | body:pickup | pt:bev | current · 2021–present | 大将军EV(2021-),福田大将军皮卡纯电版 |
+| model:foton:foton-f9 | General F9 | 大将军F9 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 大将军F9(2021-),福田大将军皮卡系列 |
+| model:foton:foton-g7 | General G7 | 大将军G7 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2020–present | 大将军G7(2020-),福田大将军皮卡系列 |
+| model:foton:foton-g9 | General G9 | 大将军G9 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 大将军G9(2021-),福田大将军皮卡系列 |
+| model:foton:g9suv | General G9SUV | 大将军G9SUV | — | — | class:cn:b | body:suv | pt:ice | current · 2021–present | 大将军G9 SUV(2021-),大将军G9皮卡衍生SUV版 |
 | model:foton:jiatu-ix5 | Foton Gratour ix5 | 伽途ix5 | 伽途ix5 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2016–2020 | 福田伽途ix5紧凑型MPV(2016年上市),伽途乘用车系列,5座 |
 | model:foton:jiatu-ix7 | Foton Gratour ix7 | 伽途ix7 | 伽途ix7 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2016–2020 | 福田伽途ix7紧凑型MPV(2016年上市),伽途乘用车系列,7座 |
 | model:foton:mengpaike-e | Foton MP-X E | 蒙派克E | 蒙派克E | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2014–2020 | 福田蒙派克E商务MPV(轻客),MP-X系列,源自丰田海狮技术平台 |
+| model:foton:phev | Mars PHEV | 福田火星 PHEV | — | — | class:cn:mpv | body:pickup | pt:phev | current · 2024–present | 火星PHEV(2024-),火星皮卡插混版 |
+| model:foton:plus-2 | Conqueror PLUS | 福田征服者PLUS | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 征服者PLUS(2021-),福田皮卡 |
 | model:foton:tuyano | Foton Tunland V | 图雅诺 | 圖雅諾 | — | class:cn:mpv | body:van | pt:ice | current · 2015–present | 福田图雅诺轻客(厢式/商旅) |
 | model:foton:xiangling-m | Foton Xiangling M | 祥菱M | 祥菱M | — | class:cn:mpv | body:pickup | pt:ice | current · 2018–present | 福田祥菱M微卡(微面式货车) |
 | model:foton:xiangling-s | Foton Xiangling S | 祥菱S | 祥菱S | — | class:cn:mpv | body:pickup | pt:ice | current · 2018–present | 福田祥菱S微卡(微面式货车) |
@@ -1257,10 +1659,19 @@
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
 | model:fulwin:a8 | Fulwin A8 | 风云A8 | Fulwin A8 | — | class:cn:b | body:sedan | pt:phev | current · 2024–present | 风云(Fulwin)系列插混轿车(2024年上市,A+级),艾瑞泽8插混版;奇瑞主品牌下另有同车型条目 |
+| model:fulwin:a8l | Fengyun A8L | 风云A8L | — | — | class:cn:a | body:sedan | pt:phev | current · 2024–present | 风云A8L(2024-),A8加长版插混轿车 |
+| model:fulwin:a9l | Fengyun A9L | 风云A9L | — | — | class:cn:b | body:sedan | pt:phev | current · 2025–present | 风云A9L(2025-),插混轿车,含2027款 |
+| model:fulwin:fulwin-a9 | Fengyun A9 | 风云A9 | — | — | class:cn:c | body:sedan | pt:bev | current · 2026–present | 风云A9(2026-),风云品牌首款纯电轿车 |
+| model:fulwin:fulwin-t7 | Fengyun T7 | 风云T7 | — | — | class:cn:a | body:suv | pt:phev | current · 2026–present | 风云T7(2026-),紧凑型插混SUV |
+| model:fulwin:fulwin-x3 | Fengyun X3 | 风云X3 | — | — | class:cn:a | body:suv | pt:bev | current · 2025–present | 风云X3(2025-),纯电紧凑型SUV |
 | model:fulwin:t10 | Fulwin T10 | 风云T10 | Fulwin T10 | — | class:cn:c | body:suv | pt:phev | current · 2024–present | 中大型插混SUV(2024年上市),提供6/7座布局 |
+| model:fulwin:t11 | Fengyun T11 | 风云T11 | — | — | class:cn:c | body:suv | pt:phev | current · 2025–present | 风云T11(2025-),风云系列中大型插混SUV |
 | model:fulwin:t6 | Fulwin T6 | 风云T6 | Fulwin T6 | — | class:cn:a | body:suv | pt:phev | current · 2024–present | 紧凑型插混SUV(2024年上市),基于探索06平台开发 |
 | model:fulwin:t8 | Fulwin T8 | 风云T8 | Fulwin T8 | — | class:cn:b | body:suv | pt:phev | current · 2025–present | 中型插混SUV(2025年2月上市),基于瑞虎8平台,提供5/7座 |
 | model:fulwin:t9 | Fulwin T9 | 风云T9 | Fulwin T9 | — | class:cn:b | body:suv | pt:phev | current · 2024–present | 风云(Fulwin)系列2023年重启后首款车型,中型插混SUV(2024年上市),搭载鲲鹏超能混动C-DM |
+| model:fulwin:t9l | Fengyun T9L | 风云T9L | — | — | class:cn:b | body:suv | pt:phev | current · 2026–present | 风云T9L(2026-),中型插混SUV('智美大五座') |
+| model:fulwin:x3-plus | Fengyun X3 PLUS | 风云X3 PLUS | — | — | class:cn:a | body:suv | pt:bev | current · 2025–present | 风云X3 PLUS(2025-),纯电紧凑型SUV,iCAR 03系列更名 |
+| model:fulwin:x3l | Fengyun X3L | 风云X3L | — | — | class:cn:a | body:suv | pt:erev | current · 2025–present | 风云X3L(2025-),增程紧凑型SUV('方盒子'造型),含四驱版 |
 
 ## GAC
 
@@ -1269,16 +1680,23 @@
 | model:gac:e8 | GAC E8 | 传祺E8 | GAC E8 | — | class:cn:mpv | body:mpv | pt:phev | current · 2023–present | 中型MPV(2023年上市,插电混动,另有纯电版) |
 | model:gac:emkoo | GAC Emkoo | 传祺影酷 | GAC Emkoo | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 紧凑型SUV(2022年上市,含混动版),海外称GAC Emkoo |
 | model:gac:empow | GAC Empow | 传祺影豹 | GAC Empow(未导入) | — | class:cn:a | body:sedan | pt:ice | current · 2021–present | 紧凑型运动轿车(2021年上市,含混动版),海外称GAC Empow |
+| model:gac:es9 | GAC ES9 | 传祺ES9 | — | — | class:cn:b | body:suv | pt:phev | current · 2023–present | 传祺ES9(2023-),插混中大型SUV,基于GS8平台 |
 | model:gac:ga3 | GAC GA3 | 传祺GA3 | GAC GA3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2018 | 紧凑型轿车(2013年上市);已停产 |
 | model:gac:ga3s | GAC GA3S | 传祺GA3S视界 | GAC GA3S | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2018 | 紧凑型轿车,GA3改款(视界版);已停产 |
+| model:gac:ga3s-phev | GAC GA3S PHEV | 传祺GA3S PHEV | — | — | class:cn:a | body:sedan | pt:phev | discontinued · 2016–2018 | 传祺GA3S PHEV(2016-2018),GA3S插电混动版,已停产 |
 | model:gac:ga4 | GAC GA4 | 传祺GA4 | GAC GA4 | — | class:cn:a | body:sedan | pt:ice | current · 2018–present | 紧凑型轿车(2018年上市,2021年改款GA4 PLUS) |
 | model:gac:ga5 | GAC GA5 | 传祺GA5 | GAC GA5 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2011–2018 | 传祺品牌首款量产轿车(中型);已停产 |
 | model:gac:ga5-new-energy | GAC GA5 New Energy | 传祺GA5新能源 | GAC GA5 New Energy | — | class:cn:b | body:sedan | pt:erev | discontinued · 2015–2018 | 中型轿车,增程/纯电动力(GA5新能源版);已停产 |
-| model:gac:ga6 | GAC GA6 | 传祺GA6 | GAC GA6 | — | class:cn:b | body:sedan | pt:ice | current · 2014–present | 中型轿车(2014年上市,2019年第二代);现售状态待核实 |
-| model:gac:ga8 | GAC GA8 | 传祺GA8 | GAC GA8 | — | class:cn:c | body:sedan | pt:ice | current · 2016–present | 中大型旗舰轿车(2016年上市,2020年第二代);现售状态待核实 |
-| model:gac:ge3 | GAC GE3 | 传祺GE3 | GAC GE3 | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2017–2021 | 广汽传祺纯电动小型SUV(2017年7月上市,含GE3 530/2020款,广汽新能源时期车型);埃安品牌转型后停产,停产年份待核实 |
+| model:gac:ga6 | GAC GA6 | 传祺GA6 | GAC GA6 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2014–2023 | 传祺GA6(2014-2023),中型轿车,2019年第二代,已停产 |
+| model:gac:ga8 | GAC GA8 | 传祺GA8 | GAC GA8 | — | class:cn:c | body:sedan | pt:ice | discontinued · 2016–2022 | 传祺GA8(2016-2022),中大型旗舰轿车,2020年第二代,已停产 |
+| model:gac:gac-e9 | GAC E9 | 传祺E9 | — | — | class:cn:mpv | body:mpv | pt:phev | current · 2023–present | 传祺E9(2023-),中大型插混MPV,含宗师版/乾昆版 |
+| model:gac:gac-m8 | Trumpchi Xiangwang M8 | 传祺向往M8 | — | — | class:cn:mpv | body:mpv | pt:phev | current · 2025–present | 传祺向往M8(2025-),向往系列中大型插混MPV |
+| model:gac:gac-s7 | Trumpchi Xiangwang S7 | 传祺向往S7 | — | — | class:cn:b | body:suv | pt:phev | current · 2025–present | 传祺向往S7(2025-),向往系列插混SUV |
+| model:gac:gac-s9 | Trumpchi Xiangwang S9 | 传祺向往S9 | — | — | class:cn:c | body:suv | pt:phev | current · 2025–present | 传祺向往S9(2025-),向往系列旗舰插混SUV |
+| model:gac:ge3 | GAC GE3 | 传祺GE3 | GAC GE3 | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2017–2021 | 传祺GE3(2017-2021),纯电动小型SUV,含GE3 530,广汽新能源时期车型,埃安品牌转型后停产 |
 | model:gac:gs3 | GAC GS3 | 传祺影速GS3 | GAC GS3(未导入) | — | class:cn:a0 | body:suv | pt:ice | current · 2017–present | 小型SUV(2023年第三代更名「影速GS3」) |
 | model:gac:gs4 | GAC GS4 | 传祺GS4 | GAC GS4(未导入) | — | class:cn:a | body:suv | pt:ice | current · 2015–present | 广汽传祺销量支柱紧凑型SUV(2015年上市,含PLUS/混动版);海外称GAC GS4/Trumpchi GS4 |
+| model:gac:gs4-coupe | GAC GS4 COUPE | 传祺GS4 COUPE | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2020–2022 | 传祺GS4 COUPE(2020-),GS4轿跑版,已停产 |
 | model:gac:gs5 | GAC GS5 | 传祺GS5 | GAC GS5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2012–2021 | 传祺品牌首款SUV(紧凑型,2018年第二代);已停产 |
 | model:gac:gs5-super | GAC GS5 Super | 传祺GS5 Super | GAC GS5 Super | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2019 | 紧凑型SUV,GS5改款(速博/Super);已停产 |
 | model:gac:gs7 | GAC GS7 | 传祺GS7 | GAC GS7 | — | class:cn:b | body:suv | pt:ice | discontinued · 2017–2020 | 中型SUV(GS8短轴5座版);已停产 |
@@ -1296,11 +1714,19 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:geely:5da07f1d6e | Geely Radar Horizon | 吉利雷达地平线 | — | — | class:cn:d | body:pickup | pt:bev | current · 2024–present | 雷达地平线(2024–),吉利雷达品牌四驱纯电皮卡,2024年4月上市 |
+| model:geely:6ccadc12c1 | Xingyuan | 星愿 | — | — | class:cn:a0 | body:sedan | pt:bev | current · 2024–present | 星愿(2024–),吉利小型纯电轿车,2024年上市 |
+| model:geely:8115b559a5 | China Dragon | 中国龙 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2006–2009 | 中国龙(2006–2009),吉利双门跑车,1.5L/1.8L发动机 |
+| model:geely:9780e424e8 | Beauty Leopard | 美人豹 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2003–2006 | 美人豹(2003–2006),吉利首款跑车,1.3L/1.5L发动机,中国品牌首款跑车 |
+| model:geely:a7-ev | Galaxy A7 EV | 银河A7 EV | — | — | class:cn:a | body:sedan | pt:bev | current · 2025–present | 银河A7 EV(2025–),银河子品牌纯电轿车,与A7 EM(插混)为同系不同动力 |
+| model:geely:b00079c898 | Youliou | 优利欧 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2002–2008 | 优利欧(2002–2008),吉利入门三厢轿车,与豪情/美日并称吉利老三样 |
 | model:geely:binrui | Binrui | 缤瑞 | Binrui | — | class:cn:a | body:sedan | pt:ice | current · 2018–present | 紧凑型轿车(燃油);海外称Binray |
 | model:geely:binyue | Binyue | 缤越 | Binyue | — | class:cn:a0 | body:suv | pt:ice | current · 2018–present | 小型SUV(BMA平台),燃油/插混;海外称Coolray/Proton X50 |
 | model:geely:borui | Borui | 博瑞 | Borui | — | class:cn:b | body:sedan | pt:ice | discontinued · 2015–2022 | 吉利首款B级轿车(曾名博瑞GE,含插混);2022年停产 |
 | model:geely:boyue | Boyue | 博越 | Boyue | — | class:cn:a | body:suv | pt:ice | current · 2016–present | 紧凑型SUV,含博越L/博越COOL等衍生款;海外称Atlas/Cityray/Proton X70 |
 | model:geely:cowboy | Cowboy | 牛仔 | Cowboy | — | class:cn:a0 | body:suv | pt:ice | current · 2024–present | 吉利牛仔(2024–),小型硬派风格SUV(方盒子造型),燃油动力 |
+| model:geely:e28247827f | Haoqing | 豪情 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 1998–2008 | 豪情(1998–2008),吉利早期经济型轿车,与豪情SUV为不同车型,2008年停产 |
+| model:geely:ead4930f97 | Emgrand Methanol | 帝豪甲醇 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015–2018 | 帝豪甲醇版(2015–2018),吉利甲醇燃料汽车,面向出租车市场 |
 | model:geely:ec8 | Emgrand EC8 | 帝豪EC8 | Emgrand EC8 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2011–2015 | 帝豪EC8(2011–2015),帝豪系列旗舰B级轿车,2015年停产 |
 | model:geely:emgrand | Emgrand | 帝豪 | Emgrand | — | class:cn:a | body:sedan | pt:ice | current · 2009–present | 紧凑型轿车,原帝豪EC7(2009–2021),现第五代(SS21);海外称Proton S70/BelGee S50 |
 | model:geely:emgrand-gl | Emgrand GL | 帝豪GL | Emgrand GL | — | class:cn:a | body:sedan | pt:ice | discontinued · 2016–2020 | 紧凑型轿车,2020年停产,继任为帝豪L(含帝豪EV Pro)等 |
@@ -1308,7 +1734,8 @@
 | model:geely:emgrand-l | Emgrand L | 帝豪L | Emgrand L | — | class:cn:a | body:sedan | pt:ice | current · 2021–present | 帝豪L(2021–),紧凑型轿车,帝豪GL继任,含Hi·P插混版 |
 | model:geely:emgrand-l-hip | Emgrand L HiP | 帝豪L HiP | Emgrand L HiP | — | class:cn:a | body:sedan | pt:phev | current · 2022–present | 帝豪L Hi·P(2022–),帝豪L插电混动版(雷神Hi·P),紧凑型轿车 |
 | model:geely:emgrand-s | Emgrand S | 帝豪S | Emgrand S | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 帝豪S(2021–),紧凑型SUV,帝豪GS继任者 |
-| model:geely:englon-c5 | Englon C5 | 英伦C5 | Englon C5 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2011–2013 | 英伦C5(2011–2013),英伦(Englon)子品牌微型两厢车,约2013年停产 |
+| model:geely:englon-c5 | Englon C5 | 英伦C5 | Englon C5 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2015–2018 | 英伦C5(2015–2018),英伦(Englon)子品牌A0级轿车,2015年4月上市,基于美日改款,两厢/三厢,2018年停产 |
+| model:geely:ex3 | EX3 Kongfu Niu | EX3 功夫牛 | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2021–2022 | 几何EX3功夫牛(2021–2022),几何品牌纯电小型SUV,2022年停产 |
 | model:geely:galaxy-a7 | Galaxy A7 EM | 银河A7 | Galaxy A7 | — | class:cn:a | body:sedan | pt:phev | current · 2024–present | 银河(Galaxy)子品牌紧凑型轿车(EM-i插混),2024年上市 |
 | model:geely:galaxy-e5 | Galaxy E5 | 银河E5 | Galaxy E5 | — | class:cn:a | body:suv | pt:bev | current · 2024–present | 银河(Galaxy)子品牌紧凑型纯电SUV;海外称E5/EX5/Proton eMas 7 |
 | model:geely:galaxy-e8 | Galaxy E8 | 银河E8 | Galaxy E8 | — | class:cn:b | body:sedan | pt:bev | current · 2024–present | 银河(Galaxy)子品牌中大型纯电轿车(SEA架构) |
@@ -1317,7 +1744,16 @@
 | model:geely:galaxy-m9 | Galaxy M9 | 银河M9 | Galaxy M9 | — | class:cn:c | body:suv | pt:phev | current · 2025–present | 银河(Galaxy)子品牌大型插混SUV(雷神EM-P,6座),2025年上市 |
 | model:geely:galaxy-starship-7 | Galaxy Starship 7 | 银河星舰7 | Galaxy Starship 7 | — | class:cn:a | body:suv | pt:phev | current · 2024–present | 银河(Galaxy)子品牌紧凑型插混SUV(EM-i),2024年上市,接替银河L7 |
 | model:geely:gc7 | GC7 | GC7 | GC7 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2016 | 吉利GC7(2012–2016),紧凑型轿车,初为全球鹰GC7,2016年停产 |
+| model:geely:geely-c | Geometry C | 吉利几何C | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2020–2023 | 几何C(2020–2023),几何品牌纯电紧凑型SUV,2023年停产 |
+| model:geely:geely-e-2 | Geometry E Firefly | 吉利几何E萤火虫 | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2022–2024 | 几何E萤火虫(2022–2024),几何品牌纯电小型SUV |
+| model:geely:geely-g6 | Geometry G6 | 吉利几何G6 | — | — | class:cn:a | body:sedan | pt:bev | current · 2022–present | 几何G6(2022–),几何品牌纯电紧凑型轿车 |
+| model:geely:geely-l | Boyue L | 博越L | — | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 博越L(2022–),紧凑型SUV,博越家族换代车型(CMA架构),燃油/雷神混动 |
+| model:geely:geely-m6 | Geometry M6 | 吉利几何M6 | — | — | class:cn:a | body:suv | pt:bev | current · 2022–present | 几何M6(2022–),几何品牌纯电紧凑型SUV |
+| model:geely:geely-m7 | Galaxy M7 | 银河M7 | — | — | class:cn:b | body:suv | pt:phev | current · 2026–present | 银河M7(2026–),银河子品牌中大型SUV(EM-i插混),2026年上市 |
+| model:geely:geely-tt | Galaxy TT | 银河TT | — | — | class:cn:c | body:sedan | pt:bev | current · 2026–present | 银河TT(2026–),银河子品牌中大型纯电轿跑(C级,四座),2026年上市 |
+| model:geely:geely-x3 | Vision X3 | 远景X3 | — | — | class:cn:a0 | body:suv | pt:ice | current · 2017–present | 远景X3(2017–),小型SUV,远景系列衍生车型 |
 | model:geely:geometry-a | Geometry A | 几何A | 幾何A | — | class:cn:a | body:sedan | pt:bev | discontinued · 2019–2022 | 几何(Geometry)子品牌首款车型,紧凑型纯电轿车;2022年几何品牌并入吉利主品牌后停产,后续为几何A Pro/G6等 |
+| model:geely:gse | Emgrand GSe | 帝豪GSe | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2018–2021 | 帝豪GSe(2018–2021),帝豪系列纯电紧凑型SUV,2021年停产 |
 | model:geely:gx2 | GX2 | GX2 | GX2 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2010–2014 | 全球鹰GX2(2010–2014),微型跨界两厢车,基于熊猫平台,2014年停产 |
 | model:geely:gx7 | GX7 | GX7 | GX7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2012–2016 | 吉利GX7(2012–2016),紧凑型SUV,吉利首款SUV,与英伦SX7为姊妹车型,2016年停产 |
 | model:geely:haijing | Haijing | 海景 | Haijing | — | class:cn:a | body:sedan | pt:ice | discontinued · 2009–2015 | 海景(2009–2015),紧凑型轿车,远景姊妹车型(曾名英伦海景/海景SC7),2015年停产 |
@@ -1328,7 +1764,8 @@
 | model:geely:icon | ICON | ICON | ICON | — | class:cn:a0 | body:suv | pt:ice | current · 2020–present | 吉利ICON(2020–),小型/紧凑型SUV(BMA平台),设计前卫,含ICON巧克力改款 |
 | model:geely:jiaji | Jiaji | 嘉际 | Jiaji | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2019–2025 | 吉利首款家用MPV(6/7座),含插混版;2025年停产 |
 | model:geely:jingang | King Kong | 金刚 | King Kong | — | class:cn:a | body:sedan | pt:ice | discontinued · 2006–2016 | 金刚(2006–2016),紧凑型轿车,吉利早期主力车型,2016年停产 |
-| model:geely:jingang-caifu | Jingang Caifu | 金刚财富 | Jingang Caifu | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2014–2016 | 金刚财富(2014–2016),金刚两厢版,2016年停产 |
+| model:geely:jingang-caifu | Jingang Caifu | 金刚财富 | Jingang Caifu | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2014–2016 | 金刚财富(2014–2016),金刚两厢版,2014年11月上市,2016年停产 |
+| model:geely:l380 | Yizhen L380 | 翼真L380 | — | — | class:cn:mpv | body:mpv | pt:bev | current · 2024–present | 翼真L380(2024–),LEVC翼真品牌(吉利旗下)大型纯电MPV,2025年并入吉利银河序列 |
 | model:geely:lynk-01 | Lynk & Co 01 | 领克01 | Lynk & Co 01 | — | class:cn:a | body:suv | pt:ice | current · 2017–present | 领克(Lynk & Co)子品牌(吉利-沃尔沃合资)紧凑型SUV,CMA平台,燃油/插混(2022年起推出01 EM-P插混版) |
 | model:geely:lynk-02 | Lynk & Co 02 | 领克02 | Lynk & Co 02 | — | class:cn:a | body:hatchback | pt:ice | current · 2018–present | 领克(Lynk & Co)子品牌紧凑型跨界两厢车(CMA平台),燃油/插混;2021年衍生02 Hatchback两厢性能版 |
 | model:geely:lynk-03 | Lynk & Co 03 | 领克03 | Lynk & Co 03 | — | class:cn:a | body:sedan | pt:ice | current · 2018–present | 领克(Lynk & Co)子品牌紧凑型轿车,燃油/插混,含03+性能版 |
@@ -1340,8 +1777,12 @@
 | model:geely:lynk-900 | Lynk & Co 900 | 领克900 | Lynk & Co 900 | — | class:cn:c | body:suv | pt:phev | current · 2025–present | 领克(Lynk & Co)子品牌中大型/大型SUV旗舰(SPA Evo架构,EM-P插混,6座),2025年上市 |
 | model:geely:panda | Panda | 熊猫经典 | Panda | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2008–2015 | 燃油版吉利熊猫(2008–2015),A00级微型两厢车,与纯电熊猫mini区分,2015年停产 |
 | model:geely:panda-mini | Panda Mini EV | 熊猫mini | Panda Mini EV | — | class:cn:a00 | body:hatchback | pt:bev | current · 2022–present | A00级纯电微型车;老款燃油吉利熊猫(2008–2016)为其前身 |
+| model:geely:rev | Boyue REV | 博越REV | — | — | class:cn:a | body:suv | pt:erev | current · 2026–present | 博越REV(2026–),博越的增程式SUV,2026年3月上市,纯电续航375km,综合续航1525km |
 | model:geely:sc3 | SC3 | SC3 | SC3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2014 | 英伦SC3(2012–2014),紧凑型轿车,英伦(Englon)子品牌,2014年停产 |
+| model:geely:sc5-rv | Geely SC5-RV | 吉利SC5-RV | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2010–2014 | 英伦SC5-RV(2010–2014),英伦(Englon)子品牌A0级两厢家轿,2010年11月上市 |
 | model:geely:sx7 | SX7 | SX7 | SX7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2013–2016 | 英伦SX7(2013–2016),紧凑型SUV,与GX7同平台姊妹车型,2016年停产 |
+| model:geely:tx4 | British TX4 | 英伦TX4 | — | — | class:cn:c | body:mpv | pt:ice | discontinued · 2006–2013 | 英伦TX4(2006–2013),吉利上海英伦投产的伦敦出租车,2.5L柴油/汽油,2013年停产 |
+| model:geely:v900 | Galaxy V900 | 银河V900 | — | — | class:cn:mpv | body:mpv | pt:erev | current · 2025–present | 银河V900(2025–),银河子品牌大型增程MPV,翼真L380的增程姊妹车,6/7/8座 |
 | model:geely:xingrui | Xingrui | 星瑞 | Xingrui | — | class:cn:b | body:sedan | pt:ice | current · 2020–present | 紧凑级/准中型轿车(A+级,CMA平台),燃油为主,新增智擎混动;海外称Preface |
 | model:geely:xingyue | Xingyue | 星越 | Xingyue | — | class:cn:a | body:crossover | pt:ice | discontinued · 2019–2023 | 星越(2019–2023),紧凑型轿跑SUV(CMA平台),与星越L为不同车型,2023年停产 |
 | model:geely:xingyue-l | Xingyue L | 星越L | Xingyue L | — | class:cn:b | body:suv | pt:ice | current · 2021–present | 吉利旗舰紧凑型/中型SUV(CMA平台),燃油与智擎混动,另有增程电动版(Hi·P,2022–);海外称Monjaro |
@@ -1386,8 +1827,22 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:gonow:100 | Caiyun 100 | 财运100 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2006–2014 | 财运100,吉奥财运系列皮卡 |
+| model:gonow:300 | Caiyun 300 | 财运300 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2006–2014 | 财运300,吉奥财运系列皮卡 |
+| model:gonow:500 | Caiyun 500 | 财运500 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2006–2014 | 财运500,吉奥财运系列皮卡 |
+| model:gonow:819098c1fd | Xingwang | 星旺 | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2010–2016 | 星旺(2010-2016),吉奥微面,载人载货两用 |
 | model:gonow:aoxuan-g5 | Gonow Aoxuan G5 | 吉奥奥轩G5 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2011–2015 | 吉奥奥轩G5中型SUV,2011年上市 |
 | model:gonow:aoxuan-gx5 | Gonow Aoxuan GX5 | 吉奥奥轩GX5 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2012–2015 | 吉奥奥轩GX5中型SUV,2012年上市,奥轩G5的改款车型 |
+| model:gonow:b2e8848af8 | Kairui | 凯睿 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2006–2011 | 凯睿(2006-),吉奥紧凑型SUV,2009款在售 |
+| model:gonow:bcf9bb52a2 | Gonow Kaixuan | 吉奥凯旋 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2005–2010 | 凯旋,吉奥早期SUV车型 |
+| model:gonow:c5f311c425 | Shuaiwei | 帅威 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2004–2008 | 帅威(2004-),吉奥早期SUV,2004年12月上市 |
+| model:gonow:gonow-cl | Xingwang CL | 星旺CL | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2012–2016 | 星旺CL,星旺微面改款版 |
+| model:gonow:gonow-e | E-Mei | E美 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2016 | E美(2014-2016),广汽吉奥首款轿车,与传祺GA3同平台,厂家线上直销 |
+| model:gonow:gonow-l | Xingwang L | 星旺L | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2013–2016 | 星旺L,星旺微面加长版 |
+| model:gonow:gonow-m1 | Xingwang M1 | 星旺M1 | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2012–2016 | 星旺M1(2012-),星旺微面系列 |
+| model:gonow:gonow-m2 | Xingwang M2 | 星旺M2 | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2013–2016 | 星旺M2,星旺微面系列 |
+| model:gonow:gp150 | Gonow GP150 | 广汽吉奥GP150 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2014–2016 | GP150(2014-2016),广汽吉奥皮卡,2014年11月上市 |
+| model:gonow:gx6 | Gonow GX6 | 广汽吉奥GX6 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2014–2016 | GX6(2014-2016),广汽吉奥中型SUV,2014年10月上市 |
 | model:gonow:shuaibao | Gonow Shuaibao | 吉奥帅豹 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2010–2014 | 吉奥帅豹中型SUV,2010年上市 |
 | model:gonow:xinglang | Gonow Xinglang | 吉奥星朗 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2013–2016 | 广汽吉奥星朗紧凑型MPV,2013年上市,广汽吉奥首款乘用车 |
 
@@ -1395,16 +1850,36 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:great-wall:0641182406 | Safe | 赛弗 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2002-2008 | 赛弗(2002-2008),长城首款SUV,2008年停产 |
+| model:great-wall:1481672c12 | Great Wall Peri | 长城精灵 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2008-2012 | 长城精灵(2008-2012),长城微型车,2012年停产 |
+| model:great-wall:153fd6e439 | Xuanli | 炫丽 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2008-2013 | 炫丽(2008-2013),长城小型两厢车,2013年停产 |
+| model:great-wall:230dc8b97c | Jiayu | 嘉誉 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2007-2014 | 嘉誉(2007-2014),长城MPV,2014年停产 |
+| model:great-wall:52a41040b4 | Lingao | 凌傲 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009-2014 | 凌傲(2009-2014),长城小型两厢车,2014年停产 |
+| model:great-wall:54c5d79d7d | Pao | 炮 | — | — | class:cn:a | body:pickup | pt:ice | current · 2019-present | 长城炮(2019-),长城皮卡系列(乘用炮/商用炮/越野炮) |
+| model:great-wall:576b14ad41 | Deer | 金迪尔 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 1996-2010 | 金迪尔(1996-2010),长城皮卡(源自丰田Hilux),2010年停产 |
+| model:great-wall:5db9fc986d | Shanhai Pao | 山海炮 | — | — | class:cn:a | body:pickup | pt:ice | current · 2022-present | 山海炮(2022-),长城炮系列高端皮卡 |
+| model:great-wall:8ca13fd7ab | Saijun | 赛骏 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2004-2008 | 赛骏(2004-2008),长城皮卡,2008年停产 |
+| model:great-wall:99f7f05ed6 | Jingang Pao | 金刚炮 | — | — | class:cn:a | body:pickup | pt:ice | current · 2022-present | 金刚炮(2022-),长城炮系列商用皮卡 |
+| model:great-wall:bf1c30da59 | Saiying | 赛影 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2003-2008 | 赛影(2003-2008),长城SUV,2008年停产 |
 | model:great-wall:big-dog | Haval Big Dog | 哈弗大狗 | Haval Big Dog | — | class:cn:a | body:suv | pt:ice | current · 2020–present | 哈弗(Haval)子品牌紧凑型硬派风格SUV,含插混;海外称Haval Dargo/Haval H7 |
 | model:great-wall:black-cat | Ora Black Cat | 欧拉黑猫 | Ora Black Cat | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2019–2022 | 欧拉(Ora)子品牌A00级纯电微型车(原R1);2022年停产 |
 | model:great-wall:c20r | Great Wall C20R | 长城C20R | Great Wall C20R | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2011–2015 | 长城汽车小型两厢车;2015年停产 |
+| model:great-wall:c20rev | Great Wall C20REV | 长城C20REV | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2012-2015 | 长城C20R EV(2012-2015),长城纯电小型车,2015年停产 |
+| model:great-wall:c30-2 | Great Wall C30 | 长城C30 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2010-2017 | 长城C30(2010-2017),长城紧凑型轿车(含纯电版C30 EV),2017年停产 |
 | model:great-wall:c50 | Great Wall C50 | 长城C50 | Great Wall C50 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2011–2016 | 长城汽车紧凑型轿车,长城品牌为数不多的轿车之一;2016年停产 |
+| model:great-wall:c70 | Great Wall C70 | 长城C70 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2011-2015 | 长城C70(2011-2015),长城中型轿车(腾翼C70),2015年停产 |
 | model:great-wall:chitu | Haval Chitu | 哈弗赤兔 | Haval Chitu | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 哈弗(Haval)子品牌紧凑型SUV(柠檬平台,定位年轻运动) |
 | model:great-wall:cool-dog | Haval Cool Dog | 哈弗酷狗 | Haval Cool Dog | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 哈弗(Haval)子品牌紧凑型SUV(狗系家族,硬派造型) |
+| model:great-wall:d072907e9a | Coolbear | 酷熊 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009-2013 | 酷熊(2009-2013),长城方盒子造型小型车,2013年停产 |
 | model:great-wall:f5 | Haval F5 | 哈弗F5 | Haval F5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2021 | 哈弗(Haval)子品牌紧凑型SUV(F系列入门款);2021年停产 |
 | model:great-wall:f7 | Haval F7 | 哈弗F7 | Haval F7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2024 | 哈弗(Haval)子品牌紧凑型SUV(含F7X轿跑版);2024年停产,海外市场F7之名沿用至后续车型 |
 | model:great-wall:gaoshan | Wey Gaoshan | 魏牌高山 | Wey Gaoshan | — | class:cn:mpv | body:mpv | pt:phev | current · 2023–present | 魏牌(Wey)子品牌中大型插混MPV(2023年上市) |
 | model:great-wall:good-cat | Ora Good Cat | 欧拉好猫 | Ora Good Cat | — | class:cn:a0 | body:hatchback | pt:bev | current · 2020–present | 欧拉(Ora)子品牌(长城旗下)小型纯电轿车(复古造型);海外称Funky Cat/Ora 03 |
+| model:great-wall:great-wall-3 | Wingle 3 | 风骏3 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2008-2013 | 风骏3(2008-2013),长城皮卡,2013年停产 |
+| model:great-wall:great-wall-5 | Wingle 5 | 风骏5 | — | — | class:cn:a | body:pickup | pt:ice | current · 2010-present | 风骏5(2010-),长城皮卡主力车型 |
+| model:great-wall:great-wall-6 | Wingle 6 | 风骏6 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2014-2020 | 风骏6(2014-2020),长城皮卡,2020年停产 |
+| model:great-wall:great-wall-7 | Wingle 7 | 风骏7 | — | — | class:cn:a | body:pickup | pt:ice | current · 2018-present | 风骏7(2018-),长城皮卡 |
+| model:great-wall:great-wall-m1 | Great Wall M1 | 长城M1 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009-2013 | 长城M1(2009-2013),长城微型车(迷你SUV),2013年停产 |
 | model:great-wall:h1 | Haval H1 | 哈弗H1 | Haval H1 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2018 | 哈弗(Haval)子品牌小型SUV;2018年停产 |
 | model:great-wall:h2s | Haval H2s | 哈弗H2s | Haval H2s | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2019 | 哈弗(Haval)子品牌小型SUV(红标/蓝标双版本);2019年停产 |
 | model:great-wall:h4 | Haval H4 | 哈弗H4 | Haval H4 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2021 | 哈弗(Haval)子品牌紧凑型SUV;2021年停产 |
@@ -1412,6 +1887,7 @@
 | model:great-wall:h6 | Haval H6 | 哈弗H6 | Haval H6 | — | class:cn:a | body:suv | pt:ice | current · 2011–present | 哈弗(Haval)子品牌紧凑型SUV,长期为国内SUV销量冠军,第三代起含混动/插混;海外称Haval Jolion之外销主力 |
 | model:great-wall:h8 | Haval H8 | 哈弗H8 | Haval H8 | — | class:cn:c | body:suv | pt:ice | discontinued · 2013–2018 | 哈弗(Haval)子品牌中大型SUV,哈弗冲击高端市场的早期尝试;2018年停产 |
 | model:great-wall:h9 | Haval H9 | 哈弗H9 | Haval H9 | — | class:cn:c | body:suv | pt:ice | current · 2014–present | 哈弗(Haval)子品牌中大型非承载式越野SUV;2024年第二代换代 |
+| model:great-wall:hi4-t | Shanhai Pao Hi4-T | 山海炮 Hi4-T | — | — | class:cn:b | body:pickup | pt:phev | current · 2024-present | 山海炮Hi4-T(2024-),山海炮插电混动版 |
 | model:great-wall:jolion | Haval Jolion | 哈弗初恋 | Haval Jolion | — | class:cn:a | body:suv | pt:ice | current · 2020–present | 哈弗(Haval)子品牌紧凑型SUV;2021年起中国停售,海外市场以Jolion继续销售 |
 | model:great-wall:lanshan | Wey Lanshan | 魏牌蓝山 | Wey Lanshan | — | class:cn:c | body:suv | pt:phev | current · 2023–present | 魏牌(Wey)子品牌中大型插混SUV(6座) |
 | model:great-wall:latte | Wey Latte | 魏牌拿铁 | Wey Latte | — | class:cn:a | body:suv | pt:phev | current · 2021–present | 魏牌(Wey)子品牌紧凑型SUV(DHT插混);2025年中国停售,海外(GWM Wey 03)续售 |
@@ -1428,6 +1904,7 @@
 | model:great-wall:tank-400 | Tank 400 | 坦克400 | Tank 400 | — | class:cn:b | body:suv | pt:phev | current · 2023–present | 坦克(Tank)子品牌中型非承载式越野SUV(Hi4-T插混/燃油) |
 | model:great-wall:tank-500 | Tank 500 | 坦克500 | Tank 500 | — | class:cn:c | body:suv | pt:ice | current · 2022–present | 坦克(Tank)子品牌中大型非承载式越野SUV,燃油/轻混/插混 |
 | model:great-wall:tank-700 | Tank 700 | 坦克700 | Tank 700 | — | class:cn:c | body:suv | pt:phev | current · 2024–present | 坦克(Tank)子品牌中大型非承载式越野SUV(3.0T V6 Hi4-T插混) |
+| model:great-wall:v80 | Great Wall V80 | 长城V80 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2012-2016 | 长城V80(2012-2016),长城MPV,2016年停产 |
 | model:great-wall:vv5 | Wey VV5 | 魏牌VV5 | Wey VV5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2017–2021 | 魏牌(Wey)子品牌紧凑型SUV(WEY品牌首代产品);2021年停产 |
 | model:great-wall:vv6 | Wey VV6 | 魏牌VV6 | Wey VV6 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2021 | 魏牌(Wey)子品牌紧凑型SUV(WEY品牌首代产品);2021年停产 |
 | model:great-wall:vv7 | Wey VV7 | 魏牌VV7 | Wey VV7 | — | class:cn:b | body:suv | pt:ice | discontinued · 2017–2021 | 魏牌(Wey)子品牌中型SUV(WEY品牌首代产品,含VV7 GT轿跑版及新能源版);2021年停产 |
@@ -1448,21 +1925,43 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
-| model:haima:7x | Haima 7X | 海马7X | 海馬7X | — | class:cn:mpv | body:mpv | pt:ice | current · 2020–present | 7座紧凑型MPV,含7X-E纯电版;在售状态待核实 |
-| model:haima:8s | Haima 8S | 海马8S | 海馬8S | — | class:cn:a | body:suv | pt:ice | discontinued · 2019–2022 | 紧凑型SUV,海马后期主力SUV |
+| model:haima:00a8fcfc9d | Prince | 王子 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2010-2013 | 海马王子(2010-2013),海马郑州A00级微型车,2013年停产 |
+| model:haima:13a9382f64 | Fushida Hongda | 福仕达鸿达 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2012-2015 | 福仕达鸿达(2012-2015),海马郑州微面,2015年停产 |
+| model:haima:28896bc134 | Fushida Fukka | 福仕达福卡 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2011-2015 | 福仕达福卡(2011-2015),海马郑州微卡,2015年停产 |
+| model:haima:2b3c169ea1 | Frog Prince | 青蛙王子 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2010-2013 | 青蛙王子M1-Q(2010-2013),海马王子同平台车型,2013年停产 |
+| model:haima:5ea38480fa | Fushida Tengda | 福仕达腾达 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2010-2015 | 福仕达腾达(2010-2015),海马郑州微面,2015年停产 |
+| model:haima:675cca5bc3 | White Horse Prince | 白马王子 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2010-2013 | 白马王子M1-T(2010-2013),海马王子同平台车型,2013年停产 |
+| model:haima:777bd240aa | Knight | 骑士 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2010-2013 | 海马骑士(2010-2013),海马首款SUV,2013年由S7接替 |
+| model:haima:7x | Haima 7X | 海马7X | 海馬7X | — | class:cn:mpv | body:mpv | pt:ice | current · 2020-present | 海马7X(2020-),海马7座紧凑型MPV,含7X-E纯电版 |
+| model:haima:8s | Haima 8S | 海马8S | 海馬8S | — | class:cn:a | body:suv | pt:ice | current · 2019-present | 海马8S(2019-),海马紧凑型SUV,后期主力 |
 | model:haima:aishang | Haima Aishang | 海马爱尚 | 海馬愛尚 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2012–2015 | 微型两厢车 |
+| model:haima:c03a5dcb74 | Fushida Rongda | 福仕达荣达 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2010-2015 | 福仕达荣达(2010-2015),海马郑州微面,2015年停产 |
+| model:haima:ef5c030e7d | Huandong | 欢动 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2009-2011 | 欢动(2009-2011),海马紧凑型两厢车,2011年停产 |
 | model:haima:family | Haima Family | 福美来 | 福美來 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2002–2017 | 紧凑型轿车,源自马自达323/Familia平台,海马基石车型,历经四代 |
-| model:haima:family-f5 | Haima Family F5 | 福美来F5 | 福美來F5 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2021 | 紧凑型轿车,福美来系列的后续车型 |
-| model:haima:family-f7 | Haima Family F7 | 福美来F7 | 福美來F7 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2017–2020 | 7座紧凑型MPV |
+| model:haima:family-f5 | Haima Family F5 | 福美来F5 | 福美來F5 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018-2020 | 福美来F5(2018-2020),海马紧凑型轿车,福美来系列后续车型,2020年停产 |
+| model:haima:family-f7 | Haima Family F7 | 福美来F7 | 福美來F7 | — | class:cn:mpv | body:mpv | pt:ice | current · 2017-present | 福美来F7(2017-),海马7座紧凑型MPV,2019年换代 |
 | model:haima:haifuxing | Haima Haifuxing | 海福星 | 海福星 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2007–2012 | 紧凑型轿车,福美来的简化入门版本 |
-| model:haima:m3 | Haima M3 | 海马M3 | 海馬M3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2019 | 紧凑型轿车 |
-| model:haima:m6 | Haima M6 | 海马M6 | 海馬M6 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2015–2019 | 中型轿车 |
+| model:haima:haima-3 | 3 | 3 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2007-2010 | 海马3(2007-2010),海马紧凑型轿车(源自马自达323平台),2010年停产 |
+| model:haima:haima-6p | Haima 6P | 海马6P | — | — | class:cn:a | body:suv | pt:phev | current · 2020-present | 海马6P(2020-),海马首款插混SUV |
+| model:haima:haima-c2 | Haima C2 | 海马C2 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2013-2016 | 海马C2(2013-2016),海马小型SUV,2016年停产 |
+| model:haima:haima-c3 | C3 | C3 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2013-2016 | 海马C3(2013-2016),海马微型车,2016年停产 |
+| model:haima:haima-e1 | Haima E1 | 海马E1 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2018-present | 海马E1(2018-),海马A00级纯电微型车 |
+| model:haima:haima-e3 | Haima E3 | 海马E3 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2019-2021 | 海马E3(2019-2021),海马纯电轿车,2021年停产 |
+| model:haima:haima-e5 | Haima E5 | 海马E5 | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2018-2021 | 海马E5(2018-2021),海马纯电SUV,2021年停产 |
+| model:haima:haima-e7 | Family E7 | 福美来E7 | — | — | class:cn:a | body:mpv | pt:bev | discontinued · 2018-2021 | 福美来E7(2018-2021),海马纯电MPV,2021年停产 |
+| model:haima:haima-ev | Prelude EV | 普力马EV | — | — | class:cn:a | body:mpv | pt:bev | discontinued · 2015-2018 | 普力马EV(2015-2018),普力马纯电动版,2018年停产 |
+| model:haima:haima-ev-2 | Aishang EV | 海马爱尚EV | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2017-2021 | 海马爱尚EV(2017-2021),海马纯电微型车,2021年停产 |
+| model:haima:haima-s5-2 | S5 Youth | 海马S5青春版 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2017-2019 | 海马S5青春版(2017-2019),S5的年轻化版,2019年停产 |
+| model:haima:injoy | Haima INJOY | 海马INJOY | — | — | class:cn:a | body:mpv | pt:bev | current · 2024-present | 海马INJOY(2024-),海马与智行盒子合作的纯电MPV(含INJOY L/U) |
+| model:haima:m3 | Haima M3 | 海马M3 | 海馬M3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013-2019 | 海马M3(2013-2019),海马紧凑型轿车,2019年停产 |
+| model:haima:m6 | Haima M6 | 海马M6 | 海馬M6 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2015-2019 | 海马M6(2015-2019),海马中型轿车,2019年停产 |
 | model:haima:m8 | Haima M8 | 海马M8 | 海馬M8 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2014–2017 | 中型轿车,海马旗舰轿车 |
+| model:haima:mpv | Family MPV | 福美来MPV | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2016-2019 | 福美来MPV(2016-2019),海马7座MPV,2019年停产 |
 | model:haima:pulima | Haima Pulima | 普力马 | 普力馬 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2001–2015 | 紧凑型MPV,源自马自达Premacy平台,海马早期主力 |
 | model:haima:qishi | Haima Qishi | 海马骑士 | 海馬騎士 | — | class:cn:a | body:suv | pt:ice | discontinued · 2010–2014 | 紧凑型SUV,海马首款SUV |
 | model:haima:qiubeite | Haima Qiubeite | 丘比特 | 丘比特 | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2010–2015 | 小型两厢车 |
-| model:haima:s5 | Haima S5 | 海马S5 | 海馬S5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2014–2019 | 紧凑型SUV,含S5青春版 |
-| model:haima:s7 | Haima S7 | 海马S7 | 海馬S7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2013–2018 | 紧凑型SUV,海马骑士的继任车型 |
+| model:haima:s5 | Haima S5 | 海马S5 | 海馬S5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2014-2019 | 海马S5(2014-2019),海马紧凑型SUV,含S5青春版,2019年停产 |
+| model:haima:s7 | Haima S7 | 海马S7 | 海馬S7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2013-2019 | 海马S7(2013-2019),海马紧凑型SUV,骑士的继任车型,2019年停产 |
 | model:haima:v70 | Haima V70 | 海马V70 | 海馬V70 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2016–2017 | 紧凑型MPV |
 
 ## Hanteng
@@ -1476,10 +1975,22 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:hawtai:b11 | Hawtai B11 | 华泰B11 | — | — | class:cn:c | body:sedan | pt:ice | discontinued · 2010–2014 | 华泰B11(2010-2014),华泰首款轿车,已停产 |
 | model:hawtai:boliger | Hawtai Boliger | 宝利格 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2011–2017 | 中型SUV,外观借鉴保时捷卡宴风格,华泰高端SUV |
+| model:hawtai:dd5b1a39f4 | Terracan | 特拉卡 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2005–2012 | 特拉卡(Terracan,2005-2012),基于现代Terracan平台,华泰早期SUV,已停产 |
+| model:hawtai:e80 | Lusheng E80 | 路盛E80 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2016–2019 | 路盛E80(2016-2019),紧凑型轿车,已停产 |
+| model:hawtai:ev160b | Hawtai EV160B | 华泰EV160B | — | — | class:cn:a00 | body:city-car | pt:bev | discontinued · 2017–2019 | 华泰EV160B(2017-2019),纯电微型车,已停产 |
+| model:hawtai:ev160r | Hawtai EV160R | 华泰EV160R | — | — | class:cn:a00 | body:city-car | pt:bev | discontinued · 2017–2019 | 华泰EV160R(2017-2019),纯电微型车,已停产 |
+| model:hawtai:hawtai-2 | Santa Fe 2 | 圣达菲2 | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2017–2019 | 圣达菲2(2017-2019),小型新能源SUV(XEV360),已停产 |
+| model:hawtai:hawtai-5-2 | Santa Fe 5 | 圣达菲5 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2017–2019 | 圣达菲5(2017-2019),紧凑型SUV,已停产 |
+| model:hawtai:hawtai-7-2 | Santa Fe 7 | 圣达菲7 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2018–2020 | 圣达菲7(2018-2020),紧凑型SUV,已停产 |
+| model:hawtai:hawtai-s1 | Lusheng S1 | 路盛S1 | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2017–2019 | 路盛S1(2017-2019),小型新能源SUV(iEV360),已停产 |
+| model:hawtai:hawtai-s5 | Lusheng S5 | 路盛S5 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2017–2019 | 路盛S5(2017-),紧凑型纯电轿车(iEV230/EV330),已停产 |
+| model:hawtai:iev230 | Hawtai iEV230 | 华泰iEV230 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2016–2018 | 华泰iEV230(2016-2018),路盛E70纯电版,已停产 |
 | model:hawtai:lusheng-e70 | Hawtai Lusheng E70 | 路盛E70 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2017 | 紧凑型轿车,华泰主力轿车 |
 | model:hawtai:santa-fe | Hawtai Santa Fe | 圣达菲 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2006–2015 | 紧凑型SUV,基于现代Santa Fe一代平台技术,华泰主力车型 |
 | model:hawtai:santa-fe-classic | Hawtai Santa Fe Classic | 圣达菲经典 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2019 | 紧凑型SUV,圣达菲改款后更名销售 |
+| model:hawtai:xev260 | Hawtai XEV260 | 华泰XEV260 | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2016–2018 | 华泰XEV260(2016-2018),圣达菲纯电版SUV,已停产 |
 
 ## Honda
 
@@ -1492,6 +2003,7 @@
 | model:honda:avancier | Avancier | 冠道 | Avancier | — | class:cn:b | body:suv | pt:ice | current · 2016–present | 广汽本田中型SUV,与东风本田UR-V为姊妹车 |
 | model:honda:ballade | Ballade | Ballade | Ballade | バラード | class:cn:a | body:sedan | pt:ice | discontinued · 1980–1986 | Civic 平台的日本市场三厢轿车;与英国 Rover 200 同源;南非市场名沿用至 2011–2025 |
 | model:honda:beat | Beat | Beat | Beat | ビート | class:jp:kei | body:roadster | pt:ice | discontinued · 1991–1996 | 中置后驱 K-car 敞篷跑车,本田 K-car 运动化经典;与 NSX、S2000 同列官方 heritage 名车 |
+| model:honda:br-v | BR-V | BR-V | — | — | class:eu:j | body:suv | pt:ice | current · 2016–present | BR-V(2016-),东南亚市场7座紧凑SUV,与Mobilio同平台 |
 | model:honda:breeze | Breeze | 皓影 | Breeze(未上市) | — | class:eu:j | body:suv | pt:ice | current · 2019–present | 广汽本田 CR-V 姊妹车,中国特供;日本/台湾无此车型 |
 | model:honda:city | City | 锋范(大陆已停) | City | シティ | class:cn:a0 | body:sedan | pt:ice | current · 1981–present | 东南亚/新兴市场主力小型车;另有 City Hatchback 两厢版;大陆曾国产称「锋范」 |
 | model:honda:civic | Civic | 思域 | Civic(俗稱喜美) | シビック | class:cn:a | body:sedan | pt:ice | current · 1972–present | 本田最悠久车系;Type R 为其性能版;台湾俗称「喜美」 |
@@ -1502,13 +2014,20 @@
 | model:honda:cr-z | CR-Z | CR-Z | CR-Z | CR-Z(シーアールゼット) | class:eu:s | body:coupe | pt:hev | discontinued · 2010–2016 | CR-X 精神继承者,IMA 混动轿跑 |
 | model:honda:crider | Crider | 凌派 | Crider(未上市) | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2025 | 广汽本田中国特供紧凑轿车;2025 年停产 |
 | model:honda:crosstour | Crosstour | 歌诗图 | Crosstour | クロスツアー | class:eu:j | body:crossover | pt:ice | discontinued · 2010–2015 | Accord 跨界掀背版;大陆广汽本田曾国产称「歌诗图」 |
+| model:honda:e-np1-1 | e:NP1 e:NP 1 | e:NP1 极湃1 | — | — | class:cn:a | body:suv | pt:bev | current · 2022–present | e:NP1极湃1(2022-),广汽本田纯电SUV,与e:NS1为姊妹车 |
+| model:honda:e-np2-2 | e:NP2 e:NP 2 | e:NP2 极湃2 | — | — | class:cn:a | body:suv | pt:bev | current · 2024–present | e:NP2极湃2(2024-),广汽本田纯电SUV |
+| model:honda:e-ns1 | e:NS1 | e:NS1 | — | — | class:cn:a | body:suv | pt:bev | current · 2022–present | e:NS1(2022-),东风本田纯电SUV |
+| model:honda:e-ns2 | Lieguang e:NS2 | 猎光e:NS2 | — | — | class:cn:a | body:suv | pt:bev | current · 2024–present | 猎光e:NS2(2024-),东风本田纯电SUV |
 | model:honda:element | Element | Element | Element | エレメント | class:eu:j | body:suv | pt:ice | discontinued · 2002–2011 | 北美市场对开式车门紧凑 SUV |
 | model:honda:elysion | Elysion | 艾力绅 | Elysion(未上市) | エリシオン | class:eu:m | body:minivan | pt:ice | current · 2004–present | 东风本田奥德赛姊妹车,现为中国特供;日本原版 2004–2013 |
 | model:honda:envix | Envix | 享域 | Envix(未上市) | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2025 | 东风本田凌派姊妹车,中国特供;2025 年停产 |
 | model:honda:fit | Fit / Jazz | 飞度 | Fit | フィット | class:cn:a0 | body:hatchback | pt:ice | current · 2001–present | 欧洲/港澳称 Jazz;大陆广汽本田国产,有 e:HEV 混动版 |
 | model:honda:freed | Freed | Freed | Freed(未上市) | フリード | class:eu:m | body:mpv | pt:ice | current · 2008–present | 日本市场小型 MPV,有 e:HEV 混动版 |
-| model:honda:gienia | Gienia | 竞瑞 | Gienia | — | class:cn:a | body:hatchback | pt:ice | current · 2016–present | 东风本田哥瑞两厢版,中国特供;实际已停产,停产年份待核实 |
-| model:honda:greiz | Greiz | 哥瑞 | Greiz | — | class:cn:a | body:sedan | pt:ice | current · 2015–present | 东风本田中国特供紧凑轿车,锋范(City)姊妹车;实际已停产,停产年份待核实 |
+| model:honda:gienia | Gienia | 竞瑞 | Gienia | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2016–2022 | 竞瑞(2016-2022),哥瑞两厢版,中国特供,已停产 |
+| model:honda:greiz | Greiz | 哥瑞 | Greiz | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015–2022 | 哥瑞(2015-2022),东风本田中国特供紧凑轿车,锋范(City)姊妹车,已停产 |
+| model:honda:honda-e | Honda e | 本田e | — | — | class:eu:a | body:hatchback | pt:bev | discontinued · 2020–2024 | Honda e(2020-2024),本田纯电城市车,日本/欧洲市场,2024年停产 |
+| model:honda:honda-p7 | GAC Honda P7 | 广汽本田P7 | — | — | class:cn:b | body:suv | pt:bev | current · 2025–present | 广汽本田P7(2025-),本田烨平台纯电SUV |
+| model:honda:honda-s7 | S7 | 东风本田S7 | — | — | class:cn:b | body:suv | pt:bev | current · 2025–present | 东风本田S7(2025-),本田烨平台纯电SUV |
 | model:honda:hr-v | HR-V / Vezel | 缤智(广汽)/XR-V(东风) | HR-V | ヴェゼル | class:eu:j | body:crossover | pt:ice | current · 1998–2005, 2013–present | 日本名 Vezel;大陆姊妹名:广汽缤智、东风 XR-V;有 e:HEV |
 | model:honda:insight | Insight | Insight(音赛特) | Insight | インサイト | class:cn:a0 | body:hatchback | pt:hev | discontinued · 1999–2006, 2009–2014 | 初代 IMA 混动先驱;2026 年起日本以纯电跨界身份复活(e:N2 贴牌) |
 | model:honda:inspire | Inspire | 英仕派 | Inspire(未上市) | インスパイア | class:cn:b | body:sedan | pt:ice | current · 1989–2012, 2018–present | 东风本田雅阁姊妹车;日本初代 1989–2012,2018 年起在中国复兴 |
@@ -1540,36 +2059,69 @@
 | model:honda:ur-v | UR-V | UR-V | UR-V | — | class:cn:b | body:suv | pt:ice | current · 2017–present | 东风本田中型SUV,与广汽本田冠道为姊妹车 |
 | model:honda:vamos | Vamos | Vamos | Vamos | バモス | class:jp:kei | body:van | pt:ice | discontinued · 1970–1973, 1999–2018 | 初代(1970–1973)为 360cc 双座越野车;二代(1999–2018)为 K-car 厢式车(与 Acty 同平台) |
 | model:honda:vigor | Vigor | Vigor | Vigor | ビガー | class:cn:b | body:sedan | pt:ice | discontinued · 1981–1995 | Accord 平台的中级轿车,以直列五缸发动机为特色;后继为 Rafaga/Inspire |
-| model:honda:zhixing | Integra (型格) | 型格 | Integra | — | class:cn:a | body:sedan | pt:ice | current · 2021–present | 广汽本田Integra,思域姊妹车,中国特供 |
+| model:honda:wr-v | WR-V | WR-V | — | — | class:eu:j | body:suv | pt:ice | current · 2017–present | WR-V(2017-),东南亚/南美市场小型SUV,基于Jazz平台 |
+| model:honda:zhixing | Integra | 型格 | Integra | — | class:cn:a | body:sedan | pt:ice | current · 2021–present | 广汽本田Integra,思域姊妹车,中国特供 |
 | model:honda:zr-v | ZR-V | ZR-V | ZR-V | ZR-V(ジーアールブイ) | class:eu:j | body:crossover | pt:ice | current · 2022–present | 定位低于 CR-V 的紧凑跨界;北美/中国(东风本田)称 HR-V |
 
 ## Hongqi
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:hongqi:19857c6da5 | Flagship | 旗舰 | — | — | class:cn:c | body:sedan | pt:ice | discontinued · 1998-2006 | 红旗旗舰(1998-2006),红旗顶级轿车(基于林肯Town Car平台),2006年停产 |
+| model:hongqi:1d8921f9c1 | Golden Sunflower Guoya | 金葵花国雅 | — | — | class:cn:a | body:sedan | pt:ice | current · 2024-present | 红旗金葵花国雅(2024-),金葵花品牌大型轿车 |
+| model:hongqi:31159e2e32 | Century Star | 世纪星 | — | — | class:cn:d | body:sedan | pt:ice | discontinued · 2000-2008 | 红旗世纪星(2000-2008),红旗早期中高级轿车,2008年停产 |
+| model:hongqi:4bf910ef6f | Golden Sunflower Guoyue | 金葵花国悦 | — | — | class:cn:a | body:mpv | pt:ice | current · 2024-present | 红旗金葵花国悦(2024-),金葵花品牌MPV |
+| model:hongqi:71aac80b32 | Hongqi Golden Sunflower Guoli | 红旗金葵花国礼 | — | — | class:cn:a | body:sedan | pt:ice | current · 2024-present | 红旗金葵花国礼(2024-),红旗L5换代车型,金葵花品牌旗舰 |
+| model:hongqi:938cfd29c9 | Hongqi Golden Sunflower Guoyao | 红旗金葵花国耀 | — | — | class:cn:a | body:suv | pt:ice | current · 2024-present | 红旗金葵花国耀(2024-),金葵花品牌大型SUV |
+| model:hongqi:aae882d121 | New MingShi | 新明仕 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2006-2010 | 红旗新明仕(2006-2010),红旗明仕改款,2010年停产 |
+| model:hongqi:b3582589f3 | Shengshi | 盛世 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2006-2008 | 红旗盛世(2006-2008),基于丰田皇冠Majesta平台,2008年停产 |
+| model:hongqi:ca770 | Hongqi CA770 | 红旗CA770 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 1966-1998 | 红旗CA770(1966-1998),红旗经典礼宾车,中国汽车工业标志 |
 | model:hongqi:e-hs3 | E-HS3 | 红旗E-HS3 | Hongqi E-HS3 | — | class:cn:a | body:suv | pt:bev | discontinued · 2019–2021 | 红旗首款纯电车型(紧凑型SUV);约2021年停产 |
 | model:hongqi:e-hs9 | E-HS9 | 红旗E-HS9 | Hongqi E-HS9 | E-HS9 | class:cn:d | body:suv | pt:bev | current · 2020–present | 大型纯电SUV(6/7座);日本市场亦有导入 |
+| model:hongqi:e-qm5 | E-QM5 | E-QM5 | — | — | class:cn:b | body:sedan | pt:bev | current · 2021-present | E-QM5(2021-),红旗纯电中型轿车(网约车/家用) |
 | model:hongqi:eh7 | EH7 | 红旗EH7 | Hongqi EH7(未导入) | EH7 | class:cn:c | body:sedan | pt:bev | current · 2024–present | 红旗「天工」纯电平台首款轿车,2024年3月上市,中大型五座纯电轿车 |
 | model:hongqi:ehs7 | EHS7 | 红旗EHS7 | Hongqi EHS7(未导入) | EHS7 | class:cn:c | body:suv | pt:bev | current · 2024–present | 红旗「天工」纯电平台中大型SUV,2024年上市,与EH7同代姊妹车 |
 | model:hongqi:guoli | Guoli | 国礼 | Hongqi Guoli | — | class:cn:d | body:sedan | pt:ice | current · 2024–present | 金葵花系列礼宾级超豪华旗舰轿车(2024年发布);前身红旗L系列礼宾车 |
 | model:hongqi:h5 | H5 | 红旗H5 | Hongqi H5 | H5 | class:cn:b | body:sedan | pt:ice | current · 2018–present | 中型轿车,2023年第二代换代;日本市场以H5等字母型号销售 |
+| model:hongqi:h5-phev | Hongqi H5 PHEV | 红旗H5 PHEV | — | — | class:cn:a | body:sedan | pt:phev | current · 2024-present | 红旗H5 PHEV(2024-),红旗H5插电混动版 |
 | model:hongqi:h6 | H6 | 红旗H6 | Hongqi H6 | H6 | class:cn:b | body:sedan | pt:ice | current · 2023–present | B+级运动轿车(轿跑造型) |
-| model:hongqi:h7 | H7 | 红旗H7 | Hongqi H7 | H7 | class:cn:c | body:sedan | pt:ice | current · 2013–present | 红旗品牌复兴首款战略车型(2013年上市);现售状态待核实 |
+| model:hongqi:h7 | H7 | 红旗H7 | Hongqi H7 | H7 | class:cn:c | body:sedan | pt:ice | current · 2013-present | 红旗H7(2013-),红旗品牌复兴首款战略车型;2024年换代 |
+| model:hongqi:h7-phev | Hongqi H7 PHEV | 红旗H7 PHEV | — | — | class:cn:a | body:sedan | pt:phev | current · 2024-present | 红旗H7 PHEV(2024-),红旗H7插电混动版 |
 | model:hongqi:h9 | H9 | 红旗H9 | Hongqi H9 | H9 | class:cn:c | body:sedan | pt:ice | current · 2020–present | 中大型豪华轿车(双色车身),含H9+礼宾版;2023年起进入日本市场 |
+| model:hongqi:h9-phev | Hongqi H9 PHEV | 红旗H9 PHEV | — | — | class:cn:c | body:sedan | pt:phev | current · 2024-present | 红旗H9 PHEV(2024-),红旗H9插电混动版 |
+| model:hongqi:hongqi-05 | Tiangong 05 | 天工05 | — | — | class:cn:a | body:sedan | pt:ice | current · 2025-present | 天工05(2025-),红旗天工系列轿车 |
+| model:hongqi:hongqi-06 | Tiangong 06 | 天工06 | — | — | class:cn:a | body:suv | pt:ice | current · 2025-present | 天工06(2025-),红旗天工系列SUV |
+| model:hongqi:hongqi-07 | Tiangong 07 | 天工07 | — | — | class:cn:a | body:suv | pt:ice | current · 2025-present | 天工07(2025-),红旗天工系列SUV |
+| model:hongqi:hongqi-08 | Tiangong 08 | 天工08 | — | — | class:cn:a | body:suv | pt:ice | current · 2025-present | 天工08(2025-),红旗天工系列SUV |
+| model:hongqi:hongqi-l7 | Hongqi L7 | 红旗L7 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014-2024 | 红旗L7(2014-2024),红旗L系列礼宾轿车,2024年由金葵花国礼接替 |
+| model:hongqi:hongqi-l9 | Hongqi L9 | 红旗L9 | — | — | class:cn:d | body:sedan | pt:ice | discontinued · 2013-2024 | 红旗L9(2013-2024),红旗L系列顶级礼宾轿车,2024年由金葵花国礼接替 |
 | model:hongqi:hq9 | HQ9 | 红旗HQ9 | Hongqi HQ9 | HQ9 | class:cn:mpv | body:mpv | pt:ice | current · 2022–present | 中大型MPV(7座,2.0T) |
+| model:hongqi:hq9-phev | Hongqi HQ9 PHEV | 红旗HQ9 PHEV | — | — | class:cn:a | body:mpv | pt:phev | current · 2023-present | 红旗HQ9 PHEV(2023-),红旗HQ9 MPV插电混动版 |
 | model:hongqi:hs3 | HS3 | 红旗HS3 | Hongqi HS3 | HS3 | class:cn:a | body:suv | pt:ice | current · 2023–present | 紧凑型SUV(红旗入门SUV) |
+| model:hongqi:hs3-phev | Hongqi HS3 PHEV | 红旗HS3 PHEV | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 红旗HS3 PHEV(2024-),红旗HS3插电混动版 |
 | model:hongqi:hs5 | HS5 | 红旗HS5 | Hongqi HS5 | HS5 | class:cn:b | body:suv | pt:ice | current · 2019–present | 中型SUV,2023年第二代换代;2023年随红旗进入日本市场 |
+| model:hongqi:hs6-phev | Hongqi HS6 PHEV | 红旗HS6 PHEV | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 红旗HS6 PHEV(2024-),红旗HS6插电混动版 |
 | model:hongqi:hs7 | HS7 | 红旗HS7 | Hongqi HS7 | HS7 | class:cn:c | body:suv | pt:ice | current · 2019–present | 中大型SUV,2023年换代 |
+| model:hongqi:hs7-phev | Hongqi HS7 PHEV | 红旗HS7 PHEV | — | — | class:cn:c | body:suv | pt:phev | current · 2024-present | 红旗HS7 PHEV(2024-),红旗HS7插电混动版 |
 | model:hongqi:l5 | L5 | 红旗L5 | Hongqi L5 | — | class:cn:d | body:sedan | pt:ice | discontinued · 2014–2021 | 礼宾级旗舰(限量,V12/V8),约2021年停产,由国礼等金葵花车型接替 |
 
 ## Huanghai
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:huanghai:05476672bd | Huanghai Big Bull | 黄海·大牛 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2018–2021 | 黄海大牛(2018-2021),黄海SUV,已停产 |
+| model:huanghai:1db6cbb4c7 | Aojun | 傲骏 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2005–2012 | 傲骏(2005-2012),黄海皮卡,已停产 |
+| model:huanghai:2b9fc35ae2 | Daichaishen | 大柴神 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2011–2018 | 大柴神(2011-2018),黄海皮卡,已停产 |
+| model:huanghai:37d47dafd3 | Huanghai Wild Bull | 黄海·野牛 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2020–2022 | 黄海野牛(2020-2022),黄海SUV,已停产 |
+| model:huanghai:68b5840e21 | Huanghai Little Bull | 黄海·小牛 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2021 | 黄海小牛(2018-2021),黄海SUV,已停产 |
+| model:huanghai:cca12ee4b9 | Xiaochaishen | 小柴神 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2009–2014 | 小柴神(2009-2014),黄海皮卡,已停产 |
+| model:huanghai:cuv | Aolong CUV | 翱龙CUV | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2008–2012 | 翱龙CUV(2008-2012),黄海早期SUV,已停产 |
+| model:huanghai:huanghai-v3 | Qisheng V3 | 旗胜V3 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2011–2017 | 旗胜V3(2011-2017),黄海SUV,已停产 |
 | model:huanghai:jiaolong | Huanghai Jiaolong | 蛟龙 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2010–2015 | 中型皮卡 |
 | model:huanghai:n2 | Huanghai N2 | N2 | N2 | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2014–2019 | 中型皮卡 |
 | model:huanghai:n3 | Huanghai N3 | N3 | N3 | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2017–2020 | 中型皮卡,黄海大尺寸皮卡 |
 | model:huanghai:qisheng-f1 | Huanghai Qisheng F1 | 旗胜F1 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2008–2015 | 中型SUV,黄海首款SUV |
+| model:huanghai:suv | Challenger SUV | 挑战者SUV | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2010–2016 | 挑战者SUV(2010-2016),黄海SUV,已停产 |
 
 ## Huasong
 
@@ -1589,12 +2141,19 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:husun:c21 | Husun C21 | 北汽幻速C21 | 北汽幻速C21 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2019 | 北汽幻速紧凑型轿车,2018年上市 |
+| model:husun:c60 | Husun C60 | 北汽幻速C60 | 北汽幻速C60 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2019 | 北汽幻速紧凑型SUV,2018年亮相但未大规模量产 |
 | model:husun:h2 | Husun H2 | H2 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2019 | 北汽幻速紧凑型MPV |
 | model:husun:h2v | Husun H2V | H2V | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2016–2019 | 北汽幻速微面/面包车,H2的商用/货运版 |
 | model:husun:h3 | Husun H3 | H3 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2020 | 北汽幻速紧凑型MPV,七座布局 |
+| model:husun:h6-ev | Husun H6-EV | 北汽幻速H6-EV | 北汽幻速H6-EV | — | class:cn:mpv | body:van | pt:bev | discontinued · 2018–2020 | 北汽幻速H6纯电动版 |
+| model:husun:husun-h5 | Husun H5 | 北汽幻速H5 | 北汽幻速H5 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018–2019 | 北汽幻速紧凑型MPV,2018年上市 |
+| model:husun:husun-h6 | Husun H6 | 北汽幻速H6 | 北汽幻速H6 | — | class:cn:mpv | body:van | pt:ice | discontinued · 2017–2019 | 北汽幻速轻型客车/厢式货车,2017年上市 |
+| model:husun:husun-s4 | Husun S4 | 北汽幻速S4 | 北汽幻速S4 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2018–2019 | 北汽幻速小型SUV,2018年上市 |
 | model:husun:s2 | Husun S2 | S2 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2019 | 北汽幻速小型SUV |
 | model:husun:s3 | Husun S3 | S3 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2020 | 北汽幻速小型SUV,七座布局,幻速品牌销量支柱车型 |
 | model:husun:s5 | Husun S5 | S5 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2017–2019 | 北汽幻速紧凑型SUV |
+| model:husun:s5-ev | Husun S5-EV | 北汽幻速S5-EV | 北汽幻速S5-EV | — | class:cn:a | body:suv | pt:bev | discontinued · 2018–2020 | 北汽幻速S5纯电动版 |
 | model:husun:s6 | Husun S6 | S6 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2019 | 北汽幻速紧凑型SUV |
 | model:husun:s7 | Husun S7 | S7 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2017–2019 | 北汽幻速中型SUV,七座布局,幻速品牌旗舰车型 |
 
@@ -1602,23 +2161,48 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:hyundai:0c74ba5b5d | Matrix | 美佳 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2001–2010 | 美佳(Matrix,2001–2010),现代紧凑型MPV,中国由北京现代生产,2010年停产 |
+| model:hyundai:3d8bff1781 | Sonata NFC | 御翔 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2005–2009 | 御翔(NF,2005–2009),北京现代索纳塔(第五代NF),2009年停产 |
+| model:hyundai:76de9823c7 | Veracruz | 维拉克斯 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2006–2012 | 维拉克斯(Veracruz,2006–2012),现代大型SUV,2012年停产 |
+| model:hyundai:9be83f54d6 | Sonata Plug-in Hybrid | 索纳塔插电混动 | — | — | class:cn:a | body:sedan | pt:phev | discontinued · 2016–2019 | 索纳塔插电混动(2016–2019),北京现代索纳塔九PHEV,2019年停产 |
+| model:hyundai:9c6e7db9ee | Elantra Plug-in Hybrid | 领动插电混动 | — | — | class:cn:a | body:sedan | pt:phev | discontinued · 2019–2021 | 领动插电混动(2019–2021),领动(Elantra)插混版,2021年停产 |
+| model:hyundai:a9ebaaaf3e | Sonata Mingyu | 名驭 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2009–2013 | 名驭(2009–2013),北京现代索纳塔(EF)改款,2013年停产 |
 | model:hyundai:accent | Accent | 瑞纳/悦纳 | Accent | アクセント | class:eu:b | body:sedan | pt:ice | current · 1994–present | 小型轿车,印度称Verna;中国曾为瑞纳(2010-2020)/悦纳;部分市场Solaris |
+| model:hyundai:b0b63678e1 | Lafesta EV | 菲斯塔纯电动 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2020–2022 | 菲斯塔纯电动(2020–2022),菲斯塔纯电版,2022年停产 |
+| model:hyundai:b5086ce78e | County | 康恩迪 | — | — | class:cn:a | body:van | pt:ice | current · 1998–present | 康恩迪(County,1998–),现代中巴客车,中国由四川现代生产 |
+| model:hyundai:b8a04d4344 | Sonata Lingxiang | 领翔 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2011 | 领翔(NFC,2008–2011),北京现代索纳塔(NFC)改款,2011年停产 |
 | model:hyundai:creta | Creta | ix25 | Creta | クレタ | class:eu:b | body:crossover | pt:ice | current · 2015–present | 小型SUV,全球名Creta,中国名ix25(北京现代,2014-2021) |
 | model:hyundai:custo | Custo | 库斯途 | Custo | クスト | class:cn:mpv | body:mpv | pt:ice | current · 2021–present | 北京现代中大型MPV,2021年上市,主打家用七座 |
+| model:hyundai:e062062012 | Kona EV | 昂希诺纯电动 | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2019–2021 | 昂希诺纯电动(2019–2021),昂希诺(Kona)纯电版,2021年停产 |
+| model:hyundai:e5df07cd04 | Santa Fe Classic | 胜达经典 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2013–2019 | 胜达经典(2013–2019),北京现代胜达老款同堂销售,2019年停产 |
+| model:hyundai:ec22124d97 | Verna | 瑞纳 | — | — | class:cn:a0 | body:sedan | pt:ice | current · 2010–present | 瑞纳(Verna,2010–),北京现代小型轿车(Accent中国版),2020年换代 |
 | model:hyundai:elantra | Elantra | 伊兰特 | Elantra | エラントラ | class:eu:c | body:sedan | pt:ice | current · 1990–present | 韩国名Avante;澳大利亚称i30 Sedan;中国历代国产名伊兰特/悦动/朗动/领动 |
 | model:hyundai:elantra-n | Elantra N | 伊兰特N | Elantra N | エラントラ N | class:cn:a | body:sedan | pt:ice | current · 2022–present | 伊兰特高性能版,2022年起在中国市场销售,与普通伊兰特同车系 |
+| model:hyundai:encino | ENCINO Kona | ENCINO 昂希诺 | — | — | class:cn:a0 | body:suv | pt:ice | current · 2018–present | 昂希诺(ENCINO,2018–),北京现代小型SUV(Kona中国版),含昂希诺纯电动版 |
 | model:hyundai:equus | Equus | 雅科仕 | Equus(雅科仕) | エクウス | class:eu:f | body:sedan | pt:ice | discontinued · 1999–2016 | 现代旗舰豪华轿车,中国名「雅科仕」;后继为Genesis G90 |
 | model:hyundai:festa | Lafesta | 菲斯塔 | Lafesta | ラフェスタ | class:cn:a | body:sedan | pt:ice | current · 2018–present | 北京现代紧凑运动轿车,2018年上市,英文名LA FESTA |
 | model:hyundai:genesis-coupe | Genesis Coupe | 劳恩斯-酷派 | Genesis Coupe | ジェネシスクーペ | class:cn:b | body:coupe | pt:ice | discontinued · 2009–2015 | Genesis双门跑车中国进口名,基于劳恩斯平台,与劳恩斯轿车同代销售 |
 | model:hyundai:genesis-sedan | Genesis | 捷恩斯 | Genesis(捷恩斯) | ジェネシス | class:eu:e | body:sedan | pt:ice | discontinued · 2007–2016 | 现代品牌旗下豪华轿车(捷恩斯);2016年起转型为独立品牌Genesis的G80;另有双门跑车Genesis Coupe(2008-2016) |
 | model:hyundai:grand-santa-fe | Grand Santa Fe | 格越 | Grand Santa Fe | グランドサンタフェ | class:cn:c | body:suv | pt:ice | discontinued · 2013–2016 | Grand Santa Fe长轴版中国进口名,三排中大型SUV,与胜达(见model:hyundai:santa-fe)区分 |
 | model:hyundai:grandeur | Grandeur | 雅尊 | Grandeur | グランジェ | class:eu:e | body:sedan | pt:ice | current · 1986–present | 现代旗舰轿车,现款GN7(2022);北美/中国曾以Azera(雅尊)销售 |
+| model:hyundai:h-1 | H-1 | H-1辉翼 | — | — | class:cn:a | body:van | pt:ice | current · 2007–present | H-1辉翼(2007–),现代MPV(Starex/Grand Starex中国版),2021年换代 |
+| model:hyundai:hb20 | Hyundai HB20 | 现代HB20 | — | — | class:cn:a | body:hatchback | pt:ice | current · 2012–present | HB20(2012–),现代巴西市场小型车,2022年第三代 |
+| model:hyundai:hyundai-eo | EO Yiou | EO 羿欧 | — | — | class:cn:a | body:suv | pt:bev | current · 2025–present | EO羿欧(2025–),北京现代首款纯电SUV(E-GMP平台),2025年10月上市 |
+| model:hyundai:hyundai-ev | Elantra EV | 伊兰特EV | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2017–2019 | 伊兰特EV(2017–2019),北京现代纯电版伊兰特,2019年停产 |
+| model:hyundai:hyundai-rv | Accent RV | 悦纳RV | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2016–2019 | 悦纳RV(2016–2019),北京现代悦纳两厢版,2019年停产 |
 | model:hyundai:i10 | i10 | i10 | i10 | i10(アイ・テン) | class:eu:a | body:hatchback | pt:ice | current · 2007–present | A级城市车,含长轴距Grand i10;欧洲2026年1月起停产,印度市场继续 |
 | model:hyundai:i20 | i20 | i20 | i20 | i20(アイ・トゥエンティ) | class:eu:b | body:hatchback | pt:ice | current · 2008–present | B级掀背车,主打欧洲/印度市场;现款BC4(2026) |
 | model:hyundai:i30 | i30 | i30 | i30 | i30(アイ・サーティ) | class:eu:c | body:hatchback | pt:ice | current · 2007–present | C级掀背车,主打欧洲市场,含旅行版i30 Wagon与Fastback |
+| model:hyundai:i40 | Hyundai i40 | 现代i40 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2011–2019 | i40(2011–2019),现代欧洲市场中型车(旅行/三厢),2019年停产 |
+| model:hyundai:ioniq | IONIQ | IONIQ(艾尼氪) | — | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2016–2022 | IONIQ(2016–2022),现代油电混动/插混/纯电三合一车型,2022年停产 |
 | model:hyundai:ioniq-5 | IONIQ 5 | IONIQ 5 | IONIQ 5 | アイオニック5 | class:eu:c | body:crossover | pt:bev | current · 2021–present | 纯电跨界SUV,基于E-GMP平台;2022年世界风云车 |
+| model:hyundai:ioniq-5-n-5n | IONIQ 5 N( Ioniq 5N) | IONIQ 5 N(艾尼氪5N) | — | — | class:cn:a00 | body:suv | pt:bev | current · 2023–present | IONIQ 5 N(2023–),IONIQ 5的高性能N版 |
 | model:hyundai:ioniq-6 | IONIQ 6 | IONIQ 6 | IONIQ 6 | アイオニック6 | class:eu:d | body:sedan | pt:bev | current · 2022–present | 纯电中型轿跑,基于E-GMP平台 |
 | model:hyundai:ioniq-9 | IONIQ 9 | IONIQ 9 | IONIQ 9 | アイオニック9 | class:eu:j | body:suv | pt:bev | current · 2025–present | 三排纯电大型SUV,原规划名Ioniq 7,2025年上市时更名Ioniq 9 |
+| model:hyundai:ioniq-v | IONIQ( Ioniq )V | IONIQ(艾尼氪)V | — | — | class:cn:a00 | body:sedan | pt:bev | current · 2026–present | IONIQ V(2026–),现代IONIQ品牌中国特供纯电轿车,2026年上市 |
+| model:hyundai:ix20 | Hyundai ix20 | 现代ix20 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2010–2019 | ix20(2010–2019),现代欧洲市场小型MPV,2019年停产 |
+| model:hyundai:ix25 | ix25 | 北京现代ix25 | — | — | class:cn:a0 | body:suv | pt:ice | current · 2014–present | ix25(2014–),北京现代小型SUV(海外名Creta),2020年换代 |
+| model:hyundai:ix35 | ix35 | 北京现代ix35 | — | — | class:cn:b | body:suv | pt:ice | current · 2010–present | ix35(2010–),北京现代紧凑型SUV(Tucson中国版),2018年改款 |
 | model:hyundai:kona | Kona | Kona(昂希诺) | Kona | コナ | class:eu:b | body:crossover | pt:ice | current · 2017–present | 小型跨界SUV,现款SX2(2023);Kona Electric纯电版并入;中国版曾名昂希诺(已停) |
 | model:hyundai:langdong | Elantra | 朗动 | Elantra | エラントラ | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2017 | 伊兰特三代中国国产名,与悦动/领动同堂销售 |
 | model:hyundai:lingdong | Elantra | 领动 | Elantra | エラントラ | class:cn:a | body:sedan | pt:ice | current · 2016–present | 伊兰特四代中国国产名,领动插电混动版(2019-)并入本条 |
@@ -1637,7 +2221,7 @@
 | model:hyundai:tucson | Tucson | 途胜 | Tucson | ツーソン | class:eu:j | body:suv | pt:ice | current · 2004–present | 紧凑型SUV,现款NX4;中国Tucson L(途胜L)并入;中国曾以ix35(2010-2023)销售 |
 | model:hyundai:veloster | Veloster | 飞思 | Veloster | ベロスター | class:eu:c | body:hatchback | pt:ice | discontinued · 2011–2022 | 三门不对称掀背车(驾驶侧1门),中国名「飞思」 |
 | model:hyundai:venue | Venue | Venue | Venue | ヴェニュー | class:eu:b | body:crossover | pt:ice | current · 2019–present | 小型跨界SUV,定位低于Kona,主要面向新兴市场 |
-| model:hyundai:yixing | Elantra | 逸行 | Elantra | エラントラ | class:cn:a | body:wagon | pt:ice | discontinued · 2018–2020 | 现代紧凑旅行车,2018-2020年销售,基于悦动平台衍生 |
+| model:hyundai:yixing | Elantra | 逸行 | Elantra | エラントラ | class:cn:a | body:wagon | pt:ice | discontinued · 2018–2020 | 逸行(2018–2020),北京现代紧凑旅行车,基于悦动平台,2020年停产 |
 | model:hyundai:yuedong | Elantra | 悦动 | Elantra | エラントラ | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2020 | 伊兰特二代(HD)中国国产名,曾与伊兰特/朗动同堂销售 |
 
 ## IM
@@ -1659,14 +2243,17 @@
 | model:infiniti:g-series | G-Series | G系列 | G系列 | インフィニティG | class:cn:b | body:sedan | pt:ice | discontinued · 1990–2013 | 含 G20/G25/G35/G37 及轿跑/敞篷版;日本市场为日产 Skyline;后继 Q50/Q60 |
 | model:infiniti:jx | JX | JX | JX | インフィニティJX | class:eu:j | body:suv | pt:ice | discontinued · 2012–2013 | 英菲尼迪首款三排中大型SUV(即JX35),现QX60的前身;2013年改名QX60 |
 | model:infiniti:m-series | M-Series | M系列 | M系列 | インフィニティM | class:cn:c | body:sedan | pt:ice | discontinued · 1989–2013 | 含 M30/M35/M37/M45/M56;旗舰 Q45(1989–2006)同源;后继 Q70 |
+| model:infiniti:q30 | Infiniti Q30 | 英菲尼迪Q30 | — | — | class:eu:c | body:hatchback | pt:ice | discontinued · 2015–2019 | Q30(2015-2019),基于奔驰A级平台,与QX30同源,已停产 |
 | model:infiniti:q50 | Q50 | Q50 | Q50 | インフィニティQ50 | class:cn:b | body:sedan | pt:ice | discontinued · 2013–2024 | 运动中型轿车;日本市场以日产 Skyline(V37)销售;大陆东风英菲尼迪曾国产加长版 Q50L |
 | model:infiniti:q60 | Q60 | Q60 | Q60 | インフィニティQ60 | class:cn:b | body:coupe | pt:ice | discontinued · 2013–2022 | 双门轿跑;G 系列轿跑的继任者 |
 | model:infiniti:q70 | Q70 | Q70 | Q70 | インフィニティQ70 | class:cn:c | body:sedan | pt:ice | discontinued · 2013–2019 | 中大型豪华轿车;前身为 M 系列;日本市场为日产 Fuga/Cima |
 | model:infiniti:qx30 | QX30 | QX30 | QX30 | インフィニティQX30 | class:eu:j | body:suv | pt:ice | discontinued · 2017–2019 | 基于奔驰GLA平台(与Q30同源)的紧凑SUV,大陆曾以进口方式销售;已停产 |
 | model:infiniti:qx4 | QX4 | QX4 | QX4 | インフィニティQX4 | class:eu:j | body:suv | pt:ice | discontinued · 1996–2002 | 英菲尼迪首款 SUV,基于日产 Pathfinder/Terrano |
 | model:infiniti:qx50 | QX50 | QX50 | QX50 | インフィニティQX50 | class:eu:j | body:suv | pt:ice | discontinued · 2013–2025 | 紧凑豪华 SUV;前身为 EX(2007–2013);轿跑版为 QX55;2025 款为末代,2025 年停产 |
+| model:infiniti:qx55 | QX55 | QX55 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2021–2025 | QX55(2021-2025),QX50轿跑版,2025年停产 |
 | model:infiniti:qx60 | QX60 | QX60 | QX60 | インフィニティQX60 | class:eu:j | body:suv | pt:ice | current · 2014–present | 三排中大型豪华 SUV;前身为 JX(2012–2013);大陆东风英菲尼迪国产 QX60 |
-| model:infiniti:qx65 | QX65 | QX65 | QX65 | インフィニティQX65 | class:eu:j | body:crossover | pt:ice | current · 2026–present | QX60 的轿跑 SUV 版本,2026 年新发布(待核实上市详情) |
+| model:infiniti:qx65 | QX65 | QX65 | QX65 | インフィニティQX65 | class:eu:j | body:crossover | pt:ice | current · 2026–present | QX65(2026-),QX60的轿跑SUV版本 |
+| model:infiniti:qx70 | QX70 | QX70 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2013–2017 | QX70(2013-2017),FX更名后的轿跑风格SUV,已停产 |
 | model:infiniti:qx80 | QX80 | QX80 | QX80 | インフィニティQX80 | class:us:standard-suv | body:suv | pt:ice | current · 2014–present | 全尺寸豪华 SUV;前身为 QX56(2004–2013);与日产 Patrol/Armada 同平台 |
 
 ## Isuzu
@@ -1674,13 +2261,20 @@
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
 | model:isuzu:117-coupe | 117 Coupe | — | — | 117クーペ | class:eu:s | body:coupe | pt:ice | discontinued · 1968-1981 | 经典GT轿跑(Giorgetto Giugiaro设计);1981年由Piazza接替 |
+| model:isuzu:203c3b61be | Isuzu Rodeo | 五十铃竞技者 | 五十鈴競技者 | いすゞ ロデオ | class:us:standard-suv | body:suv | pt:ice | discontinued · 1999–2005 | 庆铃五十铃国产SUV,原型为Isuzu Rodeo(北美)/MU(日本);非承载式,含柴油版 |
+| model:isuzu:805d752b28 | Isuzu Yifang | 五十铃翼放 | 五十鈴翼放 | いすゞ イーファン | class:jp:normal | body:pickup | pt:ice | current · 2020–present | 江西五十铃生产的轻卡,基于Isuzu ELF平台,2020年上市 |
 | model:isuzu:aska | Aska | — | — | アスカ | class:eu:d | body:sedan | pt:ice | discontinued · 1983-2002 | 中型轿车;先后基于GM J-car/斯巴鲁Legacy/本田Accord平台;2002年停产 |
 | model:isuzu:d-max | D-MAX | D-MAX | D-MAX | D-MAX(ディーマックス) | class:us:pickup | body:pickup | pt:ice | current · 2002-present | 中型皮卡,全球销售;大陆由江西五十铃生产 |
 | model:isuzu:elf | Elf | — | — | エルフ | class:jp:normal | body:van | pt:ice | current · 1959-present | 轻型卡车(平头轻卡);现行款为马自达Titan贴牌(2017起) |
 | model:isuzu:gemini | Gemini | — | — | ジェミニ | class:eu:c | body:sedan | pt:ice | discontinued · 1974-2000 | 紧凑轿车;澳洲称Holden Gemini;日本Piazza/北美Impulse二代与其同平台 |
 | model:isuzu:impulse | Impulse | — | — | ピアッツァ | class:eu:s | body:coupe | pt:ice | discontinued · 1981-1993 | 运动轿跑(liftback);日本名Piazza(ピアッツァ),北美称Impulse |
+| model:isuzu:isuzu-ev | Isuzu Ruimai EV | 瑞迈EV | 瑞邁EV | リーマックスEV | class:us:pickup | body:pickup | pt:bev | current · 2020–present | 江西五十铃瑞迈纯电动版,纯电皮卡 |
+| model:isuzu:isuzu-ev-2 | Isuzu Yifang EV | 五十铃翼放EV | 五十鈴翼放EV | いすゞ イーファンEV | class:jp:normal | body:pickup | pt:bev | current · 2021–present | 江西五十铃翼放纯电动轻卡 |
 | model:isuzu:mu-x | MU-X | 牧游侠(MU-X) | MU-X | MU-X(エムユーエックス) | class:us:standard-suv | body:suv | pt:ice | current · 2013-present | 基于D-MAX的非承载式SUV;大陆江西五十铃名「牧游侠」 |
+| model:isuzu:re-max | Isuzu RE-MAX | 五十铃瑞迈 | 五十鈴瑞邁 | いすゞ リーマックス | class:us:pickup | body:pickup | pt:ice | current · 2015–present | 江西五十铃生产的皮卡,基于D-MAX平台,定位低于D-MAX;含加长版瑞迈S |
 | model:isuzu:t17 | T17 | 庆铃T17 | T17 | T17 | class:us:pickup | body:pickup | pt:ice | current · 2017–present | 庆铃五十铃生产的皮卡(基于五十铃TF系列技术),2017年上市,2023年仍推出新款 |
+| model:isuzu:t28 | Qingling Isuzu T28 | 庆铃T28 | 慶鈴T28 | ケイレイ T28 | class:us:pickup | body:pickup | pt:ice | current · 2020–present | 庆铃五十铃生产的皮卡,2020年上市,搭载五十铃4K系列柴油发动机 |
+| model:isuzu:t30 | Qingling Isuzu T30 | 庆铃五十铃T30 | 慶鈴五十鈴T30 | ケイレイ T30 | class:us:pickup | body:pickup | pt:ice | current · 2023–present | 庆铃五十铃生产的全新皮卡,2023年上市,搭载五十铃3.0T柴油发动机 |
 | model:isuzu:taga | TAGA | 达咖(TAGA) | TAGA | TAGA | class:us:pickup | body:pickup | pt:ice | current · 2017–present | 江西五十铃生产的皮卡,2017年上市,与D-MAX同平台;2021年推出改款TAGA H |
 | model:isuzu:trooper | Trooper | 竞技者(庆铃) | Trooper | ビッグホーン | class:us:standard-suv | body:suv | pt:ice | discontinued · 1981-2002 | 非承载式大型SUV;日本名Bighorn(ビッグホーン);大陆重庆庆铃曾组装「竞技者」 |
 
@@ -1696,27 +2290,41 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:jac:a5-plus | JAC A5 PLUS | 江淮A5 PLUS | — | — | class:cn:b | body:sedan | pt:ice | current · 2023-present | 江淮A5 PLUS(2023-),江淮紧凑型轿车 |
+| model:jac:d2f3702a23 | Aipao | 爱跑 | — | — | class:cn:a | body:sedan | pt:bev | current · 2022-present | 思皓爱跑(2022-),江汽集团纯电轿车(思皓品牌) |
+| model:jac:ed7250e7b2 | Yiwei Flower Fairy | 钇为花仙子 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2024-present | 钇为花仙子(2024-),江淮钇为子品牌纯电微型车(原思皓E10X更名) |
 | model:jac:heyue | JAC Heyue | 和悦 | 和悅 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2009–2015 | 紧凑型轿车,含和悦A30;与和悦RS(后更名瑞风M2)同系列 |
-| model:jac:iev6e | JAC iEV6E | iEV6E | iEV6E | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2017–2022 | 纯电微型车,iEV系列主力车型 |
-| model:jac:iev7s | JAC iEV7S | iEV7S | iEV7S | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2017–2021 | 纯电小型SUV,取代iEV6S,已停售 |
+| model:jac:iev6e | JAC iEV6E | iEV6E | iEV6E | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2017-2021 | iEV6E(2017-2021),江淮纯电微型车,iEV系列主力车型,2021年停产 |
+| model:jac:iev7s | JAC iEV7S | iEV7S | iEV7S | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2017-2020 | iEV7S(2017-2020),江淮纯电小型SUV,取代iEV6S,2020年停产 |
+| model:jac:jac-3 | Yiwei 3 | 钇为3 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2023-present | 钇为3(2023-),江淮钇为子品牌纯电小型车 |
+| model:jac:jac-e3 | Refine E3 | 瑞风E3 | — | — | class:cn:a | body:van | pt:bev | current · 2022-present | 瑞风E3(2022-),瑞风M3的纯电版 |
+| model:jac:jac-e4 | Refine E4 | 瑞风E4 | — | — | class:cn:a | body:mpv | pt:bev | current · 2023-present | 瑞风E4(2023-),瑞风M4的纯电版 |
+| model:jac:jac-l5 | Refine L5 | 瑞风L5 | — | — | class:cn:a | body:mpv | pt:ice | current · 2022-present | 瑞风L5(2022-),瑞风M5的更名车型 |
 | model:jac:jiayue-a5 | JAC Jiayue A5 | 嘉悦A5 | 嘉悅A5 | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2019–2022 | 紧凑型掀背轿车,嘉悦系列首款轿车,后过渡至思皓A5品牌 |
-| model:jac:jiayue-x4 | JAC Jiayue X4 | 嘉悦X4 | 嘉悅X4 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2020–2022 | 小型SUV,江淮乘用车3.0时代嘉悦X系列 |
-| model:jac:jiayue-x7 | JAC Jiayue X7 | 嘉悦X7 | 嘉悅X7 | — | class:cn:b | body:suv | pt:ice | discontinued · 2020–2022 | 中型SUV,与思皓X7同源,已停产 |
-| model:jac:refine-a60 | JAC Refine A60 | 瑞风A60 | 瑞風A60 | — | class:cn:c | body:sedan | pt:ice | discontinued · 2016–2020 | 中大型轿车,江淮旗舰轿车,销量低迷提前停产 |
-| model:jac:refine-m2 | JAC Refine M2 | 瑞风M2 | 瑞風M2 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2009–2015 | 紧凑型MPV,原为江淮和悦RS(2009年发布),2014年更名瑞风M2 |
-| model:jac:refine-m3 | JAC Refine M3 | 瑞风M3 | 瑞風M3 | — | class:cn:mpv | body:mpv | pt:ice | current · 2015–present | 紧凑型商务MPV,瑞风品牌主力车型,现售状态待核实 |
-| model:jac:refine-m4 | JAC Refine M4 | 瑞风M4 | 瑞風M4 | — | class:cn:mpv | body:mpv | pt:ice | current · 2016–present | 中型商务MPV,现售状态待核实 |
-| model:jac:refine-m5 | JAC Refine M5 | 瑞风M5 | 瑞風M5 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2011–2022 | 中大型MPV,承继初代瑞风(2002),2022年更名瑞风L5 |
-| model:jac:refine-r3 | JAC Refine R3 | 瑞风R3 | 瑞風R3 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018–2019 | 7座家用MPV,2018年上市后不久即停产 |
-| model:jac:refine-s2 | JAC Refine S2 | 瑞风S2 | 瑞風S2 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2015–2019 | 小型SUV,含瑞风S2mini版(2017年起) |
+| model:jac:jiayue-x4 | JAC Jiayue X4 | 嘉悦X4 | 嘉悅X4 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2020-2022 | 嘉悦X4(2020-2022),江淮乘用车3.0时代小型SUV,2022年停产 |
+| model:jac:jiayue-x7 | JAC Jiayue X7 | 嘉悦X7 | 嘉悅X7 | — | class:cn:b | body:suv | pt:ice | discontinued · 2019-2021 | 嘉悦X7(2019-2021),江淮中型SUV,与思皓X7同源,2021年停产 |
+| model:jac:l6-max | Refine L6 MAX | 瑞风L6 MAX | — | — | class:cn:a | body:mpv | pt:ice | current · 2021-present | 瑞风L6 MAX(2021-),江淮大型商务MPV |
+| model:jac:m3-phev | Refine M3 PHEV | 瑞风M3 PHEV | — | — | class:cn:b | body:mpv | pt:phev | current · 2023-present | 瑞风M3 PHEV(2023-),瑞风M3插电混动版 |
+| model:jac:qx-phev | JAC QX PHEV | 江淮QX PHEV | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 江淮QX PHEV(2024-),江淮X8系列的插电混动版 |
+| model:jac:refine-a60 | JAC Refine A60 | 瑞风A60 | 瑞風A60 | — | class:cn:c | body:sedan | pt:ice | discontinued · 2015-2019 | 瑞风A60(2015-2019),江淮旗舰轿车,销量低迷提前停产 |
+| model:jac:refine-m2 | JAC Refine M2 | 瑞风M2 | 瑞風M2 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2014-2019 | 瑞风M2(2014-2019),紧凑型MPV,原为江淮和悦RS(2009年发布),2014年更名瑞风M2,2019年停产 |
+| model:jac:refine-m3 | JAC Refine M3 | 瑞风M3 | 瑞風M3 | — | class:cn:mpv | body:mpv | pt:ice | current · 2015-present | 瑞风M3(2015-),江淮紧凑型商务MPV,瑞风品牌主力车型 |
+| model:jac:refine-m4 | JAC Refine M4 | 瑞风M4 | 瑞風M4 | — | class:cn:mpv | body:mpv | pt:ice | current · 2016-present | 瑞风M4(2016-),江淮中型商务MPV |
+| model:jac:refine-m5 | JAC Refine M5 | 瑞风M5 | 瑞風M5 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2012-2022 | 瑞风M5(2012-2022),中大型MPV,承继初代瑞风(2002),2022年更名瑞风L5 |
+| model:jac:refine-r3 | JAC Refine R3 | 瑞风R3 | 瑞風R3 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018-2019 | 瑞风R3(2018-2019),7座家用MPV,2018年上市后不久即停产 |
+| model:jac:refine-s2 | JAC Refine S2 | 瑞风S2 | 瑞風S2 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2015-2019 | 瑞风S2(2015-2019),小型SUV,含瑞风S2mini版(2017年起),2019年停产 |
 | model:jac:refine-s3 | JAC Refine S3 | 瑞风S3 | 瑞風S3 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2020 | 江淮瑞风S3小型SUV,曾长期位居自主SUV销量前列 |
-| model:jac:refine-s4 | JAC Refine S4 | 瑞风S4 | 瑞風S4 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2021 | 紧凑型SUV |
-| model:jac:refine-s5 | JAC Refine S5 | 瑞风S5 | 瑞風S5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2013–2020 | 紧凑型SUV |
-| model:jac:refine-s7 | JAC Refine S7 | 瑞风S7 | 瑞風S7 | — | class:cn:b | body:suv | pt:ice | discontinued · 2017–2021 | 中型SUV |
+| model:jac:refine-s4 | JAC Refine S4 | 瑞风S4 | 瑞風S4 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018-2021 | 瑞风S4(2018-2021),江淮紧凑型SUV,2021年停产 |
+| model:jac:refine-s5 | JAC Refine S5 | 瑞风S5 | 瑞風S5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2013-2018 | 瑞风S5(2013-2018),江淮紧凑型SUV,2018年停产 |
+| model:jac:refine-s7 | JAC Refine S7 | 瑞风S7 | 瑞風S7 | — | class:cn:b | body:suv | pt:ice | discontinued · 2017-2020 | 瑞风S7(2017-2020),江淮中型SUV,2020年停产 |
+| model:jac:rf8 | Refine RF8 | 瑞风RF8 | — | — | class:cn:a | body:mpv | pt:ice | current · 2024-present | 瑞风RF8(2024-),江淮高端MPV |
+| model:jac:rf8-phev | Refine RF8 PHEV | 瑞风RF8 PHEV | — | — | class:cn:a | body:mpv | pt:phev | current · 2024-present | 瑞风RF8 PHEV(2024-),瑞风RF8插电混动版 |
 | model:jac:ruiying | JAC Rein | 瑞鹰 | 瑞鷹 | — | class:cn:a | body:suv | pt:ice | discontinued · 2007–2016 | 紧凑型SUV,江淮首款SUV |
-| model:jac:sunray | JAC Sunray | 星锐 | 星銳 | — | class:cn:mpv | body:van | pt:ice | current · 2011–present | 轻客(欧系Van),江淮商用车主力,现售状态待核实 |
+| model:jac:sunray | JAC Sunray | 星锐 | 星銳 | — | class:cn:mpv | body:van | pt:ice | current · 2010-present | 星锐(Sunray,2010-),江淮轻客(欧系Van),商用车主力 |
 | model:jac:t6 | JAC T6 | T6 | T6 | — | class:cn:mpv | body:pickup | pt:ice | current · 2015–present | 中型皮卡,2023款在售;商用皮卡4R3/K5并入本条 |
 | model:jac:tongyue | JAC Tongyue | 同悦 | 同悅 | — | class:cn:a0 | body:sedan | pt:ice | discontinued · 2008–2015 | 小型轿车,江淮乘用车早期主力,含同悦RS两厢版 |
+| model:jac:x8-e | JAC X8 E-Family | 江淮X8 E家 | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 江淮X8 E家(2024-),江淮X8系列的插混SUV |
+| model:jac:x8-plus | JAC X8 PLUS | 江淮X8 PLUS | — | — | class:cn:a | body:suv | pt:ice | current · 2024-present | 江淮X8 PLUS(2024-),江淮X8系列换代SUV |
 | model:jac:yueyue | JAC Yueyue | 悦悦 | 悅悅 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2011–2014 | 微型两厢车,江淮A00级小车 |
 
 ## Jaguar
@@ -1774,14 +2382,24 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:jinbei:58b719efd8 | Guanjing | 观境 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2019–2020 | 观境(2019-2020),金杯紧凑型SUV,已停产 |
 | model:jinbei:750 | Jinbei 750 | 750 | 750 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2020 | 华晨金杯750紧凑型MPV(7座家用) |
+| model:jinbei:8be17a16aa | Leilong | 雷龙 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2014–2017 | 雷龙(2014-),华晨华瑞皮卡,已停售 |
 | model:jinbei:f50 | Jinbei F50 | F50 | F50 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2017–2020 | 金杯F50紧凑型MPV(7座家用) |
 | model:jinbei:grace | Jinbei Grace | 阁瑞斯 | 閣瑞斯 | — | class:cn:mpv | body:mpv | pt:ice | current · 2004–present | 金杯阁瑞斯商务MPV(轻客),源自丰田Granvia技术,英文名Grace |
 | model:jinbei:haishi | Jinbei Haishi | 海狮 | 海獅 | — | class:cn:mpv | body:van | pt:ice | current · 1989–present | 金杯海狮轻客,金杯经典车型,源自丰田Hiace技术,多次改款 |
 | model:jinbei:haixing-t20 | Jinbei T20 | 海星T20 | 海星T20 | — | class:cn:mpv | body:pickup | pt:ice | current · 2016–present | 金杯海星T20微卡,海星系列 |
 | model:jinbei:kuaijin | Jinbei Kuaijin | 快运 | 快運 | — | class:cn:mpv | body:van | pt:ice | current · 2013–present | 金杯快运系列轻客,工具车定位(新海狮快运/阁瑞斯快运) |
+| model:jinbei:s35 | Zhishang S35 | 智尚S35 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2018 | 智尚S35(2016-2018),金杯小型SUV,已停产 |
+| model:jinbei:s70 | Jinbei S70 | 金杯S70 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2017–2019 | 金杯S70(2017-2019),7座SUV,基于蒂阿兹平台,已停产 |
+| model:jinbei:t20s | T20S | 鑫源T20S | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2016–present | 鑫源T20S,华晨鑫源微卡(金杯渠道) |
+| model:jinbei:t22s | T22S | 鑫源T22S | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2016–present | 鑫源T22S,华晨鑫源微卡(金杯渠道) |
 | model:jinbei:t3 | Jinbei T3 | T3 | T3 | — | class:cn:mpv | body:pickup | pt:ice | current · 2018–present | 金杯T3微卡 |
+| model:jinbei:t30s | T30S | 鑫源T30S | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2016–present | 鑫源T30S,华晨鑫源微卡(金杯渠道) |
+| model:jinbei:t32s | T32S | 鑫源T32S | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2016–present | 鑫源T32S,华晨鑫源微卡(金杯渠道) |
 | model:jinbei:t5 | Jinbei T5 | T5 | T5 | — | class:cn:mpv | body:pickup | pt:ice | current · 2018–present | 金杯T5微卡 |
+| model:jinbei:t50s | T50S | 鑫源T50S | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2016–present | 鑫源T50S,华晨鑫源微卡(金杯渠道) |
+| model:jinbei:t52s | T52S | 鑫源T52S | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2016–present | 鑫源T52S,华晨鑫源微卡(金杯渠道) |
 | model:jinbei:xiaohaishi-x30 | Jinbei X30 | 小海狮X30 | 小海獅X30 | — | class:cn:mpv | body:van | pt:ice | current · 2014–present | 金杯小海狮X30微面/轻客 |
 | model:jinbei:xinhaishi-s | Jinbei Xinhaishi S | 新海狮S | 新海獅S | — | class:cn:mpv | body:van | pt:ice | current · 2018–present | 金杯新海狮S微面/轻客 |
 | model:jinbei:xinhaishi-x30l | Jinbei X30L | 新海狮X30L | 新海獅X30L | — | class:cn:mpv | body:van | pt:ice | current · 2018–present | 金杯新海狮X30L微面/轻客,长轴加长版 |
@@ -1791,9 +2409,25 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:jmc:05s | Yichi 05S | 羿驰05S | — | — | class:cn:a | body:suv | pt:bev | current · 2024–present | 羿驰05S(2024-),纯电紧凑型SUV |
+| model:jmc:322ebcf2ae | Dadao | 大道 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2023–present | 江铃大道(2023-),全新皮卡序列,含越野版 |
 | model:jmc:baodian | JMC Baodian | 宝典 | 寶典 | — | class:cn:mpv | body:pickup | pt:ice | current · 2005–present | 中型皮卡,江铃经典皮卡,多次改款延续生产 |
+| model:jmc:def093fa3c | Yi | 羿 | — | — | class:cn:a | body:sedan | pt:bev | current · 2021–present | 羿(2021-),江铃新能源纯电紧凑型轿车 |
 | model:jmc:e100b | JMC E100B | E100B | E100B | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2016–2019 | 纯电微型车,江铃新能源早期车型 |
+| model:jmc:e160 | JMC E160 | 江铃E160 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · — | 江铃E160,纯电小型轿车,江铃新能源早期车型 |
+| model:jmc:e200l | JMC E200L | 江铃E200L | — | — | class:cn:a | body:sedan | pt:bev | discontinued · — | 江铃E200L,纯电小型轿车,江铃新能源早期车型 |
+| model:jmc:e200n | JMC E200N | 江铃E200N | — | — | class:cn:a | body:sedan | pt:bev | discontinued · — | 江铃E200N,纯电小型轿车(E200改款),已停产 |
+| model:jmc:ev2 | Yi Zhi EV2 | 易至EV2 | — | — | class:cn:a00 | body:hatchback | pt:bev | current · — | 易至EV2,江铃新能源(江铃集团)微型纯电车 |
+| model:jmc:ev3 | Yi Zhi EV3 | 易至EV3 | — | — | class:cn:a | body:hatchback | pt:bev | current · — | 易至EV3,江铃新能源小型纯电车,含青春版 |
+| model:jmc:ex5 | Yi Zhi EX5 | 易至EX5 | — | — | class:cn:a | body:suv | pt:bev | discontinued · — | 易至EX5,纯电紧凑型SUV,已停产停售 |
 | model:jmc:fushun | JMC Fushun | 福顺 | 福順 | — | class:cn:mpv | body:van | pt:ice | current · 2022–present | 轻客,江铃新一代轻客产品 |
+| model:jmc:jmc-01 | Yichi 01 | 羿驰01 | — | — | class:cn:a | body:coupe | pt:bev | current · 2025–present | 羿驰01(2025-),纯电两门两座硬顶跑车,双电机四驱 |
+| model:jmc:jmc-05 | Yichi 05 | 羿驰05 | — | — | class:cn:a | body:sedan | pt:bev | current · 2024–present | 羿驰05(2024-),江铃新能源纯电紧凑型轿车,含换电版 |
+| model:jmc:jmc-06 | Yichi 06 | 颐驰06 | — | — | class:cn:b | body:mpv | pt:bev | current · 2024–present | 颐驰06(2024-),江铃新能源与百度Apollo联合开发,专供无人驾驶出行服务的中型纯电MPV |
+| model:jmc:jmc-9 | Yuhu 9 | 域虎9 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2019–present | 全尺寸皮卡,域虎系列旗舰,2022款在售 |
+| model:jmc:jmc-9-2 | Yuhu 9 Multi-purpose Vehicle | 域虎9多功能车 | — | — | class:cn:mpv | body:pickup | pt:ice | current · — | 域虎9多功能车版,商用变体 |
+| model:jmc:jmc-e | E Lufu | E路福 | — | — | class:cn:mpv | body:van | pt:bev | current · 2024–present | 江铃晶马E路福(2024-),纯电动封闭货车 |
+| model:jmc:jmc-ev | Yuhu EV | 域虎EV | — | — | class:cn:mpv | body:pickup | pt:bev | current · — | 域虎EV,纯电皮卡 |
 | model:jmc:teshun | JMC Teshun | 特顺 | 特順 | — | class:cn:mpv | body:van | pt:ice | current · 2016–present | 轻客,基于福特全顺技术平台 |
 | model:jmc:yuhu-5 | JMC Yuhu 5 | 域虎5 | 域虎5 | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2017–2021 | 中型皮卡,域虎系列;域虎3(2018–2020)并入本条 |
 | model:jmc:yuhu-7 | JMC Yuhu 7 | 域虎7 | 域虎7 | — | class:cn:mpv | body:pickup | pt:ice | current · 2017–present | 中型皮卡,2022款在售,域虎系列主力 |
@@ -1834,8 +2468,29 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
-| model:karoo:k50 | Karoo K50 | K50 | K50 | — | class:cn:mpv | body:mpv | pt:ice | current · 2014–present | 开瑞K50紧凑型MPV(7座家用) |
+| model:karoo:13ec2d777c | Youyi | 优翼 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2010-2015 | 优翼(2010-2015),开瑞微面,2015年停产 |
+| model:karoo:32d0b228d4 | Yousheng | 优胜 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2010-2015 | 优胜(2010-2015),开瑞微面,2015年停产 |
+| model:karoo:37950c1f12 | Jiehu | 杰虎 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2013-2018 | 杰虎(2013-2018),开瑞皮卡,2018年停产 |
+| model:karoo:48796f165c | Youpai | 优派 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2011-2015 | 优派(2011-2015),开瑞微面,2015年停产 |
+| model:karoo:edad7c4850 | Finless Porpoise | 江豚 | — | — | class:cn:a | body:van | pt:bev | current · 2023-present | 江豚(2023-),开瑞纯电物流车 |
+| model:karoo:ek1 | Karoo EK1 | 开瑞EK1 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2022-present | 开瑞EK1(2022-),开瑞纯电微型车 |
+| model:karoo:k50 | Karoo K50 | K50 | K50 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015-2020 | 开瑞K50(2015-2020),开瑞紧凑型MPV(7座家用),2020年停产 |
+| model:karoo:k50ev | Karoo K50EV | 开瑞K50EV | — | — | class:cn:a | body:mpv | pt:bev | discontinued · 2019-2021 | 开瑞K50EV(2019-2021),K50纯电版,2021年停产 |
 | model:karoo:k60 | Karoo K60 | K60 | K60 | — | class:cn:a | body:suv | pt:ice | current · 2016–present | 开瑞K60紧凑型SUV/MPV跨界(7座) |
+| model:karoo:k60ev | Karoo K60EV | 开瑞K60EV | — | — | class:cn:a | body:suv | pt:bev | current · 2019-present | 开瑞K60EV(2019-),K60纯电版 |
+| model:karoo:karoo-2 | Yousheng 2 Gen | 优胜2代 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2012-2016 | 优胜2代(2012-2016),开瑞微面,2016年停产 |
+| model:karoo:karoo-e5 | Finless Porpoise E5 | 江豚E5 | — | — | class:cn:a | body:van | pt:bev | current · 2023-present | 江豚E5(2023-),开瑞纯电物流车 |
+| model:karoo:karoo-e6 | Finless Porpoise E6 | 江豚E6 | — | — | class:cn:a | body:van | pt:bev | current · 2023-present | 江豚E6(2023-),开瑞纯电物流车 |
+| model:karoo:karoo-e7 | Finless Porpoise E7 | 江豚E7 | — | — | class:cn:a | body:van | pt:bev | current · 2023-present | 江豚E7(2023-),开瑞纯电物流车 |
+| model:karoo:karoo-ev | Youyou EV | 优优EV | — | — | class:cn:a | body:van | pt:bev | current · 2019-present | 优优EV(2019-),开瑞纯电微面 |
+| model:karoo:karoo-ev-2 | Youjin EV | 优劲EV | — | — | class:cn:a | body:pickup | pt:bev | current · 2019-present | 优劲EV(2019-),开瑞纯电微卡 |
+| model:karoo:karoo-t5 | Youjin T5 | 优劲T5 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2015-2020 | 优劲T5(2015-2020),开瑞微卡,2020年停产 |
+| model:karoo:karoo-x3 | Elephant X3 | 小象X3 | — | — | class:cn:b | body:pickup | pt:ice | current · 2022-present | 小象X3(2022-),开瑞微卡 |
+| model:karoo:karoo-x5 | Elephant X5 | 小象X5 | — | — | class:cn:c | body:pickup | pt:ice | current · 2022-present | 小象X5(2022-),开瑞微卡 |
+| model:karoo:karoo-x6 | X6 | X6 | — | — | class:cn:c | body:suv | pt:ice | discontinued · 2016-2020 | 开瑞X6(2016-2020),开瑞紧凑型SUV,2020年停产 |
+| model:karoo:karoo-x7 | Elephant X7 | 小象X7 | — | — | class:cn:c | body:pickup | pt:ice | current · 2022-present | 小象X7(2022-),开瑞微卡 |
+| model:karoo:s-ev | Elephant S Card EV | 小象S卡EV | — | — | class:cn:a | body:pickup | pt:bev | current · 2022-present | 小象S卡EV(2022-),开瑞纯电微卡 |
+| model:karoo:x70 | Karoo X70 | 开瑞X70 | — | — | class:cn:a | body:van | pt:ice | current · 2023-present | 开瑞X70(2023-),开瑞轻客 |
 | model:karoo:youjin | Karoo Youjin | 优劲 | 優勁 | — | class:cn:mpv | body:pickup | pt:ice | current · 2011–present | 开瑞优劲微卡 |
 | model:karoo:youya | Karoo Youya | 优雅 | 優雅 | — | class:cn:mpv | body:van | pt:ice | discontinued · 2009–2015 | 开瑞优雅微面/MPV,开瑞品牌早期车型 |
 | model:karoo:youya-2 | Karoo Youya 2 | 优雅2代 | 優雅2代 | — | class:cn:mpv | body:van | pt:ice | discontinued · 2014–2018 | 开瑞优雅2代微面,优雅换代车型 |
@@ -1846,10 +2501,15 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:kia:21821b6fca | Qianlima | 千里马 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2002-2008 | 千里马(2002-2008),东风悦达起亚首款车型(Accent中国版),2008年停产 |
+| model:kia:a337bcf525 | Borrego | 霸锐 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2008-2020 | 霸锐(Borrego,2008-2020),起亚中大型SUV,中国以进口销售,2020年停产 |
+| model:kia:b71f5ce6b5 | Optima | 远舰 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2003-2010 | 远舰(Optima,2003-2010),东风悦达起亚中型轿车(Optima MG中国版),2010年停产 |
 | model:kia:cadenza | Cadenza | 凯尊 | Cadenza | カデンツァ | class:cn:c | body:sedan | pt:ice | discontinued · 2011–2015 | Cadenza中国进口名,中大型轿车,接替欧菲莱斯,2011-2015年销售 |
 | model:kia:carens | Carens | 佳乐 | Carens | カレンス | class:eu:m | body:mpv | pt:ice | current · 1999–present | 紧凑MPV,2022年在印度以跨界MPV复活;韩国市场2006-2022年称Rondo;中国进口名「佳乐」 |
 | model:kia:carnival | Carnival | 嘉华 | Carnival | カーニバル | class:eu:m | body:minivan | pt:ice | current · 1998–present | 中大型MPV,现款KA4(2020,含混动);中国名「嘉华」;北美2022年起称Carnival(原Sedona) |
+| model:kia:ceed | Kia Ceed | 起亚Ceed | — | — | class:cn:a | body:hatchback | pt:ice | current · 2006-present | Ceed(2006-),起亚欧洲市场紧凑型车,2021年第三代 |
 | model:kia:cerato | Cerato | 赛拉图 | Cerato | セラト | class:cn:a | body:sedan | pt:ice | discontinued · 2005–2015 | Cerato初代中国国产名,2005-2015年销售,后被K3接替 |
+| model:kia:e44f02c285 | Sonet | 索奈 | — | — | class:cn:a | body:suv | pt:ice | current · 2024-present | 索奈(Sonet,2024-),悦达起亚小型SUV |
 | model:kia:ev3 | EV3 | EV3 | EV3 | EV3 | class:eu:c | body:suv | pt:bev | current · 2024–present | 纯电紧凑型SUV,基于E-GMP平台 |
 | model:kia:ev5 | EV5 | EV5 | EV5 | EV5 | class:eu:c | body:suv | pt:bev | current · 2023–present | 纯电紧凑型SUV,中国首发,基于N3 eK平台 |
 | model:kia:ev6 | EV6 | EV6 | EV6 | EV6 | class:eu:c | body:crossover | pt:bev | current · 2021–present | 纯电跨界SUV,基于E-GMP平台;2022年欧洲年度车 |
@@ -1857,11 +2517,15 @@
 | model:kia:forte | Forte | 福瑞迪 | Forte/Cerato | フォルテ | class:eu:c | body:sedan | pt:ice | discontinued · 2008–2024 | 紧凑型轿车,部分市场名Cerato/K3;中国国产名「福瑞迪」;被K4取代 |
 | model:kia:k2 | K2 | K2 | K2 | K2 | class:cn:a0 | body:sedan | pt:ice | current · 2011–present | 东风悦达起亚小型轿车,2011年上市,基于Rio平台的中国专属车型 |
 | model:kia:k3 | K3 | K3 | K3 | K3 | class:cn:a | body:sedan | pt:ice | current · 2012–present | 东风悦达起亚紧凑轿车,2012年上市,对应Cerato三代;K3S两厢版(2014-2016)并入本条 |
+| model:kia:k3s | Kia K3S | 起亚K3S | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2014-2017 | K3S(2014-2017),K3两厢版,2017年停产 |
 | model:kia:k4 | K4 | K4(凯绅) | K4 | K4 | class:cn:b | body:sedan | pt:ice | current · 2014–present | 东风悦达起亚中型轿车,2014年上市,2017年改款后中国名凯绅,凯绅并入本条 |
 | model:kia:k5 | K5 | K5(凯酷) | K5 | K5 | class:eu:d | body:sedan | pt:ice | current · 2000–present | 中型轿车,2010年前称Optima(远舰/欧迪玛);中国国产名K5凯酷 |
 | model:kia:k900 | K900 | K9 | K9 | K9 | class:eu:f | body:sedan | pt:ice | discontinued · 2012–2020 | 旗舰豪华轿车,北美名K900(2012-2020);韩国本土名K9继续销售(2018年改款) |
+| model:kia:kia-k9 | Kia K9 | 起亚K9 | — | — | class:cn:a | body:sedan | pt:ice | current · 2012-present | K9(2012-),起亚旗舰轿车(北美名K900) |
 | model:kia:kx-cross | KX Cross | KX CROSS | KX Cross | KXクロス | class:cn:a0 | body:hatchback | pt:ice | current · 2017–present | 东风悦达起亚小型跨界两厢车,2017年上市,基于K2平台 |
-| model:kia:kx1 | KX1 | 奕跑 | KX1 | KX1 | class:cn:a0 | body:suv | pt:ice | current · 2018–present | 东风悦达起亚小型SUV,2018年上市,基于K2平台,代号KX1 |
+| model:kia:kx1 | KX1 | 奕跑 | KX1 | KX1 | class:cn:a0 | body:suv | pt:ice | current · 2018-present | 奕跑(KX1,2018-),东风悦达起亚小型SUV,基于K2平台 |
+| model:kia:kx3 | KX3 Seltos | KX3傲跑 | — | — | class:cn:b | body:suv | pt:ice | current · 2019-present | KX3傲跑(2019-),东风悦达起亚小型SUV(Seltos中国版) |
+| model:kia:kx3-2 | KX3 New Energy | KX3新能源 | — | — | class:cn:b | body:suv | pt:bev | discontinued · 2016-2019 | KX3新能源(2016-2019),老款KX3纯电版,2019年停产 |
 | model:kia:kx5 | KX5 | KX5 | KX5 | KX5 | class:cn:a | body:suv | pt:ice | current · 2016–present | 起亚紧凑SUV,2016年上市,即Sportage四代中国名 |
 | model:kia:kx7 | KX7 | KX7 | KX7 | KX7 | class:cn:b | body:suv | pt:ice | current · 2017–present | 东风悦达起亚中型SUV,2017年上市,三排七座布局 |
 | model:kia:mohave | Mohave | Mohave | Mohave | モハベ | class:eu:j | body:suv | pt:ice | discontinued · 2009–2024 | 韩国市场大型SUV(博瑞/霸锐曾为中国名,「霸锐」),据维基2024年停产 |
@@ -1870,6 +2534,7 @@
 | model:kia:pegas | Pegas | 焕驰 | Pegas | ペガス | class:cn:a0 | body:sedan | pt:ice | current · 2017–present | 东风悦达起亚小型轿车,2017年上市,与全球Kia Pegas同源 |
 | model:kia:picanto | Picanto | Picanto | Picanto | ピカント | class:eu:a | body:hatchback | pt:ice | current · 2004–present | A级城市车,韩国名Morning;北美未销售 |
 | model:kia:pride | Pride | 普莱特 | Pride | プライド | class:eu:b | body:hatchback | pt:ice | discontinued · 1986–2000 | 马自达121(福特Festiva)换标生产;中国曾国产「普莱特」;部分市场生产至2011年 |
+| model:kia:ray-ev | Kia Ray EV | 起亚Ray EV | — | — | class:cn:a | body:hatchback | pt:bev | current · 2011-present | Ray EV(2011-),Ray纯电版,韩国市场 |
 | model:kia:rio | Rio | 锐欧 | Rio | リオ | class:eu:b | body:hatchback | pt:ice | discontinued · 1999–2023 | 小型车,含三厢轿车版;中国曾国产「锐欧」;被K3(BL7)取代 |
 | model:kia:seltos | Seltos | 赛图斯(曾名傲跑) | Seltos | セルトス | class:eu:b | body:suv | pt:ice | current · 2019–present | 小型跨界SUV;中国国产名「赛图斯」(初代曾称傲跑) |
 | model:kia:sephia | Sephia | Sephia | Sephia | セフィア | class:eu:c | body:sedan | pt:ice | discontinued · 1992–2003 | 紧凑型轿车,起亚早期全球车型;被Cerato/Forte接续 |
@@ -1879,7 +2544,8 @@
 | model:kia:stinger | Stinger | 斯汀格 | Stinger | スティンガー | class:eu:d | body:hatchback | pt:ice | discontinued · 2017–2023 | 高性能后驱轿跑,中国曾以「斯汀格」进口;无直接后继 |
 | model:kia:stonic | Stonic | Stonic | Stonic | ストニック | class:eu:b | body:crossover | pt:ice | current · 2017–present | 小型跨界SUV,基于Rio平台,主打欧洲市场 |
 | model:kia:telluride | Telluride | Telluride | Telluride | テルライド | class:us:standard-suv | body:suv | pt:ice | current · 2018–present | 三排中大型SUV,北美市场;2020年世界风云车 |
-| model:kia:vq | VQ | VQ | VQ | VQ | class:cn:mpv | body:mpv | pt:ice | discontinued · 2007–2014 | 第三代Sedona/Carnival的开发代号,2007-2014年中国以进口形式销售 |
+| model:kia:vq | VQ | VQ | VQ | VQ | class:cn:mpv | body:mpv | pt:ice | discontinued · 2007-2014 | VQ(2007-2014),第三代Sedona/Carnival的开发代号,中国以进口形式销售 |
+| model:kia:xceed-2 | Kia XCeed | 起亚XCeed | — | — | class:cn:a | body:crossover | pt:ice | current · 2019-present | XCeed(2019-),Ceed的跨界版,欧洲市场 |
 
 ## Koenigsegg
 
@@ -1959,11 +2625,15 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:leapmotor:a05 | Leapmotor A05 | 零跑A05 | 零跑A05 | — | class:cn:a | body:sedan | pt:bev | current · 2025–present | 零跑A系列紧凑型纯电轿车,2025年上市 |
+| model:leapmotor:a10 | Leapmotor A10 | 零跑A10 | 零跑A10 | — | class:cn:a | body:suv | pt:bev | current · 2025–present | 零跑A系列紧凑型纯电SUV,2025年上市 |
+| model:leapmotor:b01 | Leapmotor B01 | 零跑B01 | 零跑B01 | — | class:cn:a | body:sedan | pt:bev | current · 2025–present | 零跑B系列纯电轿车,2025年上市 |
 | model:leapmotor:b10 | Leapmotor B10 | 零跑B10 | Leapmotor B10(未导入) | — | class:cn:a | body:suv | pt:bev | current · 2025–present | B系列首款全球车型(2025年上市,纯电紧凑SUV) |
 | model:leapmotor:c01 | Leapmotor C01 | 零跑C01 | Leapmotor C01(未导入) | — | class:cn:c | body:sedan | pt:bev | current · 2022–present | 中大型纯电轿车(2022年上市,纯电/增程) |
 | model:leapmotor:c10 | Leapmotor C10 | 零跑C10 | Leapmotor C10(未导入) | — | class:cn:b | body:suv | pt:bev | current · 2024–present | 全球化车型(2024年上市,纯电/增程,出口欧洲) |
 | model:leapmotor:c11 | Leapmotor C11 | 零跑C11 | Leapmotor C11(未导入) | — | class:cn:b | body:suv | pt:bev | current · 2021–present | 品牌首款SUV(2021年上市,纯电/增程双动力),2026款在售 |
 | model:leapmotor:c16 | Leapmotor C16 | 零跑C16 | Leapmotor C16(未导入) | — | class:cn:c | body:suv | pt:bev | current · 2024–present | 中大型6座纯电/增程SUV(2024年上市) |
+| model:leapmotor:s01 | Leapmotor S01 | 零跑S01 | 零跑S01 | — | class:cn:a | body:coupe | pt:bev | discontinued · 2019–2022 | 零跑品牌首款车型,纯电双门轿跑,2019年上市 |
 | model:leapmotor:t03 | Leapmotor T03 | 零跑T03 | Leapmotor T03(未导入) | — | class:cn:a0 | body:hatchback | pt:bev | current · 2020–present | A0级纯电微型车(2020年上市),出口欧洲(2023年Stellantis渠道) |
 
 ## Lexus
@@ -1973,11 +2643,15 @@
 | model:lexus:ct | CT | CT | CT | CT | class:eu:c | body:hatchback | pt:hev | discontinued · 2010-2022 | 紧凑型混动两厢车(CT 200h),曾以进口身份在中国销售;2022年停产 |
 | model:lexus:es | ES | ES | ES | ES | class:eu:e | body:sedan | pt:hev | current · 1989-present | 大陆「雷克萨斯ES」,台湾「凌志ES」;基于Camry/Avalon平台;现行XZ20(2025起) |
 | model:lexus:gs | GS | GS | GS | GS | class:eu:e | body:sedan | pt:ice | discontinued · 1993-2020 | 中大型行政轿车;日本市场称Aristo(アリスト);2020年停产 |
+| model:lexus:gs-f | GS F | GS F | — | — | class:eu:e | body:sedan | pt:ice | discontinued · 2015–2020 | GS F(2015-2020),GS高性能版,5.0L V8(467马力),2020年随GS停产 |
 | model:lexus:gx | GX | GX | GX | GX | class:us:standard-suv | body:suv | pt:ice | current · 2002-present | 非承载式中大型SUV;基于Land Cruiser Prado平台;现行J250(2023起,GX 550) |
 | model:lexus:hs | HS | HS | HS | HS | class:eu:c | body:sedan | pt:hev | discontinued · 2009-2018 | 日本市场专属混动轿车(HS 250h);2018年停产 |
 | model:lexus:is | IS | IS | IS | IS | class:eu:d | body:sedan | pt:ice | current · 1998-present | 紧凑行政轿车;初代日本名Altezza(アルテッツァ);现行XE30(2013起) |
+| model:lexus:is-f | IS F | IS F | — | — | class:eu:d | body:sedan | pt:ice | discontinued · 2008–2014 | IS F(2008-2014),IS高性能版,5.0L V8(416马力) |
 | model:lexus:lbx | LBX | LBX | LBX | LBX | class:us:small-suv | body:crossover | pt:hev | current · 2023-present | 入门小型豪华跨界SUV;与Yaris Cross同平台;主销欧洲/日本 |
 | model:lexus:lc | LC | LC | LC | LC | class:eu:s | body:coupe | pt:hev | current · 2017-present | 旗舰GT轿跑;LC500(5.0L V8)/LC500h混动,另有敞篷版LC500 Convertible |
+| model:lexus:lexus-sc | Lexus SC | 雷克萨斯SC | — | — | class:eu:s | body:coupe | pt:ice | discontinued · 1991–2010 | SC(1991-2010),雷克萨斯豪华轿跑(SC 300/400/430),含敞篷版 |
+| model:lexus:lfa | Lexus LFA | 雷克萨斯LFA | — | — | class:eu:s | body:coupe | pt:ice | discontinued · 2010–2012 | LFA(2010-2012),雷克萨斯旗舰超级跑车,V10自吸(560马力),限量500台 |
 | model:lexus:lm | LM | LM | LM | LM | class:eu:m | body:minivan | pt:hev | current · 2020-present | 豪华MPV;基于丰田Alphard;大陆称「雷克萨斯LM」;现行AW10(2023起) |
 | model:lexus:ls | LS | LS | LS | LS(エルエス) | class:eu:f | body:sedan | pt:hev | current · 1989-present | 旗舰轿车;日本市场2006年前称Celsior(セルシオ);现行XF50(2017起),欧美已停售,主销日/中 |
 | model:lexus:lx | LX | LX | LX | LX | class:us:standard-suv | body:suv | pt:ice | current · 1995-present | 全尺寸豪华SUV;基于Land Cruiser;现行J310(2021起,LX 600) |
@@ -2005,11 +2679,21 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:liebao:36cd802ed4 | Qiling | 骐菱 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2008–2011 | 骐菱(2008-2011),猎豹紧凑MPV,已停产 |
+| model:liebao:4acf6ebede | Oukuman | 欧酷曼 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2016 | 欧酷曼(2013-2016),猎豹品牌紧凑型轿车,已停产 |
+| model:liebao:55f6173968 | Feiling | 飞铃 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2004–2008 | 飞铃(2004-2008),猎豹早期皮卡,已停产 |
 | model:liebao:6481 | Liebao 6481 | 猎豹6481 | Liebao 6481 | — | class:cn:b | body:suv | pt:ice | discontinued · 2005–2015 | 中型越野车,CJY6481系列,与黑金刚同源 |
+| model:liebao:742db81150 | Binge | 缤歌 | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2020–2021 | 缤歌(2020-2021),猎豹纯电小型SUV,已停产 |
+| model:liebao:c5ev | Liebao C5EV | 猎豹C5EV | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2016–2018 | C5-EV(2016-2018),纯电SUV,基于飞腾C5,续航320公里,已停产 |
 | model:liebao:cs10 | Liebao CS10 | 猎豹CS10 | Liebao CS10 | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2020 | 紧凑型SUV,猎豹向城市SUV转型之作 |
+| model:liebao:cs6 | Liebao CS6 | 猎豹CS6 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2008–2011 | CS6(2008-2011),中型SUV,基于三菱帕杰罗技术平台,已停产 |
+| model:liebao:cs7 | Liebao CS7 | 猎豹CS7 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2009–2012 | CS7(2009-2012),小型SUV,飞腾平台衍生,已停产 |
 | model:liebao:cs9 | Liebao CS9 | 猎豹CS9 | Liebao CS9 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2017–2019 | 小型SUV |
+| model:liebao:ct5 | Liebao CT5 | 猎豹CT5 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2016–2020 | CT5(2016-),猎豹皮卡,已停产 |
+| model:liebao:ct7 | Liebao CT7 | 猎豹CT7 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2016–2019 | CT7(2016-2019),猎豹皮卡,已停产 |
 | model:liebao:feiteng | Liebao Feiteng | 猎豹飞腾 | Liebao Feiteng | — | class:cn:a | body:suv | pt:ice | discontinued · 2004–2014 | 紧凑型越野SUV,源自三菱帕杰罗iO平台 |
 | model:liebao:heijingang | Liebao Heijingang | 猎豹黑金刚 | Liebao Heijingang | — | class:cn:b | body:suv | pt:ice | discontinued · 2003–2015 | 中型越野车,源自三菱帕杰罗V31/V33技术授权,长丰猎豹经典车型 |
+| model:liebao:liebao-c5 | Feiteng C5 | 飞腾C5 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2015–2018 | 飞腾C5(2015-2018),飞腾系列紧凑SUV,已停产 |
 | model:liebao:mattu | Liebao Mattu | 猎豹Mattu | Liebao Mattu | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2020 | 紧凑型SUV,猎豹品牌高端化尝试 |
 | model:liebao:q6 | Liebao Q6 | 猎豹Q6 | Liebao Q6 | — | class:cn:b | body:suv | pt:ice | discontinued · 2014–2019 | 中型越野SUV,非承载式车身,硬派风格 |
 
@@ -2019,10 +2703,18 @@
 |---|---|---|---|---|---|---|---|---|---|
 | model:lifan:320 | Lifan 320 | 320 | 320 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2009–2015 | 微型两厢车,外观模仿MINI造型,力帆早期入门车型 |
 | model:lifan:330 | Lifan 330 | 330 | 330 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2015–2017 | 微型两厢车,力帆320的改款换代车型 |
+| model:lifan:330ev | Lifan 330EV | 力帆330EV | — | — | class:cn:b | body:hatchback | pt:bev | discontinued · 2017–2019 | 力帆330EV(2017-2019),330纯电版,已停产 |
 | model:lifan:520 | Lifan 520 | 520 | 520 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2005–2015 | 紧凑型轿车,力帆首款轿车 |
+| model:lifan:530 | Lifan 530 | 力帆530 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015–2018 | 力帆530(2015-2018),紧凑型轿车,已停产 |
 | model:lifan:620 | Lifan 620 | 620 | 620 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2017 | 紧凑型轿车,力帆主力车型,销量最大的轿车之一 |
+| model:lifan:620ev | Lifan 620EV | 力帆620EV | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2016–2018 | 力帆620EV(2016-2018),620纯电版,已停产 |
+| model:lifan:630 | Lifan 630 | 力帆630 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2018 | 力帆630(2014-2018),620改款轿车,已停产 |
+| model:lifan:650 | Lifan 650 | 力帆650 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015–2019 | 力帆650(2015-2019),紧凑型轿车,已停产 |
+| model:lifan:650ev | Lifan 650EV | 力帆650EV | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2018–2019 | 力帆650EV(2018-2019),650纯电版,已停产 |
 | model:lifan:720 | Lifan 720 | 720 | 720 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2012–2017 | 中型轿车,力帆首款B级轿车 |
+| model:lifan:80v | Maple 80v | 力帆枫叶80v | — | — | class:cn:mpv | body:mpv | pt:bev | discontinued · 2020–2022 | 枫叶80v(2020-2022),力帆/枫叶品牌纯电MPV,支持换电,已停产 |
 | model:lifan:820 | Lifan 820 | 820 | 820 | — | class:cn:c | body:sedan | pt:ice | discontinued · 2015–2018 | 中大型轿车,力帆旗舰轿车 |
+| model:lifan:820ev | Lifan 820EV | 力帆820EV | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2016–2018 | 力帆820EV(2016-2018),820纯电版,续航约400公里,已停产 |
 | model:lifan:letu | Lifan Letu | 乐途 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2017 | 紧凑型MPV/微面,主打多功能车市场 |
 | model:lifan:maiwei | Lifan Maiwei | 迈威 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2019 | 小型7座SUV,主打三四线市场 |
 | model:lifan:x50 | Lifan X50 | X50 | X50 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2017 | 小型SUV,力帆SUV产品线入门车型 |
@@ -2125,21 +2817,47 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:maxus:6dc71abc43 | Staria Bull King | 星际牛魔王 | — | — | class:cn:a | body:pickup | pt:ice | current · 2023-present | 星际牛魔王(2023-),上汽大通星际皮卡越野版 |
+| model:maxus:a778e68e73 | Staria | 星际 | — | — | class:cn:a | body:pickup | pt:ice | current · 2023-present | 星际(Staria,2023-),上汽大通皮卡系列 |
 | model:maxus:d60 | Maxus D60 | D60 | D60 | — | class:cn:b | body:suv | pt:ice | current · 2019–present | 上汽大通MAXUS D60中型SUV(2019年上市) |
 | model:maxus:d90 | Maxus D90 | D90 | D90 | — | class:cn:c | body:suv | pt:ice | current · 2017–present | 上汽大通MAXUS D90中大型SUV(2017年上市),硬派风格 |
 | model:maxus:d90-pro | Maxus D90 Pro | D90 Pro | D90 Pro | — | class:cn:c | body:suv | pt:ice | current · 2019–present | 上汽大通MAXUS D90 Pro中大型SUV,D90的高性能/柴油版 |
+| model:maxus:ev70 | New Path EV70 | 新途EV70 | — | — | class:cn:a | body:van | pt:bev | current · 2023-present | 新途EV70(2023-),上汽大通纯电轻客 |
+| model:maxus:ev80 | New Path EV80 | 新途EV80 | — | — | class:cn:a | body:van | pt:bev | current · 2023-present | 新途EV80(2023-),上汽大通纯电轻客 |
+| model:maxus:f98b217db7 | New Path Far Horizon | 新途远界 | — | — | class:cn:a | body:van | pt:ice | current · 2024-present | 新途远界(2024-),上汽大通轻客 |
 | model:maxus:g10 | Maxus G10 | G10 | G10 | — | class:cn:mpv | body:mpv | pt:ice | current · 2014–present | 上汽大通MAXUS G10中大型MPV(2014年上市),G20前身 |
 | model:maxus:g20 | Maxus G20 | G20 | G20 | — | class:cn:mpv | body:mpv | pt:ice | current · 2019–present | 上汽大通MAXUS G20中大型MPV(2019年上市),G10的升级换代车型 |
 | model:maxus:g50 | Maxus G50 | G50 | G50 | — | class:cn:mpv | body:mpv | pt:ice | current · 2018–present | 上汽大通MAXUS G50紧凑型MPV(2018年上市),家用多用途 |
+| model:maxus:g50-2 | G50 Plug-in Hybrid | G50插电混动 | — | — | class:cn:a | body:mpv | pt:phev | current · 2019-present | G50插电混动(2019-),上汽大通G50 MPV的插混版 |
 | model:maxus:g70 | Maxus G70 | G70 | G70 | — | class:cn:mpv | body:mpv | pt:ice | current · 2023–present | 上汽大通MAXUS G70中型MPV(2023年上市) |
 | model:maxus:g90 | Maxus G90 | G90 | G90 | — | class:cn:mpv | body:mpv | pt:ice | current · 2022–present | 上汽大通MAXUS G90大型MPV(2022年上市),旗舰MPV |
 | model:maxus:istana | Istana | 伊思坦纳 | Istana | — | class:cn:mpv | body:van | pt:ice | discontinued · 2004–2010 | 伊思坦纳轻型客车/厢式车,基于奔驰MB100技术国产化(原上海汇众),与MAXUS同属上汽商用车体系;约2010年停产 |
+| model:maxus:maxus-5 | MIFA 5 | 大家5 | — | — | class:cn:a | body:mpv | pt:bev | current · 2022-present | 大家5(MIFA 5,2022-),上汽大通纯电MPV |
+| model:maxus:maxus-6 | MIFA 6 | 大家6 | — | — | class:cn:a | body:suv | pt:bev | current · 2022-present | 大家6(MIFA 6,2022-),上汽大通纯电SUV |
+| model:maxus:maxus-7 | MIFA 7 | 大家7 | — | — | class:cn:a | body:mpv | pt:bev | current · 2023-present | 大家7(MIFA 7,2023-),上汽大通中型纯电MPV |
+| model:maxus:maxus-eg10 | Maxus EG10 | 上汽大通MAXUS EG10 | — | — | class:cn:a | body:mpv | pt:bev | discontinued · 2016-2020 | EG10(2016-2020),上汽大通G10纯电版,2020年停产 |
+| model:maxus:maxus-euniq-5 | Maxus EUNIQ 5 | 上汽大通MAXUS EUNIQ 5 | — | — | class:cn:a00 | body:mpv | pt:bev | current · 2020-present | EUNIQ 5(2020-),上汽大通MPV纯电/插混版 |
+| model:maxus:maxus-euniq-6 | Maxus EUNIQ 6 | 上汽大通MAXUS EUNIQ 6 | — | — | class:cn:a00 | body:suv | pt:bev | current · 2020-present | EUNIQ 6(2020-),上汽大通纯电SUV |
+| model:maxus:maxus-euniq-7 | Maxus EUNIQ 7 | 上汽大通MAXUS EUNIQ 7 | — | — | class:cn:a00 | body:mpv | pt:fcev | current · 2020-present | EUNIQ 7(2020-),上汽大通氢燃料电池MPV |
+| model:maxus:maxus-ev | Staria EV | 星际EV | — | — | class:cn:a | body:pickup | pt:bev | current · 2023-present | 星际EV(2023-),上汽大通纯电皮卡 |
+| model:maxus:maxus-g20 | MAXUS G20 RV | 上汽大通MAXUS G20房车 | — | — | class:cn:a | body:van | pt:ice | current · 2020-present | G20房车(2020-),基于G20的房车版 |
+| model:maxus:maxus-mifa | MAXUS MIFA MIFA Hydrogen | 上汽大通MAXUS 大家MIFA氢 | — | — | class:cn:a | body:mpv | pt:fcev | current · 2022-present | 大家MIFA氢(2022-),上汽大通氢燃料电池MPV |
+| model:maxus:maxus-rg10 | Maxus RG10 | 上汽大通MAXUS RG10 | — | — | class:cn:a | body:van | pt:ice | current · 2019-present | RG10(2019-),上汽大通房车(基于G10) |
+| model:maxus:maxus-x | Staria X | 星际X | — | — | class:cn:a | body:pickup | pt:ice | current · 2024-present | 星际X(2024-),上汽大通皮卡 |
 | model:maxus:mifa-9 | Maxus MIFA 9 | 大家9 | MIFA 9 | — | class:cn:mpv | body:mpv | pt:bev | current · 2021–present | 上汽大通MAXUS MIFA 9大型纯电MPV(2021年上市),2023年起中文名改为「大家9」 |
 | model:maxus:t60 | Maxus T60 | T60 | T60 | — | class:cn:mpv | body:pickup | pt:ice | current · 2017–present | 上汽大通MAXUS T60皮卡(2017年上市) |
+| model:maxus:t70 | Maxus T70 | 大通T70 | — | — | class:cn:a | body:pickup | pt:ice | current · 2019-present | 大通T70(2019-),上汽大通皮卡 |
 | model:maxus:t90 | Maxus T90 | T90 | T90 | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 上汽大通MAXUS T90皮卡(2021年上市) |
+| model:maxus:t90ev | Maxus T90EV | 大通T90EV | — | — | class:cn:a | body:pickup | pt:bev | current · 2021-present | 大通T90 EV(2021-),上汽大通纯电皮卡 |
 | model:maxus:territory | Maxus Territory | 领地 | Territory | — | class:cn:c | body:suv | pt:ice | current · 2022–present | 上汽大通MAXUS领地中大型硬派越野SUV(2022年上市),提供柴油动力 |
+| model:maxus:v70 | New Path V70 | 新途V70 | — | — | class:cn:a | body:van | pt:ice | current · 2023-present | 新途V70(2023-),上汽大通轻客 |
 | model:maxus:v80 | Maxus V80 | V80 | V80 | — | class:cn:mpv | body:van | pt:ice | current · 2012–present | 上汽大通MAXUS V80轻客/厢式车(2012年上市);现款称「新途V80」;另有V80房车/旅居车改装版(约2015年起) |
+| model:maxus:v80-2 | New Path V80 | 新途V80 | — | — | class:cn:a | body:van | pt:ice | current · 2023-present | 新途V80(2023-),上汽大通轻客(经典V80的延续) |
 | model:maxus:v90 | Maxus V90 | V90 | V90 | — | class:cn:mpv | body:van | pt:ice | current · 2019–present | 上汽大通MAXUS V90轻客(2019年上市);现款称「新途V90」 |
+| model:maxus:v90-2 | New Path V90 | 新途V90 | — | — | class:cn:a | body:van | pt:ice | current · 2023-present | 新途V90(2023-),上汽大通轻客(经典V90的延续) |
+| model:maxus:x-suv | Staria X SUV | 星际X SUV | — | — | class:cn:a | body:suv | pt:ice | current · 2024-present | 星际X SUV(2024-),上汽大通SUV(星际X皮卡的SUV版) |
+| model:maxus:x30 | Explorer X30 | 探索家X30 | — | — | class:cn:b | body:van | pt:ice | current · 2021-present | 探索家X30(2021-),上汽大通房车 |
+| model:maxus:x50 | Explorer X50 | 探索家X50 | — | — | class:cn:a | body:van | pt:ice | current · 2021-present | 探索家X50(2021-),上汽大通房车 |
 
 ## Maybach
 
@@ -2162,6 +2880,7 @@
 | model:mazda:cosmo-sports | Cosmo Sport | Cosmo(转子鼻祖) | Cosmo | コスモスポーツ | class:eu:s | body:sports | pt:ice | discontinued · 1967–1972 | 世界首款量产转子发动机跑车;官方历史资料库收录 |
 | model:mazda:cx-3 | Mazda CX-3 | 马自达CX-3 | Mazda CX-3 | CX-3 | class:eu:j | body:crossover | pt:ice | current · 2015–present | 基于Mazda2的小型跨界SUV;日本2021年停售,北美2021年停产,仍在部分市场销售 |
 | model:mazda:cx-30 | Mazda CX-30 | 马自达CX-30 | Mazda CX-30 | CX-30 | class:eu:j | body:crossover | pt:ice | current · 2019–present | 介于CX-3与CX-5之间的小型跨界SUV |
+| model:mazda:cx-30-ev | CX-30 EV | CX-30 EV | — | — | class:cn:a | body:suv | pt:bev | current · 2021–present | CX-30 EV(2021-),长安马自达纯电SUV,中国市场特供 |
 | model:mazda:cx-4 | Mazda CX-4 | 马自达CX-4 | Mazda CX-4 | CX-4 | class:eu:j | body:crossover | pt:ice | discontinued · 2016–2023 | 中国特供(一汽马自达),2023年前后停产 |
 | model:mazda:cx-5 | Mazda CX-5 | 马自达CX-5 | Mazda CX-5 | CX-5 | class:eu:j | body:suv | pt:ice | current · 2012–present | 全球主力紧凑型SUV,大陆由长安马自达生产 |
 | model:mazda:cx-50 | Mazda CX-50 | 马自达CX-50 | Mazda CX-50 | CX-50 | class:eu:j | body:suv | pt:ice | current · 2022–present | 北美/中国市场紧凑型SUV,与CX-5并存 |
@@ -2172,10 +2891,13 @@
 | model:mazda:cx-80 | Mazda CX-80 | 马自达CX-80 | Mazda CX-80 | CX-80 | class:eu:j | body:suv | pt:ice | current · 2024–present | CX-90的三排版,欧洲/亚太市场 |
 | model:mazda:cx-9 | Mazda CX-9 | 马自达CX-9 | Mazda CX-9 | CX-9 | class:us:standard-suv | body:suv | pt:ice | discontinued · 2006–2023 | 三排座大型SUV,北美/中东市场;北美2023年款后停产(部分地区2024年清库),由CX-90接替 |
 | model:mazda:cx-90 | Mazda CX-90 | 马自达CX-90 | Mazda CX-90 | CX-90 | class:us:standard-suv | body:suv | pt:ice | current · 2023–present | 旗舰三排SUV,基于纵置后驱平台,北美/中东/澳洲市场 |
+| model:mazda:ez-6 | Mazda EZ-6 | 马自达EZ-6 | — | — | class:cn:b | body:sedan | pt:bev | current · 2024–present | EZ-6(2024-),长安马自达首款新能源轿车,基于深蓝SL03平台,含纯电与增程版 |
+| model:mazda:ez-60 | Mazda EZ-60 | 马自达EZ-60 | — | — | class:cn:b | body:suv | pt:bev | current · 2025–present | EZ-60(2025-),长安马自达纯电SUV,基于深蓝S05平台 |
 | model:mazda:familia | Familia | 马自达323/福美来 | Familia | ファミリア | class:eu:c | body:hatchback | pt:ice | discontinued · 1963–2003 | 重要家用车系,海外名323/Protégé;大陆海南马自达福美来为第八代;Mazda3前身;官方历史资料库收录 |
 | model:mazda:flair | Mazda Flair | 马自达Flair | Mazda Flair | フレア | class:jp:kei | body:hatchback | pt:ice | current · 2012–present | 日本K-car;铃木Wagon R贴牌车,另有Flair Wagon(铃木Spacia贴牌)与Flair Crossover(铃木Hustler贴牌) |
 | model:mazda:lantis | Mazda Lantis | 马自达Lantis | Mazda Lantis | ランティス | class:eu:c | body:hatchback | pt:ice | discontinued · 1991–1994 | Familia姊妹车;欧洲市场称323F,日本另有Cronos三厢版 |
 | model:mazda:luce | Luce | — | Luce | ルーチェ | class:eu:e | body:sedan | pt:ice | discontinued · 1966–1991 | 豪华轿车,后期搭载转子发动机;海外名929;官方历史资料库收录 |
+| model:mazda:mazda-2-2 | 2 Jinxiang | 2劲翔 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2013 | 马自达2劲翔(2008-2013),Mazda2三厢版,长安马自达,2013年停产 |
 | model:mazda:mazda2 | Mazda2 | 马自达2 | Mazda2 | MAZDA2 | class:eu:b | body:hatchback | pt:ice | current · 2002–present | 日本市场1996-2019年称Demio(デミオ),2019年全球统一MAZDA2;欧洲另有基于丰田Yaris的Mazda2 Hybrid |
 | model:mazda:mazda3 | Mazda3 | 马自达3(昂克赛拉) | Mazda3 | MAZDA3 | class:eu:c | body:hatchback | pt:ice | current · 2003–present | 日本市场旧称Axela(アクセラ),2019年改名;大陆旧译昂克赛拉,另有三厢版 |
 | model:mazda:mazda6 | Mazda6 | 马自达6(阿特兹) | Mazda6 | MAZDA6 | class:eu:d | body:sedan | pt:ice | discontinued · 2002–2025 | 日本市场旧称Atenza(アテンザ),大陆现款名阿特兹;2025年3月全球停产 |
@@ -2271,6 +2993,7 @@
 | model:mg:gs | MG GS | 名爵锐腾 | MG GS | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2019 | 紧凑型SUV,2015年上市,海外名MG GS;2019年由名爵HS接替 |
 | model:mg:gt | MG GT | 名爵锐行 | MG GT | — | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2018 | 紧凑型轿车,基于MG5,海外名MG GT;2018年前后停产 |
 | model:mg:hs | MG HS | 名爵HS | MG HS | エムジーHS | class:cn:a | body:suv | pt:ice | current · 2018–present | 紧凑型SUV,含插混版;2024年第二代(海外EHS) |
+| model:mg:mg-tf | MG TF | 名爵TF | MG TF | エムジーTF | class:eu:s | body:roadster | pt:ice | discontinued · 2002–2005 | 中置后驱双座敞篷跑车,原MG Rover出品;南汽/上汽曾于2008年复产(名爵TF),最终2011年停产 |
 | model:mg:mg3 | MG 3 | 名爵3 | MG 3 | エムジー3 | class:cn:a0 | body:hatchback | pt:ice | current · 2013–present | 小型两厢车;大陆名爵3已停售,海外MG3 Hybrid(2024)在欧洲销售 |
 | model:mg:mg3sw | MG 3SW | 名爵3SW | MG 3SW | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2008–2014 | 小型跨界风格两厢车(上汽名爵),2014年前后停产 |
 | model:mg:mg4 | MG4 EV | 名爵MG4 EV(海外名Mulan) | MG4 EV | エムジー4 | class:cn:a | body:hatchback | pt:bev | current · 2022–present | 纯电紧凑型两厢车(星云平台);大陆内销名「MG MULAN」,海外统一MG4 EV,2023年欧洲销冠级 |
@@ -2298,9 +3021,16 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:mitsubishi:1d562bab97 | Outlander Classic | 欧蓝德经典 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2004-2016 | 欧蓝德经典(2004-2016),老款欧蓝德同堂销售,2016年停产 |
+| model:mitsubishi:2dee24d07f | Grandis | 格蓝迪 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2003-2011 | 格蓝迪(Grandis,2003-2011),三菱中型MPV,中国曾进口,2011年停产 |
 | model:mitsubishi:3000gt | 3000GT | 3000GT | 3000GT | GTO | class:eu:s | body:coupe | pt:ice | discontinued · 1991–1999 | 旗舰跑车;日本市场名GTO,北美3000GT,与道奇Stealth为姊妹车 |
+| model:mitsubishi:355c76a706 | Zinger | 君阁 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2008-2016 | 君阁(Zinger,2008-2016),东南三菱MPV(台湾中华三菱开发),2016年停产 |
 | model:mitsubishi:360 | 360 | — | 360 | 三菱360 | class:jp:kei | body:sedan | pt:ice | discontinued · 1962–1970 | 三菱首款轿车,轻自动车规格;官方历史资料库收录 |
+| model:mitsubishi:61c8c0ecac | Lingshen | 菱绅 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2004-2008 | 菱绅(2004-2008),东南三菱MPV(源自三菱Space Wagon/Chariot),2008年停产 |
+| model:mitsubishi:airtrek | Airtrek | 阿图柯AIRTREK | — | — | class:cn:a | body:suv | pt:bev | current · 2022-present | 阿图柯AIRTREK(2022-),广汽三菱纯电紧凑型SUV;与日产Ariya同平台 |
 | model:mitsubishi:asx | ASX / RVR / Outlander Sport | 劲炫ASX | ASX | RVR | class:eu:j | body:crossover | pt:ice | current · 2010–present | 小型跨界SUV;日本名RVR,北美称Outlander Sport,欧洲/亚洲称ASX(大陆名劲炫);欧洲2022年款改为雷诺Captur贴牌 |
+| model:mitsubishi:asx-2 | ASX (imported) | ASX劲炫(进口) | — | — | class:cn:a | body:suv | pt:ice | current · 2010-present | ASX劲炫(2010-),三菱紧凑型SUV;中国版由广汽三菱国产,本条含进口版 |
+| model:mitsubishi:attrage | Attrage | Attrage | — | — | class:cn:a | body:sedan | pt:ice | current · 2012-present | Attrage(2012-),三菱东南亚市场入门三厢轿车(东南亚名Mirage G4同源) |
 | model:mitsubishi:colt | Colt | Colt | Colt | コルト | class:eu:b | body:hatchback | pt:ice | discontinued · 1978–2014 | 小型车(1978-2002为Mirage/Lancer贴牌,2002-2014独立车型);2023-2025年欧洲短暂复活(雷诺Clio贴牌),2025年再度停产 |
 | model:mitsubishi:debonair | Debonair | 迪宝尼(未引入) | Debonair | デボネア | class:eu:f | body:sedan | pt:ice | discontinued · 1964–1999 | 三菱旗舰豪华轿车(3代);官方历史资料库收录 |
 | model:mitsubishi:delica-d5 | Delica D:5 | 得利卡D:5 | Delica | デリカD:5 | class:eu:m | body:minivan | pt:ice | current · 2007–present | 四驱MPV,日本市场;Delica车系自1968年起,大陆早期译名得利卡 |
@@ -2315,14 +3045,20 @@
 | model:mitsubishi:fadis | Fadis | 风迪思 | Fadis | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2016 | 东南三菱国产紧凑轿车,与翼神为姊妹车(共用Lancer EX平台);2016年停产 |
 | model:mitsubishi:fto | FTO | FTO | FTO | FTO(エフティーオー) | class:eu:s | body:coupe | pt:ice | discontinued · 1993–1998 | 前驱轿跑,日本市场,1994年日本年度车 |
 | model:mitsubishi:galant | Galant | 戈蓝 | Galant | ギャラン | class:cn:b | body:sedan | pt:ice | discontinued · 1969–2012 | 中型轿车;大陆由东南汽车生产戈蓝;澳洲版称380(2005-2008) |
+| model:mitsubishi:grand-lancer | GRAND LANCER | GRAND LANCER | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2016-2021 | Grand Lancer(2016-2021),台湾中华三菱国产的Lancer改款,2021年停产 |
 | model:mitsubishi:i | i | 三菱i | i | 三菱i(アイ) | class:jp:kei | body:hatchback | pt:ice | discontinued · 2006–2013 | 后中置引擎K-car,i-MiEV前身;官方历史资料库收录 |
 | model:mitsubishi:i-miev | i-MiEV | i-MiEV | i-MiEV | i-MiEV(アイ・ミーブ) | class:jp:kei | body:hatchback | pt:bev | discontinued · 2009–2021 | 世界首款量产纯电动车之一,基于轻自动车i;海外称Mitsubishi i-MiEV |
+| model:mitsubishi:jeep | Mitsubishi Jeep | 三菱Jeep | — | — | class:cn:a | body:suv | pt:ice | discontinued · 1953-1998 | 三菱Jeep(1953-1998),三菱与Willys合作生产的越野车,1998年停产 |
+| model:mitsubishi:l200 | Mitsubishi L200 | 三菱L200 | — | — | class:cn:a | body:pickup | pt:ice | current · 1978-present | L200(1978-),三菱中型皮卡;北美/欧洲部分地区名Triton |
 | model:mitsubishi:lancer | Lancer | 蓝瑟 | Lancer | ランサー | class:cn:a | body:sedan | pt:ice | discontinued · 1973–2019 | 紧凑型轿车;大陆由东南汽车合资生产菱帅/蓝瑟,台湾名Lancer Fortis/Grand Lancer;2017年后停产 |
 | model:mitsubishi:lancer-evolution | Lancer Evolution | EVO(蓝瑟EVO) | Lancer Evolution | ランサーエボリューション | class:eu:s | body:sedan | pt:ice | discontinued · 1992–2016 | WRC冠军血统的高性能四驱轿车,共十代,俗称EVO;2016年停产 |
 | model:mitsubishi:lancer-ex | Lancer EX | 翼神 | Lancer EX | ランサーEX | class:cn:a | body:sedan | pt:ice | discontinued · 2009–2016 | 东南三菱国产紧凑轿车(官方名Lancer EX,与蓝瑟同属Lancer车系);2016年随东南三菱业务收缩停产 |
 | model:mitsubishi:minica | Minica | Minica | Minica | ミニカ | class:jp:kei | body:hatchback | pt:ice | discontinued · 1962–2011 | 三菱最长寿K-car车系之一(6代);官方历史资料库收录 |
 | model:mitsubishi:minicab | Minicab | Minicab | Minicab | ミニキャブ | class:jp:kei | body:kei-truck | pt:ice | current · 1966–present | K-car轻卡/厢式车;现为铃木Carry/Every贴牌,另有纯电版Minicab EV(印尼称L100) |
 | model:mitsubishi:mirage | Mirage / Space Star | Mirage | Mirage | ミラージュ | class:eu:b | body:hatchback | pt:ice | current · 2012–present | 小型车;1978年Mirage名首发,现款为2012年复活的第六代;欧洲称Space Star,另有三厢版Mirage G4/Attrage |
+| model:mitsubishi:mirage-g4 | Mirage G4 | Mirage G4 | — | — | class:cn:a | body:sedan | pt:ice | current · 2013-present | Mirage G4(2013-),Mirage的三厢版,东南亚市场 |
+| model:mitsubishi:mitsubishi-ek-2 | Mitsubishi eK | 三菱eK | — | — | class:cn:a | body:hatchback | pt:ice | current · 2001-present | 三菱eK(2001-),三菱K-car系列;日产OEM名eK X/eK Space |
+| model:mitsubishi:mitsubishi-g4 | Mitsubishi G4 | 三菱G4 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012-2019 | 三菱G4(2012-2019),Mirage G4的菲律宾市场名,2019年停产 |
 | model:mitsubishi:outlander | Outlander | 欧蓝德 | Outlander | アウトランダー | class:eu:j | body:suv | pt:phev | current · 2001–present | 紧凑型SUV;日本初代称Airtrek(エアトレック),2003年起用Outlander名;现款提供PHEV,大陆广汽三菱生产 |
 | model:mitsubishi:pajero | Pajero | 帕杰罗 | Pajero | パジェロ | class:eu:j | body:suv | pt:ice | discontinued · 1982–2021 | 经典越野车(1981年首发,1982年量产);北美/西语市场称Montero,俗称山猫;2021年停产,官方宣布将基于新一代Triton复活 |
 | model:mitsubishi:pajero-io | Pajero iO | 帕杰罗IO | Pajero iO | パジェロイオ | class:eu:j | body:suv | pt:ice | discontinued · 1998–2008 | 小型越野SUV,海外名Montero iO;官方历史资料库收录 |
@@ -2332,6 +3068,7 @@
 | model:mitsubishi:rvr | RVR | — | RVR | RVR(アールブイアール) | class:eu:j | body:suv | pt:ice | discontinued · 1991–2002 | 小型SUV,1991年首发;2010年起海外RVR指ASX;官方历史资料库收录 |
 | model:mitsubishi:sigma | Sigma | — | Sigma | シグマ | class:eu:e | body:sedan | pt:ice | discontinued · 1976–1996 | 中大型轿车,Galant平台高级版;官方历史资料库收录 |
 | model:mitsubishi:starion | Starion | Starion | Starion | スタリオン | class:eu:s | body:coupe | pt:ice | discontinued · 1982–1989 | 1980年代涡轮增压轿跑;北美称Starion/Conquest(克莱斯勒贴牌) |
+| model:mitsubishi:super-height-k-wagon | SUPER HEIGHT K-WAGON | SUPER HEIGHT K-WAGON | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2002-2014 | Super Height K-Wagon(2002-2014),三菱高顶K-car,2014年停产 |
 | model:mitsubishi:toppo | Toppo | — | Toppo | トッポ | class:jp:kei | body:van | pt:ice | discontinued · 1990–2004 | 高顶K-car厢式车;官方历史资料库收录 |
 | model:mitsubishi:triton | Triton / L200 | Triton | Triton | トライトン | class:us:pickup | body:pickup | pt:ice | current · 1978–present | 中型皮卡;1978年L200名首发,东南亚/欧洲称L200,南美称Strada |
 | model:mitsubishi:xpander | Xpander | Xpander | Xpander | エクスパンダー | class:eu:m | body:mpv | pt:ice | current · 2017–present | 三排座MPV,印尼/东南亚及新兴市场;跨界版Xpander Cross(2019-) |
@@ -2373,25 +3110,36 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:nissan:350z | Nissan 350Z | 日产350Z | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2002-2008 | 350Z(Z33,2002-2008),日产Z系列跑车,2008年由370Z接替 |
+| model:nissan:370z | Nissan 370Z | 日产370Z | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2008-2020 | 370Z(Z34,2008-2020),日产Z系列跑车,2020年停产,后继Z(400Z) |
+| model:nissan:46ea844fcf | Bluebird Sylphy | 蓝鸟·印象 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015-2020 | 蓝鸟·印象(2015-2020),东风日产紧凑型轿车(LANNA),2020年停产 |
+| model:nissan:4a857eaca8 | March | 玛驰 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 1982-2022 | 玛驰(March,1982-2022),日产微型车(欧洲名Micra),中国曾国产(2010-2015),2022年停产 |
+| model:nissan:982b7a329a | Civilian | 碧莲 | — | — | class:cn:a | body:van | pt:ice | current · 1971-present | 碧莲(Civilian,1971-),日产中巴客车,中国以进口形式销售 |
 | model:nissan:altima | Altima | Altima | Altima | アルティマ | class:cn:b | body:sedan | pt:ice | current · 1992–present | 北美/中东主力中型轿车;2013 年起与 Teana 合并为全球同一车型 |
 | model:nissan:ariya | Ariya | 艾睿雅 | Ariya | アリア | class:eu:j | body:crossover | pt:bev | current · 2020–present | 纯电紧凑跨界 SUV;大陆东风日产国产 |
 | model:nissan:armada | Armada | Armada | Armada | アルマーダ | class:us:standard-suv | body:suv | pt:ice | current · 2003–present | 北美全尺寸 SUV,与 Patrol 同平台 |
+| model:nissan:b19701155d | Bluebird Classic | 蓝鸟经典 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2000-2004 | 蓝鸟经典(2000-2004),日产蓝鸟(U13)中国国产版,2004年停产 |
 | model:nissan:be-1 | Be-1 | Be-1 | Be-1 | ビー1 | class:eu:b | body:hatchback | pt:ice | discontinued · 1987–1988 | 「Pike Cars」复古个性车系列第一作,限量生产(参考维基) |
 | model:nissan:bluebird | Bluebird | 蓝鸟 | Bluebird(青鳥) | ブルーバード | class:cn:a | body:sedan | pt:ice | discontinued · 1957–2001 | 日产经典家轿,精神后继为 Sylphy;大陆「蓝鸟」现用于 LANNIA 车系 |
+| model:nissan:c811ab570a | Sylphy EV | 轩逸·纯电 | — | — | class:cn:a | body:sedan | pt:bev | current · 2018-present | 轩逸·纯电(2018-),东风日产轩逸纯电版 |
 | model:nissan:caravan | Caravan / Urvan | Caravan | Caravan | キャラバン | class:eu:m | body:van | pt:ice | current · 1973–present | 日产最长寿商用车系之一,现售;欧洲/亚洲称 Urvan;姊妹车 Homy(1973–1997 前后)(参考维基) |
 | model:nissan:cedric | Cedric | 公爵 | Cedric | セドリック | class:cn:c | body:sedan | pt:ice | discontinued · 1960–2004 | 日产行政级轿车,与姊妹车 Gloria 同系;大陆进口曾称「公爵」 |
 | model:nissan:cefiro | Cefiro | 风度 | Cefiro(風度) | セフィーロ | class:cn:b | body:sedan | pt:ice | discontinued · 1988–2003 | 台湾裕隆国产经典中型车;后继 Teana;北美以英菲尼迪 I30/I35 销售 |
 | model:nissan:cherry | Cherry | Cherry | Cherry | チェリー | class:eu:b | body:hatchback | pt:ice | discontinued · 1970–1986 | 70 年代小型车,后继 Pulsar;北美以 Datsun 100A/F-10 销售(参考维基) |
-| model:nissan:cima | Cima | Cima | Cima | シーマ | class:cn:d | body:sedan | pt:ice | discontinued · 1988–2022 | 日产豪华旗舰轿车,北美以英菲尼迪 Q45 销售;2010 年停产后 2012 年以 Skyline 高级版复产,故年份含中断(参考维基) |
+| model:nissan:cima | Cima | Cima | Cima | シーマ | class:cn:d | body:sedan | pt:ice | discontinued · 1988-2010 | Cima(1988-2010),日产豪华旗舰轿车,北美以英菲尼迪Q45销售,2010年停产后2012年以Skyline高级版复产 |
 | model:nissan:cube | Cube | Cube | Cube | キューブ | class:eu:b | body:hatchback | pt:ice | discontinued · 1998–2019 | 不对称造型的日本小型箱式车,设计经典 |
+| model:nissan:d22 | Nissan D22 | 日产D22 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 1997-2015 | 日产D22(1997-2015),郑州日产Navara前身皮卡,2015年停产 |
 | model:nissan:datsun-go | Datsun Go | Datsun Go | Datsun Go | ダットサン・ゴー | class:eu:a | body:hatchback | pt:ice | discontinued · 2014–2022 | Datsun 品牌 2013 年复活后的新兴市场入门车,印度/印尼生产;另有 Go+ 与 redi-Go(参考维基) |
 | model:nissan:datsun-truck | Datsun Truck | Datsun 皮卡 | Datsun Truck | ダットサントラック | class:us:pickup | body:pickup | pt:ice | discontinued · 1955–1997 | Datsun 时代皮卡系列;1955–1986 以 Datsun 品牌销售,1986.5–1997 以 Hardbody(D21)名号延续;后继 Frontier/Navara(参考维基) |
 | model:nissan:dayz | Dayz | Dayz | Dayz | デイズ | class:jp:kei | body:hatchback | pt:ice | current · 2013–present | 日产与三菱 NMKV 合资开发的轻自动车(K-car),姊妹车三菱 eK;现售(参考维基) |
+| model:nissan:e97300071d | Grand Livina | 骏逸 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2006-2013 | 骏逸(Grand Livina,2006-2013),日产紧凑型MPV,郑州日产生产,2013年停产 |
 | model:nissan:elgrand | Elgrand | Elgrand | Elgrand | エルグランド | class:eu:m | body:minivan | pt:ice | current · 1997–present | 日产旗舰 MPV,主要面向日本及亚洲市场;2026 年换代 |
 | model:nissan:figaro | Figaro | Figaro | Figaro | フィガロ | class:eu:b | body:convertible | pt:ice | discontinued · 1991 | Pike Cars 复古车,1991 年仅生产约 2 万台,发售时抽签抢购(参考维基) |
 | model:nissan:frontier | Frontier | Frontier | Frontier | フロンティア | class:us:pickup | body:pickup | pt:ice | current · 1997–present | 北美中型皮卡;原为 Navara 北美版,D41 起为独立车型 |
+| model:nissan:frontier-pro | Frontier Pro | 锋坦Frontier Pro | — | — | class:cn:a | body:pickup | pt:ice | current · 2025-present | 锋坦Frontier Pro(2025-),郑州日产中型皮卡(汽油/柴油) |
+| model:nissan:frontier-pro-phev | Frontier Pro Frontier Pro PHEV | 锋坦Frontier Pro PHEV | — | — | class:cn:a | body:pickup | pt:phev | current · 2026-present | 锋坦Frontier Pro PHEV(2026-),郑州日产皮卡插混版 |
 | model:nissan:fuga | Fuga | 风雅 | Fuga(風雅) | フーガ | class:cn:c | body:sedan | pt:ice | discontinued · 2004–2022 | 日产行政级 FR 轿车,北美以英菲尼迪 M/Q70 销售(参考维基) |
-| model:nissan:gloria | Gloria | Gloria(大陆无通行译名) | Gloria | グロリア | class:cn:c | body:sedan | pt:ice | discontinued · 1960–2004 | 与姊妹车 Cedric 同为日产行政级轿车(Gloria 承 Prince 血脉);2004 年与 Cedric 同时停产,后继 Fuga(参考日产官方历史/维基) |
+| model:nissan:gloria | Gloria | Gloria(大陆无通行译名) | Gloria | グロリア | class:cn:c | body:sedan | pt:ice | discontinued · 1959-2004 | Gloria(1959-2004),日产行政级轿车(承Prince血脉),与Cedric为姊妹车,2004年停产,后继Fuga |
 | model:nissan:gt-r | GT-R | GT-R(战神) | GT-R | GT-R(ジーティーアール) | class:eu:s | body:sports | pt:ice | discontinued · 2007–2025 | 独立车系的现代 GT-R(R35);历史源自 Skyline GT-R(1968–2002);2025 年停产 |
 | model:nissan:juke | Juke | Juke | Juke | ジューク | class:eu:b | body:crossover | pt:ice | current · 2010–present | 个性化小型跨界;欧洲/澳洲在售;中国曾进口无中文名 |
 | model:nissan:kicks | Kicks | 劲客 | Kicks | キックス | class:eu:b | body:crossover | pt:ice | current · 2016–present | 小型跨界 SUV;大陆东风日产曾国产劲客;部分市场有 e-POWER |
@@ -2399,12 +3147,20 @@
 | model:nissan:leaf | Leaf | 聆风 | Leaf | リーフ | class:eu:c | body:hatchback | pt:bev | current · 2010–present | 全球最畅销纯电车之一;2025 年换代(ZE2)由掀背改为紧凑跨界 SUV |
 | model:nissan:leopard | Leopard | Leopard | Leopard | レパード | class:cn:c | body:coupe | pt:ice | discontinued · 1980–1999 | 日产豪华轿跑,北美以英菲尼迪 J30 销售(参考维基) |
 | model:nissan:livina | Livina | 骊威 | Livina | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2007–2020 | 东风日产紧凑两厢/MPV,2020年停产 |
+| model:nissan:magnite | Nissan MAGNITE | 日产MAGNITE | — | — | class:cn:a | body:suv | pt:ice | current · 2020-present | MAGNITE(2020-),日产印度市场小型SUV |
 | model:nissan:march | March / Micra | 玛驰(大陆已停) | March | マーチ | class:eu:b | body:hatchback | pt:ice | current · 1982–present | 欧洲称 Micra;大陆东风日产曾国产「玛驰」已停;拉美继续生产旧款;2025 年 Micra 换代纯电 |
 | model:nissan:maxima | Maxima | 西玛 | Maxima | マキシマ | class:us:large | body:sedan | pt:ice | discontinued · 1980–2023 | 北美前驱大型轿车;大陆东风日产 2016 年国产「西玛」;2023 年全球停产 |
 | model:nissan:murano | Murano | 楼兰 | Murano | ムラーノ | class:eu:j | body:crossover | pt:ice | current · 2002–present | 中型跨界 SUV;大陆东风日产曾国产称「楼兰」 |
 | model:nissan:navara | Navara | 纳瓦拉 | Navara | ナバラ | class:us:pickup | body:pickup | pt:ice | current · 1985–present | 全球市场中型皮卡;郑州日产国产称「纳瓦拉」;北美对应 Frontier |
+| model:nissan:nissan-n6 | Nissan N6 | 日产N6 | — | — | class:cn:a | body:sedan | pt:bev | current · 2025-present | 日产N6(2025-),东风日产中国特供纯电轿车 |
+| model:nissan:nissan-n7 | Nissan N7 | 日产N7 | — | — | class:cn:a | body:sedan | pt:bev | current · 2025-present | 日产N7(2025-),东风日产中国特供纯电轿车 |
+| model:nissan:nissan-zn | ZN Van | ZN厢式车 | — | — | class:cn:b | body:van | pt:ice | discontinued · 2005-2015 | ZN厢式车(2005-2015),郑州日产轻型厢式车 |
 | model:nissan:note | Note | Note | Note | ノート | class:eu:b | body:hatchback | pt:ice | current · 2004–present | 日本市场小型两厢车;现款主打 e-POWER 混动,仅右舵生产 |
 | model:nissan:nv200 | NV200 / e-NV200 | NV200 | NV200 | NV200バネット | class:eu:m | body:van | pt:ice | discontinued · 2009–2021 | 全球小型厢式车,日本 2011–2021 销售;含纯电版 e-NV200(参考维基) |
+| model:nissan:nv200-2 | Nissan NV200 | 日产NV200 | — | — | class:cn:a | body:van | pt:ice | current · 2009-present | NV200(2009-),日产紧凑型厢式车,郑州日产生产;2020年停产Evalia版 |
+| model:nissan:nv300 | Nissan NV300 | 日产NV300 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2016-2022 | NV300(2016-2022),雷诺Trafic贴牌,欧洲市场,2022年停产 |
+| model:nissan:nv3500 | Nissan NV3500 | 日产NV3500 | — | — | class:cn:d | body:van | pt:ice | discontinued · 2011-2021 | NV3500(2011-2021),日产北美大型厢式车(与NV2500/NV1500同系),2021年停产 |
+| model:nissan:nx8 | Nissan NX8 | 日产NX8 | — | — | class:cn:a | body:suv | pt:erev | current · 2026-present | 日产NX8(2026-),东风日产中国特供中大型SUV(增程/纯电) |
 | model:nissan:paladin | Paladin | 帕拉丁 | Paladin | — | class:cn:b | body:suv | pt:ice | discontinued · 2003–2014 | 郑州日产国产硬派SUV,基于Terrano/Pathfinder平台,2014年前后停产 |
 | model:nissan:pao | Pao | Pao | Pao | パオ | class:eu:b | body:hatchback | pt:ice | discontinued · 1989–1991 | Pike Cars 复古车第二作,限量约 5.2 万台(参考维基) |
 | model:nissan:pathfinder | Pathfinder | 探路者 | Pathfinder | パスファインダー | class:eu:j | body:suv | pt:ice | current · 1985–present | 三排中型 SUV;初代为硬派越野,现为城市家用;大陆东风日产 2023 年起国产「探路者」 |
@@ -2413,10 +3169,11 @@
 | model:nissan:primera | Primera | Primera | Primera | プリメーラ | class:cn:b | body:sedan | pt:ice | discontinued · 1990–2008 | 日产欧洲战略车型,英国桑德兰工厂生产;北美以英菲尼迪 G20 销售(参考维基) |
 | model:nissan:pulsar | Pulsar | Pulsar | Pulsar | パルサー | class:cn:a | body:hatchback | pt:ice | discontinued · 1978–2005 | 日产前驱紧凑车;日本至 2000、欧洲至 2005;含高性能版 Pulsar GTI-R;后继 Tiida(参考维基) |
 | model:nissan:qashqai | Qashqai | 逍客 | Qashqai | キャシュカイ | class:eu:j | body:crossover | pt:ice | current · 2007–present | 欧洲市场紧凑跨界主力;大陆东风日产国产称「逍客」;欧洲有 e-POWER |
-| model:nissan:quest | Quest | 贵士 | Quest | クエスト | class:cn:mpv | body:mpv | pt:ice | current · 2004–present | 日产进口中大型MPV,大陆曾以「贵士」销售;北美版实际已停产,年份/状态待核实 |
+| model:nissan:quest | Quest | 贵士 | Quest | クエスト | class:cn:mpv | body:mpv | pt:ice | discontinued · 1992-2017 | 贵士(Quest,1992-2017),日产进口中大型MPV,大陆曾以贵士销售,2017年停产 |
 | model:nissan:rasheen | Rasheen | Rasheen | Rasheen | ラシーン | class:eu:j | body:suv | pt:ice | discontinued · 1994–2000 | 90 年代个性小型 SUV(参考维基) |
 | model:nissan:rogue | Rogue | Rogue | Rogue | — | class:us:compact | body:suv | pt:ice | current · 2007–present | 北美版 X-Trail,2014 年起与 X-Trail 合并为同一车型 |
 | model:nissan:s-cargo | S-Cargo | S-Cargo | S-Cargo | エスカルゴ | class:eu:b | body:van | pt:ice | discontinued · 1989–1992 | Pike Cars 系列小型送货车,蜗牛造型(参考维基) |
+| model:nissan:sentra | Sentra | Sentra | — | — | class:cn:a | body:sedan | pt:ice | current · 1982-present | Sentra(1982-),日产紧凑型轿车(北美市场);中国版名轩逸(Sylphy) |
 | model:nissan:serena | Serena | Serena | Serena | セレナ | class:eu:m | body:minivan | pt:ice | current · 1991–present | 日规家用 MPV,现款有 e-POWER 混动;香港/东南亚有售 |
 | model:nissan:silvia | Silvia | Silvia | Silvia | シルビア | class:eu:s | body:coupe | pt:ice | discontinued · 1965–2002 | 经典后驱轿跑;北美以 200SX/240SX 销售;后继为 350Z |
 | model:nissan:skyline | Skyline | Skyline | Skyline | スカイライン | class:cn:b | body:sedan | pt:ice | current · 1957–present | 日产第二悠久的车系;现售 V37 为英菲尼迪 Q50 的日本贴牌版;历史上有 Skyline GT-R 高性能版 |
@@ -2424,8 +3181,8 @@
 | model:nissan:sunny | Sunny | 阳光 | Sunny(太陽) | サニー | class:cn:a0 | body:sedan | pt:ice | discontinued · 1965–2006 | 日产入门家轿;大陆东风日产曾国产「阳光」;后继为 Note/March |
 | model:nissan:sylphy | Sylphy / Sentra | 轩逸 | Super Sentra(俗稱仙草) | シルフィ | class:cn:a | body:sedan | pt:ice | current · 2000–present | 北美称 Sentra(2012 年与 Sylphy 合并为同一车系);大陆东风日产轩逸销量常青;中国有 e-POWER 版 |
 | model:nissan:teana | Teana | 天籁 | Teana(天籟) | ティアナ | class:cn:b | body:sedan | pt:ice | current · 2003–present | 大陆东风日产主力中型车;前身为 Cefiro(风度);北美对应 Altima |
-| model:nissan:terra | Terra | 途达 | Terra | — | class:cn:b | body:suv | pt:ice | current · 2018–present | 郑州日产生产、东风日产销售的中型硬派SUV,与Navara(D23)同平台 |
-| model:nissan:terrano | Terrano | Terrano | Terrano | テラノ | class:eu:j | body:suv | pt:ice | discontinued · 1986–2002 | 日产紧凑/中型 SUV(与 Pathfinder 同平台);日本 1986–2002,欧洲 Terrano II 至 2006;2012–2022 俄/印市场以 Dacia Duster 贴牌续用此名,年份待核实 |
+| model:nissan:terra | Terra | 途达 | Terra | — | class:cn:b | body:suv | pt:ice | current · 2018-present | 途达(Terra,2018-),郑州日产生产、东风日产销售的中型硬派SUV,与Navara(D23)同平台 |
+| model:nissan:terrano | Terrano | Terrano | Terrano | テラノ | class:eu:j | body:suv | pt:ice | discontinued · 1986-2022 | Terrano(1986-2022),日产紧凑/中型SUV(与Pathfinder同平台);日本1986-2002,欧洲Terrano II至2006;2012-2022俄/印市场以Dacia Duster贴牌续用此名 |
 | model:nissan:tiida | Tiida | 骐达(两厢)/颐达(三厢) | Tiida | ティーダ | class:cn:a | body:hatchback | pt:ice | discontinued · 2004–2026 | 北美称 Versa,欧洲称 Pulsar;大陆东风日产国产骐达;2026 年正式停产 |
 | model:nissan:titan | Titan | Titan | Titan | タイタン | class:us:pickup | body:pickup | pt:ice | discontinued · 2003–2024 | 北美全尺寸皮卡;2024 年停产 |
 | model:nissan:x-trail | X-Trail | 奇骏 | X-Trail | エクストレイル | class:eu:j | body:suv | pt:ice | current · 2001–present | 日产全球主力紧凑 SUV;北美称 Rogue;大陆东风日产国产;现款有 e-POWER/e-4ORCE |
@@ -2471,6 +3228,8 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:oshan:520 | Oshan 520 | 长安欧尚520 | — | — | class:cn:a | body:sedan | pt:bev | current · 2024–present | 长安欧尚520(2024-),纯电紧凑型轿车,基于长安逸动平台,含换电版 |
+| model:oshan:530 | Oshan 530 | 长安欧尚530 | — | — | class:cn:a | body:sedan | pt:ice | current · 2025–present | 长安欧尚530(2025-),紧凑型轿车,含网约版 |
 | model:oshan:a600 | Oshan A600 | 长安欧尚A600 | A600 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018–2021 | 长安欧尚A600紧凑型MPV(2018年上市),前身为2015年的长安欧尚MPV,约2021年停产 |
 | model:oshan:a800 | Oshan A800 | 长安欧尚A800 | A800 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2017–2020 | 长安欧尚A800紧凑型MPV(2017年上市),约2020年停产 |
 | model:oshan:cx70 | Oshan CX70 | 长安欧尚CX70 | CX70 | — | class:cn:b | body:suv | pt:ice | discontinued · 2016–2020 | 长安欧尚CX70中型SUV(2016年上市,7座),约2020年停产 |
@@ -2478,11 +3237,16 @@
 | model:oshan:kesai-5 | Oshan Kesai 5 | 长安欧尚科赛5 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2018–2021 | 长安欧尚科赛5小型SUV(2018年上市),约2021年停产 |
 | model:oshan:kesai-pro | Oshan Kesai Pro | 长安欧尚科赛Pro | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2020–2021 | 长安欧尚科赛Pro中型SUV(2020年上市),约2021年停产 |
 | model:oshan:keshan | Oshan Keshan | 长安欧尚科尚 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018–2020 | 长安欧尚科尚紧凑型MPV(2018年上市),约2020年停产 |
+| model:oshan:oshan-3-2 | Kesai 3 | 长安欧尚科赛3 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2019–2021 | 科赛3(2019-),小型SUV,2019年上市,已停产 |
+| model:oshan:oshan-ev | Eulove EV | 欧力威EV | — | — | class:cn:mpv | body:mpv | pt:bev | discontinued · 2015–2017 | 欧力威EV(2015-),欧力威纯电版,已停产 |
+| model:oshan:oshan-ev-2 | Keshang EV | 科尚EV | — | — | class:cn:mpv | body:mpv | pt:bev | discontinued · 2019–2020 | 科尚EV(2019-2020),科尚纯电版,已停产 |
+| model:oshan:oshan-ii | Nio II | 尼欧II | — | — | class:cn:a00 | body:city-car | pt:bev | discontinued · 2018–2020 | 尼欧II(2018-2020),长安欧尚纯电微型车,已停产 |
 | model:oshan:ouliwei | Oshan Ouliwei | 欧力威 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2013–2017 | 长安欧力威紧凑型MPV(2013年上市),造型介于面包车与MPV之间,约2017年停产 |
 | model:oshan:ounuo | Oshan Ounuo | 欧诺 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2012–2020 | 长安欧诺紧凑型MPV(2012年上市),商乘两用,约2020年停产 |
 | model:oshan:x5 | Oshan X5 | 长安欧尚X5 | X5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2020–2023 | 长安欧尚X5紧凑型SUV(2020年上市),欧尚品牌销量主力;品牌整合进长安后停产,继任为长安X5 PLUS |
 | model:oshan:x5-plus | Oshan X5 Plus | 长安欧尚X5 PLUS | X5 Plus | — | class:cn:a | body:suv | pt:ice | discontinued · 2022–2024 | 长安欧尚X5 PLUS紧凑型SUV(2022年上市),2024年欧尚品牌并入长安后以长安X5 PLUS之名继续销售 |
 | model:oshan:x7 | Oshan X7 | 长安欧尚X7 | X7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2019–2023 | 长安欧尚X7紧凑型SUV(2019年上市),品牌整合后停产,继任为长安X7 PLUS |
+| model:oshan:x7-ev | X7 EV | X7 EV | — | — | class:cn:c | body:suv | pt:bev | discontinued · 2020–2022 | 长安欧尚X7 EV(2020-),X7纯电版,续航405公里,已停产 |
 | model:oshan:x7-plus | Oshan X7 Plus | 长安欧尚X7 PLUS | X7 Plus | — | class:cn:a | body:suv | pt:ice | discontinued · 2021–2024 | 长安欧尚X7 PLUS紧凑型SUV(2021年上市),2024年以长安X7 PLUS之名继续销售 |
 | model:oshan:x70a | Oshan X70A | 长安欧尚X70A | X70A | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2021 | 长安欧尚X70A紧凑型SUV(2018年上市),方盒造型偏商用,约2021年停产 |
 | model:oshan:z6 | Oshan Z6 | 长安欧尚Z6 | Z6 | — | class:cn:a | body:suv | pt:ice | discontinued · 2022–2024 | 长安欧尚Z6紧凑型SUV(2022年上市,燃油版),品牌整合后并入长安Z6系列 |
@@ -2523,15 +3287,31 @@
 | model:peugeot:207 | 207 | 207 | 207 | 207 | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2008–2014 | 东风标致国产207,含三厢/两厢版,2014年停产;欧洲版2006年先行上市 |
 | model:peugeot:208 | 208 | 208 | 208 | 208 | class:eu:b | body:hatchback | pt:ice | current · 2012–present | 含纯电版e-208;前身为207 |
 | model:peugeot:3008 | 3008 | 3008 | 3008 | 3008 | class:eu:j | body:suv | pt:ice | current · 2008–present | 初代为跨界MPV,2016年换代后转为紧凑型SUV;中国版为4008(加长) |
-| model:peugeot:301 | 301 | 301 | 301 | 301 | class:cn:a | body:sedan | pt:ice | current · 2013–present | 东风标致紧凑三厢轿车,面向中国市场;实际已停产,停产年份待核实 |
+| model:peugeot:301 | 301 | 301 | 301 | 301 | class:cn:a | body:sedan | pt:ice | discontinued · 2012-2020 | 标致301(2012-2020),东风标致紧凑三厢轿车,面向中国市场,2020年停产 |
+| model:peugeot:307-2 | Peugeot 307 | 标致307 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2001-2014 | 标致307(2001-2014),东风标致紧凑型车,2014年停产 |
 | model:peugeot:308 | 308 | 308 | 308 | 308 | class:eu:c | body:hatchback | pt:ice | current · 2007–present | 含旅行版308 SW与纯电版e-308;前身为307 |
+| model:peugeot:308s | Peugeot 308S | 标致308S | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2015-2019 | 308S(2015-2019),东风标致308两厢版,2019年停产 |
+| model:peugeot:4007 | Peugeot 4007 | 标致4007 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2007-2012 | 4007(2007-2012),三菱Outlander贴牌,2012年停产 |
+| model:peugeot:4008 | 4008 (imported) | 4008(进口) | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2008-2013 | 4008(2008-2013),三菱ASX贴牌的进口版;中国另有东风标致4008(国产,另行收录) |
 | model:peugeot:406 | 406 | 406 | 406 | 406 | class:eu:d | body:sedan | pt:ice | discontinued · 1995–2008 | 中型轿车,含旅行版与406 Coupe(宾尼法利纳设计) |
 | model:peugeot:407 | 407 | 407 | 407 | 407 | class:eu:d | body:sedan | pt:ice | discontinued · 2004–2011 | 406的继任,被508取代 |
 | model:peugeot:408 | 408 | 408 | 408 | 408 | class:eu:c | body:crossover | pt:ice | current · 2010–present | 初代为中国市场三厢轿车(2010),现款为2022年推出的跨界轿跑408(含e-408纯电) |
+| model:peugeot:408x | Peugeot 408X | 标致408X | — | — | class:cn:a | body:hatchback | pt:ice | current · 2023-present | 408X(2023-),东风标致跨界轿车(欧版为全球车型) |
 | model:peugeot:5008 | 5008 | 5008 | 5008 | 5008 | class:eu:j | body:suv | pt:ice | current · 2009–present | 初代为三排紧凑MPV,2024年换代后为三排中型SUV |
+| model:peugeot:5008-2 | 5008 Classic | 5008经典 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2017-2021 | 5008经典(2017-2021),东风标致5008老款,2021年停产 |
 | model:peugeot:508 | 508 | 508 | 508 | 508 | class:eu:d | body:sedan | pt:ice | current · 2010–present | 欧洲市场2025年停产,中国508L(加长版)仍在售;替代407/607 |
+| model:peugeot:508l | 508L New Energy | 508L新能源 | — | — | class:cn:a | body:sedan | pt:phev | current · 2020-present | 508L新能源(2020-),东风标致508L插电混动版 |
+| model:peugeot:6008 | Peugeot 6008 | 标致6008 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2012-2016 | 6008(2012-2016),标致大型SUV(中国特供),2016年停产 |
 | model:peugeot:607 | 607 | 607 | 607 | 607 | class:eu:e | body:sedan | pt:ice | discontinued · 1999–2010 | 旗舰行政级轿车,法国总统座驾之一;后继由508顶替 |
+| model:peugeot:608 | Peugeot 608 | 标致608 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2009-2013 | 608(2009-2013),标致旗舰轿跑(未量产,计划车型) |
+| model:peugeot:807 | Peugeot 807 | 标致807 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2002-2014 | 807(2002-2014),标致大型MPV,2014年停产 |
+| model:peugeot:e-208 | E-208 | E-208 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2019-present | e-208(2019-),标致208的纯电版,欧洲市场 |
+| model:peugeot:e-expert | e-Expert | e-Expert | — | — | class:cn:a | body:van | pt:bev | current · 2020-present | e-Expert(2020-),Expert的纯电版 |
+| model:peugeot:e-partner | e-Partner | e-Partner | — | — | class:cn:a | body:van | pt:bev | current · 2020-present | e-Partner(2020-),Partner的纯电版 |
+| model:peugeot:e-traveller | e-Traveller | e-Traveller | — | — | class:cn:a | body:van | pt:bev | current · 2020-present | e-Traveller(2020-),Traveller的纯电版 |
+| model:peugeot:e2008 | Peugeot e2008 | 标致e2008 | — | — | class:cn:a | body:suv | pt:bev | current · 2020-present | e-2008(2020-),标致2008纯电版 |
 | model:peugeot:expert | Expert | Expert | Expert | エキスパート | class:eu:m | body:van | pt:ice | current · 1994–present | 中型厢式车;乘用版为Traveller;含纯电e-Expert |
+| model:peugeot:ion | Peugeot iOn | 标致iOn | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2010-2018 | iOn(2010-2018),三菱i-MiEV贴牌的纯电微型车,2018年停产 |
 | model:peugeot:landtrek | Landtrek | Landtrek | Landtrek | ランドトレック | class:eu:j | body:pickup | pt:ice | current · 2020–present | 皮卡,与长安凯程F70同平台,面向拉美/非洲等市场 |
 | model:peugeot:partner | Partner | Partner | Partner | パートナー | class:eu:m | body:van | pt:ice | current · 1996–present | 紧凑型厢式车,含乘用版Rifter与纯电e-Partner |
 | model:peugeot:rcz | RCZ | RCZ | RCZ | RCZ | class:eu:s | body:coupe | pt:ice | discontinued · 2009–2015 | 双门轿跑,308平台衍生 |
@@ -2601,6 +3381,7 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:qoros:model-young | Qoros Model Young | 观致Model Young | 觀致Model Young | — | class:cn:a | body:suv | pt:ice | discontinued · 2017–2019 | 观致品牌紧凑型SUV,基于奇瑞瑞虎7平台,2017年上市 |
 | model:qoros:qoros-3 | Qoros 3 | 观致3 | 觀致3 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2013–2021 | 紧凑型轿车,观致品牌首款车型,含五门掀背版与3 GT跨界版 |
 | model:qoros:qoros-5 | Qoros 5 | 观致5 | 觀致5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2016–2021 | 紧凑型SUV,观致主力车型 |
 | model:qoros:qoros-7 | Qoros 7 | 观致7 | 觀致7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2020–2021 | 紧凑型SUV,宝能入主后推出,品牌停摆后停产 |
@@ -2633,10 +3414,14 @@
 |---|---|---|---|---|---|---|---|---|---|
 | model:renault:4-e-tech | 4 E-Tech | 4 E-Tech(雷诺4) | 4 E-Tech | 4 E-Tech | class:eu:b | body:suv | pt:bev | current · 2025–present | 致敬经典雷诺4(1961-1992)的纯电小型SUV,2025年复活 |
 | model:renault:5-e-tech | 5 E-Tech | 5 E-Tech(雷诺5) | 5 E-Tech | 5 E-Tech | class:eu:b | body:hatchback | pt:bev | current · 2024–present | 致敬1972年雷诺5(经典「小五」)的复古纯电小车 |
+| model:renault:6acaee71fe | Latitude | 纬度 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2010–2017 | 纬度(Latitude,2010-2017),雷诺中型轿车,基于雷诺三星SM5,中国曾进口销售 |
 | model:renault:arkana | Arkana | Arkana | Arkana | アルカナ | class:eu:c | body:crossover | pt:ice | discontinued · 2019–2025 | 轿跑风格跨界SUV,欧洲市场2025年停产;土耳其等市场仍生产 |
 | model:renault:austral | Austral | Austral | Austral | オーストラル | class:eu:c | body:suv | pt:ice | current · 2022–present | 紧凑型SUV,接替Kadjar |
 | model:renault:captur | Captur | 科雷缤 | Captur | キャプチャー | class:eu:b | body:crossover | pt:ice | current · 2013–present | 小型跨界SUV,基于Clio平台;中国2015年起曾以进口「卡缤」销售,后由东风雷诺国产为「科雷缤」(2019起) |
+| model:renault:ce421b26ee | Vel Satis | 威赛帝 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2001–2009 | 威赛帝(Vel Satis,2001-2009),雷诺旗舰轿车,造型独特,已停产 |
 | model:renault:clio | Clio | Clio | Clio | クリオ | class:eu:b | body:hatchback | pt:ice | current · 1990–present | 雷诺最畅销车型;日本市场称Lutecia(ルーテシア);Clio V6(2000-2005)为引擎中置性能版 |
+| model:renault:duster | Duster | Duster | — | — | class:eu:j | body:suv | pt:ice | current · 2010–present | Duster(2010-),雷诺-日产联盟低成本紧凑SUV,南美/东欧/印度市场,中国未销售 |
+| model:renault:duster-oroch | Duster Oroch | Duster Oroch | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2015–2021 | Duster Oroch(2015-2021),基于Duster的皮卡,南美市场 |
 | model:renault:espace | Espace | Espace(太空) | Espace | エスパース | class:eu:d | body:suv | pt:ice | current · 1984–present | 第六代(2023)起由大型MPV改为中型SUV,基于Austral |
 | model:renault:fluence | Fluence | 风朗 | Fluence | — | class:cn:a | body:sedan | pt:ice | discontinued · 2011–2018 | 紧凑型轿车,以进口形式引入中国,名「风朗」;2018年前后停售 |
 | model:renault:kadjar | Kadjar | 科雷嘉 | Kadjar | キャジャー | class:eu:c | body:suv | pt:ice | discontinued · 2015–2022 | 紧凑型SUV,与日产逍客同平台;中国曾国产「科雷嘉」;被Austral取代 |
@@ -2645,8 +3430,11 @@
 | model:renault:laguna | Laguna | 拉古那 | Laguna | ラグナ | class:eu:d | body:hatchback | pt:ice | discontinued · 1994–2015 | 中型车(掀背/旅行),被Talisman取代 |
 | model:renault:master | Master | Master | Master | マスター | class:eu:m | body:van | pt:ice | current · 1980–present | 大型厢式车,含纯电Master E-Tech;与欧宝Movano、日产Interstar同平台 |
 | model:renault:megane | Mégane | 梅甘娜 | Megane | メガーヌ | class:eu:c | body:hatchback | pt:bev | current · 1995–present | 现款为纯电Mégane E-Tech(2021-);燃油版(1995-2025)已停,Mégane RS性能版并入本条目 |
+| model:renault:qm6 | Renault QM6 | 雷诺QM6 | — | — | class:eu:j | body:suv | pt:ice | current · 2016–present | QM6(2016-),雷诺韩国(原雷诺三星)中型SUV,韩国市场 |
 | model:renault:rafale | Rafale | Rafale | Rafale | ラファール | class:eu:d | body:crossover | pt:ice | current · 2023–present | 中型轿跑SUV,基于Austral,旗舰定位 |
+| model:renault:renault-e | e-Nuo | e诺 | — | — | class:cn:a0 | body:hatchback | pt:bev | discontinued · 2019–2022 | e诺(City K-ZE,2019-2022),雷诺中国纯电小型车,与启辰e30/风行T1EV同源,已停产 |
 | model:renault:scenic | Scénic | 风景 | Scenic | セニック | class:eu:c | body:suv | pt:bev | current · 1996–present | 现款为纯电Scenic E-Tech(2024-);前代为紧凑MPV(1996-2022) |
+| model:renault:sm6 | Samsung SM6 | 雷诺三星SM6 | — | — | class:cn:b | body:sedan | pt:ice | current · 2016–present | 雷诺三星SM6(2016-),韩国市场中型轿车,雷诺Talisman的韩国版 |
 | model:renault:symbioz | Symbioz | Symbioz | Symbioz | サンビオズ | class:eu:c | body:suv | pt:ice | current · 2024–present | 紧凑型SUV,定位介于Captur与Austral之间 |
 | model:renault:talisman | Talisman | 塔利斯曼 | Talisman | タリスマン | class:eu:d | body:sedan | pt:ice | discontinued · 2015–2022 | 中型轿车,接替Laguna;另有中国特供版塔利斯曼(2012-2020) |
 | model:renault:trafic | Trafic | Trafic | Trafic | トラフィック | class:eu:m | body:van | pt:ice | current · 1980–present | 中型厢式车,含乘用版Trafic Combi |
@@ -2676,20 +3464,40 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
-| model:roewe:clever | Roewe Clever | 科莱威 | Roewe Clever | — | class:cn:a00 | body:hatchback | pt:bev | current · 2020–present | 上汽荣威微型纯电两厢车(2020年上市);现售状态待核实 |
+| model:roewe:360 | Roewe 360 | 荣威360 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2015-2019 | 荣威360(2015-2019),上汽荣威紧凑型轿车,2019年停产 |
+| model:roewe:750 | Roewe 750 | 荣威750 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2006-2013 | 荣威750(2006-2013),荣威首款车型(源自罗孚75),2013年停产 |
+| model:roewe:clever | Roewe Clever | 科莱威 | Roewe Clever | — | class:cn:a00 | body:hatchback | pt:bev | current · 2020-present | 科莱威(2020-),上汽荣威微型纯电两厢车 |
 | model:roewe:d5x | Roewe D5X | 荣威D5X | Roewe D5X | — | class:cn:a | body:suv | pt:phev | current · 2024–present | 紧凑型插混SUV(DMH超级混动) |
+| model:roewe:d5x-dmh | Roewe D5X DMH | 荣威D5X DMH | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 荣威D5X DMH(2024-),荣威紧凑型插混SUV |
 | model:roewe:d7 | Roewe D7 | 荣威D7 | Roewe D7 | — | class:cn:b | body:sedan | pt:bev | current · 2023–present | 中型轿车,纯电(D7 EV)与插混(D7 DMH)双动力 |
+| model:roewe:e50 | Roewe e50 | 荣威e50 | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2012-2016 | 荣威e50(2012-2016),荣威首款纯电微型车,2016年停产 |
+| model:roewe:e550 | Roewe e550 | 荣威e550 | — | — | class:cn:a | body:sedan | pt:phev | discontinued · 2015-2019 | 荣威e550(2015-2019),550的插电混动版,2019年停产 |
 | model:roewe:e950 | Roewe e950 | 荣威e950 | Roewe e950 | — | class:cn:c | body:sedan | pt:phev | discontinued · 2016–2019 | 荣威950插电混动版(中大型轿车,2016年上市);约2019年停产 |
-| model:roewe:ei5 | Roewe Ei5 | 荣威Ei5 | Roewe Ei5 | — | class:cn:a | body:wagon | pt:bev | current · 2018–present | 紧凑型纯电旅行车(出租/网约车常见);现售状态待核实 |
+| model:roewe:e9c356cbeb | Longmao | 龙猫 | — | — | class:cn:a | body:suv | pt:hev | current · 2022-present | 荣威龙猫(2022-),荣威首款HEV SUV |
+| model:roewe:ei5 | Roewe Ei5 | 荣威Ei5 | Roewe Ei5 | — | class:cn:a | body:wagon | pt:bev | current · 2018-present | 荣威Ei5(2018-),紧凑型纯电旅行车(出租/网约车常见) |
+| model:roewe:er6 | Rising Auto ER6 | 飞凡ER6 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2020-2022 | 飞凡ER6(2020-2022),飞凡品牌纯电轿车(原荣威R ER6),2022年停产 |
+| model:roewe:fd7be99643 | Whale | 鲸 | — | — | class:cn:a | body:coupe | pt:ice | current · 2022-present | 荣威鲸(2022-),荣威首款轿跑SUV |
 | model:roewe:i5 | Roewe i5 | 荣威i5 | Roewe i5 | — | class:cn:a | body:sedan | pt:ice | current · 2018–present | 上汽荣威紧凑型轿车(走量车型) |
 | model:roewe:i6 | Roewe i6 | 荣威i6 | Roewe i6 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2017–2021 | 紧凑型轿车,含i6 MAX/Ei6衍生;约2021年停产 |
+| model:roewe:i6-max-2 | Roewe i6 MAX | 荣威i6 MAX | — | — | class:cn:a | body:sedan | pt:ice | current · 2020-present | 荣威i6 MAX(2020-),i6的升级版 |
 | model:roewe:imax8 | Roewe iMAX8 | 荣威iMAX8 | Roewe iMAX8 | — | class:cn:mpv | body:mpv | pt:ice | current · 2020–present | 中大型MPV(7座),燃油与EV版 |
+| model:roewe:m7-dmh | Roewe M7 DMH | 荣威M7 DMH | — | — | class:cn:a | body:mpv | pt:phev | current · 2024-present | 荣威M7 DMH(2024-),荣威插混MPV |
 | model:roewe:marvel-r | Roewe MARVEL R | 荣威MARVEL R | Roewe MARVEL R | — | class:cn:b | body:suv | pt:bev | discontinued · 2020–2022 | 纯电中型SUV(上汽R品牌时期车型);约2022年停产 |
+| model:roewe:marvel-r-2 | Rising Auto MARVEL R | 飞凡MARVEL R | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2020-2023 | 飞凡MARVEL R(2020-2023),飞凡品牌纯电SUV,2023年停产 |
+| model:roewe:marvel-x | Roewe MARVEL X | 荣威MARVEL X | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2018-2021 | 荣威MARVEL X(2018-2021),荣威纯电中型SUV,2021年停产 |
+| model:roewe:roewe-07 | Jiayue 07 | 家越07 | — | — | class:cn:a | body:suv | pt:ice | current · 2025-present | 家越07(2025-),荣威插混SUV |
 | model:roewe:roewe-350 | Roewe 350 | 荣威350 | Roewe 350 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2010–2018 | 紧凑型轿车;约2018年停产 |
 | model:roewe:roewe-550 | Roewe 550 | 荣威550 | Roewe 550 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2015 | 上汽荣威首款战略轿车(源自罗孚75平台);约2015年停产 |
 | model:roewe:roewe-950 | Roewe 950 | 荣威950 | Roewe 950 | — | class:cn:c | body:sedan | pt:ice | discontinued · 2012–2020 | 上汽荣威中大型轿车(与别克君越同平台,2012年上市);约2020年停产 |
-| model:roewe:rx3 | Roewe RX3 | 荣威RX3 | Roewe RX3 | — | class:cn:a | body:suv | pt:ice | current · 2017–present | 上汽荣威紧凑型SUV(2017年上市,2021年改款RX3 PRO);现售状态待核实 |
+| model:roewe:roewe-d6 | Roewe D6 | 荣威D6 | — | — | class:cn:a | body:sedan | pt:bev | current · 2025-present | 荣威D6(2025-),荣威纯电轿车 |
+| model:roewe:roewe-e6 | Roewe E6 | 荣威E6 | — | — | class:cn:a | body:sedan | pt:bev | current · 2025-present | 荣威E6(2025-),荣威纯电轿车 |
+| model:roewe:roewe-f7 | Rising Auto F7 | 飞凡F7 | — | — | class:cn:a | body:sedan | pt:bev | current · 2023-present | 飞凡F7(2023-),飞凡品牌纯电轿车 |
+| model:roewe:roewe-i6-2 | i6 Classic | i6经典 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2019-2022 | 荣威i6经典(2019-2022),i6老款同堂销售,2022年停产 |
+| model:roewe:roewe-r7 | Rising Auto R7 | 飞凡R7 | — | — | class:cn:a | body:suv | pt:bev | current · 2022-present | 飞凡R7(2022-),飞凡品牌纯电SUV |
+| model:roewe:rx3 | Roewe RX3 | 荣威RX3 | Roewe RX3 | — | class:cn:a | body:suv | pt:ice | current · 2017-present | 荣威RX3(2017-),上汽荣威紧凑型SUV,2021年改款RX3 PRO |
 | model:roewe:rx5 | Roewe RX5 | 荣威RX5 | Roewe RX5 | — | class:cn:a | body:suv | pt:ice | current · 2016–present | 紧凑型SUV,2022年第三代;含eRX5/RX5 eMAX插混与RX5 MAX衍生(并入本条) |
+| model:roewe:rx5-emax | Roewe RX5 eMAX | 荣威RX5 eMAX | — | — | class:cn:c | body:suv | pt:phev | current · 2019-present | 荣威RX5 eMAX(2019-),RX5 MAX插电混动版 |
+| model:roewe:rx5-max | Roewe RX5 MAX | 荣威RX5 MAX | — | — | class:cn:c | body:suv | pt:ice | current · 2019-present | 荣威RX5 MAX(2019-),荣威紧凑型SUV |
 | model:roewe:rx8 | Roewe RX8 | 荣威RX8 | Roewe RX8 | — | class:cn:c | body:suv | pt:ice | discontinued · 2018–2022 | 中大型非承载式SUV(7座);约2022年停产 |
 | model:roewe:rx9 | Roewe RX9 | 荣威RX9 | Roewe RX9 | — | class:cn:c | body:suv | pt:ice | current · 2023–present | 中大型SUV(6/7座) |
 | model:roewe:w5 | Roewe W5 | 荣威W5 | Roewe W5 | — | class:cn:b | body:suv | pt:ice | discontinued · 2011–2017 | 上汽荣威中型硬派SUV(非承载式车身,2011年上市);约2017年停产 |
@@ -2753,21 +3561,32 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:sol:3d9d67c8c0 | Sol Aipao | 思皓爱跑 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2022–2024 | 思皓爱跑(2022-2024),纯电轿车,已停产 |
+| model:sol:a3c939ff6d | Flower Fairy | 花仙子 | — | — | class:cn:a00 | body:city-car | pt:bev | discontinued · 2021–2023 | 思皓花仙子(2021-2023),纯电微型车,已停产 |
 | model:sol:a5 | Sol A5 | 思皓A5 | Sol A5 | — | class:cn:a | body:hatchback | pt:ice | current · 2020–present | 思皓品牌紧凑型掀背轿车,由江淮嘉悦A5换标而来 |
 | model:sol:e10x | Sol E10X | 思皓E10X | Sol E10X | — | class:cn:a00 | body:hatchback | pt:bev | current · 2021–present | 思皓品牌纯电动微型车 |
+| model:sol:e20x | Sol E20X | 思皓E20X | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2019–2022 | 思皓E20X(2019-2022),思皓首款纯电SUV,基于江淮iEV7S,已停产 |
+| model:sol:e40x | Sol E40X | 思皓E40X | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2021–2023 | 思皓E40X(2021-2023),纯电小型SUV,已停产 |
 | model:sol:e50a | Sol E50A | 思皓E50A | Sol E50A | — | class:cn:a | body:hatchback | pt:bev | current · 2021–present | 思皓品牌纯电紧凑型轿车(思皓A5的纯电版) |
 | model:sol:qx | Sol QX | 思皓QX | Sol QX | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 思皓品牌紧凑型SUV |
+| model:sol:sol-x4 | Sol X4 | 思皓X4 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2021–2023 | 思皓X4(2021-2023),紧凑型SUV,由嘉悦X4换标,已停产 |
 | model:sol:x8 | Sol X8 | 思皓X8 | Sol X8 | — | class:cn:b | body:suv | pt:ice | current · 2020–present | 思皓品牌中型SUV(7座) |
+| model:sol:x8-plus | Sol X8 PLUS | 思皓X8 PLUS | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2022–2024 | 思皓X8 PLUS(2022-2024),X8升级版7座SUV,已停产 |
 
 ## Soueast
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
-| model:soueast:a5-yiwu | Soueast A5 Yiwu | A5翼舞 | A5 Yiwu | — | class:cn:a | body:sedan | pt:ice | current · 2018–present | 东南A5翼舞紧凑型轿车(2018年上市);受东南汽车经营困境影响,在售状态待核实 |
+| model:soueast:2053bc1dee | Soueast Galant | 东南戈蓝 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2006–2011 | 戈蓝(2006-2011),东南三菱中型轿车,基于三菱Galant,已停产 |
+| model:soueast:689b1c8ac9 | Xiwang | 希旺 | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2011–2015 | 希旺(2011-2015),东南微面/厢式车,已停产 |
+| model:soueast:a5-yiwu | Soueast A5 Yiwu | A5翼舞 | A5 Yiwu | — | class:cn:a | body:sedan | pt:ice | discontinued · 2018–2021 | 东南A5翼舞(2018-2021),紧凑型轿车,东南汽车末期车型,已停产 |
+| model:soueast:c6a31c13aa | Lingshuai | 菱帅 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2003–2008 | 菱帅(2003-2008),东南轿车,基于三菱Lancer平台,已停产 |
 | model:soueast:delica | Soueast Delica | 得利卡 | Delica | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 1996–2015 | 东南得利卡MPV/厢式车(1996年投产),源自三菱Delica技术;约2015年停产 |
 | model:soueast:dx3 | Soueast DX3 | DX3 | DX3 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2021 | 东南DX3小型SUV(2016年上市),曾为东南销量支柱 |
-| model:soueast:dx5 | Soueast DX5 | DX5 | DX5 | — | class:cn:a0 | body:suv | pt:ice | current · 2019–present | 东南DX5小型SUV(2019年上市);受东南汽车经营困境影响,在售状态待核实 |
-| model:soueast:dx7 | Soueast DX7 | DX7 | DX7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2021 | 东南DX7紧凑型SUV(2015年上市),为东南首款SUV;停产时间待核实 |
+| model:soueast:dx5 | Soueast DX5 | DX5 | DX5 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2019–2021 | 东南DX5(2019-2021),小型SUV,已停产 |
+| model:soueast:dx7 | Soueast DX7 | DX7 | DX7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2021 | 东南DX7(2015-2021),紧凑型SUV,东南首款SUV,已停产 |
+| model:soueast:dx8 | Soueast DX8 | 东南DX8 | — | — | class:cn:b | body:suv | pt:ice | current · 2022–present | 东南DX8(2022-),中型SUV,捷途X70换标车型 |
+| model:soueast:dx8s | Soueast DX8S | 东南DX8S | — | — | class:cn:b | body:suv | pt:ice | current · 2022–present | 东南DX8S(2022-),中型SUV,捷途X70换标车型 |
 | model:soueast:v3-lingyue | Soueast V3 Lingyue | V3菱悦 | V3 Lingyue | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2015 | 东南V3菱悦紧凑型轿车(2008年上市),源自三菱Lancer平台技术;约2015年停产 |
 | model:soueast:v5-lingzhi | Soueast V5 Lingzhi | V5菱致 | V5 Lingzhi | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2017 | 东南V5菱致紧凑型轿车(2012年上市);约2017年停产 |
 | model:soueast:v6-lingshi | Soueast V6 Lingshi | V6菱仕 | V6 Lingshi | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2013–2016 | 东南V6菱仕紧凑型两厢车(2013年上市),为V5菱致的两厢版;约2016年停产 |
@@ -2776,6 +3595,8 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:ssangyong:123084448d | XLV | 途凌 | — | — | class:eu:j | body:crossover | pt:ice | discontinued · 2016–2020 | 途凌(XLV,2016-2020),Tivoli加长版跨界SUV,双龙进口中国市场 |
+| model:ssangyong:5664c8706f | Kyron | 享御 | — | — | class:eu:j | body:suv | pt:ice | discontinued · 2005–2011 | 享御(Kyron,2005-2011),双龙中型SUV,中国以进口销售 |
 | model:ssangyong:actyon | SsangYong Actyon | 双龙爱腾 | 雙龍Actyon | サンヨン・アクティオン | class:eu:j | body:suv | pt:ice | discontinued · 2005–2016 | 进口紧凑SUV(英文名Actyon),中国市场名爱腾;另有皮卡版Actyon Sports,2016年停产 |
 | model:ssangyong:chairman | SsangYong Chairman | 双龙主席 | 雙龍Chairman | サンヨン・チェアマン | class:cn:d | body:limousine | pt:ice | discontinued · 1997–2017 | 旗舰豪华轿车(基于奔驰E级技术,含加长版),2017年停产 |
 | model:ssangyong:korando | SsangYong Korando | 双龙柯兰多 | 雙龍Korando | サンヨン・コランド | class:eu:j | body:suv | pt:ice | current · 2010–present | 紧凑型SUV(2023年电动化改款Korando e-Motion),现以KGM品牌销售 |
@@ -2812,21 +3633,29 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:suzuki:across | Across | ACROSS(未引入) | — | — | class:eu:j | body:suv | pt:phev | current · 2020–present | 欧洲市场车型,丰田RAV4 Prime换标插混SUV,2020年上市;未引入中国/日本 |
 | model:suzuki:aerio | Aerio | 利亚纳(昌河铃木) | Aerio | エリオ | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2001–2007 | 紧凑两厢车/三厢,全球战略车,SX4前身;大陆昌河铃木利亚纳为Aerio Sedan贴牌(2013年改款名利亚纳A6);官方历史资料库收录 |
 | model:suzuki:alto | Alto | 奥拓 | Alto | アルト | class:jp:kei | body:hatchback | pt:ice | current · 1979–present | K-car代表车型;大陆长安奥拓(1992-2018);马自达Carol同源;另有印度版Alto K10 |
+| model:suzuki:alto-800 | Alto 800 | 铃木Alto 800 | — | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2012–2021 | Maruti Suzuki印度市场奥拓800,2012年上市(替代Maruti 800),2021年停产,由新一代Alto K10接替 |
 | model:suzuki:alto-lapin | Alto Lapin | 奥拓兔子 | Alto Lapin | アルトラパン | class:jp:kei | body:hatchback | pt:ice | current · 2002–present | 复古风格K-car,日本市场;马自达Spiano同源 |
+| model:suzuki:apv | APV | 铃木APV | — | — | class:cn:mpv | body:van | pt:ice | current · 2004–present | 铃木印尼市场商用厢式车(可载7-8人),2004年上市,主要销往东南亚/大洋洲 |
 | model:suzuki:baleno | Baleno | Baleno | Baleno | バレーノ | class:eu:b | body:hatchback | pt:ice | current · 2015–present | 全球版小型车,印度Maruti生产(2022年二代);1995-2007年旧名Cultus Crescent/Esteem(同源不同代) |
+| model:suzuki:beidouxing-x5 | Beidouxing X5 | 北斗星X5 | — | — | class:cn:a00 | body:crossover | pt:ice | discontinued · 2012–2018 | 昌河铃木北斗星X5,2012年上市,基于Wagon R平台的跨界风格微型车,2018年停产 |
 | model:suzuki:cappuccino | Cappuccino | 卡布奇诺 | Cappuccino | カプチーノ | class:jp:kei | body:roadster | pt:ice | discontinued · 1991–1998 | K-car双座敞篷跑车,中置后驱 |
 | model:suzuki:cara | Cara | Cara | Cara | キャラ | class:jp:kei | body:coupe | pt:ice | discontinued · 1993–1996 | K-car中置后驱跑车,与马自达AZ-1同源(鸥翼门);官方历史资料库收录 |
 | model:suzuki:carry | Carry | Carry | Carry | キャリイ | class:jp:kei | body:kei-truck | pt:ice | current · 1961–present | K-car轻卡,铃木最悠久车系之一;马自达Scrum、三菱Minicab Truck、日产NT100 Clipper同源;印尼另有1.5L版Carry |
 | model:suzuki:celerio | Celerio | Celerio | Celerio | セレリオ | class:eu:a | body:hatchback | pt:ice | current · 2008–present | 城市微型车,印度/新兴市场;巴基斯坦称Cultus;2014/2021年换代 |
 | model:suzuki:cervo | Cervo | Cervo | Cervo | セルボ | class:jp:kei | body:hatchback | pt:ice | discontinued · 1977–2011 | K-car轿跑/小型车(5代),1983年衍生单排皮卡Mighty Boy;初代Cervo为时尚双门跑车风格;官方历史资料库收录 |
-| model:suzuki:cultus | Cultus | Cultus | Cultus | カルタス | class:cn:a0 | body:hatchback | pt:ice | discontinued · 1983–2003 | 日本名Cultus,海外即初代/二代Swift(1983-2000);含Turbo/GT-i/Convertible与三厢Esteem/Crescent系列;官方历史资料库收录 |
+| model:suzuki:ciaz | Ciaz | 铃木Ciaz(启悦海外版) | — | — | class:cn:a | body:sedan | pt:ice | current · 2014–present | Maruti Suzuki印度市场紧凑型轿车,2014年上市,2018年改款;中国长安铃木启悦即同款(另行收录) |
+| model:suzuki:cultus | Cultus | 羚羊 | 福星 | カルタス | class:cn:a0 | body:hatchback | pt:ice | discontinued · 1983–2003 | 日本名Cultus,海外即初代/二代Swift(1983-2000);含Turbo/GT-i/Convertible与三厢Esteem/Crescent系列;官方历史资料库收录 |
+| model:suzuki:dzire | Dzire | 铃木Dzire(Swift三厢版) | — | — | class:cn:a0 | body:sedan | pt:ice | current · 2012–present | Maruti Suzuki印度市场Swift三厢版轿车,2012年上市,2022年换代;印度紧凑型轿车销量冠军 |
+| model:suzuki:eeco | Eeco | 铃木Eeco | — | — | class:cn:mpv | body:van | pt:ice | current · 2010–present | Maruti Suzuki印度市场微型面包车,2010年上市(Omni后继),含5/7座客运与货运版 |
 | model:suzuki:ertiga | Ertiga | Ertiga | Ertiga | エルティガ | class:eu:m | body:mpv | pt:ice | current · 2012–present | 三排座紧凑MPV,印度/印尼生产;马自达VX-1同源;丰田Rumion姊妹车 |
 | model:suzuki:every | Every | 浪迪（昌河铃木） | Every | エブリイ | class:jp:kei | body:van | pt:ice | current · 1982–present | K-car厢式货车,乘用版Every Wagon(1999-);马自达Scrum Van、三菱Minicab Van、日产NV100 Clipper同源 |
-| model:suzuki:fengyu | S-Cross | 锋驭 | S-Cross | Sクロス | class:eu:j | body:crossover | pt:ice | discontinued · 2013–2018 | 长安铃木锋驭,即第三代SX4 S-Cross的中国版,2013年底上市,1.6L/1.4T动力;2017年中期改款后更名骁途;2018年随长安铃木合资结束停产 |
+| model:suzuki:fengyu | SX4 S-Cross | 锋驭 | SX4 CROSSOVER | エスクロス | class:eu:j | body:crossover | pt:ice | discontinued · 2013–2018 | 长安铃木锋驭,2013年底上市,1.6L/1.4T动力;2017年中期改款后更名骁途;2018年随长安铃木合资结束停产 |
 | model:suzuki:fronte | Fronte | Fronte | Fronte | フロンテ | class:jp:kei | body:hatchback | pt:ice | discontinued · 1962–1989 | 铃木主力K-car系列(TLA→FEA→Fronte 360→7-S→7代),含Coupe/Hatch等衍生;官方历史资料库收录 |
 | model:suzuki:fronte-800 | Fronte 800 | Fronte 800 | Fronte 800 | フロンテ800 | class:eu:a | body:sedan | pt:ice | discontinued · 1965–1971 | 铃木首款普通尺寸轿车(非K-car),800cc;官方历史资料库收录 |
+| model:suzuki:fronx | Fronx | 铃木Fronx | — | — | class:cn:a0 | body:crossover | pt:ice | current · 2023–present | Maruti Suzuki印度市场小型跨界SUV,2023年上市,基于Baleno平台;2024年起出口日本等市场 |
 | model:suzuki:grand-vitara | Grand Vitara | 超级维特拉 | Grand Vitara | エスクード(2-3代) | class:eu:j | body:suv | pt:ice | discontinued · 1998–2019 | Vitara二代/三代的海外名(日本仍称Escudo),硬派梯形车架SUV;2019年停产,2022年印度以Grand Vitara之名复活(城市SUV,与丰田Hyryder姊妹车) |
 | model:suzuki:hustler | Hustler | 哈斯拉 | Hustler | ハスラー | class:jp:kei | body:hatchback | pt:hev | current · 2014–present | SUV风格K-car;马自达Flair Crossover同源 |
 | model:suzuki:ignis | Ignis | 英格尼斯 | Ignis | イグニス | class:cn:a0 | body:hatchback | pt:ice | current · 2000–present | 小型跨界风格车;2000-2008年初代,2016年二代复活;大陆以进口名英格尼斯销售 |
@@ -2834,23 +3663,32 @@
 | model:suzuki:kei | Kei | Kei | Kei | Kei(ケイ) | class:jp:kei | body:hatchback | pt:ice | discontinued · 1998–2009 | 高顶K-car;马自达Laputa同源 |
 | model:suzuki:kizashi | Kizashi | 凯泽西 | Kizashi | キザシ | class:cn:b | body:sedan | pt:ice | discontinued · 2009–2016 | 铃木旗舰轿车;大陆以进口名凯泽西销售;2016年停产,铃木此后退出轿车市场 |
 | model:suzuki:landy | Landy | Landy | Landy | ランディ | class:eu:m | body:mpv | pt:ice | discontinued · 2007–2022 | 日产Serena换标OEM车型(3代),日本市场;2022年随铃木-日产合作调整停产;官方历史资料库收录 |
+| model:suzuki:liana-a6 | Liana A6 | 利亚纳A6 | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2013–2018 | 昌河铃木利亚纳A6,2013年改款,基于Aerio/Liana平台的两厢车,2018年停产 |
 | model:suzuki:lingyang | Lingyang | 羚羊 | 羚羊 | リンヤン | class:cn:a0 | body:sedan | pt:ice | discontinued · 2000–2011 | 长安铃木羚羊,基于第三代Suzuki Swift(Cultus)平台的中国特供三厢轿车,1.3L发动机,2000年上市,2004年改款,2011年停产 |
+| model:suzuki:maruti-800 | Maruti 800 | 玛鲁蒂800 | — | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 1983–2014 | Maruti Suzuki印度市场首款车型,基于铃木Fronte/Alto平台,1983年上市,2014年停产;累计产销超290万辆,印度国民车 |
 | model:suzuki:mighty-boy | Mighty Boy | Mighty Boy | Mighty Boy | マイティボーイ | class:jp:kei | body:pickup | pt:ice | discontinued · 1983–1988 | K-car单排双座小皮卡,源自Cervo底盘;官方历史资料库收录 |
 | model:suzuki:mr-wagon | MR Wagon | MR Wagon | MR Wagon | MRワゴン | class:jp:kei | body:hatchback | pt:ice | discontinued · 2001–2016 | 高顶K-car(3代),中置发动机布局得名MR;马自达Flair同源;官方历史资料库收录 |
+| model:suzuki:omni | Omni | 铃木Omni | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 1984–2019 | Maruti Suzuki印度市场微型面包车(源自Carry/Van),1984年上市,2019年停产;印度国民神车 |
 | model:suzuki:palette | Palette | Palette | Palette | パレット | class:jp:kei | body:hatchback | pt:ice | discontinued · 2008–2013 | 高顶滑门K-car(含SW版),Spacia初代前身;日产OEM名Roox;官方历史资料库收录 |
 | model:suzuki:qiyue | Alivio | 启悦 | Alivio | アリーヴィオ | class:cn:a | body:sedan | pt:ice | discontinued · 2014–2018 | 长安铃木启悦,基于Suzuki Alivio全球平台的中国特供三厢轿车(海外同款名Ciaz),1.6L发动机;2014年上市,2018年随长安铃木合资结束停产 |
+| model:suzuki:ritz | Ritz | 铃木Ritz | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2009–2016 | Maruti Suzuki印度市场小型掀背车,2009年上市,即Splash印度版;2016年停产,由新Baleno接替 |
+| model:suzuki:s-cross | S-Cross | 铃木S-Cross(印度) | — | — | class:eu:j | body:crossover | pt:ice | discontinued · 2015–2022 | Maruti Suzuki印度市场跨界车,2015年上市,2022年停产;与全球版SX4 S-Cross同源 |
+| model:suzuki:s-presso | S-Presso | 铃木S-Presso | — | — | class:cn:a00 | body:crossover | pt:ice | current · 2019–present | Maruti Suzuki印度市场微型跨界SUV,2019年上市;印尼/南非等市场亦有售 |
 | model:suzuki:samurai | Samurai | 吉姆尼武士 | Samurai | ジムニー(SJ) | class:eu:j | body:suv | pt:ice | discontinued · 1985–1995 | Jimny一代/二代的海外版(北美/欧洲等),日本本土称Jimny;美国曾因翻车争议遭媒体批评 |
 | model:suzuki:solio | Solio | Solio | Solio | ソリオ | class:jp:small | body:minivan | pt:hev | current · 2000–present | 滑门紧凑MPV,日本及港澳市场;三菱Delica D:2同源 |
 | model:suzuki:spacia | Spacia | Spacia | Spacia | スペーシア | class:jp:kei | body:minivan | pt:ice | current · 2013–present | 高顶K-car厢式车,滑门;马自达Flair Wagon同源,另有商用版Spacia Base |
 | model:suzuki:splash | Splash | 派喜 | Splash | スプラッシュ | class:eu:a | body:hatchback | pt:ice | discontinued · 2008–2014 | 欧洲市场城市小车,欧宝Agila姊妹车;官方历史资料库收录 |
 | model:suzuki:suzulight | Suzulight | 铃木Light(未引入) | Suzulight | スズライト | class:jp:kei | body:sedan | pt:ice | discontinued · 1955–1968 | 铃木首款量产汽车(SS/SP/SL/SD),360cc两冲程;官方历史资料库起始车型;另有TL/FE厢式版 |
 | model:suzuki:swift | Swift | 雨燕/速翼特 | Swift | スイフト | class:cn:a0 | body:hatchback | pt:ice | current · 2004–present | 全球战略小型车(1984年名首发);大陆长安铃木雨燕(2005-2018),进口版官方名速翼特(Swift Sport) |
-| model:suzuki:sx4 | SX4 S-Cross | 天语SX4 | SX4 | SX4 | class:eu:j | body:crossover | pt:ice | current · 2006–present | 跨界车;大陆长安铃木天语SX4(2007-2013);现款(2013年三代)称SX4 S-Cross |
+| model:suzuki:sx4 | SX4 | 天语SX4 | SX4 | SX4 | class:eu:j | body:crossover | pt:ice | current · 2006–present | 跨界车;大陆长安铃木天语SX4(2007-2013) |
+| model:suzuki:sx4-shangyue | SX4 Shangyue | 天语尚悦 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2011–2016 | 长安铃木天语尚悦,2011年上市的三厢版SX4,2016年停产 |
 | model:suzuki:twin | Twin | Twin | Twin | ツイン | class:jp:kei | body:hatchback | pt:hev | discontinued · 2003–2005 | 双座超紧凑K-car,提供电动与轻混动力,铃木早期EV尝试;官方历史资料库收录 |
 | model:suzuki:vitara | Vitara / Escudo | 维特拉 | Vitara | エスクード | class:eu:j | body:suv | pt:ice | current · 1988–present | SUV;日本名Escudo;第二代起海外长期称Grand Vitara(另行收录),2015年四代起全球统一Vitara;大陆长安铃木维特拉(2015-2018) |
+| model:suzuki:vitara-brezza | Vitara Brezza | 铃木Vitara Brezza | — | — | class:cn:a0 | body:suv | pt:ice | current · 2016–present | Maruti Suzuki印度市场小型SUV,2016年首发(印度本土开发),2022年换代;印度畅销SUV |
 | model:suzuki:wagon-r | Wagon R | 北斗星(昌河铃木) | Wagon R | ワゴンR | class:jp:kei | body:hatchback | pt:ice | current · 1993–present | 高顶K-car开创者;大陆昌河铃木北斗星为初代贴牌;马自达Flair同源;印度另有Wagon R |
 | model:suzuki:x-90 | X-90 | X90(未引入) | X-90 | X-90(エックス90) | class:eu:j | body:crossover | pt:ice | discontinued · 1995–1998 | 双门Targa顶小型SUV,源自Escudo底盘,主销北美;官方历史资料库收录 |
 | model:suzuki:xbee | XBee | XBee | XBee | クロスビー | class:jp:kei | body:crossover | pt:ice | discontinued · 2017–2022 | SUV风格K-car跨界车,复古设计;官方历史资料库收录 |
+| model:suzuki:xl6 | XL6 | 铃木XL6 | — | — | class:eu:m | body:mpv | pt:ice | current · 2019–present | Maruti Suzuki印度市场三排座跨界MPV,2019年上市(Ertiga的运动化衍生),6座布局 |
 | model:suzuki:xl7 | XL-7 | XL7 | XL7 | XL7(エックスエルセブン) | class:eu:j | body:suv | pt:ice | discontinued · 1998–2009 | Grand Vitara的三排座加长版,北美市场;2020年印尼以Ertiga XL7之名复活(跨界MPV,与初代无血缘) |
 
 ## SWM
@@ -2858,7 +3696,11 @@
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
 | model:swm:g01 | SWM G01 | G01 | G01 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2021 | SWM斯威G01紧凑型SUV(2018年上市) |
-| model:swm:x2 | SWM X2 | X2 | X2 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2020–2021 | SWM斯威X2小型SUV |
+| model:swm:swm | SWM Big Tiger | SWM斯威大虎 | SWM斯威大虎 | — | class:cn:a | body:suv | pt:ice | current · 2022–present | SWM斯威大虎中型SUV,2022年上市 |
+| model:swm:swm-2 | SWM Iron Man | SWM钢铁侠 | SWM鋼鐵俠 | — | class:cn:a | body:suv | pt:ice | current · 2021–present | SWM斯威钢铁侠紧凑型SUV,2021年上市 |
+| model:swm:swm-edi | SWM Big Tiger EDi | SWM斯威大虎EDi | SWM斯威大虎EDi | — | class:cn:a | body:suv | pt:phev | current · 2023–present | SWM斯威大虎插电混动版,2023年上市 |
+| model:swm:swm-g05 | SWM G05 | SWM斯威G05 | SWM斯威G05 | — | class:cn:a | body:suv | pt:ice | discontinued · 2019–2021 | SWM斯威G05紧凑型SUV,2019年上市,7座布局 |
+| model:swm:x2 | SWM X2 | 斯威X2 | 斯威X2 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2020–2021 | SWM斯威X2小型SUV |
 | model:swm:x3 | SWM X3 | X3 | X3 | — | class:cn:a | body:suv | pt:ice | discontinued · 2019–2021 | SWM斯威X3紧凑型SUV(2019年上市) |
 | model:swm:x7 | SWM X7 | X7 | X7 | — | class:cn:b | body:suv | pt:ice | discontinued · 2016–2021 | SWM斯威X7中型SUV(2016年上市),SWM品牌入华首款车型,7座布局 |
 
@@ -2902,14 +3744,23 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:toyota:447a90143f | Wildlander | 威兰达 | — | — | class:cn:a | body:suv | pt:ice | current · 2020-present | 威兰达(Wildlander,2020-),广汽丰田紧凑型SUV(RAV4姊妹车) |
+| model:toyota:490e18a955 | Zelas | 杰路驰 | — | — | class:cn:a | body:coupe | pt:ice | discontinued · 2010-2016 | 杰路驰(Zelas,2010-2016),丰田进口双门轿跑(Scion tC北美版),2016年停产 |
 | model:toyota:4runner | 4Runner | 超霸(俗称) | 4Runner | フォーランナー | class:us:standard-suv | body:suv | pt:ice | current · 1984-present | 北美专属非承载式SUV;日本对应车型为Hilux Surf(1983-2009);大陆仅平行进口(俗称「超霸」) |
+| model:toyota:69ec5f6267 | Frontlander | 锋兰达 | — | — | class:cn:a | body:suv | pt:ice | current · 2022-present | 锋兰达(Frontlander,2022-),广汽丰田紧凑型SUV(Corolla Cross中国版) |
+| model:toyota:6bebd83ff6 | Reiz | 锐志 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2005-2017 | 锐志(Reiz,2005-2017),一汽丰田后驱中型轿车(Mark X中国版),2017年停产 |
+| model:toyota:9749e2c529 | Yuejia | 悦佳 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2019-2022 | 悦佳(2019-2022),广汽丰田紧凑型MPV,2022年停产 |
 | model:toyota:allion | Allion | 亚洲狮 | — | — | class:cn:a | body:sedan | pt:ice | current · 2021-present | 一汽丰田中国特供A+级轿车,基于TNGA平台,定位介于卡罗拉与亚洲龙之间;仅2.0L自然吸气 |
 | model:toyota:alphard | Alphard | 埃尔法 | Alphard | アルファード | class:eu:m | body:mpv | pt:hev | current · 2002-present | 豪华MPV;大陆官方名「埃尔法」;现行AH40(2023起) |
 | model:toyota:aqua | Aqua | — | Prius c | アクア | class:cn:a0 | body:hatchback | pt:hev | current · 2011-present | 日本专属混动小车;海外初代称Prius c(2011-2021);大陆未官方引进 |
 | model:toyota:aristo | Aristo | — | Aristo | アリスト | class:cn:c | body:sedan | pt:ice | discontinued · 1991-2004 | 雷克萨斯GS的日本版(北美1993起以GS销售),1991-2004;后期搭载2JZ-GTE |
 | model:toyota:avalon | Avalon | 亚洲龙 | Avalon | アバロン | class:cn:c | body:sedan | pt:hev | current · 1994-present | 北美/中东2022年停售,现仅中国(一汽丰田亚洲龙)生产;日本曾以Pronard(プロナード)销售 |
+| model:toyota:ba35c1b4bd | Terios | 特锐(一汽丰田,原大发车型) | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2003-2006 | 特锐(Terios,2003-2006),一汽丰田小型SUV(大发Terios贴牌),2006年停产 |
+| model:toyota:bz3 | Toyota bZ3 | 丰田bZ3 | — | — | class:cn:a | body:sedan | pt:bev | current · 2023-present | 丰田bZ3(2023-),一汽丰田纯电轿车(与比亚迪合作) |
 | model:toyota:bz4x | bZ4X | bZ4X(铂智4X) | bZ4X | bZ4X | class:us:compact | body:crossover | pt:bev | current · 2022-present | 丰田首款全球纯电SUV(e-TNGA平台);大陆广汽丰田名「铂智4X」 |
+| model:toyota:bz5 | Toyota bZ5 | 丰田bZ5 | — | — | class:cn:a | body:suv | pt:bev | current · 2025-present | 丰田bZ5(2025-),一汽丰田纯电轿跑中型SUV(由bZ3C更名) |
 | model:toyota:c-hr | C-HR | C-HR(奕泽IZOA) | C-HR | C-HR(シーエイチアール) | class:us:small-suv | body:crossover | pt:ice | current · 2016-present | 大陆一汽丰田姊妹车「奕泽IZOA」;现售第二代AX20(2023起,欧/日);另有纯电C-HR+(2025起) |
+| model:toyota:c-hr-ev | C-HR EV | C-HR EV | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2020-2023 | C-HR EV(2020-2023),丰田C-HR纯电版(中国市场),2023年停产 |
 | model:toyota:camry | Camry | 凯美瑞 | 凱美瑞 | カムリ | class:cn:b | body:sedan | pt:hev | current · 1982-present | 香港旧称「佳美」;现行XV80(2023起)以混动为主 |
 | model:toyota:carina | Carina | — | Carina | カリーナ | class:cn:b | body:sedan | pt:ice | discontinued · 1970-2001 | Corona姊妹车,1970年上市;欧洲版称Carina E;2001年停产 |
 | model:toyota:celica | Celica | 赛利卡 | Celica | セリカ | class:eu:s | body:coupe | pt:ice | discontinued · 1970-2006 | 经典运动轿跑;2006年停产 |
@@ -2926,15 +3777,19 @@
 | model:toyota:crown | Crown | 皇冠 | Crown | クラウン | class:cn:c | body:sedan | pt:hev | current · 1955-present | 车系始于1955;现行S230系列含Sedan/Crossover/Sport/Estate四型 |
 | model:toyota:crown-kluger | Crown Kluger | 皇冠陆放 | — | クラウンクルーガー | class:us:midsize | body:suv | pt:hev | current · 2021-present | 一汽丰田汉兰达姊妹车,挂「皇冠」子品牌标识,与皇冠轿车为不同车系;以2.5L双擎为主,2023年加推2.0T版 |
 | model:toyota:crown-sport | Crown Sport | Crown Sport | Crown Sport | クラウンスポーツ | class:us:midsize | body:crossover | pt:phev | current · 2023-present | 皇冠家族SUV成员,仅日本市场;提供混动与插电混动 |
+| model:toyota:dff618b150 | Granvia | 格瑞维亚 | — | — | class:cn:a | body:mpv | pt:ice | current · 2022-present | 格瑞维亚(Granvia,2022-),一汽丰田中大型MPV(赛那姊妹车) |
+| model:toyota:eeb271a4b3 | Venza | 威飒 | — | — | class:cn:a | body:suv | pt:ice | current · 2021-present | 威飒(Venza,2021-),一汽丰田中型SUV(Harrier姊妹车) |
 | model:toyota:estima | Estima | — | Previa | エスティマ | class:eu:m | body:mpv | pt:hev | discontinued · 1990-2019 | 北美/欧洲称Previa,澳洲称Tarago;2019年停产 |
 | model:toyota:ez | E'Z | 逸致 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2011-2016 | 广汽丰田紧凑型MPV(英文E'Z),基于卡罗拉平台,提供5/7座;2016年停产 |
 | model:toyota:fj-cruiser | FJ Cruiser | FJ酷路泽 | FJ Cruiser | FJクルーザー | class:us:small-suv | body:suv | pt:ice | discontinued · 2006-2022 | 致敬FJ40的复古越野SUV,基于Prado/4Runner平台;主销北美;大陆平行进口称「FJ酷路泽」;2022年停产 |
 | model:toyota:fortuner | Fortuner | 奔跑者(平行进口) | Fortuner | フォーチュナー | class:us:midsize | body:suv | pt:ice | current · 2005-present | 基于Hilux的非承载式SUV,主销新兴市场;大陆未官方引进,俗称「奔跑者」 |
+| model:toyota:gr-yaris | GR YARIS | GR YARIS | — | — | class:cn:a0 | body:hatchback | pt:ice | current · 2020-present | GR Yaris(2020-),丰田Gazoo Racing高性能小钢炮 |
 | model:toyota:gr86 | GR86 | GR86 | GR86 | GR86 | class:eu:s | body:sports | pt:ice | current · 2021-present | 前置后驱双门跑车;2012-2021前身称GT86;与斯巴鲁BRZ姊妹车(现售第二代ZN8) |
 | model:toyota:harrier | Harrier | 凌放(一汽)/威飒(广汽) | Harrier | ハリアー | class:us:midsize | body:crossover | pt:hev | current · 1997-present | 初代北美即雷克萨斯RX;二代北美称Venza;大陆一汽「凌放」、广汽「威飒」 |
 | model:toyota:hiace | HiAce | 海狮 | HiAce | ハイエース | class:jp:normal | body:van | pt:ice | current · 1967-present | 轻型客货两用车;大陆「海狮」(金杯曾以Hiace为原型);现售H200/H300系 |
 | model:toyota:highlander | Highlander | 汉兰达 | Highlander | ハイランダー | class:us:midsize | body:suv | pt:hev | current · 2000-present | 澳洲/日本称Kluger(クルーガー),日本2021起称Crown Kluger;三排座;大陆名「汉兰达」 |
 | model:toyota:hilux | Hilux | 海拉克斯 | Hilux | ハイラックス | class:us:pickup | body:pickup | pt:ice | current · 1968-present | 中型皮卡,北美以外全球销售;2025年推出第八代AN220 |
+| model:toyota:izoa | IZOA | 奕泽IZOA | — | — | class:cn:a0 | body:suv | pt:ice | current · 2018-present | 奕泽IZOA(2018-),一汽丰田小型SUV(C-HR姊妹车) |
 | model:toyota:land-cruiser | Land Cruiser | 兰德酷路泽 | Land Cruiser | ランドクルーザー | class:us:standard-suv | body:suv | pt:ice | current · 1951-present | 车系始于1951;现售J70(1984起)与J300(2021起),主销日本/中东/澳洲等地 |
 | model:toyota:land-cruiser-prado | Land Cruiser Prado | 普拉多 | Land Cruiser Prado | ランドクルーザープラド | class:us:standard-suv | body:suv | pt:ice | current · 1984-present | 大陆旧称「霸道」,因广告争议改名普拉多;现行J250(2023起),北美版称Land Cruiser |
 | model:toyota:levin | Levin | 雷凌 | — | — | class:cn:a | body:sedan | pt:ice | current · 2014-present | 广汽丰田卡罗拉姊妹车(中国特供),2014年国产;动力含1.2T/1.5L及双擎混动版 |
@@ -2951,19 +3806,29 @@
 | model:toyota:probox | Probox | — | — | プロボックス | class:jp:normal | body:van | pt:ice | current · 2002-present | 日本商旅两用车(货车/厢式车);2002年起持续生产 |
 | model:toyota:publica | Publica | — | Publica | パブリカ | class:cn:a0 | body:sedan | pt:ice | discontinued · 1961-1978 | 丰田首款「国民车」级别小型车(700-1000cc),1961年上市,1978年由Starlet/Corolla体系接替(年份据丰田75年史/维基) |
 | model:toyota:rav4 | RAV4 | 荣放(RAV4) | RAV4 | ラヴフォー | class:us:compact | body:suv | pt:hev | current · 1994-present | 大陆官方名「RAV4荣放」(一汽丰田),另有插混版「双擎E+」(2020起);广汽丰田姊妹车威兰达Wildlander(2020起,含插混版「威兰达新能源」);现售XA50(2018起) |
+| model:toyota:rav4-e | RAV4 Hybrid E+ | RAV4荣放双擎E+ | — | — | class:cn:a | body:suv | pt:phev | current · 2021-present | RAV4荣放双擎E+(2021-),RAV4插电混动版 |
 | model:toyota:sequoia | Sequoia | 红杉 | Sequoia | セコイア | class:us:standard-suv | body:suv | pt:hev | current · 2001-present | 北美全尺寸非承载SUV,基于Tundra;大陆平行进口称「红杉」;现行XK80(2022起)混动标配 |
 | model:toyota:sera | Sera | — | Sera | セラ | class:eu:s | body:coupe | pt:ice | discontinued · 1990-1996 | 日本首款量产蝴蝶门小跑(2+2),1.5L前置前驱,与Tercel/Paseo同源 |
 | model:toyota:sienna | Sienna | 赛那 | Sienna | シエナ | class:us:minivan | body:minivan | pt:hev | current · 1997-present | 北美家用MPV;大陆广汽丰田「赛那」(2021国产),一汽丰田「格瑞维亚Granvia」 |
 | model:toyota:sienta | Sienta | — | Sienta | シエンタ | class:cn:mpv | body:mpv | pt:ice | discontinued · 2003-2022 | 日本家用紧凑MPV,2003-2022共两代;台湾版Sienta由国瑞汽车本地化生产(2016起),与日本版外观配置有别;大陆未官方引进 |
 | model:toyota:soarer | Soarer | — | Soarer | ソアラ | class:eu:s | body:coupe | pt:ice | discontinued · 1981-2005 | 豪华GT轿跑;北美1991起以雷克萨斯SC销售;2005年停产 |
+| model:toyota:sportcross | Crown SportCross | 皇冠SportCross | — | — | class:cn:b | body:hatchback | pt:ice | current · 2022-present | 皇冠SportCross(2022-),皇冠系列跨界轿跑 |
 | model:toyota:sports-800 | Sports 800 | — | Sports 800 | スポーツ800 | class:eu:s | body:sports | pt:ice | discontinued · 1965-1969 | 丰田首款量产跑车(U10),风冷水平对置双缸引擎,轻量化双座设计 |
 | model:toyota:starlet | Starlet | — | Starlet | スターレット | class:cn:a0 | body:hatchback | pt:ice | discontinued · 1973-1999 | 小型掀背车;1999年停产,现「Starlet」名被印度/非洲Suzuki Baleno贴牌车(2019起)使用 |
 | model:toyota:succeed | Succeed | — | — | サクシード | class:jp:normal | body:van | pt:ice | discontinued · 2002-2020 | Probox高级姊妹车;2020年整合入Probox |
 | model:toyota:supra | Supra | Supra(俗称牛魔王) | Supra | スープラ | class:eu:s | body:sports | pt:ice | discontinued · 1978-2026 | 车系1978-2002(含Celica Supra);第五代GR Supra(2019-2026)与宝马Z4同平台,2026年停产 |
 | model:toyota:tacoma | Tacoma | Tacoma(塔科马) | Tacoma | タコマ | class:us:pickup | body:pickup | pt:ice | current · 1995-present | 北美中型皮卡;现行N400(2023起);大陆仅平行进口 |
 | model:toyota:tercel | Tercel | — | Tercel | ターセル | class:cn:a0 | body:sedan | pt:ice | discontinued · 1978-1999 | 小型车;日本另有Corolla II/Corsa姊妹名;1999年由Vitz/Yaris体系接替 |
+| model:toyota:toyota-3x | Bozhi 3X | 铂智3X | — | — | class:cn:a | body:suv | pt:bev | current · 2025-present | 铂智3X(2025-),广汽丰田纯电紧凑型SUV |
+| model:toyota:toyota-4x | Bozhi 4X | 铂智4X | — | — | class:cn:a | body:suv | pt:bev | current · 2023-present | 铂智4X(2023-),广汽丰田纯电中型SUV(bZ4X中国版) |
+| model:toyota:toyota-7 | Bozhi 7 | 铂智7 | — | — | class:cn:a | body:sedan | pt:bev | current · 2026-present | 铂智7(2026-),广汽丰田纯电轿车 |
+| model:toyota:toyota-e | Corolla Hybrid E+ | 卡罗拉双擎E+ | — | — | class:cn:a | body:sedan | pt:phev | current · 2019-present | 卡罗拉双擎E+(2019-),卡罗拉插电混动版 |
+| model:toyota:toyota-e-2 | IZOA E-Jin | 奕泽E进擎 | — | — | class:cn:a0 | body:suv | pt:bev | discontinued · 2020-2023 | 奕泽E进擎(2020-2023),一汽丰田奕泽纯电版,2023年停产 |
+| model:toyota:toyota-fs | Vios FS | 威驰FS | — | — | class:cn:a0 | body:hatchback | pt:ice | discontinued · 2017-2022 | 威驰FS(2017-2022),一汽丰田威驰两厢版,2022年停产 |
+| model:toyota:toyota-iq | iQ | 丰田iQ | — | — | class:cn:a00 | body:city-car | pt:ice | discontinued · 2008-2015 | iQ(2008-2015),丰田超紧凑微型车(阿斯顿·马丁Cygnet贴牌),2015年停产 |
 | model:toyota:tundra | Tundra | 坦途 | Tundra | タンドラ | class:us:pickup | body:pickup | pt:ice | current · 2000-present | 北美全尺寸皮卡;现行XK70(2021起)含混动版;大陆平行进口称「坦途」 |
 | model:toyota:vellfire | Vellfire | 威尔法 | Vellfire | ヴェルファイア | class:eu:m | body:mpv | pt:hev | current · 2008-present | Alphard运动姊妹车;大陆一汽丰田「威尔法」;日本2023起称Crown Vellfire |
+| model:toyota:verso-s | Verso-S | Verso-S | — | — | class:cn:a0 | body:mpv | pt:ice | discontinued · 2010-2015 | Verso-S(2010-2015),丰田欧洲市场小型MPV,2015年停产 |
 | model:toyota:vios | Vios | 威驰 | Vios | ヴィオス | class:cn:a0 | body:sedan | pt:ice | current · 2002-present | 东南亚/台湾称Vios,泰国称Yaris Ativ;大陆名「威驰」(一汽丰田),另有2016-2022两厢版「威驰FS」 |
 | model:toyota:vista | Vista | — | Vista | ビスタ | class:cn:b | body:sedan | pt:ice | discontinued · 1982-2003 | Corona系的硬顶/高级轿车支线;第一代雷克萨斯ES(VZV21)即基于Vista开发 |
 | model:toyota:voxy | Voxy | — | Voxy | ヴォクシー | class:eu:m | body:mpv | pt:hev | current · 2007-present | Noah姊妹车(运动取向),日本市场;现行R90(2022起) |
@@ -2976,43 +3841,78 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:venucia:38399683eb | Morning Breeze | 晨风 | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2014–2017 | 启辰晨风(2014-2017),纯电轿车,基于日产聆风,中国合资品牌首批纯电车型,已停产 |
 | model:venucia:d50 | Venucia D50 | 启辰D50 | Venucia D50 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2017 | 启辰品牌首款车型,紧凑型轿车,基于日产颐达平台;2012年上市 |
 | model:venucia:d60 | Venucia D60 | 启辰D60 | Venucia D60 | — | class:cn:a | body:sedan | pt:ice | current · 2016–present | 启辰D60紧凑型轿车,基于日产轩逸平台,燃油/纯电(e30)版;2017年上市 |
+| model:venucia:d60ev | Venucia D60EV | 启辰D60EV | — | — | class:cn:a | body:sedan | pt:bev | current · 2019–present | 启辰D60EV(2019-),纯电紧凑型轿车,基于D60 |
+| model:venucia:e30 | Venucia e30 | 启辰e30 | — | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2019–2021 | 启辰e30(2019-2021),纯电小型车,与雷诺e诺同源,已停产 |
 | model:venucia:m50v | Venucia M50V | 启辰M50V | Venucia M50V | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2017–2020 | 启辰紧凑型MPV(7座),基于日产NV200平台;2017年上市 |
 | model:venucia:r30 | Venucia R30 | 启辰R30 | Venucia R30 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2014–2017 | 启辰微型两厢车,基于日产玛驰平台;2014年上市 |
 | model:venucia:r50 | Venucia R50 | 启辰R50 | Venucia R50 | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2012–2016 | 启辰两厢车,基于日产骐达平台,与D50同源;2012年上市 |
 | model:venucia:r50x | Venucia R50X | 启辰R50X | Venucia R50X | — | class:cn:a | body:crossover | pt:ice | discontinued · 2013–2016 | R50的跨界版,基于日产骐达平台;2013年上市 |
 | model:venucia:t60 | Venucia T60 | 启辰T60 | Venucia T60 | — | class:cn:a0 | body:suv | pt:ice | current · 2018–present | 启辰小型SUV;2018年11月上市;另有T60EV纯电版 |
+| model:venucia:t60ev | Venucia T60EV | 启辰T60EV | — | — | class:cn:a | body:suv | pt:bev | current · 2019–present | 启辰T60EV(2019-),纯电小型SUV,基于T60 |
 | model:venucia:t70 | Venucia T70 | 启辰T70 | Venucia T70 | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2020 | 启辰首款SUV,紧凑型,基于日产逍客平台;2015年上市 |
 | model:venucia:t70x | Venucia T70X | 启辰T70X | Venucia T70X | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2017 | T70升级版,紧凑型SUV,外观与配置升级;2015年上市 |
 | model:venucia:t90 | Venucia T90 | 启辰T90 | Venucia T90 | — | class:cn:b | body:suv | pt:ice | discontinued · 2016–2022 | 启辰中型轿跑SUV;2016年底上市,约2022年停产 |
 | model:venucia:v | Venucia V | 启辰大V | Venucia V | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 启辰大V紧凑型SUV,基于启辰VSA平台;2021年上市;另有DD-i插混版 |
+| model:venucia:v-dd-i | Venucia Grand V DD-i | 启辰大V DD-i | — | — | class:cn:a | body:suv | pt:phev | current · 2023–present | 启辰大V DD-i(2023-),大V插电混动版 |
+| model:venucia:venucia-v | Venucia Grand V Hydrogen | 启辰大V氢境 | — | — | class:cn:a | body:suv | pt:fcev | current · 2023–present | 启辰大V氢境(2023-),氢燃料电池SUV |
+| model:venucia:vx6 | Venucia VX6 | 启辰VX6 | — | — | class:cn:a | body:suv | pt:bev | current · 2023–present | 启辰VX6(2023-),纯电紧凑型SUV |
 | model:venucia:xing | Venucia Xing | 启辰星 | Venucia Xing | — | class:cn:a | body:suv | pt:ice | current · 2020–present | 启辰星紧凑型SUV,基于启辰VSA平台,启辰首款自主平台车型;2020年上市 |
 
 ## Volkswagen
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:volkswagen:0730b95920 | Multivan | 迈特威 | — | — | class:eu:m | body:van | pt:ice | current · 2003–present | 迈特威(Multivan,2003–),大众Transporter的乘用MPV版;第七代(2021)起为独立车型 |
+| model:volkswagen:0d2b26d330 | Bora Classic | 宝来经典 | — | — | class:cn:b | body:sedan | pt:ice | discontinued · 2005–2008 | 宝来经典(2005–2008),宝来改款前代,2008年停产 |
+| model:volkswagen:1c6b487103 | Golf EV | 高尔夫·纯电 | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2019–2021 | 高尔夫纯电(e-Golf中国版,2019–2021),一汽-大众,2021年停产 |
+| model:volkswagen:4457fd81fd | Magotan Alltrack | 蔚揽 | — | — | class:cn:b | body:wagon | pt:ice | discontinued · 2016–2022 | 蔚揽(Passat Variant,2016–2022),大众进口Passat B8旅行车,2022年停售 |
+| model:volkswagen:4b6165f538 | Talagon | 揽境 | — | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 揽境(Talagon,2021–),一汽-大众大型SUV,与途昂同平台 |
+| model:volkswagen:503d3c927f | Golf Sportsvan | 高尔夫·嘉旅 | — | — | class:eu:c | body:mpv | pt:ice | discontinued · 2014–2022 | 高尔夫·嘉旅(Golf Sportsvan,2014–2022),高尔夫平台MPV,2022年停产 |
+| model:volkswagen:538aa28178 | Santana Zhijun | 桑塔纳志俊 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2008–2012 | 桑塔纳志俊(2008–2012),桑塔纳3000的改款,2012年停产 |
+| model:volkswagen:62dbfd7604 | Bora EV | 宝来·纯电 | — | — | class:cn:b | body:sedan | pt:bev | discontinued · 2019–2022 | 宝来纯电(2019–2022),一汽-大众纯电版宝来,2022年停产 |
+| model:volkswagen:7dfe91a19b | Caravelle | 凯路威 | — | — | class:cn:a | body:van | pt:ice | discontinued · 1990–2024 | 凯路威(Caravelle,1990–2024),大众Transporter/Multivan的乘用版,2024年停产 |
+| model:volkswagen:88a9a83a2b | Gol | 高尔 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 1980–2023 | 大众Gol(1980–2023),巴西市场小型车;中国曾国产(2003–2006),2023年停产 |
+| model:volkswagen:8c1b785494 | Teramont | 途昂 | — | — | class:cn:c | body:suv | pt:ice | current · 2017–present | 途昂(Teramont,2017–),上汽大众大型SUV,与北美Atlas同平台 |
+| model:volkswagen:9533f0bac9 | Santana Classic | 桑塔纳经典 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2003–2006 | 桑塔纳经典(2003–2006),普桑改款,2006年停产 |
+| model:volkswagen:9d75db3ffa | Tavendor | 揽巡 | — | — | class:cn:a | body:suv | pt:ice | current · 2022–present | 揽巡(Tavendor,2022–),一汽-大众大型SUV |
 | model:volkswagen:amarok | Amarok | Amarok | Amarok | アマロック | class:eu:j | body:pickup | pt:ice | current · 2010–present | 中型皮卡;第二代(2022)基于福特Ranger平台 |
 | model:volkswagen:arteon | Arteon | Arteon | Arteon | アルテオン | class:eu:d | body:sedan | pt:ice | discontinued · 2017–2023 | 大众CC的继任者,四门轿跑;2023年停产 |
+| model:volkswagen:atlas | Atlas | Atlas | — | — | class:us:large | body:suv | pt:ice | current · 2017–present | 北美市场大型SUV,与上汽大众途昂同平台;中国版名Teramont(途昂) |
+| model:volkswagen:b298aaa581 | Passat PHEV | 帕萨特插电混动 | — | — | class:cn:b | body:sedan | pt:phev | current · 2019–present | 帕萨特PHEV(2019–),上汽大众帕萨特插电混动版 |
+| model:volkswagen:bd1f933093 | Viloran | 威然 | — | — | class:cn:a | body:mpv | pt:ice | current · 2020–present | 威然(Viloran,2020–),上汽大众大型MPV,面向中国市场 |
 | model:volkswagen:beetle | Beetle | 甲壳虫 | 金龜車 | ビートル | class:eu:a | body:coupe | pt:ice | discontinued · 1938–2019 | Type 1(1938–2003)为大众创始车型;New Beetle(1997–2011)与Beetle A5(2011–2019)为复古复活版,2019年正式停产 |
 | model:volkswagen:bora | Bora | 宝来 | Bora | ボーラ | class:cn:a | body:sedan | pt:ice | current · 1999–present | 一汽-大众特供紧凑型轿车;2026年起由Sagitar S取代 |
+| model:volkswagen:c-trek | C-TREK | C-TREK蔚领 | — | — | class:cn:a | body:wagon | pt:ice | discontinued · 2016–2022 | C-TREK蔚领(2016–2022),一汽-大众旅行车,宝来平台衍生,2022年停产 |
 | model:volkswagen:caddy | Caddy | 开迪 | Caddy | キャディ | class:eu:m | body:van | pt:ice | current · 1990–present | 紧凑型厢式车,乘用版称Caddy Life;中国曾引进(开迪) |
+| model:volkswagen:california | Volkswagen California | 大众California | — | — | class:cn:a | body:van | pt:ice | current · 1988–present | 大众California(1988–),基于Transporter的露营车 |
 | model:volkswagen:crafter | Crafter | Crafter | Crafter | クラフター | class:eu:m | body:van | pt:ice | current · 2006–present | 大型厢式货车,与MAN TGE同平台 |
 | model:volkswagen:eos | Eos | Eos | Eos | イオス | class:eu:c | body:convertible | pt:ice | discontinued · 2006–2016 | 硬顶敞篷车,基于高尔夫5代平台,2016年停产 |
+| model:volkswagen:fb680912cf | Gran Lavida | 朗行 | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2013–2018 | 朗行(Gran Lavida,2013–2018),上汽大众朗逸的两厢版,2018年停产 |
+| model:volkswagen:fcced1be1c | Tacqua | 探影 | — | — | class:cn:a0 | body:suv | pt:ice | current · 2019–present | 探影(Tacqua,2019–),一汽-大众小型SUV,与途铠同源 |
+| model:volkswagen:fox | Volkswagen Fox | 大众Fox | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2003–2021 | 大众Fox(2003–2021),巴西/欧洲市场入门小型车,2021年停产 |
 | model:volkswagen:golf | Golf | 高尔夫 | Golf | ゴルフ | class:eu:c | body:hatchback | pt:ice | current · 1974–present | 大众全球核心车型;GTI/R/eHybrid等性能与插混版本同属本系列;中国现售第八代(Golf 8) |
+| model:volkswagen:gte | Tayron GTE | 探岳 GTE | — | — | class:cn:b | body:suv | pt:phev | current · 2020–present | 探岳GTE(2020–),一汽-大众探岳插电混动版 |
+| model:volkswagen:id-aura-t6 | ID.AURA T6 | ID.AURA T6 | — | — | class:cn:a | body:sedan | pt:bev | current · 2026–present | ID.AURA(2026–),一汽-大众基于CMP平台打造的纯电紧凑型轿车,2025年发布概念车,2026年量产 |
 | model:volkswagen:id-buzz | ID. Buzz | ID. Buzz | ID. Buzz | ID.バズ | class:eu:m | body:mpv | pt:bev | current · 2022–present | 致敬T1面包车的纯电MPV,北美等市场同步销售 |
+| model:volkswagen:id-era-5s | ID.ERA 5S | ID.ERA 5S | — | — | class:cn:a | body:sedan | pt:phev | current · 2026–present | ID.ERA 5S(2026–),上汽大众中型插混轿车,2026年上市 |
+| model:volkswagen:id-era-8x | ID.ERA 8X | ID.ERA 8X | — | — | class:cn:a | body:suv | pt:erev | current · 2026–present | ID.ERA 8X(2026–),上汽大众大五座增程SUV,2026年上市 |
+| model:volkswagen:id-era-9x | ID.ERA 9X | ID.ERA 9X | — | — | class:cn:a | body:suv | pt:erev | current · 2026–present | ID.ERA 9X(2026–),上汽大众大型六座增程SUV,2026年上市 |
 | model:volkswagen:id3 | ID.3 | ID.3 | ID.3 | ID.3(アイディー・スリー) | class:eu:c | body:hatchback | pt:bev | current · 2019–present | 大众ID纯电系列首款车型,MEB平台 |
 | model:volkswagen:id4 | ID.4 | ID.4 | ID.4 | ID.4(アイディー・フォー) | class:eu:c | body:suv | pt:bev | current · 2020–present | MEB平台纯电紧凑型SUV;中国版分ID.4 CROZZ(一汽)与ID.4 X(上汽) |
 | model:volkswagen:id5 | ID.5 | ID.5 | ID.5 | ID.5(アイディー・ファイブ) | class:eu:c | body:coupe | pt:bev | current · 2021–present | ID.4的轿跑SUV版,主要在欧洲销售 |
 | model:volkswagen:id6 | ID.6 | ID.6 | ID.6 | ID.6(アイディー・シックス) | class:cn:d | body:suv | pt:bev | current · 2021–present | 中国市场特供三排纯电SUV,分ID.6 CROZZ(一汽)与ID.6 X(上汽) |
 | model:volkswagen:id7 | ID.7 | ID.7 | ID.7 | ID.7(アイディー・セブン) | class:eu:d | body:sedan | pt:bev | current · 2023–present | 帕萨特纯电继任者;中国版为ID.7 VIZZION,另有ID.7 Tourer旅行版 |
 | model:volkswagen:jetta | Jetta | 捷达 | Jetta | ジェッタ | class:us:compact | body:sedan | pt:ice | current · 1979–present | 高尔夫三厢版演化而来;中国版历代称捷达/宝来/速腾,2019年起「捷达」独立为大众旗下子品牌 |
+| model:volkswagen:l-phev | Tayron L PHEV | 探岳L PHEV | — | — | class:cn:b | body:suv | pt:phev | current · 2025–present | 探岳L PHEV(2025–),一汽-大众探岳L插电混动版 |
 | model:volkswagen:lamando | Lamando | 凌渡 | Lamando | ラマンド | class:cn:a | body:coupe | pt:ice | current · 2014–present | 上汽大众特供四门轿跑轿车,2022年换代(凌渡L) |
 | model:volkswagen:lavida | Lavida | 朗逸 | Lavida | ラヴィーダ | class:cn:a | body:sedan | pt:ice | current · 2008–present | 上汽大众特供紧凑型轿车,大众在华销量最高车型之一;朗逸纯电(e-Lavida,2019–)为本系列BEV版本,并入本条目 |
 | model:volkswagen:magotan | Magotan | 迈腾 | Magotan | マゴタン | class:cn:b | body:sedan | pt:ice | current · 2005–present | 一汽-大众特供长轴版Passat B9(2024年换代),仅在中国及中东市场销售 |
 | model:volkswagen:passat | Passat | 帕萨特 | Passat | パサート | class:eu:d | body:sedan | pt:ice | current · 1973–present | 欧洲版自2021年起仅售旅行车(Passat Variant);中国版为三厢特供(上汽大众帕萨特,一汽-大众迈腾见Magotan条目) |
 | model:volkswagen:phaeton | Phaeton | 辉腾 | Phaeton | フェートン | class:eu:f | body:sedan | pt:ice | discontinued · 2002–2016 | 大众旗舰豪华轿车,与奥迪A8同平台,2016年停产 |
+| model:volkswagen:phev | Magotan PHEV | 迈腾 PHEV | — | — | class:cn:b | body:sedan | pt:phev | current · 2024–present | 迈腾PHEV(2024–),一汽-大众迈腾插电混动版 |
 | model:volkswagen:phideon | Phideon | 辉昂 | Phideon | フィデオン | class:cn:c | body:sedan | pt:ice | discontinued · 2016–2023 | 上汽大众特供旗舰轿车,定位高于帕萨特,2023年停产 |
 | model:volkswagen:polo | Polo | 波罗 | Polo | ポロ | class:eu:b | body:hatchback | pt:ice | current · 1975–present | 欧洲小型车经典;中国现售为Polo Plus(上汽大众) |
 | model:volkswagen:sagitar | Sagitar | 速腾 | Sagitar | サギター | class:cn:a | body:sedan | pt:ice | current · 2006–present | 一汽-大众特供长轴版,海外对应车型为Jetta |
@@ -3024,9 +3924,18 @@
 | model:volkswagen:tayron | Tayron | 探岳 | Tayron | タイロン | class:eu:c | body:suv | pt:ice | current · 2018–present | 原为一汽-大众特供(探岳),2024年换代后成为全球车型;北美/欧洲以Tiguan之名销售 |
 | model:volkswagen:tharu | Tharu | 途岳 | Tharu | タル | class:cn:a | body:suv | pt:ice | current · 2018–present | 上汽大众特供紧凑型SUV;美洲对应车型为Taos |
 | model:volkswagen:tiguan | Tiguan | 途观 | Tiguan | ティグアン | class:eu:c | body:suv | pt:ice | current · 2008–present | 大众全球最畅销SUV;中国版为途观L(上汽大众长轴版),北美2024年起Tiguan为Tayron换标 |
+| model:volkswagen:tiguan-allspace | Tiguan Allspace | Tiguan Allspace | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2017–2024 | Tiguan Allspace(2017–2024),Tiguan长轴七座版(欧洲市场),2024年停产 |
 | model:volkswagen:touareg | Touareg | 途锐 | Touareg | トゥアレグ | class:eu:j | body:suv | pt:ice | current · 2002–present | 大众旗舰SUV,与保时捷卡宴/奥迪Q7同平台;2026年换代 |
 | model:volkswagen:touran | Touran | 途安 | Touran | トゥーラン | class:eu:m | body:mpv | pt:ice | current · 2003–present | 紧凑型MPV;中国版为上汽大众途安L,欧洲以外多数市场已停售 |
 | model:volkswagen:up | up! | up! | up! | アップ! | class:eu:a | body:city-car | pt:ice | discontinued · 2011–2023 | 大众城市微型车,2023年停产;电动版e-up!同属本系列 |
+| model:volkswagen:volkswagen-06 | Unyx 06 | 与众06 | — | — | class:cn:a | body:suv | pt:bev | current · 2024–present | 与众06(ID. UNYX 06,2024–),大众安徽(金标大众)纯电SUV,2024年上市 |
+| model:volkswagen:volkswagen-07 | Unyx 07 | 与众07 | — | — | class:cn:a | body:suv | pt:bev | current · 2025–present | 与众07(ID. UNYX 07,2025–),大众安徽纯电SUV |
+| model:volkswagen:volkswagen-08 | Unyx 08 | 与众08 | — | — | class:cn:a | body:suv | pt:bev | current · 2026–present | 与众08(ID. UNYX 08,2026–),大众安徽纯电SUV,与小鹏合作打造 |
+| model:volkswagen:volkswagen-09 | Unyx 09 | 与众09 | — | — | class:cn:a | body:sedan | pt:bev | current · 2026–present | 与众09(ID. UNYX 09,2026–),大众安徽纯电轿车 |
+| model:volkswagen:volkswagen-cc | CC | CC | — | — | class:cn:b | body:coupe | pt:ice | discontinued · 2012–2018 | 大众CC(2012–2018),一汽-大众四门轿跑,基于Passat B7L平台,2018年停产 |
+| model:volkswagen:volkswagen-l-2 | Tiguan L Plug-in Hybrid | 途观L插电混动 | — | — | class:cn:b | body:suv | pt:phev | current · 2019–present | 途观L PHEV(2019–),上汽大众途观L插电混动版 |
+| model:volkswagen:volkswagen-x | Tayron X | 探岳X | — | — | class:cn:b | body:coupe | pt:ice | current · 2020–present | 探岳X(2020–),一汽-大众探岳的轿跑SUV版 |
+| model:volkswagen:volkswagen-x-2 | Tiguan X | 途观X | — | — | class:cn:a | body:coupe | pt:ice | current · 2020–present | 途观X(2020–),上汽大众途观L的轿跑SUV版 |
 
 ## Volvo
 
@@ -3039,6 +3948,7 @@
 | model:volvo:c30 | C30 | C30 | C30 | C30 | class:eu:c | body:hatchback | pt:ice | discontinued · 2006–2013 | 三门掀背车,S40/V50平台;曾推出Polestar性能版 |
 | model:volvo:c70 | C70 | C70 | C70 | C70 | class:eu:d | body:convertible | pt:ice | discontinued · 1997–2013 | 两代车型:轿跑+敞篷(1997-2005)与敞篷(2006-2013) |
 | model:volvo:em90 | EM90 | EM90 | EM90 | EM90 | class:eu:m | body:mpv | pt:bev | current · 2024–present | 沃尔沃首款纯电MPV,中国特供,与极氪009同源(SEA架构) |
+| model:volvo:es90 | Volvo ES90 | 沃尔沃ES90 | 沃爾沃ES90 | ボルボES90 | class:eu:f | body:sedan | pt:bev | current · 2025–present | 沃尔沃纯电旗舰轿车,基于SPA2架构,2025年发布 |
 | model:volvo:ex30 | EX30 | EX30 | EX30 | EX30 | class:eu:b | body:suv | pt:bev | current · 2023–present | 纯电小型SUV,基于SEA架构;2024年世界风云车 |
 | model:volvo:ex90 | EX90 | EX90 | EX90 | EX90 | class:eu:j | body:suv | pt:bev | current · 2024–present | 纯电三排中大型SUV,XC90的纯电继任,基于SPA2架构 |
 | model:volvo:p1800 | P1800 | P1800 | P1800 | P1800 | class:eu:s | body:coupe | pt:ice | discontinued · 1961–1973 | 经典双门跑车,英剧《圣徒》座驾而闻名 |
@@ -3048,6 +3958,7 @@
 | model:volvo:s80 | S80 | S80 | S80 | S80 | class:eu:e | body:sedan | pt:ice | discontinued · 1998–2016 | 行政级轿车,两代车型;中国曾国产S80L;被S90取代 |
 | model:volvo:s90 | S90 | S90 | S90 | S90 | class:eu:e | body:sedan | pt:ice | current · 2016–present | 行政级轿车,接替S80;中国由大庆工厂产S90L加长版,另有T8插电混动版(2019年起售) |
 | model:volvo:v40 | V40 | V40 | V40 | V40 | class:eu:c | body:hatchback | pt:ice | discontinued · 1995–2019 | 初代与S40同平台旅行版(1995-2004),2012年复活为紧凑两厢车(2012-2019) |
+| model:volvo:v50 | Volvo V50 | 沃尔沃V50 | 沃爾沃V50 | ボルボV50 | class:eu:c | body:wagon | pt:ice | discontinued · 2004–2012 | 紧凑型旅行车,与S40同平台;含V50 T5性能版 |
 | model:volvo:v60 | V60 | V60 | V60 | V60 | class:eu:d | body:wagon | pt:ice | current · 2010–present | 中型旅行车,现款为2018年换代(SPA平台),含插混 |
 | model:volvo:v70 | V70 | V70 | V70 | V70 | class:eu:d | body:wagon | pt:ice | discontinued · 1996–2016 | 经典旅行车,三代车型;含越野版XC70(2000-2016) |
 | model:volvo:v90 | V90 | V90 | V90 | V90 | class:eu:e | body:wagon | pt:ice | current · 2016–present | 行政级旅行车,接替V70;另有V90 Cross Country越野旅行版 |
@@ -3072,15 +3983,34 @@
 | model:weiwang:205 | Weiwang 205 | 205 | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2013–2015 | 北汽威旺微面/面包车,入门级车型 |
 | model:weiwang:306 | Weiwang 306 | 306 | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2013–2016 | 北汽威旺微面/面包车,品牌主力车型 |
 | model:weiwang:307 | Weiwang 307 | 307 | — | — | class:cn:mpv | body:van | pt:ice | discontinued · 2015–2018 | 北汽威旺微面/面包车,306的升级版 |
+| model:weiwang:307ev | Weiwang 307EV | 北汽威旺307EV | 北汽威旺307EV | — | class:cn:mpv | body:van | pt:bev | discontinued · 2016–2019 | 威旺307纯电动版,微面/厢式货车 |
+| model:weiwang:407ev | Weiwang 407EV | 北汽威旺407EV | 北汽威旺407EV | — | class:cn:mpv | body:van | pt:bev | discontinued · 2018–2020 | 威旺407纯电动版,微面/厢式货车 |
+| model:weiwang:608ev | Weiwang 608EV | 北汽威旺608EV | 北汽威旺608EV | — | class:cn:mpv | body:van | pt:bev | discontinued · 2018–2020 | 威旺608纯电动版 |
+| model:weiwang:bq5 | Weiwang BQ5 | 北汽威旺BQ5 | 北汽威旺BQ5 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2020 | 威旺紧凑型SUV,2018年上市 |
 | model:weiwang:m20 | Weiwang M20 | M20 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2013–2018 | 北汽威旺紧凑型MPV |
 | model:weiwang:m30 | Weiwang M30 | M30 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2015–2019 | 北汽威旺紧凑型MPV,M20的升级版 |
+| model:weiwang:m35 | Weiwang M35 | 北汽威旺M35 | 北汽威旺M35 | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2016–2019 | 威旺紧凑型MPV,M20的升级版 |
 | model:weiwang:m50f | Weiwang M50F | M50F | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2016–2020 | 北汽威旺紧凑型MPV |
+| model:weiwang:m60 | Weiwang M60 | 北汽威旺M60 | 北汽威旺M60 | — | class:cn:a | body:suv | pt:ice | discontinued · 2017–2019 | 威旺紧凑型SUV,7座布局 |
 | model:weiwang:s50 | Weiwang S50 | S50 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2016–2019 | 北汽威旺紧凑型SUV,威旺品牌首款SUV |
+| model:weiwang:t205-d | Weiwang T205-D | 北汽威旺T205-D | 北汽威旺T205-D | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2015–2019 | 威旺微型卡车 |
 
 ## Wuling
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:wuling:1640018a5b | Wuling Xingguang | 五菱星光 | — | — | class:cn:a | body:sedan | pt:phev | current · 2023-present | 五菱星光(2023-),五菱插混/纯电轿车 |
+| model:wuling:2668d2cc63 | Wuling Xingyun | 五菱星云 | — | — | class:cn:a | body:suv | pt:hev | current · 2023-present | 五菱星云(2023-),五菱紧凑型油电混动SUV |
+| model:wuling:560 | Starlight 560 | 星光560 | — | — | class:cn:a | body:suv | pt:ice | current · 2025-present | 五菱星光560(2025-),星光系列SUV,5/7座,燃油/插混/纯电 |
+| model:wuling:5d8901f173 | Wuling Rongguang Mini Truck | 五菱荣光小卡专用车 | — | — | class:cn:a | body:pickup | pt:ice | current · 2018-present | 五菱荣光小卡专用车(2018-),荣光小卡的专用车版 |
+| model:wuling:730 | Wuling 730 | 五菱730 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2014-2021 | 五菱730(2014-2021),五菱MPV,2021年停产 |
+| model:wuling:730-2 | Starlight 730 | 星光730 | — | — | class:cn:a | body:mpv | pt:ice | current · 2025-present | 五菱星光730(2025-),星光系列MPV,燃油/插混/纯电 |
+| model:wuling:75edb43d8e | Wuling Yangguang Electric Truck | 五菱扬光电卡 | — | — | class:cn:a | body:pickup | pt:bev | current · 2024-present | 五菱扬光电卡(2024-),扬光系列纯电微卡 |
+| model:wuling:84a103e4a2 | Wuling Dragon Truck | 五菱龙卡 | — | — | class:cn:a | body:pickup | pt:ice | current · 2023-present | 五菱龙卡(2023-),五菱微型卡车 |
+| model:wuling:a151a90556 | Wuling Mini Camper | 五菱微旅车 | — | — | class:cn:a | body:van | pt:bev | current · 2023-present | 五菱微旅车(2023-),基于五菱纯电微面的露营车 |
+| model:wuling:a6ec79abbe | Wuling Journey | 五菱征程 | — | — | class:cn:a | body:mpv | pt:ice | current · 2021-present | 五菱征程(2021-),五菱9座MPV/商用车 |
+| model:wuling:air-ev | Air ev Qingkong | 五菱Air ev晴空 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2022-present | 五菱Air ev晴空(2022-),五菱纯电微型车,印尼等海外市场同步销售 |
+| model:wuling:b1f3118761 | Wuling Rongguang New Truck | 五菱荣光新卡专用车 | — | — | class:cn:a | body:pickup | pt:ice | current · 2019-present | 五菱荣光新卡专用车(2019-),荣光新卡专用车版 |
 | model:wuling:baojun-310 | Baojun 310 | 宝骏310 | Baojun 310 | — | class:cn:a0 | body:hatchback | pt:ice | current · 2016–present | 宝骏(Baojun)子品牌入门小型两厢车,主打性价比 |
 | model:wuling:baojun-310w | Baojun 310W | 宝骏310W | Baojun 310W | — | class:cn:a | body:wagon | pt:ice | current · 2017–present | 宝骏(Baojun)子品牌紧凑旅行车,基于310平台,装载空间大 |
 | model:wuling:baojun-510 | Baojun 510 | 宝骏510 | Baojun 510 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2017–2022 | 宝骏(Baojun)子品牌小型SUV,曾为现象级爆款;2022年停产 |
@@ -3098,13 +4028,23 @@
 | model:wuling:baojun-rs5 | Baojun RS-5 | 宝骏RS-5 | Baojun RS-5 | — | class:cn:a | body:suv | pt:ice | current · 2019–present | 宝骏(Baojun)子品牌紧凑型SUV,新宝骏品牌首款车型 |
 | model:wuling:baojun-valli | Baojun Valli | 宝骏Valli | Baojun Valli | — | class:cn:a | body:wagon | pt:ice | discontinued · 2021–2022 | 宝骏(Baojun)子品牌旅行车,基于RC-5平台,2022年停产 |
 | model:wuling:bingo | Bingo | 缤果 | Bingo | — | class:cn:a0 | body:hatchback | pt:bev | current · 2023–present | A0级纯电五门小车(2023年上市) |
+| model:wuling:c4983f453e | Wuling Yangguang | 五菱扬光 | — | — | class:cn:a | body:van | pt:bev | current · 2024-present | 五菱扬光(2024-),五菱纯电物流车 |
+| model:wuling:dd6b1a72c1 | Wuling Journey Classic | 五菱征程经典 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2016-2021 | 五菱征程经典(2016-2021),老款征程,2021年停产 |
+| model:wuling:e10 | Wuling E10 | 五菱E10 | — | — | class:cn:a | body:hatchback | pt:bev | current · 2022-present | 五菱E10(2022-),五菱纯电快递配送车 |
+| model:wuling:ev50 | Wuling EV50 | 五菱EV50 | — | — | class:cn:a | body:van | pt:bev | current · 2020-present | 五菱EV50(2020-),五菱纯电物流车 |
+| model:wuling:ev80 | Wuling EV80 | 五菱EV80 | — | — | class:cn:a | body:van | pt:bev | current · 2021-present | 五菱EV80(2021-),五菱纯电物流车 |
+| model:wuling:f7a9aff6ac | Wuling Electric Truck | 五菱电卡 | — | — | class:cn:a | body:pickup | pt:bev | current · 2021-present | 五菱电卡(2021-),五菱纯电微卡 |
 | model:wuling:hongguang | Hongguang | 五菱宏光 | Hongguang | — | class:cn:mpv | body:mpv | pt:ice | current · 2010–present | 国民神车(微面/MPV),曾登顶中国乘用车销量榜 |
 | model:wuling:hongguang-mini | Hongguang Mini EV | 宏光MINIEV | Hongguang Mini EV | ミニEV(Mini EV) | class:cn:a00 | body:hatchback | pt:bev | current · 2020–present | A00级纯电微型车,长期位居新能源销量前列;2025年以Mini EV之名进入日本 |
 | model:wuling:hongguang-plus | Hongguang Plus | 五菱宏光PLUS | Hongguang Plus | — | class:cn:mpv | body:mpv | pt:ice | current · 2019–present | 宏光家族加大版,兼顾拉货载人,5/7/8座布局 |
 | model:wuling:hongguang-s3 | Hongguang S3 | 五菱宏光S3 | Hongguang S3 | — | class:cn:a | body:suv | pt:ice | current · 2017–present | 五菱首款SUV,基于宏光平台打造,前置后驱7座跨界 |
 | model:wuling:hongguang-v | Hongguang V | 五菱宏光V | Hongguang V | — | class:cn:mpv | body:van | pt:ice | current · 2014–present | 五菱宏光V型微面,偏商用拉货 |
 | model:wuling:jiachen | Jiachen | 佳辰 | Jiachen | — | class:cn:mpv | body:mpv | pt:ice | current · 2022–present | 紧凑型家用MPV |
+| model:wuling:nanoev | Wuling NanoEV | 五菱NanoEV | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2021-2023 | 五菱NanoEV(2021-2023),五菱两座纯电微型车,2023年停产 |
 | model:wuling:nebula | Nebula | 星云 | Nebula | — | class:cn:mpv | body:mpv | pt:hev | current · 2023–present | 紧凑型MPV,五菱混动(HEV) |
+| model:wuling:plus | Bingo PLUS | 五菱缤果PLUS | — | — | class:cn:a | body:hatchback | pt:bev | current · 2024-present | 五菱缤果PLUS(2024-),缤果的加大版 |
+| model:wuling:pro | Yangguang Pro | 五菱扬光Pro | — | — | class:cn:a | body:van | pt:bev | current · 2025-present | 五菱扬光Pro(2025-),扬光的升级版 |
+| model:wuling:pro-2 | Bingo Pro | 缤果Pro | — | — | class:cn:a | body:hatchback | pt:bev | current · 2025-present | 五菱缤果Pro(2025-),缤果家族的纯电小车 |
 | model:wuling:rongguang | Rongguang | 五菱荣光 | Rongguang | — | class:cn:mpv | body:van | pt:ice | current · 2008–present | 微面/轻客(五菱荣光系列) |
 | model:wuling:rongguang-s | Rongguang S | 五菱荣光S | Rongguang S | — | class:cn:mpv | body:van | pt:ice | current · 2014–present | 荣光系列改款微面,注重承载与空间 |
 | model:wuling:rongguang-v | Rongguang V | 五菱荣光V | Rongguang V | — | class:cn:mpv | body:van | pt:ice | current · 2014–present | 荣光系列微面,偏商用拉货 |
@@ -3113,11 +4053,18 @@
 | model:wuling:starlight | Starlight | 星光 | Starlight | — | class:cn:b | body:sedan | pt:phev | current · 2023–present | 中型轿车,插混/纯电双动力 |
 | model:wuling:sunshine | Sunshine | 五菱之光 | Sunshine | — | class:cn:mpv | body:van | pt:ice | current · 2002–present | 国民微面(微型面包车),保有量极大;海外名Sunshine |
 | model:wuling:victory | Victory | 凯捷 | Victory | — | class:cn:mpv | body:mpv | pt:ice | current · 2020–present | 紧凑型MPV(五菱银标首款车型),含混动版;海外称Victory/Capgemini |
+| model:wuling:wuling-e5 | Wuling E5 | 五菱E5 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · 2017-2020 | 五菱E5(2017-2020),五菱纯电轿车(网约车),2020年停产 |
+| model:wuling:wuling-ev | Rongguang EV | 五菱荣光EV | — | — | class:cn:a | body:van | pt:bev | current · 2020-present | 五菱荣光EV(2020-),荣光微面纯电版 |
+| model:wuling:wuling-ev-2 | Wuling Rongguang Mini Truck EV | 五菱荣光小卡EV | — | — | class:cn:a | body:pickup | pt:bev | current · 2021-present | 五菱荣光小卡EV(2021-),荣光小卡纯电版 |
+| model:wuling:wuling-l | Starlight L | 星光L | — | — | class:cn:a | body:mpv | pt:ice | current · 2025-present | 五菱星光L(2025-),星光系列MPV |
+| model:wuling:wuling-pn | PN Truck | PN货车 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2005-2015 | 五菱PN货车(2005-2015),五菱微型卡车,2015年停产 |
+| model:wuling:wuling-s | Starlight S | 五菱星光S | — | — | class:cn:a | body:suv | pt:phev | current · 2024-present | 五菱星光S(2024-),星光系列SUV |
+| model:wuling:wuling-s-2 | Bingo S | 缤果S | — | — | class:cn:a | body:suv | pt:bev | current · 2025-present | 五菱缤果S(2025-),缤果家族纯电小型SUV |
 | model:wuling:xingchen | Xingchen | 五菱星辰 | Xingchen | — | class:cn:a | body:suv | pt:ice | current · 2021–present | 五菱银标紧凑型SUV,汽油版与混动版并存 |
 | model:wuling:xingchi | Xingchi | 五菱星驰 | Xingchi | — | class:cn:a0 | body:suv | pt:ice | current · 2022–present | 五菱银标小型SUV,入门定位 |
 | model:wuling:zhengcheng | Zhengcheng | 征程 | Zhengcheng | — | class:cn:mpv | body:mpv | pt:ice | current · 2021–present | 中大型商用MPV(7/9座) |
 | model:wuling:zhengtu | Zhengtu | 五菱征途 | Zhengtu | — | class:cn:mpv | body:pickup | pt:ice | current · 2021–present | 微卡/皮卡,前置后驱,主打城乡创业市场 |
-| model:wuling:zhiguang-v | Zhiguang V | 五菱之光V | Zhiguang V | — | class:cn:mpv | body:van | pt:ice | discontinued · 2002–2020 | 五菱之光V型微面,较五菱之光加长车身,偏商用拉货 |
+| model:wuling:zhiguang-v | Zhiguang V | 五菱之光V | Zhiguang V | — | class:cn:mpv | body:van | pt:ice | current · 2015-present | 五菱之光V(2015-),五菱之光加长微面,偏商用拉货 |
 | model:wuling:zhiguang-xiaoka | Zhiguang Xiaoka | 五菱之光小卡 | Zhiguang Xiaoka | — | class:cn:mpv | body:pickup | pt:ice | current · 2015–present | 五菱之光微卡(单排/双排小卡),主打乡镇运输 |
 
 ## Xiaomi
@@ -3147,7 +4094,17 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:yema:493a57203e | Bojun | 博骏 | — | — | class:cn:a | body:suv | pt:ice | current · 2019–present | 博骏(2019-),野马紧凑型SUV,2021款在售 |
+| model:yema:622fae2d61 | Spaika New Energy | 斯派卡新能源 | — | — | class:cn:mpv | body:mpv | pt:bev | discontinued · 2020–2023 | 斯派卡新能源(2020-),纯电MPV(斯派卡EV版),随品牌停产 |
+| model:yema:c30 | Yema C30 | 野马C30 | — | — | class:cn:a | body:sedan | pt:bev | discontinued · — | C30,野马纯电动出租车,曾投放成都市场 |
+| model:yema:ec30 | Yema EC30 | 野马EC30 | — | — | class:cn:mpv | body:mpv | pt:bev | discontinued · 2017–2019 | EC30(2017-),纯电动MPV,基于野马M70,综合续航255公里 |
+| model:yema:ec70 | Yema EC70 | 野马EC70 | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2016–2018 | EC70(2016-2018),纯电紧凑型SUV |
+| model:yema:f10 | Yema F10 | 野马F10 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2010–2014 | F10(2010-2014),小型SUV,F系列早期车型 |
 | model:yema:f12 | Yema F12 | F12 | F12 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2012–2018 | 小型SUV,野马早期车型,基于F99平台改进 |
+| model:yema:f16 | Yema F16 | 野马F16 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2018 | F16(2014-),小型SUV,2014成都车展上市 |
+| model:yema:f19 | Yema F19 | 野马F19 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2013–2016 | F19(2013-),小型SUV,F系列中期车型 |
+| model:yema:f99 | Yema F99 | 野马F99 | — | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2009–2012 | F99(2009-2012),野马首款量产SUV |
+| model:yema:mini | Yema Mini Truck | 野马MINI卡 | — | — | class:cn:a | body:pickup | pt:ice | current · 2021–present | MINI卡(2021-),微卡,单排两座,1.5L动力 |
 | model:yema:spica | Yema Spica | 斯派卡 | — | — | class:cn:mpv | body:mpv | pt:ice | discontinued · 2018–2020 | 紧凑型MPV(7座),野马品牌首款MPV |
 | model:yema:t70 | Yema T70 | T70 | T70 | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2020 | 紧凑型SUV,野马销量支柱 |
 | model:yema:t80 | Yema T80 | T80 | T80 | — | class:cn:b | body:suv | pt:ice | discontinued · 2017–2020 | 中型SUV,野马旗舰SUV |
@@ -3170,30 +4127,62 @@
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
-| model:zotye:damai-x5 | Zotye Damai X5 | 大迈X5 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2018 | 紧凑型SUV,众泰大迈子品牌首款车型 |
-| model:zotye:damai-x7 | Zotye Damai X7 | 大迈X7 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2016–2018 | 中型SUV,外观模仿大众CrossBlue概念车 |
+| model:zotye:100 | Cloud 100 | 云100 | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2014-2018 | 云100(2014-2018),众泰纯电微型车,2018年停产 |
+| model:zotye:2008 | Zotye 2008 | 众泰2008 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2006-2010 | 众泰2008(2006-2010),众泰首款SUV,2010年停产 |
+| model:zotye:5008 | Zotye 5008 | 众泰5008 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2008-2013 | 众泰5008(2008-2013),2008的改款,2013年停产 |
+| model:zotye:b40 | Zotye B40 | 众泰B40 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2013-2015 | 众泰B40(2013-2015),小型SUV,2015年停产 |
+| model:zotye:damai-x5 | Zotye Damai X5 | 大迈X5 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2015-2019 | 大迈X5(2015-2019),众泰大迈子品牌首款紧凑型SUV,2019年停产 |
+| model:zotye:damai-x7 | Zotye Damai X7 | 大迈X7 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2017-2019 | 大迈X7(2017-2019),众泰大迈中型SUV,2019年停产 |
+| model:zotye:e20 | Zotye E20 | 众泰E20 | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2014-2018 | 众泰E20(2014-2018),纯电微型车,2018年停产 |
 | model:zotye:e200 | Zotye E200 | E200 | E200 | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2016–2019 | 纯电动微型车,双门两座设计 |
+| model:zotye:es330 | Zotye ES330 | 众泰ES330 | — | — | class:cn:b | body:sedan | pt:bev | discontinued · 2019-2021 | 众泰ES330(2019-2021),纯电轿车,2021年停产 |
+| model:zotye:et450 | Zotye ET450 | 众泰ET450 | — | — | class:cn:a | body:suv | pt:bev | discontinued · 2018-2021 | 众泰ET450(2018-2021),纯电SUV,2021年停产 |
+| model:zotye:fa92660fd0 | Zhima | 芝麻 | — | — | class:cn:a00 | body:hatchback | pt:bev | discontinued · 2016-2019 | 众泰芝麻(2016-2019),纯电微型车,2019年停产 |
+| model:zotye:m10ev | Zotye M10EV | 众泰M10EV | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2018-2021 | 众泰M10EV(2018-2021),纯电微型车,2021年停产 |
+| model:zotye:m300 | Zotye M300 | 众泰M300 | — | — | class:cn:a | body:mpv | pt:ice | discontinued · 2010-2014 | 众泰M300(2010-2014),MPV(源自菲亚特Multipla),2014年停产 |
 | model:zotye:sr7 | Zotye SR7 | SR7 | SR7 | — | class:cn:a | body:suv | pt:ice | discontinued · 2015–2017 | 紧凑型SUV,外观模仿奥迪Q3 |
 | model:zotye:sr9 | Zotye SR9 | SR9 | SR9 | — | class:cn:b | body:suv | pt:ice | discontinued · 2016–2017 | 中型SUV,外观模仿保时捷Macan,曾引发网络热议 |
+| model:zotye:t100 | Zotye T100 | 众泰T100 | — | — | class:cn:a | body:pickup | pt:ice | discontinued · 2017-2019 | 众泰T100(2017-2019),皮卡,2019年停产 |
+| model:zotye:t11 | Jiangnan T11 | 江南T11 | — | — | class:cn:a | body:hatchback | pt:bev | discontinued · 2011-2015 | 江南T11(2011-2015),众泰旗下江南品牌纯电微型车,2015年停产 |
 | model:zotye:t200 | Zotye T200 | T200 | T200 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2013–2016 | 小型SUV,源自众泰2008系列平台 |
 | model:zotye:t300 | Zotye T300 | T300 | T300 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2017–2019 | 小型SUV |
 | model:zotye:t500 | Zotye T500 | T500 | T500 | — | class:cn:a | body:suv | pt:ice | discontinued · 2018–2019 | 紧凑型SUV |
 | model:zotye:t600 | Zotye T600 | T600 | T600 | — | class:cn:b | body:suv | pt:ice | discontinued · 2013–2018 | 中型SUV,众泰翻身之作,品牌热销车型,含T600 Coupe |
-| model:zotye:t600-coupe | Zotye T600 Coupe | T600 Coupe | T600 Coupe | — | class:cn:b | body:suv | pt:ice | discontinued · 2017–2019 | 中型SUV,T600的运动轿跑版本 |
+| model:zotye:t600-coupe | Zotye T600 Coupe | T600 Coupe | T600 Coupe | — | class:cn:b | body:coupe | pt:ice | discontinued · 2017-2019 | T600 Coupe(2017-2019),T600的运动轿跑版,2019年停产 |
 | model:zotye:t700 | Zotye T700 | T700 | T700 | — | class:cn:c | body:suv | pt:ice | discontinued · 2017–2019 | 中大型SUV,众泰旗舰SUV |
+| model:zotye:t800 | Zotye T800 | 众泰T800 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2018-2020 | 众泰T800(2018-2020),T700的七座版,2020年停产 |
+| model:zotye:ts5 | Zotye TS5 | 众泰TS5 | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2019-2021 | 众泰TS5(2019-2021),紧凑型SUV,2021年停产 |
+| model:zotye:v10 | Zotye V10 | 众泰V10 | — | — | class:cn:a | body:van | pt:ice | discontinued · 2012-2016 | 众泰V10(2012-2016),微面,2016年停产 |
 | model:zotye:z100 | Zotye Z100 | Z100 | Z100 | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2013–2015 | 微型两厢车,众泰入门级轿车 |
+| model:zotye:z200 | Zotye Z200 | 众泰Z200 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2011-2014 | 众泰Z200(2011-2014),紧凑型轿车,2014年停产 |
+| model:zotye:z200hb | Zotye Z200HB | 众泰Z200HB | — | — | class:cn:a | body:hatchback | pt:ice | discontinued · 2011-2014 | 众泰Z200HB(2011-2014),Z200两厢版,2014年停产 |
 | model:zotye:z300 | Zotye Z300 | Z300 | Z300 | — | class:cn:a | body:sedan | pt:ice | discontinued · 2012–2017 | 紧凑型轿车,众泰早期主力轿车 |
+| model:zotye:z360 | Zotye Z360 | 众泰Z360 | — | — | class:cn:a | body:sedan | pt:ice | discontinued · 2017-2019 | 众泰Z360(2017-2019),Z300改款,2019年停产 |
 | model:zotye:z500 | Zotye Z500 | Z500 | Z500 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2014–2018 | 中型轿车 |
 | model:zotye:z560 | Zotye Z560 | Z560 | Z560 | — | class:cn:b | body:sedan | pt:ice | discontinued · 2017–2018 | 中型轿车,Z500的改款车型 |
 | model:zotye:z700 | Zotye Z700 | Z700 | Z700 | — | class:cn:c | body:sedan | pt:ice | discontinued · 2015–2018 | 中大型轿车,众泰旗舰轿车 |
+| model:zotye:zotye-tt | Jiangnan TT | 江南TT | — | — | class:cn:a00 | body:hatchback | pt:ice | discontinued · 2007-2013 | 江南TT(2007-2013),众泰旗下江南品牌微型车(奥拓平台),2013年停产 |
 
 ## ZX
 
 | id | en | zh-CN | zh-TW | ja | 级别 | 车身 | 动力 | 状态/年份 | 注释 |
 |---|---|---|---|---|---|---|---|---|---|
+| model:zx:1949 | ZX 1949 | 中兴1949 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2022–present | 中兴1949(2022-),中兴全尺寸皮卡 |
+| model:zx:1986 | ZX 1986 | 中兴1986 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2022–present | 中兴1986(2022-),中兴皮卡,向经典车型致敬命名 |
+| model:zx:1b101d49a0 | Changhe | 昌铃 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2011–2014 | 昌铃,中兴皮卡车型(2012年前后在产),已停产 |
+| model:zx:74b343bc24 | Little Tiger | 小老虎 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2016–2020 | 小老虎(2016-),中兴入门皮卡,已停产 |
+| model:zx:9c7d7a67aa | Wuxian | 无限 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2005–2010 | 无限(2005-2010),中兴SUV,已停产 |
+| model:zx:a5f6c402c6 | Chiye - Xinjingying | 驰野-鑫精英 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2003–2010 | 驰野(2003-2010),中兴早期SUV,鑫精英为其配置款 |
 | model:zx:c3 | ZX C3 | C3 | C3 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2014–2018 | 小型SUV,基于威虎SUV平台开发 |
+| model:zx:e17f6bc980 | Lingzhu | 领主 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2016–2022 | 领主(2016-2022),中兴高端皮卡,已停产 |
 | model:zx:gx3 | ZX GX3 | GX3 | GX3 | — | class:cn:a0 | body:suv | pt:ice | discontinued · 2016–2019 | 小型SUV,C3的改款车型 |
+| model:zx:suv | Weihu SUV | 威虎SUV | — | — | class:cn:a | body:suv | pt:ice | discontinued · 2013–2016 | 威虎SUV(2013-2016),基于威虎皮卡平台的SUV,已停产 |
 | model:zx:weihu | ZX Weihu | 威虎 | — | — | class:cn:mpv | body:pickup | pt:ice | current · 2011–present | 中型皮卡,中兴主力车型,至今在售 |
+| model:zx:zx-a9 | Flagship A9 | 旗舰A9 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2001–2014 | 旗舰A9(2001-2014),中兴经典皮卡('皮卡中的捷达'),已停产 |
+| model:zx:zx-g3 | Weihu G3 | 威虎G3 | — | — | class:cn:mpv | body:pickup | pt:ice | discontinued · 2013–2020 | 威虎G3(2013-),威虎系列皮卡,已停产 |
+| model:zx:zx-v3 | Wuxian V3 | 无限V3 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2010–2014 | 无限V3(2010-2014),中兴SUV,已停产 |
+| model:zx:zx-v5 | Wuxian V5 | 无限V5 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2011–2014 | 无限V5(2011-2014),中兴SUV,已停产 |
+| model:zx:zx-v7 | Wuxian V7 | 无限V7 | — | — | class:cn:b | body:suv | pt:ice | discontinued · 2013–2016 | 无限V7(2013-2016),中兴SUV,已停产 |
 
 ## Škoda
 

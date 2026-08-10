@@ -3,7 +3,12 @@
     {
       "id": "model:yutong:t7",
       "brand": "Yutong",
-      "names": {"en": "Yutong T7", "zh-CN": "T7", "zh-TW": "T7", "ja": "—"},
+      "names": {
+        "en": "Yutong T7",
+        "zh-CN": "T7",
+        "zh-TW": "T7",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:yutong:cl6",
       "brand": "Yutong",
-      "names": {"en": "Yutong CL6", "zh-CN": "CL6", "zh-TW": "CL6", "ja": "—"},
+      "names": {
+        "en": "Yutong CL6",
+        "zh-CN": "CL6",
+        "zh-TW": "CL6",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",

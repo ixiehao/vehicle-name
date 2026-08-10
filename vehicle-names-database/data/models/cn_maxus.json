@@ -3,7 +3,12 @@
     {
       "id": "model:maxus:g10",
       "brand": "Maxus",
-      "names": {"en": "Maxus G10", "zh-CN": "G10", "zh-TW": "G10", "ja": "—"},
+      "names": {
+        "en": "Maxus G10",
+        "zh-CN": "G10",
+        "zh-TW": "G10",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:maxus:g20",
       "brand": "Maxus",
-      "names": {"en": "Maxus G20", "zh-CN": "G20", "zh-TW": "G20", "ja": "—"},
+      "names": {
+        "en": "Maxus G20",
+        "zh-CN": "G20",
+        "zh-TW": "G20",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:maxus:g50",
       "brand": "Maxus",
-      "names": {"en": "Maxus G50", "zh-CN": "G50", "zh-TW": "G50", "ja": "—"},
+      "names": {
+        "en": "Maxus G50",
+        "zh-CN": "G50",
+        "zh-TW": "G50",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:maxus:g70",
       "brand": "Maxus",
-      "names": {"en": "Maxus G70", "zh-CN": "G70", "zh-TW": "G70", "ja": "—"},
+      "names": {
+        "en": "Maxus G70",
+        "zh-CN": "G70",
+        "zh-TW": "G70",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:maxus:g90",
       "brand": "Maxus",
-      "names": {"en": "Maxus G90", "zh-CN": "G90", "zh-TW": "G90", "ja": "—"},
+      "names": {
+        "en": "Maxus G90",
+        "zh-CN": "G90",
+        "zh-TW": "G90",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:maxus:d60",
       "brand": "Maxus",
-      "names": {"en": "Maxus D60", "zh-CN": "D60", "zh-TW": "D60", "ja": "—"},
+      "names": {
+        "en": "Maxus D60",
+        "zh-CN": "D60",
+        "zh-TW": "D60",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:maxus:d90",
       "brand": "Maxus",
-      "names": {"en": "Maxus D90", "zh-CN": "D90", "zh-TW": "D90", "ja": "—"},
+      "names": {
+        "en": "Maxus D90",
+        "zh-CN": "D90",
+        "zh-TW": "D90",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:maxus:d90-pro",
       "brand": "Maxus",
-      "names": {"en": "Maxus D90 Pro", "zh-CN": "D90 Pro", "zh-TW": "D90 Pro", "ja": "—"},
+      "names": {
+        "en": "Maxus D90 Pro",
+        "zh-CN": "D90 Pro",
+        "zh-TW": "D90 Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:maxus:t60",
       "brand": "Maxus",
-      "names": {"en": "Maxus T60", "zh-CN": "T60", "zh-TW": "T60", "ja": "—"},
+      "names": {
+        "en": "Maxus T60",
+        "zh-CN": "T60",
+        "zh-TW": "T60",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:maxus:t90",
       "brand": "Maxus",
-      "names": {"en": "Maxus T90", "zh-CN": "T90", "zh-TW": "T90", "ja": "—"},
+      "names": {
+        "en": "Maxus T90",
+        "zh-CN": "T90",
+        "zh-TW": "T90",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:maxus:v80",
       "brand": "Maxus",
-      "names": {"en": "Maxus V80", "zh-CN": "V80", "zh-TW": "V80", "ja": "—"},
+      "names": {
+        "en": "Maxus V80",
+        "zh-CN": "V80",
+        "zh-TW": "V80",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:maxus:v90",
       "brand": "Maxus",
-      "names": {"en": "Maxus V90", "zh-CN": "V90", "zh-TW": "V90", "ja": "—"},
+      "names": {
+        "en": "Maxus V90",
+        "zh-CN": "V90",
+        "zh-TW": "V90",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:maxus:territory",
       "brand": "Maxus",
-      "names": {"en": "Maxus Territory", "zh-CN": "领地", "zh-TW": "Territory", "ja": "—"},
+      "names": {
+        "en": "Maxus Territory",
+        "zh-CN": "领地",
+        "zh-TW": "Territory",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:maxus:istana",
       "brand": "Maxus",
-      "names": {"en": "Istana", "zh-CN": "伊思坦纳", "zh-TW": "Istana", "ja": "—"},
+      "names": {
+        "en": "Istana",
+        "zh-CN": "伊思坦纳",
+        "zh-TW": "Istana",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:maxus:mifa-9",
       "brand": "Maxus",
-      "names": {"en": "Maxus MIFA 9", "zh-CN": "大家9", "zh-TW": "MIFA 9", "ja": "—"},
+      "names": {
+        "en": "Maxus MIFA 9",
+        "zh-CN": "大家9",
+        "zh-TW": "MIFA 9",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -179,6 +254,500 @@
       "years": "2021–present",
       "note": "上汽大通MAXUS MIFA 9大型纯电MPV(2021年上市),2023年起中文名改为「大家9」",
       "verified": "verified"
+    },
+    {
+      "id": "model:maxus:g50-2",
+      "brand": "Maxus",
+      "names": {
+        "en": "G50 Plug-in Hybrid",
+        "zh-CN": "G50插电混动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2019-present",
+      "note": "G50插电混动(2019-),上汽大通G50 MPV的插混版",
+      "verified": "verified",
+      "en": "G50 Plug-in Hybrid",
+      "zh-CN": "G50插电混动"
+    },
+    {
+      "id": "model:maxus:maxus-eg10",
+      "brand": "Maxus",
+      "names": {
+        "en": "Maxus EG10",
+        "zh-CN": "上汽大通MAXUS EG10",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016-2020",
+      "note": "EG10(2016-2020),上汽大通G10纯电版,2020年停产",
+      "verified": "verified",
+      "en": "EG10",
+      "zh-CN": "上汽大通MAXUS EG10"
+    },
+    {
+      "id": "model:maxus:maxus-euniq-5",
+      "brand": "Maxus",
+      "names": {
+        "en": "Maxus EUNIQ 5",
+        "zh-CN": "上汽大通MAXUS EUNIQ 5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "EUNIQ 5(2020-),上汽大通MPV纯电/插混版",
+      "verified": "verified",
+      "en": "EUNIQ 5",
+      "zh-CN": "上汽大通MAXUS EUNIQ 5"
+    },
+    {
+      "id": "model:maxus:maxus-euniq-6",
+      "brand": "Maxus",
+      "names": {
+        "en": "Maxus EUNIQ 6",
+        "zh-CN": "上汽大通MAXUS EUNIQ 6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "EUNIQ 6(2020-),上汽大通纯电SUV",
+      "verified": "verified",
+      "en": "EUNIQ 6",
+      "zh-CN": "上汽大通MAXUS EUNIQ 6"
+    },
+    {
+      "id": "model:maxus:maxus-euniq-7",
+      "brand": "Maxus",
+      "names": {
+        "en": "Maxus EUNIQ 7",
+        "zh-CN": "上汽大通MAXUS EUNIQ 7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:mpv",
+      "powertrain": "pt:fcev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "EUNIQ 7(2020-),上汽大通氢燃料电池MPV",
+      "verified": "verified",
+      "en": "EUNIQ 7",
+      "zh-CN": "上汽大通MAXUS EUNIQ 7"
+    },
+    {
+      "id": "model:maxus:maxus-g20",
+      "brand": "Maxus",
+      "names": {
+        "en": "MAXUS G20 RV",
+        "zh-CN": "上汽大通MAXUS G20房车",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020-present",
+      "note": "G20房车(2020-),基于G20的房车版",
+      "verified": "verified",
+      "en": "G20 RV",
+      "zh-CN": "上汽大通MAXUS G20房车"
+    },
+    {
+      "id": "model:maxus:maxus-rg10",
+      "brand": "Maxus",
+      "names": {
+        "en": "Maxus RG10",
+        "zh-CN": "上汽大通MAXUS RG10",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "RG10(2019-),上汽大通房车(基于G10)",
+      "verified": "verified",
+      "en": "RG10",
+      "zh-CN": "上汽大通MAXUS RG10"
+    },
+    {
+      "id": "model:maxus:maxus-mifa",
+      "brand": "Maxus",
+      "names": {
+        "en": "MAXUS MIFA MIFA Hydrogen",
+        "zh-CN": "上汽大通MAXUS 大家MIFA氢",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:fcev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "大家MIFA氢(2022-),上汽大通氢燃料电池MPV",
+      "verified": "verified",
+      "en": "MIFA Hydrogen",
+      "zh-CN": "上汽大通MAXUS 大家MIFA氢"
+    },
+    {
+      "id": "model:maxus:maxus-5",
+      "brand": "Maxus",
+      "names": {
+        "en": "MIFA 5",
+        "zh-CN": "大家5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "大家5(MIFA 5,2022-),上汽大通纯电MPV",
+      "verified": "verified",
+      "en": "MIFA 5",
+      "zh-CN": "大家5"
+    },
+    {
+      "id": "model:maxus:maxus-6",
+      "brand": "Maxus",
+      "names": {
+        "en": "MIFA 6",
+        "zh-CN": "大家6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "大家6(MIFA 6,2022-),上汽大通纯电SUV",
+      "verified": "verified",
+      "en": "MIFA 6",
+      "zh-CN": "大家6"
+    },
+    {
+      "id": "model:maxus:maxus-7",
+      "brand": "Maxus",
+      "names": {
+        "en": "MIFA 7",
+        "zh-CN": "大家7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "大家7(MIFA 7,2023-),上汽大通中型纯电MPV",
+      "verified": "verified",
+      "en": "MIFA 7",
+      "zh-CN": "大家7"
+    },
+    {
+      "id": "model:maxus:t70",
+      "brand": "Maxus",
+      "names": {
+        "en": "Maxus T70",
+        "zh-CN": "大通T70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "大通T70(2019-),上汽大通皮卡",
+      "verified": "verified",
+      "en": "T70",
+      "zh-CN": "大通T70"
+    },
+    {
+      "id": "model:maxus:t90ev",
+      "brand": "Maxus",
+      "names": {
+        "en": "Maxus T90EV",
+        "zh-CN": "大通T90EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "大通T90 EV(2021-),上汽大通纯电皮卡",
+      "verified": "verified",
+      "en": "T90 EV",
+      "zh-CN": "大通T90EV"
+    },
+    {
+      "id": "model:maxus:x30",
+      "brand": "Maxus",
+      "names": {
+        "en": "Explorer X30",
+        "zh-CN": "探索家X30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "探索家X30(2021-),上汽大通房车",
+      "verified": "verified",
+      "en": "Explorer X30",
+      "zh-CN": "探索家X30"
+    },
+    {
+      "id": "model:maxus:x50",
+      "brand": "Maxus",
+      "names": {
+        "en": "Explorer X50",
+        "zh-CN": "探索家X50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "探索家X50(2021-),上汽大通房车",
+      "verified": "verified",
+      "en": "Explorer X50",
+      "zh-CN": "探索家X50"
+    },
+    {
+      "id": "model:maxus:ev70",
+      "brand": "Maxus",
+      "names": {
+        "en": "New Path EV70",
+        "zh-CN": "新途EV70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "新途EV70(2023-),上汽大通纯电轻客",
+      "verified": "verified",
+      "en": "New Path EV70",
+      "zh-CN": "新途EV70"
+    },
+    {
+      "id": "model:maxus:ev80",
+      "brand": "Maxus",
+      "names": {
+        "en": "New Path EV80",
+        "zh-CN": "新途EV80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "新途EV80(2023-),上汽大通纯电轻客",
+      "verified": "verified",
+      "en": "New Path EV80",
+      "zh-CN": "新途EV80"
+    },
+    {
+      "id": "model:maxus:v70",
+      "brand": "Maxus",
+      "names": {
+        "en": "New Path V70",
+        "zh-CN": "新途V70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "新途V70(2023-),上汽大通轻客",
+      "verified": "verified",
+      "en": "New Path V70",
+      "zh-CN": "新途V70"
+    },
+    {
+      "id": "model:maxus:v80-2",
+      "brand": "Maxus",
+      "names": {
+        "en": "New Path V80",
+        "zh-CN": "新途V80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "新途V80(2023-),上汽大通轻客(经典V80的延续)",
+      "verified": "verified",
+      "en": "New Path V80",
+      "zh-CN": "新途V80"
+    },
+    {
+      "id": "model:maxus:v90-2",
+      "brand": "Maxus",
+      "names": {
+        "en": "New Path V90",
+        "zh-CN": "新途V90",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "新途V90(2023-),上汽大通轻客(经典V90的延续)",
+      "verified": "verified",
+      "en": "New Path V90",
+      "zh-CN": "新途V90"
+    },
+    {
+      "id": "model:maxus:f98b217db7",
+      "brand": "Maxus",
+      "names": {
+        "en": "New Path Far Horizon",
+        "zh-CN": "新途远界",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "新途远界(2024-),上汽大通轻客",
+      "verified": "verified",
+      "en": "New Path Far Horizon",
+      "zh-CN": "新途远界"
+    },
+    {
+      "id": "model:maxus:a778e68e73",
+      "brand": "Maxus",
+      "names": {
+        "en": "Staria",
+        "zh-CN": "星际",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "星际(Staria,2023-),上汽大通皮卡系列",
+      "verified": "verified",
+      "en": "Staria",
+      "zh-CN": "星际"
+    },
+    {
+      "id": "model:maxus:maxus-ev",
+      "brand": "Maxus",
+      "names": {
+        "en": "Staria EV",
+        "zh-CN": "星际EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "星际EV(2023-),上汽大通纯电皮卡",
+      "verified": "verified",
+      "en": "Staria EV",
+      "zh-CN": "星际EV"
+    },
+    {
+      "id": "model:maxus:maxus-x",
+      "brand": "Maxus",
+      "names": {
+        "en": "Staria X",
+        "zh-CN": "星际X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "星际X(2024-),上汽大通皮卡",
+      "verified": "verified",
+      "en": "Staria X",
+      "zh-CN": "星际X"
+    },
+    {
+      "id": "model:maxus:x-suv",
+      "brand": "Maxus",
+      "names": {
+        "en": "Staria X SUV",
+        "zh-CN": "星际X SUV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "星际X SUV(2024-),上汽大通SUV(星际X皮卡的SUV版)",
+      "verified": "verified",
+      "en": "Staria X SUV",
+      "zh-CN": "星际X SUV"
+    },
+    {
+      "id": "model:maxus:6dc71abc43",
+      "brand": "Maxus",
+      "names": {
+        "en": "Staria Bull King",
+        "zh-CN": "星际牛魔王",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "星际牛魔王(2023-),上汽大通星际皮卡越野版",
+      "verified": "verified",
+      "en": "Staria Bull King",
+      "zh-CN": "星际牛魔王"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:land-rover:range-rover",
       "brand": "Land Rover",
-      "names": {"en": "Range Rover", "zh-CN": "揽胜", "zh-TW": "攬勝", "ja": "レンジローバー"},
+      "names": {
+        "en": "Range Rover",
+        "zh-CN": "揽胜",
+        "zh-TW": "攬勝",
+        "ja": "レンジローバー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:land-rover:range-rover-sport",
       "brand": "Land Rover",
-      "names": {"en": "Range Rover Sport", "zh-CN": "揽胜运动版", "zh-TW": "攬勝運動版", "ja": "レンジローバースポーツ"},
+      "names": {
+        "en": "Range Rover Sport",
+        "zh-CN": "揽胜运动版",
+        "zh-TW": "攬勝運動版",
+        "ja": "レンジローバースポーツ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:land-rover:range-rover-evoque",
       "brand": "Land Rover",
-      "names": {"en": "Range Rover Evoque", "zh-CN": "揽胜极光", "zh-TW": "攬勝極光", "ja": "レンジローバーイヴォーク"},
+      "names": {
+        "en": "Range Rover Evoque",
+        "zh-CN": "揽胜极光",
+        "zh-TW": "攬勝極光",
+        "ja": "レンジローバーイヴォーク"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:land-rover:range-rover-velar",
       "brand": "Land Rover",
-      "names": {"en": "Range Rover Velar", "zh-CN": "揽胜星脉", "zh-TW": "攬勝星脈", "ja": "レンジローバーヴェラール"},
+      "names": {
+        "en": "Range Rover Velar",
+        "zh-CN": "揽胜星脉",
+        "zh-TW": "攬勝星脈",
+        "ja": "レンジローバーヴェラール"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:land-rover:defender",
       "brand": "Land Rover",
-      "names": {"en": "Defender", "zh-CN": "卫士", "zh-TW": "衛士", "ja": "ディフェンダー"},
+      "names": {
+        "en": "Defender",
+        "zh-CN": "卫士",
+        "zh-TW": "衛士",
+        "ja": "ディフェンダー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:land-rover:series",
       "brand": "Land Rover",
-      "names": {"en": "Land Rover Series I/II/III", "zh-CN": "路虎系列I/II/III", "zh-TW": "Land Rover Series I/II/III", "ja": "ランドローバーシリーズ"},
+      "names": {
+        "en": "Land Rover Series I/II/III",
+        "zh-CN": "路虎系列I/II/III",
+        "zh-TW": "Land Rover Series I/II/III",
+        "ja": "ランドローバーシリーズ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:land-rover:discovery",
       "brand": "Land Rover",
-      "names": {"en": "Discovery", "zh-CN": "发现", "zh-TW": "發現", "ja": "ディスカバリー"},
+      "names": {
+        "en": "Discovery",
+        "zh-CN": "发现",
+        "zh-TW": "發現",
+        "ja": "ディスカバリー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:land-rover:discovery-sport",
       "brand": "Land Rover",
-      "names": {"en": "Discovery Sport", "zh-CN": "发现运动版", "zh-TW": "發現運動版", "ja": "ディスカバリースポーツ"},
+      "names": {
+        "en": "Discovery Sport",
+        "zh-CN": "发现运动版",
+        "zh-TW": "發現運動版",
+        "ja": "ディスカバリースポーツ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:land-rover:freelander",
       "brand": "Land Rover",
-      "names": {"en": "Freelander", "zh-CN": "神行者", "zh-TW": "神行者", "ja": "フリーランダー"},
+      "names": {
+        "en": "Freelander",
+        "zh-CN": "神行者",
+        "zh-TW": "神行者",
+        "ja": "フリーランダー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

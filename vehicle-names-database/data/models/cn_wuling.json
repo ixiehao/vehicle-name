@@ -3,7 +3,12 @@
     {
       "id": "model:wuling:hongguang-mini",
       "brand": "Wuling",
-      "names": {"en": "Hongguang Mini EV", "zh-CN": "宏光MINIEV", "zh-TW": "Hongguang Mini EV", "ja": "ミニEV(Mini EV)"},
+      "names": {
+        "en": "Hongguang Mini EV",
+        "zh-CN": "宏光MINIEV",
+        "zh-TW": "Hongguang Mini EV",
+        "ja": "ミニEV(Mini EV)"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:wuling:bingo",
       "brand": "Wuling",
-      "names": {"en": "Bingo", "zh-CN": "缤果", "zh-TW": "Bingo", "ja": "—"},
+      "names": {
+        "en": "Bingo",
+        "zh-CN": "缤果",
+        "zh-TW": "Bingo",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:wuling:starlight",
       "brand": "Wuling",
-      "names": {"en": "Starlight", "zh-CN": "星光", "zh-TW": "Starlight", "ja": "—"},
+      "names": {
+        "en": "Starlight",
+        "zh-CN": "星光",
+        "zh-TW": "Starlight",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -39,7 +54,12 @@
     {
       "id": "model:wuling:nebula",
       "brand": "Wuling",
-      "names": {"en": "Nebula", "zh-CN": "星云", "zh-TW": "Nebula", "ja": "—"},
+      "names": {
+        "en": "Nebula",
+        "zh-CN": "星云",
+        "zh-TW": "Nebula",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:hev",
@@ -51,7 +71,12 @@
     {
       "id": "model:wuling:zhengcheng",
       "brand": "Wuling",
-      "names": {"en": "Zhengcheng", "zh-CN": "征程", "zh-TW": "Zhengcheng", "ja": "—"},
+      "names": {
+        "en": "Zhengcheng",
+        "zh-CN": "征程",
+        "zh-TW": "Zhengcheng",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:wuling:jiachen",
       "brand": "Wuling",
-      "names": {"en": "Jiachen", "zh-CN": "佳辰", "zh-TW": "Jiachen", "ja": "—"},
+      "names": {
+        "en": "Jiachen",
+        "zh-CN": "佳辰",
+        "zh-TW": "Jiachen",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:wuling:victory",
       "brand": "Wuling",
-      "names": {"en": "Victory", "zh-CN": "凯捷", "zh-TW": "Victory", "ja": "—"},
+      "names": {
+        "en": "Victory",
+        "zh-CN": "凯捷",
+        "zh-TW": "Victory",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:wuling:sunshine",
       "brand": "Wuling",
-      "names": {"en": "Sunshine", "zh-CN": "五菱之光", "zh-TW": "Sunshine", "ja": "—"},
+      "names": {
+        "en": "Sunshine",
+        "zh-CN": "五菱之光",
+        "zh-TW": "Sunshine",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:wuling:hongguang",
       "brand": "Wuling",
-      "names": {"en": "Hongguang", "zh-CN": "五菱宏光", "zh-TW": "Hongguang", "ja": "—"},
+      "names": {
+        "en": "Hongguang",
+        "zh-CN": "五菱宏光",
+        "zh-TW": "Hongguang",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:wuling:rongguang",
       "brand": "Wuling",
-      "names": {"en": "Rongguang", "zh-CN": "五菱荣光", "zh-TW": "Rongguang", "ja": "—"},
+      "names": {
+        "en": "Rongguang",
+        "zh-CN": "五菱荣光",
+        "zh-TW": "Rongguang",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:wuling:baojun-510",
       "brand": "Wuling",
-      "names": {"en": "Baojun 510", "zh-CN": "宝骏510", "zh-TW": "Baojun 510", "ja": "—"},
+      "names": {
+        "en": "Baojun 510",
+        "zh-CN": "宝骏510",
+        "zh-TW": "Baojun 510",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:wuling:baojun-530",
       "brand": "Wuling",
-      "names": {"en": "Baojun 530", "zh-CN": "宝骏530", "zh-TW": "Baojun 530", "ja": "—"},
+      "names": {
+        "en": "Baojun 530",
+        "zh-CN": "宝骏530",
+        "zh-TW": "Baojun 530",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:wuling:baojun-kiwi",
       "brand": "Wuling",
-      "names": {"en": "Baojun KiWi EV", "zh-CN": "宝骏KiWi EV", "zh-TW": "Baojun KiWi EV", "ja": "—"},
+      "names": {
+        "en": "Baojun KiWi EV",
+        "zh-CN": "宝骏KiWi EV",
+        "zh-TW": "Baojun KiWi EV",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -159,19 +224,29 @@
     {
       "id": "model:wuling:zhiguang-v",
       "brand": "Wuling",
-      "names": {"en": "Zhiguang V", "zh-CN": "五菱之光V", "zh-TW": "Zhiguang V", "ja": "—"},
+      "names": {
+        "en": "Zhiguang V",
+        "zh-CN": "五菱之光V",
+        "zh-TW": "Zhiguang V",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
-      "status": "discontinued",
-      "years": "2002–2020",
-      "note": "五菱之光V型微面,较五菱之光加长车身,偏商用拉货",
-      "verified": "pending"
+      "status": "current",
+      "years": "2015-present",
+      "note": "五菱之光V(2015-),五菱之光加长微面,偏商用拉货",
+      "verified": "verified"
     },
     {
       "id": "model:wuling:zhiguang-xiaoka",
       "brand": "Wuling",
-      "names": {"en": "Zhiguang Xiaoka", "zh-CN": "五菱之光小卡", "zh-TW": "Zhiguang Xiaoka", "ja": "—"},
+      "names": {
+        "en": "Zhiguang Xiaoka",
+        "zh-CN": "五菱之光小卡",
+        "zh-TW": "Zhiguang Xiaoka",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:wuling:hongguang-plus",
       "brand": "Wuling",
-      "names": {"en": "Hongguang Plus", "zh-CN": "五菱宏光PLUS", "zh-TW": "Hongguang Plus", "ja": "—"},
+      "names": {
+        "en": "Hongguang Plus",
+        "zh-CN": "五菱宏光PLUS",
+        "zh-TW": "Hongguang Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:wuling:hongguang-s3",
       "brand": "Wuling",
-      "names": {"en": "Hongguang S3", "zh-CN": "五菱宏光S3", "zh-TW": "Hongguang S3", "ja": "—"},
+      "names": {
+        "en": "Hongguang S3",
+        "zh-CN": "五菱宏光S3",
+        "zh-TW": "Hongguang S3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:wuling:hongguang-v",
       "brand": "Wuling",
-      "names": {"en": "Hongguang V", "zh-CN": "五菱宏光V", "zh-TW": "Hongguang V", "ja": "—"},
+      "names": {
+        "en": "Hongguang V",
+        "zh-CN": "五菱宏光V",
+        "zh-TW": "Hongguang V",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:wuling:zhengtu",
       "brand": "Wuling",
-      "names": {"en": "Zhengtu", "zh-CN": "五菱征途", "zh-TW": "Zhengtu", "ja": "—"},
+      "names": {
+        "en": "Zhengtu",
+        "zh-CN": "五菱征途",
+        "zh-TW": "Zhengtu",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:wuling:xingchen",
       "brand": "Wuling",
-      "names": {"en": "Xingchen", "zh-CN": "五菱星辰", "zh-TW": "Xingchen", "ja": "—"},
+      "names": {
+        "en": "Xingchen",
+        "zh-CN": "五菱星辰",
+        "zh-TW": "Xingchen",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:wuling:xingchi",
       "brand": "Wuling",
-      "names": {"en": "Xingchi", "zh-CN": "五菱星驰", "zh-TW": "Xingchi", "ja": "—"},
+      "names": {
+        "en": "Xingchi",
+        "zh-CN": "五菱星驰",
+        "zh-TW": "Xingchi",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:wuling:rongguang-s",
       "brand": "Wuling",
-      "names": {"en": "Rongguang S", "zh-CN": "五菱荣光S", "zh-TW": "Rongguang S", "ja": "—"},
+      "names": {
+        "en": "Rongguang S",
+        "zh-CN": "五菱荣光S",
+        "zh-TW": "Rongguang S",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:wuling:rongguang-v",
       "brand": "Wuling",
-      "names": {"en": "Rongguang V", "zh-CN": "五菱荣光V", "zh-TW": "Rongguang V", "ja": "—"},
+      "names": {
+        "en": "Rongguang V",
+        "zh-CN": "五菱荣光V",
+        "zh-TW": "Rongguang V",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:wuling:rongguang-xiaoka",
       "brand": "Wuling",
-      "names": {"en": "Rongguang Xiaoka", "zh-CN": "五菱荣光小卡", "zh-TW": "Rongguang Xiaoka", "ja": "—"},
+      "names": {
+        "en": "Rongguang Xiaoka",
+        "zh-CN": "五菱荣光小卡",
+        "zh-TW": "Rongguang Xiaoka",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:wuling:rongguang-xinka",
       "brand": "Wuling",
-      "names": {"en": "Rongguang Xinka", "zh-CN": "五菱荣光新卡", "zh-TW": "Rongguang Xinka", "ja": "—"},
+      "names": {
+        "en": "Rongguang Xinka",
+        "zh-CN": "五菱荣光新卡",
+        "zh-TW": "Rongguang Xinka",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:wuling:baojun-lechi",
       "brand": "Wuling",
-      "names": {"en": "Baojun Spark", "zh-CN": "宝骏乐驰", "zh-TW": "Baojun Spark", "ja": "—"},
+      "names": {
+        "en": "Baojun Spark",
+        "zh-CN": "宝骏乐驰",
+        "zh-TW": "Baojun Spark",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:wuling:baojun-310",
       "brand": "Wuling",
-      "names": {"en": "Baojun 310", "zh-CN": "宝骏310", "zh-TW": "Baojun 310", "ja": "—"},
+      "names": {
+        "en": "Baojun 310",
+        "zh-CN": "宝骏310",
+        "zh-TW": "Baojun 310",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:wuling:baojun-310w",
       "brand": "Wuling",
-      "names": {"en": "Baojun 310W", "zh-CN": "宝骏310W", "zh-TW": "Baojun 310W", "ja": "—"},
+      "names": {
+        "en": "Baojun 310W",
+        "zh-CN": "宝骏310W",
+        "zh-TW": "Baojun 310W",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:wuling:baojun-560",
       "brand": "Wuling",
-      "names": {"en": "Baojun 560", "zh-CN": "宝骏560", "zh-TW": "Baojun 560", "ja": "—"},
+      "names": {
+        "en": "Baojun 560",
+        "zh-CN": "宝骏560",
+        "zh-TW": "Baojun 560",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:wuling:baojun-610",
       "brand": "Wuling",
-      "names": {"en": "Baojun 610", "zh-CN": "宝骏610", "zh-TW": "Baojun 610", "ja": "—"},
+      "names": {
+        "en": "Baojun 610",
+        "zh-CN": "宝骏610",
+        "zh-TW": "Baojun 610",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:wuling:baojun-630",
       "brand": "Wuling",
-      "names": {"en": "Baojun 630", "zh-CN": "宝骏630", "zh-TW": "Baojun 630", "ja": "—"},
+      "names": {
+        "en": "Baojun 630",
+        "zh-CN": "宝骏630",
+        "zh-TW": "Baojun 630",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -375,7 +530,12 @@
     {
       "id": "model:wuling:baojun-730",
       "brand": "Wuling",
-      "names": {"en": "Baojun 730", "zh-CN": "宝骏730", "zh-TW": "Baojun 730", "ja": "—"},
+      "names": {
+        "en": "Baojun 730",
+        "zh-CN": "宝骏730",
+        "zh-TW": "Baojun 730",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:wuling:baojun-rc5",
       "brand": "Wuling",
-      "names": {"en": "Baojun RC-5", "zh-CN": "宝骏RC-5", "zh-TW": "Baojun RC-5", "ja": "—"},
+      "names": {
+        "en": "Baojun RC-5",
+        "zh-CN": "宝骏RC-5",
+        "zh-TW": "Baojun RC-5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:wuling:baojun-rc6",
       "brand": "Wuling",
-      "names": {"en": "Baojun RC-6", "zh-CN": "宝骏RC-6", "zh-TW": "Baojun RC-6", "ja": "—"},
+      "names": {
+        "en": "Baojun RC-6",
+        "zh-CN": "宝骏RC-6",
+        "zh-TW": "Baojun RC-6",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -411,7 +581,12 @@
     {
       "id": "model:wuling:baojun-rm5",
       "brand": "Wuling",
-      "names": {"en": "Baojun RM-5", "zh-CN": "宝骏RM-5", "zh-TW": "Baojun RM-5", "ja": "—"},
+      "names": {
+        "en": "Baojun RM-5",
+        "zh-CN": "宝骏RM-5",
+        "zh-TW": "Baojun RM-5",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -423,7 +598,12 @@
     {
       "id": "model:wuling:baojun-rs3",
       "brand": "Wuling",
-      "names": {"en": "Baojun RS-3", "zh-CN": "宝骏RS-3", "zh-TW": "Baojun RS-3", "ja": "—"},
+      "names": {
+        "en": "Baojun RS-3",
+        "zh-CN": "宝骏RS-3",
+        "zh-TW": "Baojun RS-3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:wuling:baojun-rs5",
       "brand": "Wuling",
-      "names": {"en": "Baojun RS-5", "zh-CN": "宝骏RS-5", "zh-TW": "Baojun RS-5", "ja": "—"},
+      "names": {
+        "en": "Baojun RS-5",
+        "zh-CN": "宝骏RS-5",
+        "zh-TW": "Baojun RS-5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -447,7 +632,12 @@
     {
       "id": "model:wuling:baojun-valli",
       "brand": "Wuling",
-      "names": {"en": "Baojun Valli", "zh-CN": "宝骏Valli", "zh-TW": "Baojun Valli", "ja": "—"},
+      "names": {
+        "en": "Baojun Valli",
+        "zh-CN": "宝骏Valli",
+        "zh-TW": "Baojun Valli",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -455,6 +645,557 @@
       "years": "2021–2022",
       "note": "宝骏(Baojun)子品牌旅行车,基于RC-5平台,2022年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:wuling:wuling-pn",
+      "brand": "Wuling",
+      "names": {
+        "en": "PN Truck",
+        "zh-CN": "PN货车",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005-2015",
+      "note": "五菱PN货车(2005-2015),五菱微型卡车,2015年停产",
+      "verified": "verified",
+      "en": "PN Truck",
+      "zh-CN": "PN货车"
+    },
+    {
+      "id": "model:wuling:730",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling 730",
+        "zh-CN": "五菱730",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014-2021",
+      "note": "五菱730(2014-2021),五菱MPV,2021年停产",
+      "verified": "verified",
+      "en": "Wuling 730",
+      "zh-CN": "五菱730"
+    },
+    {
+      "id": "model:wuling:air-ev",
+      "brand": "Wuling",
+      "names": {
+        "en": "Air ev Qingkong",
+        "zh-CN": "五菱Air ev晴空",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "五菱Air ev晴空(2022-),五菱纯电微型车,印尼等海外市场同步销售",
+      "verified": "verified",
+      "en": "Air ev",
+      "zh-CN": "五菱Air ev晴空"
+    },
+    {
+      "id": "model:wuling:e10",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling E10",
+        "zh-CN": "五菱E10",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "五菱E10(2022-),五菱纯电快递配送车",
+      "verified": "verified",
+      "en": "E10",
+      "zh-CN": "五菱E10"
+    },
+    {
+      "id": "model:wuling:wuling-e5",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling E5",
+        "zh-CN": "五菱E5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017-2020",
+      "note": "五菱E5(2017-2020),五菱纯电轿车(网约车),2020年停产",
+      "verified": "verified",
+      "en": "E5",
+      "zh-CN": "五菱E5"
+    },
+    {
+      "id": "model:wuling:ev50",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling EV50",
+        "zh-CN": "五菱EV50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "五菱EV50(2020-),五菱纯电物流车",
+      "verified": "verified",
+      "en": "EV50",
+      "zh-CN": "五菱EV50"
+    },
+    {
+      "id": "model:wuling:ev80",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling EV80",
+        "zh-CN": "五菱EV80",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "五菱EV80(2021-),五菱纯电物流车",
+      "verified": "verified",
+      "en": "EV80",
+      "zh-CN": "五菱EV80"
+    },
+    {
+      "id": "model:wuling:nanoev",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling NanoEV",
+        "zh-CN": "五菱NanoEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2021-2023",
+      "note": "五菱NanoEV(2021-2023),五菱两座纯电微型车,2023年停产",
+      "verified": "verified",
+      "en": "NanoEV",
+      "zh-CN": "五菱NanoEV"
+    },
+    {
+      "id": "model:wuling:a6ec79abbe",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Journey",
+        "zh-CN": "五菱征程",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "五菱征程(2021-),五菱9座MPV/商用车",
+      "verified": "verified",
+      "en": "Journey",
+      "zh-CN": "五菱征程"
+    },
+    {
+      "id": "model:wuling:dd6b1a72c1",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Journey Classic",
+        "zh-CN": "五菱征程经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016-2021",
+      "note": "五菱征程经典(2016-2021),老款征程,2021年停产",
+      "verified": "verified",
+      "en": "Journey Classic",
+      "zh-CN": "五菱征程经典"
+    },
+    {
+      "id": "model:wuling:a151a90556",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Mini Camper",
+        "zh-CN": "五菱微旅车",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "五菱微旅车(2023-),基于五菱纯电微面的露营车",
+      "verified": "verified",
+      "en": "Mini Camper",
+      "zh-CN": "五菱微旅车"
+    },
+    {
+      "id": "model:wuling:c4983f453e",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Yangguang",
+        "zh-CN": "五菱扬光",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "五菱扬光(2024-),五菱纯电物流车",
+      "verified": "verified",
+      "en": "Yangguang",
+      "zh-CN": "五菱扬光"
+    },
+    {
+      "id": "model:wuling:pro",
+      "brand": "Wuling",
+      "names": {
+        "en": "Yangguang Pro",
+        "zh-CN": "五菱扬光Pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "五菱扬光Pro(2025-),扬光的升级版",
+      "verified": "verified",
+      "en": "Yangguang Pro",
+      "zh-CN": "五菱扬光Pro"
+    },
+    {
+      "id": "model:wuling:75edb43d8e",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Yangguang Electric Truck",
+        "zh-CN": "五菱扬光电卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "五菱扬光电卡(2024-),扬光系列纯电微卡",
+      "verified": "verified",
+      "en": "Yangguang Electric Truck",
+      "zh-CN": "五菱扬光电卡"
+    },
+    {
+      "id": "model:wuling:2668d2cc63",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Xingyun",
+        "zh-CN": "五菱星云",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:hev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "五菱星云(2023-),五菱紧凑型油电混动SUV",
+      "verified": "verified",
+      "en": "Xingyun",
+      "zh-CN": "五菱星云"
+    },
+    {
+      "id": "model:wuling:1640018a5b",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Xingguang",
+        "zh-CN": "五菱星光",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "五菱星光(2023-),五菱插混/纯电轿车",
+      "verified": "verified",
+      "en": "Xingguang",
+      "zh-CN": "五菱星光"
+    },
+    {
+      "id": "model:wuling:wuling-s",
+      "brand": "Wuling",
+      "names": {
+        "en": "Starlight S",
+        "zh-CN": "五菱星光S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "五菱星光S(2024-),星光系列SUV",
+      "verified": "verified",
+      "en": "Starlight S",
+      "zh-CN": "五菱星光S"
+    },
+    {
+      "id": "model:wuling:f7a9aff6ac",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Electric Truck",
+        "zh-CN": "五菱电卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "五菱电卡(2021-),五菱纯电微卡",
+      "verified": "verified",
+      "en": "Electric Truck",
+      "zh-CN": "五菱电卡"
+    },
+    {
+      "id": "model:wuling:plus",
+      "brand": "Wuling",
+      "names": {
+        "en": "Bingo PLUS",
+        "zh-CN": "五菱缤果PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "五菱缤果PLUS(2024-),缤果的加大版",
+      "verified": "verified",
+      "en": "Bingo PLUS",
+      "zh-CN": "五菱缤果PLUS"
+    },
+    {
+      "id": "model:wuling:wuling-ev",
+      "brand": "Wuling",
+      "names": {
+        "en": "Rongguang EV",
+        "zh-CN": "五菱荣光EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "五菱荣光EV(2020-),荣光微面纯电版",
+      "verified": "verified",
+      "en": "Rongguang EV",
+      "zh-CN": "五菱荣光EV"
+    },
+    {
+      "id": "model:wuling:wuling-ev-2",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Rongguang Mini Truck EV",
+        "zh-CN": "五菱荣光小卡EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "五菱荣光小卡EV(2021-),荣光小卡纯电版",
+      "verified": "verified",
+      "en": "Rongguang Mini Truck EV",
+      "zh-CN": "五菱荣光小卡EV"
+    },
+    {
+      "id": "model:wuling:5d8901f173",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Rongguang Mini Truck",
+        "zh-CN": "五菱荣光小卡专用车",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018-present",
+      "note": "五菱荣光小卡专用车(2018-),荣光小卡的专用车版",
+      "verified": "verified",
+      "en": "Rongguang Mini Truck",
+      "zh-CN": "五菱荣光小卡专用车"
+    },
+    {
+      "id": "model:wuling:b1f3118761",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Rongguang New Truck",
+        "zh-CN": "五菱荣光新卡专用车",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019-present",
+      "note": "五菱荣光新卡专用车(2019-),荣光新卡专用车版",
+      "verified": "verified",
+      "en": "Rongguang New Truck",
+      "zh-CN": "五菱荣光新卡专用车"
+    },
+    {
+      "id": "model:wuling:84a103e4a2",
+      "brand": "Wuling",
+      "names": {
+        "en": "Wuling Dragon Truck",
+        "zh-CN": "五菱龙卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "五菱龙卡(2023-),五菱微型卡车",
+      "verified": "verified",
+      "en": "Dragon Truck",
+      "zh-CN": "五菱龙卡"
+    },
+    {
+      "id": "model:wuling:560",
+      "brand": "Wuling",
+      "names": {
+        "en": "Starlight 560",
+        "zh-CN": "星光560",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "五菱星光560(2025-),星光系列SUV,5/7座,燃油/插混/纯电",
+      "verified": "verified",
+      "en": "Starlight 560",
+      "zh-CN": "星光560"
+    },
+    {
+      "id": "model:wuling:730-2",
+      "brand": "Wuling",
+      "names": {
+        "en": "Starlight 730",
+        "zh-CN": "星光730",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "五菱星光730(2025-),星光系列MPV,燃油/插混/纯电",
+      "verified": "verified",
+      "en": "Starlight 730",
+      "zh-CN": "星光730"
+    },
+    {
+      "id": "model:wuling:wuling-l",
+      "brand": "Wuling",
+      "names": {
+        "en": "Starlight L",
+        "zh-CN": "星光L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "五菱星光L(2025-),星光系列MPV",
+      "verified": "verified",
+      "en": "Starlight L",
+      "zh-CN": "星光L"
+    },
+    {
+      "id": "model:wuling:pro-2",
+      "brand": "Wuling",
+      "names": {
+        "en": "Bingo Pro",
+        "zh-CN": "缤果Pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "五菱缤果Pro(2025-),缤果家族的纯电小车",
+      "verified": "verified",
+      "en": "Bingo Pro",
+      "zh-CN": "缤果Pro"
+    },
+    {
+      "id": "model:wuling:wuling-s-2",
+      "brand": "Wuling",
+      "names": {
+        "en": "Bingo S",
+        "zh-CN": "缤果S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "五菱缤果S(2025-),缤果家族纯电小型SUV",
+      "verified": "verified",
+      "en": "Bingo S",
+      "zh-CN": "缤果S"
     }
   ]
 }

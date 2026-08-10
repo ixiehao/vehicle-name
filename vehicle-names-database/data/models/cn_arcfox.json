@@ -3,7 +3,12 @@
     {
       "id": "model:arcfox:alpha-t",
       "brand": "Arcfox",
-      "names": {"en": "Arcfox αT", "zh-CN": "极狐阿尔法T", "zh-TW": "Arcfox αT(未导入)", "ja": "—"},
+      "names": {
+        "en": "Arcfox αT",
+        "zh-CN": "极狐阿尔法T",
+        "zh-TW": "Arcfox αT(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:arcfox:alpha-s",
       "brand": "Arcfox",
-      "names": {"en": "Arcfox αS", "zh-CN": "极狐阿尔法S", "zh-TW": "Arcfox αS(未导入)", "ja": "—"},
+      "names": {
+        "en": "Arcfox αS",
+        "zh-CN": "极狐阿尔法S",
+        "zh-TW": "Arcfox αS(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:arcfox:kaola",
       "brand": "Arcfox",
-      "names": {"en": "Arcfox Kaola", "zh-CN": "极狐考拉", "zh-TW": "Arcfox Kaola(未导入)", "ja": "—"},
+      "names": {
+        "en": "Arcfox Kaola",
+        "zh-CN": "极狐考拉",
+        "zh-TW": "Arcfox Kaola(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:arcfox:alpha-s5",
       "brand": "Arcfox",
-      "names": {"en": "Arcfox αS5", "zh-CN": "极狐阿尔法S5", "zh-TW": "Arcfox αS5(未导入)", "ja": "—"},
+      "names": {
+        "en": "Arcfox αS5",
+        "zh-CN": "极狐阿尔法S5",
+        "zh-TW": "Arcfox αS5(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -47,6 +67,97 @@
       "years": "2024–present",
       "note": "中型纯电轿跑(2024年上市)",
       "verified": "verified"
+    },
+    {
+      "id": "model:arcfox:arcfox-s",
+      "brand": "Arcfox",
+      "names": {
+        "en": "Kaola S",
+        "zh-CN": "极狐 考拉S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "极狐考拉S(2024-),考拉系列新增车型,亲子定位纯电MPV",
+      "verified": "verified",
+      "en": "Kaola S",
+      "zh-TW": "考拉S"
+    },
+    {
+      "id": "model:arcfox:arcfox-t5",
+      "brand": "Arcfox",
+      "names": {
+        "en": "Alpha T5",
+        "zh-CN": "极狐 阿尔法T5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "极狐阿尔法T5(2024-),紧凑型纯电SUV",
+      "verified": "verified",
+      "zh-TW": "阿爾法T5"
+    },
+    {
+      "id": "model:arcfox:arcfox-t7",
+      "brand": "Arcfox",
+      "names": {
+        "en": "Alpha T7",
+        "zh-CN": "极狐 阿尔法T7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "极狐阿尔法T7(2026-),大五座SUV,可选纯电或增程动力",
+      "verified": "verified",
+      "zh-TW": "阿爾法T7"
+    },
+    {
+      "id": "model:arcfox:arcfox-s3",
+      "brand": "Arcfox",
+      "names": {
+        "en": "Beta S3",
+        "zh-CN": "极狐贝塔S3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "极狐贝塔S3(2025-),贝塔系列紧凑型轿车",
+      "verified": "verified",
+      "zh-TW": "貝塔S3"
+    },
+    {
+      "id": "model:arcfox:arcfox-v9",
+      "brand": "Arcfox",
+      "names": {
+        "en": "Wendao V9",
+        "zh-CN": "极狐问道V9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "极狐问道V9(2026-),问道系列首款量产车,中大型增程MPV",
+      "verified": "verified",
+      "zh-TW": "問道V9"
     }
   ]
 }

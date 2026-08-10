@@ -3,7 +3,12 @@
     {
       "id": "model:jetta:va3",
       "brand": "Jetta",
-      "names": {"en": "Jetta VA3", "zh-CN": "捷达VA3", "zh-TW": "Jetta VA3", "ja": "—"},
+      "names": {
+        "en": "Jetta VA3",
+        "zh-CN": "捷达VA3",
+        "zh-TW": "Jetta VA3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:jetta:vs5",
       "brand": "Jetta",
-      "names": {"en": "Jetta VS5", "zh-CN": "捷达VS5", "zh-TW": "Jetta VS5", "ja": "—"},
+      "names": {
+        "en": "Jetta VS5",
+        "zh-CN": "捷达VS5",
+        "zh-TW": "Jetta VS5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:jetta:vs7",
       "brand": "Jetta",
-      "names": {"en": "Jetta VS7", "zh-CN": "捷达VS7", "zh-TW": "Jetta VS7", "ja": "—"},
+      "names": {
+        "en": "Jetta VS7",
+        "zh-CN": "捷达VS7",
+        "zh-TW": "Jetta VS7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:jetta:vs8",
       "brand": "Jetta",
-      "names": {"en": "Jetta VS8", "zh-CN": "捷达VS8", "zh-TW": "Jetta VS8", "ja": "—"},
+      "names": {
+        "en": "Jetta VS8",
+        "zh-CN": "捷达VS8",
+        "zh-TW": "Jetta VS8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

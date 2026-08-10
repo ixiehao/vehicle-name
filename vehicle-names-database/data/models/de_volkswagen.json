@@ -3,7 +3,12 @@
     {
       "id": "model:volkswagen:golf",
       "brand": "Volkswagen",
-      "names": {"en": "Golf", "zh-CN": "高尔夫", "zh-TW": "Golf", "ja": "ゴルフ"},
+      "names": {
+        "en": "Golf",
+        "zh-CN": "高尔夫",
+        "zh-TW": "Golf",
+        "ja": "ゴルフ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:volkswagen:polo",
       "brand": "Volkswagen",
-      "names": {"en": "Polo", "zh-CN": "波罗", "zh-TW": "Polo", "ja": "ポロ"},
+      "names": {
+        "en": "Polo",
+        "zh-CN": "波罗",
+        "zh-TW": "Polo",
+        "ja": "ポロ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:volkswagen:passat",
       "brand": "Volkswagen",
-      "names": {"en": "Passat", "zh-CN": "帕萨特", "zh-TW": "Passat", "ja": "パサート"},
+      "names": {
+        "en": "Passat",
+        "zh-CN": "帕萨特",
+        "zh-TW": "Passat",
+        "ja": "パサート"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:volkswagen:magotan",
       "brand": "Volkswagen",
-      "names": {"en": "Magotan", "zh-CN": "迈腾", "zh-TW": "Magotan", "ja": "マゴタン"},
+      "names": {
+        "en": "Magotan",
+        "zh-CN": "迈腾",
+        "zh-TW": "Magotan",
+        "ja": "マゴタン"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:volkswagen:lavida",
       "brand": "Volkswagen",
-      "names": {"en": "Lavida", "zh-CN": "朗逸", "zh-TW": "Lavida", "ja": "ラヴィーダ"},
+      "names": {
+        "en": "Lavida",
+        "zh-CN": "朗逸",
+        "zh-TW": "Lavida",
+        "ja": "ラヴィーダ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:volkswagen:sagitar",
       "brand": "Volkswagen",
-      "names": {"en": "Sagitar", "zh-CN": "速腾", "zh-TW": "Sagitar", "ja": "サギター"},
+      "names": {
+        "en": "Sagitar",
+        "zh-CN": "速腾",
+        "zh-TW": "Sagitar",
+        "ja": "サギター"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:volkswagen:jetta",
       "brand": "Volkswagen",
-      "names": {"en": "Jetta", "zh-CN": "捷达", "zh-TW": "Jetta", "ja": "ジェッタ"},
+      "names": {
+        "en": "Jetta",
+        "zh-CN": "捷达",
+        "zh-TW": "Jetta",
+        "ja": "ジェッタ"
+      },
       "segment": "class:us:compact",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:volkswagen:bora",
       "brand": "Volkswagen",
-      "names": {"en": "Bora", "zh-CN": "宝来", "zh-TW": "Bora", "ja": "ボーラ"},
+      "names": {
+        "en": "Bora",
+        "zh-CN": "宝来",
+        "zh-TW": "Bora",
+        "ja": "ボーラ"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:volkswagen:tiguan",
       "brand": "Volkswagen",
-      "names": {"en": "Tiguan", "zh-CN": "途观", "zh-TW": "Tiguan", "ja": "ティグアン"},
+      "names": {
+        "en": "Tiguan",
+        "zh-CN": "途观",
+        "zh-TW": "Tiguan",
+        "ja": "ティグアン"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:volkswagen:t-roc",
       "brand": "Volkswagen",
-      "names": {"en": "T-Roc", "zh-CN": "探歌", "zh-TW": "T-Roc", "ja": "ティロック"},
+      "names": {
+        "en": "T-Roc",
+        "zh-CN": "探歌",
+        "zh-TW": "T-Roc",
+        "ja": "ティロック"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:volkswagen:tharu",
       "brand": "Volkswagen",
-      "names": {"en": "Tharu", "zh-CN": "途岳", "zh-TW": "Tharu", "ja": "タル"},
+      "names": {
+        "en": "Tharu",
+        "zh-CN": "途岳",
+        "zh-TW": "Tharu",
+        "ja": "タル"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:volkswagen:tayron",
       "brand": "Volkswagen",
-      "names": {"en": "Tayron", "zh-CN": "探岳", "zh-TW": "Tayron", "ja": "タイロン"},
+      "names": {
+        "en": "Tayron",
+        "zh-CN": "探岳",
+        "zh-TW": "Tayron",
+        "ja": "タイロン"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:volkswagen:touareg",
       "brand": "Volkswagen",
-      "names": {"en": "Touareg", "zh-CN": "途锐", "zh-TW": "Touareg", "ja": "トゥアレグ"},
+      "names": {
+        "en": "Touareg",
+        "zh-CN": "途锐",
+        "zh-TW": "Touareg",
+        "ja": "トゥアレグ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:volkswagen:id3",
       "brand": "Volkswagen",
-      "names": {"en": "ID.3", "zh-CN": "ID.3", "zh-TW": "ID.3", "ja": "ID.3(アイディー・スリー)"},
+      "names": {
+        "en": "ID.3",
+        "zh-CN": "ID.3",
+        "zh-TW": "ID.3",
+        "ja": "ID.3(アイディー・スリー)"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -171,7 +241,12 @@
     {
       "id": "model:volkswagen:id4",
       "brand": "Volkswagen",
-      "names": {"en": "ID.4", "zh-CN": "ID.4", "zh-TW": "ID.4", "ja": "ID.4(アイディー・フォー)"},
+      "names": {
+        "en": "ID.4",
+        "zh-CN": "ID.4",
+        "zh-TW": "ID.4",
+        "ja": "ID.4(アイディー・フォー)"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -183,7 +258,12 @@
     {
       "id": "model:volkswagen:id5",
       "brand": "Volkswagen",
-      "names": {"en": "ID.5", "zh-CN": "ID.5", "zh-TW": "ID.5", "ja": "ID.5(アイディー・ファイブ)"},
+      "names": {
+        "en": "ID.5",
+        "zh-CN": "ID.5",
+        "zh-TW": "ID.5",
+        "ja": "ID.5(アイディー・ファイブ)"
+      },
       "segment": "class:eu:c",
       "body_style": "body:coupe",
       "powertrain": "pt:bev",
@@ -195,7 +275,12 @@
     {
       "id": "model:volkswagen:id6",
       "brand": "Volkswagen",
-      "names": {"en": "ID.6", "zh-CN": "ID.6", "zh-TW": "ID.6", "ja": "ID.6(アイディー・シックス)"},
+      "names": {
+        "en": "ID.6",
+        "zh-CN": "ID.6",
+        "zh-TW": "ID.6",
+        "ja": "ID.6(アイディー・シックス)"
+      },
       "segment": "class:cn:d",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -207,7 +292,12 @@
     {
       "id": "model:volkswagen:id7",
       "brand": "Volkswagen",
-      "names": {"en": "ID.7", "zh-CN": "ID.7", "zh-TW": "ID.7", "ja": "ID.7(アイディー・セブン)"},
+      "names": {
+        "en": "ID.7",
+        "zh-CN": "ID.7",
+        "zh-TW": "ID.7",
+        "ja": "ID.7(アイディー・セブン)"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -219,7 +309,12 @@
     {
       "id": "model:volkswagen:id-buzz",
       "brand": "Volkswagen",
-      "names": {"en": "ID. Buzz", "zh-CN": "ID. Buzz", "zh-TW": "ID. Buzz", "ja": "ID.バズ"},
+      "names": {
+        "en": "ID. Buzz",
+        "zh-CN": "ID. Buzz",
+        "zh-TW": "ID. Buzz",
+        "ja": "ID.バズ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -231,7 +326,12 @@
     {
       "id": "model:volkswagen:t-cross",
       "brand": "Volkswagen",
-      "names": {"en": "T-Cross", "zh-CN": "途铠", "zh-TW": "T-Cross", "ja": "ティークロス"},
+      "names": {
+        "en": "T-Cross",
+        "zh-CN": "途铠",
+        "zh-TW": "T-Cross",
+        "ja": "ティークロス"
+      },
       "segment": "class:eu:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:volkswagen:up",
       "brand": "Volkswagen",
-      "names": {"en": "up!", "zh-CN": "up!", "zh-TW": "up!", "ja": "アップ!"},
+      "names": {
+        "en": "up!",
+        "zh-CN": "up!",
+        "zh-TW": "up!",
+        "ja": "アップ!"
+      },
       "segment": "class:eu:a",
       "body_style": "body:city-car",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:volkswagen:beetle",
       "brand": "Volkswagen",
-      "names": {"en": "Beetle", "zh-CN": "甲壳虫", "zh-TW": "金龜車", "ja": "ビートル"},
+      "names": {
+        "en": "Beetle",
+        "zh-CN": "甲壳虫",
+        "zh-TW": "金龜車",
+        "ja": "ビートル"
+      },
       "segment": "class:eu:a",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -267,7 +377,12 @@
     {
       "id": "model:volkswagen:phaeton",
       "brand": "Volkswagen",
-      "names": {"en": "Phaeton", "zh-CN": "辉腾", "zh-TW": "Phaeton", "ja": "フェートン"},
+      "names": {
+        "en": "Phaeton",
+        "zh-CN": "辉腾",
+        "zh-TW": "Phaeton",
+        "ja": "フェートン"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:volkswagen:scirocco",
       "brand": "Volkswagen",
-      "names": {"en": "Scirocco", "zh-CN": "尚酷", "zh-TW": "Scirocco", "ja": "シロッコ"},
+      "names": {
+        "en": "Scirocco",
+        "zh-CN": "尚酷",
+        "zh-TW": "Scirocco",
+        "ja": "シロッコ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:volkswagen:eos",
       "brand": "Volkswagen",
-      "names": {"en": "Eos", "zh-CN": "Eos", "zh-TW": "Eos", "ja": "イオス"},
+      "names": {
+        "en": "Eos",
+        "zh-CN": "Eos",
+        "zh-TW": "Eos",
+        "ja": "イオス"
+      },
       "segment": "class:eu:c",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:volkswagen:sharan",
       "brand": "Volkswagen",
-      "names": {"en": "Sharan", "zh-CN": "夏朗", "zh-TW": "Sharan", "ja": "シャラン"},
+      "names": {
+        "en": "Sharan",
+        "zh-CN": "夏朗",
+        "zh-TW": "Sharan",
+        "ja": "シャラン"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:volkswagen:touran",
       "brand": "Volkswagen",
-      "names": {"en": "Touran", "zh-CN": "途安", "zh-TW": "Touran", "ja": "トゥーラン"},
+      "names": {
+        "en": "Touran",
+        "zh-CN": "途安",
+        "zh-TW": "Touran",
+        "ja": "トゥーラン"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:volkswagen:caddy",
       "brand": "Volkswagen",
-      "names": {"en": "Caddy", "zh-CN": "开迪", "zh-TW": "Caddy", "ja": "キャディ"},
+      "names": {
+        "en": "Caddy",
+        "zh-CN": "开迪",
+        "zh-TW": "Caddy",
+        "ja": "キャディ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:volkswagen:crafter",
       "brand": "Volkswagen",
-      "names": {"en": "Crafter", "zh-CN": "Crafter", "zh-TW": "Crafter", "ja": "クラフター"},
+      "names": {
+        "en": "Crafter",
+        "zh-CN": "Crafter",
+        "zh-TW": "Crafter",
+        "ja": "クラフター"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:volkswagen:amarok",
       "brand": "Volkswagen",
-      "names": {"en": "Amarok", "zh-CN": "Amarok", "zh-TW": "Amarok", "ja": "アマロック"},
+      "names": {
+        "en": "Amarok",
+        "zh-CN": "Amarok",
+        "zh-TW": "Amarok",
+        "ja": "アマロック"
+      },
       "segment": "class:eu:j",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:volkswagen:lamando",
       "brand": "Volkswagen",
-      "names": {"en": "Lamando", "zh-CN": "凌渡", "zh-TW": "Lamando", "ja": "ラマンド"},
+      "names": {
+        "en": "Lamando",
+        "zh-CN": "凌渡",
+        "zh-TW": "Lamando",
+        "ja": "ラマンド"
+      },
       "segment": "class:cn:a",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -375,7 +530,12 @@
     {
       "id": "model:volkswagen:arteon",
       "brand": "Volkswagen",
-      "names": {"en": "Arteon", "zh-CN": "Arteon", "zh-TW": "Arteon", "ja": "アルテオン"},
+      "names": {
+        "en": "Arteon",
+        "zh-CN": "Arteon",
+        "zh-TW": "Arteon",
+        "ja": "アルテオン"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:volkswagen:phideon",
       "brand": "Volkswagen",
-      "names": {"en": "Phideon", "zh-CN": "辉昂", "zh-TW": "Phideon", "ja": "フィデオン"},
+      "names": {
+        "en": "Phideon",
+        "zh-CN": "辉昂",
+        "zh-TW": "Phideon",
+        "ja": "フィデオン"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:volkswagen:santana",
       "brand": "Volkswagen",
-      "names": {"en": "Santana", "zh-CN": "桑塔纳", "zh-TW": "Santana", "ja": "サンタナ"},
+      "names": {
+        "en": "Santana",
+        "zh-CN": "桑塔纳",
+        "zh-TW": "Santana",
+        "ja": "サンタナ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -407,6 +577,695 @@
       "years": "1981–2022",
       "note": "中国特供长青车型;海外1980年代Passat B2相关;2022年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:atlas",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Atlas",
+        "zh-CN": "Atlas",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:us:large",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "北美市场大型SUV,与上汽大众途昂同平台;中国版名Teramont(途昂)",
+      "verified": "verified",
+      "en": "Atlas",
+      "zh-CN": "Atlas(途昂,北美)"
+    },
+    {
+      "id": "model:volkswagen:c-trek",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "C-TREK",
+        "zh-CN": "C-TREK蔚领",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "C-TREK蔚领(2016–2022),一汽-大众旅行车,宝来平台衍生,2022年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-cc",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "CC",
+        "zh-CN": "CC",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012–2018",
+      "note": "大众CC(2012–2018),一汽-大众四门轿跑,基于Passat B7L平台,2018年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:id-aura-t6",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "ID.AURA T6",
+        "zh-CN": "ID.AURA T6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "ID.AURA(2026–),一汽-大众基于CMP平台打造的纯电紧凑型轿车,2025年发布概念车,2026年量产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:id-era-5s",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "ID.ERA 5S",
+        "zh-CN": "ID.ERA 5S",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "ID.ERA 5S(2026–),上汽大众中型插混轿车,2026年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:id-era-8x",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "ID.ERA 8X",
+        "zh-CN": "ID.ERA 8X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "ID.ERA 8X(2026–),上汽大众大五座增程SUV,2026年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:id-era-9x",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "ID.ERA 9X",
+        "zh-CN": "ID.ERA 9X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "ID.ERA 9X(2026–),上汽大众大型六座增程SUV,2026年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:tiguan-allspace",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tiguan Allspace",
+        "zh-CN": "Tiguan Allspace",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2024",
+      "note": "Tiguan Allspace(2017–2024),Tiguan长轴七座版(欧洲市场),2024年停产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-06",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Unyx 06",
+        "zh-CN": "与众06",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "与众06(ID. UNYX 06,2024–),大众安徽(金标大众)纯电SUV,2024年上市",
+      "verified": "verified",
+      "en": "ID. UNYX 06",
+      "zh-CN": "与众06"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-07",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Unyx 07",
+        "zh-CN": "与众07",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "与众07(ID. UNYX 07,2025–),大众安徽纯电SUV",
+      "verified": "verified",
+      "en": "ID. UNYX 07",
+      "zh-CN": "与众07"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-08",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Unyx 08",
+        "zh-CN": "与众08",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "与众08(ID. UNYX 08,2026–),大众安徽纯电SUV,与小鹏合作打造",
+      "verified": "verified",
+      "en": "ID. UNYX 08",
+      "zh-CN": "与众08"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-09",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Unyx 09",
+        "zh-CN": "与众09",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "与众09(ID. UNYX 09,2026–),大众安徽纯电轿车",
+      "verified": "verified",
+      "en": "ID. UNYX 09",
+      "zh-CN": "与众09"
+    },
+    {
+      "id": "model:volkswagen:7dfe91a19b",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Caravelle",
+        "zh-CN": "凯路威",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1990–2024",
+      "note": "凯路威(Caravelle,1990–2024),大众Transporter/Multivan的乘用版,2024年停产",
+      "verified": "verified",
+      "en": "Caravelle",
+      "zh-CN": "凯路威"
+    },
+    {
+      "id": "model:volkswagen:california",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Volkswagen California",
+        "zh-CN": "大众California",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1988–present",
+      "note": "大众California(1988–),基于Transporter的露营车",
+      "verified": "verified",
+      "en": "California",
+      "zh-CN": "California(未引入)"
+    },
+    {
+      "id": "model:volkswagen:fox",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Volkswagen Fox",
+        "zh-CN": "大众Fox",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2021",
+      "note": "大众Fox(2003–2021),巴西/欧洲市场入门小型车,2021年停产",
+      "verified": "verified",
+      "en": "Fox",
+      "zh-CN": "Fox(未引入)"
+    },
+    {
+      "id": "model:volkswagen:bd1f933093",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Viloran",
+        "zh-CN": "威然",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "威然(Viloran,2020–),上汽大众大型MPV,面向中国市场",
+      "verified": "verified",
+      "en": "Viloran",
+      "zh-CN": "威然"
+    },
+    {
+      "id": "model:volkswagen:62dbfd7604",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Bora EV",
+        "zh-CN": "宝来·纯电",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "宝来纯电(2019–2022),一汽-大众纯电版宝来,2022年停产",
+      "verified": "verified",
+      "en": "Bora EV",
+      "zh-CN": "宝来·纯电"
+    },
+    {
+      "id": "model:volkswagen:0d2b26d330",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Bora Classic",
+        "zh-CN": "宝来经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2008",
+      "note": "宝来经典(2005–2008),宝来改款前代,2008年停产",
+      "verified": "verified",
+      "en": "Bora Classic",
+      "zh-CN": "宝来经典"
+    },
+    {
+      "id": "model:volkswagen:b298aaa581",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Passat PHEV",
+        "zh-CN": "帕萨特插电混动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "帕萨特PHEV(2019–),上汽大众帕萨特插电混动版",
+      "verified": "verified",
+      "en": "Passat PHEV",
+      "zh-CN": "帕萨特插电混动"
+    },
+    {
+      "id": "model:volkswagen:gte",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tayron GTE",
+        "zh-CN": "探岳 GTE",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "探岳GTE(2020–),一汽-大众探岳插电混动版",
+      "verified": "verified",
+      "en": "Tayron GTE",
+      "zh-CN": "探岳GTE"
+    },
+    {
+      "id": "model:volkswagen:l-phev",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tayron L PHEV",
+        "zh-CN": "探岳L PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "探岳L PHEV(2025–),一汽-大众探岳L插电混动版",
+      "verified": "verified",
+      "en": "Tayron L PHEV",
+      "zh-CN": "探岳L PHEV"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-x",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tayron X",
+        "zh-CN": "探岳X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "探岳X(2020–),一汽-大众探岳的轿跑SUV版",
+      "verified": "verified",
+      "en": "Tayron X",
+      "zh-CN": "探岳X"
+    },
+    {
+      "id": "model:volkswagen:fcced1be1c",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tacqua",
+        "zh-CN": "探影",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "探影(Tacqua,2019–),一汽-大众小型SUV,与途铠同源",
+      "verified": "verified",
+      "en": "Tacqua",
+      "zh-CN": "探影"
+    },
+    {
+      "id": "model:volkswagen:4b6165f538",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Talagon",
+        "zh-CN": "揽境",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "揽境(Talagon,2021–),一汽-大众大型SUV,与途昂同平台",
+      "verified": "verified",
+      "en": "Talagon",
+      "zh-CN": "揽境"
+    },
+    {
+      "id": "model:volkswagen:9d75db3ffa",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tavendor",
+        "zh-CN": "揽巡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "揽巡(Tavendor,2022–),一汽-大众大型SUV",
+      "verified": "verified",
+      "en": "Tavendor",
+      "zh-CN": "揽巡"
+    },
+    {
+      "id": "model:volkswagen:fb680912cf",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Gran Lavida",
+        "zh-CN": "朗行",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2018",
+      "note": "朗行(Gran Lavida,2013–2018),上汽大众朗逸的两厢版,2018年停产",
+      "verified": "verified",
+      "en": "Gran Lavida",
+      "zh-CN": "朗行"
+    },
+    {
+      "id": "model:volkswagen:538aa28178",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Santana Zhijun",
+        "zh-CN": "桑塔纳志俊",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2012",
+      "note": "桑塔纳志俊(2008–2012),桑塔纳3000的改款,2012年停产",
+      "verified": "verified",
+      "en": "Santana Zhijun",
+      "zh-CN": "桑塔纳志俊"
+    },
+    {
+      "id": "model:volkswagen:9533f0bac9",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Santana Classic",
+        "zh-CN": "桑塔纳经典",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2006",
+      "note": "桑塔纳经典(2003–2006),普桑改款,2006年停产",
+      "verified": "verified",
+      "en": "Santana Classic",
+      "zh-CN": "桑塔纳经典"
+    },
+    {
+      "id": "model:volkswagen:4457fd81fd",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Magotan Alltrack",
+        "zh-CN": "蔚揽",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:wagon",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2022",
+      "note": "蔚揽(Passat Variant,2016–2022),大众进口Passat B8旅行车,2022年停售",
+      "verified": "verified",
+      "en": "Passat Variant",
+      "zh-CN": "蔚揽"
+    },
+    {
+      "id": "model:volkswagen:0730b95920",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Multivan",
+        "zh-CN": "迈特威",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:m",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "迈特威(Multivan,2003–),大众Transporter的乘用MPV版;第七代(2021)起为独立车型",
+      "verified": "verified",
+      "en": "Multivan",
+      "zh-CN": "迈特威"
+    },
+    {
+      "id": "model:volkswagen:phev",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Magotan PHEV",
+        "zh-CN": "迈腾 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "迈腾PHEV(2024–),一汽-大众迈腾插电混动版",
+      "verified": "verified",
+      "en": "Magotan PHEV",
+      "zh-CN": "迈腾PHEV"
+    },
+    {
+      "id": "model:volkswagen:8c1b785494",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Teramont",
+        "zh-CN": "途昂",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "途昂(Teramont,2017–),上汽大众大型SUV,与北美Atlas同平台",
+      "verified": "verified",
+      "en": "Teramont",
+      "zh-CN": "途昂"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-l-2",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tiguan L Plug-in Hybrid",
+        "zh-CN": "途观L插电混动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2019–present",
+      "note": "途观L PHEV(2019–),上汽大众途观L插电混动版",
+      "verified": "verified",
+      "en": "Tiguan L Plug-in Hybrid",
+      "zh-CN": "途观L插电混动"
+    },
+    {
+      "id": "model:volkswagen:volkswagen-x-2",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Tiguan X",
+        "zh-CN": "途观X",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "途观X(2020–),上汽大众途观L的轿跑SUV版",
+      "verified": "verified",
+      "en": "Tiguan X",
+      "zh-CN": "途观X"
+    },
+    {
+      "id": "model:volkswagen:88a9a83a2b",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Gol",
+        "zh-CN": "高尔",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1980–2023",
+      "note": "大众Gol(1980–2023),巴西市场小型车;中国曾国产(2003–2006),2023年停产",
+      "verified": "verified",
+      "en": "Gol",
+      "zh-CN": "高尔(未引入)"
+    },
+    {
+      "id": "model:volkswagen:503d3c927f",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Golf Sportsvan",
+        "zh-CN": "高尔夫·嘉旅",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2022",
+      "note": "高尔夫·嘉旅(Golf Sportsvan,2014–2022),高尔夫平台MPV,2022年停产",
+      "verified": "verified",
+      "en": "Golf Sportsvan",
+      "zh-CN": "高尔夫·嘉旅"
+    },
+    {
+      "id": "model:volkswagen:1c6b487103",
+      "brand": "Volkswagen",
+      "names": {
+        "en": "Golf EV",
+        "zh-CN": "高尔夫·纯电",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "高尔夫纯电(e-Golf中国版,2019–2021),一汽-大众,2021年停产",
+      "verified": "verified",
+      "en": "Golf EV",
+      "zh-CN": "高尔夫·纯电"
     }
   ]
 }

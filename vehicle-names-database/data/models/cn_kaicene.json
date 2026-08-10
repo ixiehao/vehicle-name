@@ -3,7 +3,12 @@
     {
       "id": "model:kaicene:jinniuxing",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Jinniuxing", "zh-CN": "长安金牛星", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Jinniuxing",
+        "zh-CN": "长安金牛星",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:kaicene:star",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Star", "zh-CN": "长安之星", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Star",
+        "zh-CN": "长安之星",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:kaicene:star-2",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Star 2", "zh-CN": "长安之星2", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Star 2",
+        "zh-CN": "长安之星2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:kaicene:star-3",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Star 3", "zh-CN": "长安之星3", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Star 3",
+        "zh-CN": "长安之星3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:kaicene:star-5",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Star 5", "zh-CN": "长安之星5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Star 5",
+        "zh-CN": "长安之星5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:kaicene:star-7",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Star 7", "zh-CN": "长安之星7", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Star 7",
+        "zh-CN": "长安之星7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:kaicene:star-9",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Star 9", "zh-CN": "长安之星9", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Star 9",
+        "zh-CN": "长安之星9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:kaicene:xingguang-4500",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Xingguang 4500", "zh-CN": "长安星光4500", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Xingguang 4500",
+        "zh-CN": "长安星光4500",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:kaicene:xingka",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Xingka", "zh-CN": "长安星卡", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Xingka",
+        "zh-CN": "长安星卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:kaicene:xingka-plus",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene Xingka Plus", "zh-CN": "长安星卡PLUS", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Kaicene Xingka Plus",
+        "zh-CN": "长安星卡PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:kaicene:m60",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene M60", "zh-CN": "长安睿行M60", "zh-TW": "M60", "ja": "—"},
+      "names": {
+        "en": "Kaicene M60",
+        "zh-CN": "长安睿行M60",
+        "zh-TW": "M60",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:kaicene:m70",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene M70", "zh-CN": "长安睿行M70", "zh-TW": "M70", "ja": "—"},
+      "names": {
+        "en": "Kaicene M70",
+        "zh-CN": "长安睿行M70",
+        "zh-TW": "M70",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:kaicene:m80",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene M80", "zh-CN": "长安睿行M80", "zh-TW": "M80", "ja": "—"},
+      "names": {
+        "en": "Kaicene M80",
+        "zh-CN": "长安睿行M80",
+        "zh-TW": "M80",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:kaicene:m90",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene M90", "zh-CN": "长安睿行M90", "zh-TW": "M90", "ja": "—"},
+      "names": {
+        "en": "Kaicene M90",
+        "zh-CN": "长安睿行M90",
+        "zh-TW": "M90",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:kaicene:s50",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene S50", "zh-CN": "长安睿行S50", "zh-TW": "S50", "ja": "—"},
+      "names": {
+        "en": "Kaicene S50",
+        "zh-CN": "长安睿行S50",
+        "zh-TW": "S50",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:kaicene:f30",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene F30", "zh-CN": "长安神骐F30", "zh-TW": "F30", "ja": "—"},
+      "names": {
+        "en": "Kaicene F30",
+        "zh-CN": "长安神骐F30",
+        "zh-TW": "F30",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:kaicene:t20",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene T20", "zh-CN": "长安神骐T20", "zh-TW": "T20", "ja": "—"},
+      "names": {
+        "en": "Kaicene T20",
+        "zh-CN": "长安神骐T20",
+        "zh-TW": "T20",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:kaicene:t30",
       "brand": "Kaicene",
-      "names": {"en": "Kaicene T30", "zh-CN": "长安神骐T30", "zh-TW": "T30", "ja": "—"},
+      "names": {
+        "en": "Kaicene T30",
+        "zh-CN": "长安神骐T30",
+        "zh-TW": "T30",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",

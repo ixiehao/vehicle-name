@@ -3,7 +3,12 @@
     {
       "id": "model:huasong:7",
       "brand": "Huasong",
-      "names": {"en": "Huasong 7", "zh-CN": "华颂7", "zh-TW": "Huasong 7", "ja": "—"},
+      "names": {
+        "en": "Huasong 7",
+        "zh-CN": "华颂7",
+        "zh-TW": "Huasong 7",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",

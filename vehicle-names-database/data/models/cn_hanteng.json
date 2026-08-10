@@ -3,7 +3,12 @@
     {
       "id": "model:hanteng:x7",
       "brand": "Hanteng",
-      "names": {"en": "Hanteng X7", "zh-CN": "X7", "zh-TW": "X7", "ja": "—"},
+      "names": {
+        "en": "Hanteng X7",
+        "zh-CN": "X7",
+        "zh-TW": "X7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:hanteng:x5",
       "brand": "Hanteng",
-      "names": {"en": "Hanteng X5", "zh-CN": "X5", "zh-TW": "X5", "ja": "—"},
+      "names": {
+        "en": "Hanteng X5",
+        "zh-CN": "X5",
+        "zh-TW": "X5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

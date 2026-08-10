@@ -3,7 +3,12 @@
     {
       "id": "model:infiniti:qx60",
       "brand": "Infiniti",
-      "names": {"en": "QX60", "zh-CN": "QX60", "zh-TW": "QX60", "ja": "インフィニティQX60"},
+      "names": {
+        "en": "QX60",
+        "zh-CN": "QX60",
+        "zh-TW": "QX60",
+        "ja": "インフィニティQX60"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,19 +20,31 @@
     {
       "id": "model:infiniti:qx65",
       "brand": "Infiniti",
-      "names": {"en": "QX65", "zh-CN": "QX65", "zh-TW": "QX65", "ja": "インフィニティQX65"},
+      "names": {
+        "en": "QX65",
+        "zh-CN": "QX65",
+        "zh-TW": "QX65",
+        "ja": "インフィニティQX65"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2026–present",
-      "note": "QX60 的轿跑 SUV 版本,2026 年新发布(待核实上市详情)",
-      "verified": "pending"
+      "note": "QX65(2026-),QX60的轿跑SUV版本",
+      "verified": "verified",
+      "zh-TW": "QX65",
+      "ja": "インフィニティQX65"
     },
     {
       "id": "model:infiniti:qx80",
       "brand": "Infiniti",
-      "names": {"en": "QX80", "zh-CN": "QX80", "zh-TW": "QX80", "ja": "インフィニティQX80"},
+      "names": {
+        "en": "QX80",
+        "zh-CN": "QX80",
+        "zh-TW": "QX80",
+        "ja": "インフィニティQX80"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +56,12 @@
     {
       "id": "model:infiniti:qx50",
       "brand": "Infiniti",
-      "names": {"en": "QX50", "zh-CN": "QX50", "zh-TW": "QX50", "ja": "インフィニティQX50"},
+      "names": {
+        "en": "QX50",
+        "zh-CN": "QX50",
+        "zh-TW": "QX50",
+        "ja": "インフィニティQX50"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +73,12 @@
     {
       "id": "model:infiniti:q50",
       "brand": "Infiniti",
-      "names": {"en": "Q50", "zh-CN": "Q50", "zh-TW": "Q50", "ja": "インフィニティQ50"},
+      "names": {
+        "en": "Q50",
+        "zh-CN": "Q50",
+        "zh-TW": "Q50",
+        "ja": "インフィニティQ50"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +90,12 @@
     {
       "id": "model:infiniti:q60",
       "brand": "Infiniti",
-      "names": {"en": "Q60", "zh-CN": "Q60", "zh-TW": "Q60", "ja": "インフィニティQ60"},
+      "names": {
+        "en": "Q60",
+        "zh-CN": "Q60",
+        "zh-TW": "Q60",
+        "ja": "インフィニティQ60"
+      },
       "segment": "class:cn:b",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -75,7 +107,12 @@
     {
       "id": "model:infiniti:q70",
       "brand": "Infiniti",
-      "names": {"en": "Q70", "zh-CN": "Q70", "zh-TW": "Q70", "ja": "インフィニティQ70"},
+      "names": {
+        "en": "Q70",
+        "zh-CN": "Q70",
+        "zh-TW": "Q70",
+        "ja": "インフィニティQ70"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +124,12 @@
     {
       "id": "model:infiniti:g-series",
       "brand": "Infiniti",
-      "names": {"en": "G-Series", "zh-CN": "G系列", "zh-TW": "G系列", "ja": "インフィニティG"},
+      "names": {
+        "en": "G-Series",
+        "zh-CN": "G系列",
+        "zh-TW": "G系列",
+        "ja": "インフィニティG"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +141,12 @@
     {
       "id": "model:infiniti:m-series",
       "brand": "Infiniti",
-      "names": {"en": "M-Series", "zh-CN": "M系列", "zh-TW": "M系列", "ja": "インフィニティM"},
+      "names": {
+        "en": "M-Series",
+        "zh-CN": "M系列",
+        "zh-TW": "M系列",
+        "ja": "インフィニティM"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +158,12 @@
     {
       "id": "model:infiniti:ex",
       "brand": "Infiniti",
-      "names": {"en": "EX", "zh-CN": "EX", "zh-TW": "EX", "ja": "インフィニティEX"},
+      "names": {
+        "en": "EX",
+        "zh-CN": "EX",
+        "zh-TW": "EX",
+        "ja": "インフィニティEX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -123,7 +175,12 @@
     {
       "id": "model:infiniti:fx",
       "brand": "Infiniti",
-      "names": {"en": "FX", "zh-CN": "FX", "zh-TW": "FX", "ja": "インフィニティFX"},
+      "names": {
+        "en": "FX",
+        "zh-CN": "FX",
+        "zh-TW": "FX",
+        "ja": "インフィニティFX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -135,7 +192,12 @@
     {
       "id": "model:infiniti:qx4",
       "brand": "Infiniti",
-      "names": {"en": "QX4", "zh-CN": "QX4", "zh-TW": "QX4", "ja": "インフィニティQX4"},
+      "names": {
+        "en": "QX4",
+        "zh-CN": "QX4",
+        "zh-TW": "QX4",
+        "ja": "インフィニティQX4"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -147,7 +209,12 @@
     {
       "id": "model:infiniti:esq",
       "brand": "Infiniti",
-      "names": {"en": "ESQ", "zh-CN": "ESQ", "zh-TW": "ESQ", "ja": "インフィニティESQ"},
+      "names": {
+        "en": "ESQ",
+        "zh-CN": "ESQ",
+        "zh-TW": "ESQ",
+        "ja": "インフィニティESQ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -159,7 +226,12 @@
     {
       "id": "model:infiniti:jx",
       "brand": "Infiniti",
-      "names": {"en": "JX", "zh-CN": "JX", "zh-TW": "JX", "ja": "インフィニティJX"},
+      "names": {
+        "en": "JX",
+        "zh-CN": "JX",
+        "zh-TW": "JX",
+        "ja": "インフィニティJX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -171,14 +243,76 @@
     {
       "id": "model:infiniti:qx30",
       "brand": "Infiniti",
-      "names": {"en": "QX30", "zh-CN": "QX30", "zh-TW": "QX30", "ja": "インフィニティQX30"},
+      "names": {
+        "en": "QX30",
+        "zh-CN": "QX30",
+        "zh-TW": "QX30",
+        "ja": "インフィニティQX30"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2017–2019",
       "note": "基于奔驰GLA平台(与Q30同源)的紧凑SUV,大陆曾以进口方式销售;已停产",
-      "verified": "pending"
+      "verified": "verified"
+    },
+    {
+      "id": "model:infiniti:qx55",
+      "brand": "Infiniti",
+      "names": {
+        "en": "QX55",
+        "zh-CN": "QX55",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2021–2025",
+      "note": "QX55(2021-2025),QX50轿跑版,2025年停产",
+      "verified": "verified",
+      "zh-TW": "QX55",
+      "ja": "インフィニティQX55"
+    },
+    {
+      "id": "model:infiniti:qx70",
+      "brand": "Infiniti",
+      "names": {
+        "en": "QX70",
+        "zh-CN": "QX70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2017",
+      "note": "QX70(2013-2017),FX更名后的轿跑风格SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "QX70",
+      "ja": "インフィニティQX70"
+    },
+    {
+      "id": "model:infiniti:q30",
+      "brand": "Infiniti",
+      "names": {
+        "en": "Infiniti Q30",
+        "zh-CN": "英菲尼迪Q30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "Q30(2015-2019),基于奔驰A级平台,与QX30同源,已停产",
+      "verified": "verified",
+      "zh-TW": "Q30",
+      "ja": "インフィニティQ30"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:dodge:charger",
       "brand": "Dodge",
-      "names": {"en": "Charger", "zh-CN": "Charger", "zh-TW": "Charger", "ja": "チャージャー"},
+      "names": {
+        "en": "Charger",
+        "zh-CN": "Charger",
+        "zh-TW": "Charger",
+        "ja": "チャージャー"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:dodge:challenger",
       "brand": "Dodge",
-      "names": {"en": "Challenger", "zh-CN": "Challenger(挑战者)", "zh-TW": "Challenger", "ja": "チャレンジャー"},
+      "names": {
+        "en": "Challenger",
+        "zh-CN": "Challenger(挑战者)",
+        "zh-TW": "Challenger",
+        "ja": "チャレンジャー"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:dodge:durango",
       "brand": "Dodge",
-      "names": {"en": "Durango", "zh-CN": "Durango", "zh-TW": "Durango", "ja": "デュランゴ"},
+      "names": {
+        "en": "Durango",
+        "zh-CN": "Durango",
+        "zh-TW": "Durango",
+        "ja": "デュランゴ"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:dodge:hornet",
       "brand": "Dodge",
-      "names": {"en": "Hornet", "zh-CN": "Hornet", "zh-TW": "Hornet", "ja": "ホーネット"},
+      "names": {
+        "en": "Hornet",
+        "zh-CN": "Hornet",
+        "zh-TW": "Hornet",
+        "ja": "ホーネット"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:dodge:journey",
       "brand": "Dodge",
-      "names": {"en": "Journey", "zh-CN": "酷威/Journey", "zh-TW": "Journey", "ja": "ジャーニー"},
+      "names": {
+        "en": "Journey",
+        "zh-CN": "酷威/Journey",
+        "zh-TW": "Journey",
+        "ja": "ジャーニー"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:dodge:grand-caravan",
       "brand": "Dodge",
-      "names": {"en": "Grand Caravan", "zh-CN": "Grand Caravan", "zh-TW": "Grand Caravan", "ja": "グランドキャラバン"},
+      "names": {
+        "en": "Grand Caravan",
+        "zh-CN": "Grand Caravan",
+        "zh-TW": "Grand Caravan",
+        "ja": "グランドキャラバン"
+      },
       "segment": "class:us:minivan",
       "body_style": "body:minivan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:dodge:dart",
       "brand": "Dodge",
-      "names": {"en": "Dart", "zh-CN": "Dart", "zh-TW": "Dart", "ja": "ダート"},
+      "names": {
+        "en": "Dart",
+        "zh-CN": "Dart",
+        "zh-TW": "Dart",
+        "ja": "ダート"
+      },
       "segment": "class:us:compact",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:dodge:avenger",
       "brand": "Dodge",
-      "names": {"en": "Avenger", "zh-CN": "Avenger", "zh-TW": "Avenger", "ja": "アベンジャー"},
+      "names": {
+        "en": "Avenger",
+        "zh-CN": "Avenger",
+        "zh-TW": "Avenger",
+        "ja": "アベンジャー"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:dodge:magnum",
       "brand": "Dodge",
-      "names": {"en": "Magnum", "zh-CN": "Magnum", "zh-TW": "Magnum", "ja": "マグナム"},
+      "names": {
+        "en": "Magnum",
+        "zh-CN": "Magnum",
+        "zh-TW": "Magnum",
+        "ja": "マグナム"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:dodge:viper",
       "brand": "Dodge",
-      "names": {"en": "Viper", "zh-CN": "Viper(蝰蛇)", "zh-TW": "Viper", "ja": "バイパー"},
+      "names": {
+        "en": "Viper",
+        "zh-CN": "Viper(蝰蛇)",
+        "zh-TW": "Viper",
+        "ja": "バイパー"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:dodge:neon",
       "brand": "Dodge",
-      "names": {"en": "Neon", "zh-CN": "Neon", "zh-TW": "Neon", "ja": "ネオン"},
+      "names": {
+        "en": "Neon",
+        "zh-CN": "Neon",
+        "zh-TW": "Neon",
+        "ja": "ネオン"
+      },
       "segment": "class:us:compact",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",

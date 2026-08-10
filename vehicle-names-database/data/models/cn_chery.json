@@ -3,7 +3,12 @@
     {
       "id": "model:chery:tiggo-3",
       "brand": "Chery",
-      "names": {"en": "Tiggo 3", "zh-CN": "瑞虎3", "zh-TW": "Tiggo 3", "ja": "—"},
+      "names": {
+        "en": "Tiggo 3",
+        "zh-CN": "瑞虎3",
+        "zh-TW": "Tiggo 3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:chery:tiggo-5",
       "brand": "Chery",
-      "names": {"en": "Tiggo 5", "zh-CN": "瑞虎5", "zh-TW": "Tiggo 5", "ja": "—"},
+      "names": {
+        "en": "Tiggo 5",
+        "zh-CN": "瑞虎5",
+        "zh-TW": "Tiggo 5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:chery:tiggo-5x",
       "brand": "Chery",
-      "names": {"en": "Tiggo 5x", "zh-CN": "瑞虎5x", "zh-TW": "Tiggo 5x", "ja": "—"},
+      "names": {
+        "en": "Tiggo 5x",
+        "zh-CN": "瑞虎5x",
+        "zh-TW": "Tiggo 5x",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:chery:tiggo-7",
       "brand": "Chery",
-      "names": {"en": "Tiggo 7", "zh-CN": "瑞虎7", "zh-TW": "Tiggo 7", "ja": "—"},
+      "names": {
+        "en": "Tiggo 7",
+        "zh-CN": "瑞虎7",
+        "zh-TW": "Tiggo 7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:chery:tiggo-8",
       "brand": "Chery",
-      "names": {"en": "Tiggo 8", "zh-CN": "瑞虎8", "zh-TW": "Tiggo 8", "ja": "—"},
+      "names": {
+        "en": "Tiggo 8",
+        "zh-CN": "瑞虎8",
+        "zh-TW": "Tiggo 8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:chery:tiggo-9",
       "brand": "Chery",
-      "names": {"en": "Tiggo 9", "zh-CN": "瑞虎9", "zh-TW": "Tiggo 9", "ja": "—"},
+      "names": {
+        "en": "Tiggo 9",
+        "zh-CN": "瑞虎9",
+        "zh-TW": "Tiggo 9",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:chery:arrizo-5",
       "brand": "Chery",
-      "names": {"en": "Arrizo 5", "zh-CN": "艾瑞泽5", "zh-TW": "Arrizo 5", "ja": "—"},
+      "names": {
+        "en": "Arrizo 5",
+        "zh-CN": "艾瑞泽5",
+        "zh-TW": "Arrizo 5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:chery:arrizo-8",
       "brand": "Chery",
-      "names": {"en": "Arrizo 8", "zh-CN": "艾瑞泽8", "zh-TW": "Arrizo 8", "ja": "—"},
+      "names": {
+        "en": "Arrizo 8",
+        "zh-CN": "艾瑞泽8",
+        "zh-TW": "Arrizo 8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:chery:arrizo-gx",
       "brand": "Chery",
-      "names": {"en": "Arrizo GX", "zh-CN": "艾瑞泽GX", "zh-TW": "Arrizo GX", "ja": "—"},
+      "names": {
+        "en": "Arrizo GX",
+        "zh-CN": "艾瑞泽GX",
+        "zh-TW": "Arrizo GX",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:chery:qq",
       "brand": "Chery",
-      "names": {"en": "Chery QQ", "zh-CN": "奇瑞QQ", "zh-TW": "Chery QQ", "ja": "—"},
+      "names": {
+        "en": "Chery QQ",
+        "zh-CN": "奇瑞QQ",
+        "zh-TW": "Chery QQ",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:chery:fulwin-a8",
       "brand": "Chery",
-      "names": {"en": "Fulwin A8", "zh-CN": "风云A8", "zh-TW": "Fulwin A8", "ja": "—"},
+      "names": {
+        "en": "Fulwin A8",
+        "zh-CN": "风云A8",
+        "zh-TW": "Fulwin A8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -133,21 +188,14 @@
       "verified": "verified"
     },
     {
-      "id": "model:chery:fulwin-a9",
-      "brand": "Chery",
-      "names": {"en": "Fulwin A9", "zh-CN": "风云A9", "zh-TW": "Fulwin A9", "ja": "—"},
-      "segment": "class:cn:b",
-      "body_style": "body:sedan",
-      "powertrain": "pt:erev",
-      "status": "current",
-      "years": "2026–present",
-      "note": "风云(Fulwin)系列中大型轿车,纯电/增程;上市时间以官方为准",
-      "verified": "pending"
-    },
-    {
       "id": "model:chery:jetour-traveller",
       "brand": "Chery",
-      "names": {"en": "Jetour Traveller", "zh-CN": "捷途旅行者", "zh-TW": "Jetour Traveller", "ja": "—"},
+      "names": {
+        "en": "Jetour Traveller",
+        "zh-CN": "捷途旅行者",
+        "zh-TW": "Jetour Traveller",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -159,7 +207,12 @@
     {
       "id": "model:chery:exeed-yaoguang",
       "brand": "Chery",
-      "names": {"en": "Exeed Yaoguang", "zh-CN": "星途瑶光", "zh-TW": "Exeed Yaoguang", "ja": "—"},
+      "names": {
+        "en": "Exeed Yaoguang",
+        "zh-CN": "星途瑶光",
+        "zh-TW": "Exeed Yaoguang",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -171,7 +224,12 @@
     {
       "id": "model:chery:exeed-lanyue",
       "brand": "Chery",
-      "names": {"en": "Exeed Lanyue", "zh-CN": "星途揽月", "zh-TW": "Exeed Lanyue", "ja": "—"},
+      "names": {
+        "en": "Exeed Lanyue",
+        "zh-CN": "星途揽月",
+        "zh-TW": "Exeed Lanyue",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +241,12 @@
     {
       "id": "model:chery:icar-03",
       "brand": "Chery",
-      "names": {"en": "iCar 03", "zh-CN": "iCAR 03", "zh-TW": "iCar 03", "ja": "—"},
+      "names": {
+        "en": "iCar 03",
+        "zh-CN": "iCAR 03",
+        "zh-TW": "iCar 03",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -195,7 +258,12 @@
     {
       "id": "model:chery:e5",
       "brand": "Chery",
-      "names": {"en": "E5", "zh-CN": "E5", "zh-TW": "E5", "ja": "—"},
+      "names": {
+        "en": "E5",
+        "zh-CN": "E5",
+        "zh-TW": "E5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -207,7 +275,12 @@
     {
       "id": "model:chery:qiyun-1",
       "brand": "Chery",
-      "names": {"en": "Qiyun 1", "zh-CN": "旗云1", "zh-TW": "Qiyun 1", "ja": "—"},
+      "names": {
+        "en": "Qiyun 1",
+        "zh-CN": "旗云1",
+        "zh-TW": "Qiyun 1",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -219,7 +292,12 @@
     {
       "id": "model:chery:qiyun-2",
       "brand": "Chery",
-      "names": {"en": "Qiyun 2", "zh-CN": "旗云2", "zh-TW": "Qiyun 2", "ja": "—"},
+      "names": {
+        "en": "Qiyun 2",
+        "zh-CN": "旗云2",
+        "zh-TW": "Qiyun 2",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -231,7 +309,12 @@
     {
       "id": "model:chery:fulwin-2",
       "brand": "Chery",
-      "names": {"en": "Fulwin 2", "zh-CN": "风云2", "zh-TW": "Fulwin 2", "ja": "—"},
+      "names": {
+        "en": "Fulwin 2",
+        "zh-CN": "风云2",
+        "zh-TW": "Fulwin 2",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -243,7 +326,12 @@
     {
       "id": "model:chery:omoda-5",
       "brand": "Chery",
-      "names": {"en": "Omoda 5", "zh-CN": "欧萌达", "zh-TW": "Omoda 5", "ja": "—"},
+      "names": {
+        "en": "Omoda 5",
+        "zh-CN": "欧萌达",
+        "zh-TW": "Omoda 5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -255,7 +343,12 @@
     {
       "id": "model:chery:tiggo",
       "brand": "Chery",
-      "names": {"en": "Tiggo", "zh-CN": "瑞虎", "zh-TW": "Tiggo", "ja": "—"},
+      "names": {
+        "en": "Tiggo",
+        "zh-CN": "瑞虎",
+        "zh-TW": "Tiggo",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -267,7 +360,12 @@
     {
       "id": "model:chery:tiggo-3x",
       "brand": "Chery",
-      "names": {"en": "Tiggo 3x", "zh-CN": "瑞虎3x", "zh-TW": "Tiggo 3x", "ja": "—"},
+      "names": {
+        "en": "Tiggo 3x",
+        "zh-CN": "瑞虎3x",
+        "zh-TW": "Tiggo 3x",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -279,7 +377,12 @@
     {
       "id": "model:chery:tiggo-7-plus",
       "brand": "Chery",
-      "names": {"en": "Tiggo 7 Plus", "zh-CN": "瑞虎7 PLUS", "zh-TW": "Tiggo 7 Pro", "ja": "—"},
+      "names": {
+        "en": "Tiggo 7 Plus",
+        "zh-CN": "瑞虎7 PLUS",
+        "zh-TW": "Tiggo 7 Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -291,7 +394,12 @@
     {
       "id": "model:chery:tiggo-8-plus",
       "brand": "Chery",
-      "names": {"en": "Tiggo 8 Plus", "zh-CN": "瑞虎8 PLUS", "zh-TW": "Tiggo 8 Pro", "ja": "—"},
+      "names": {
+        "en": "Tiggo 8 Plus",
+        "zh-CN": "瑞虎8 PLUS",
+        "zh-TW": "Tiggo 8 Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -303,7 +411,12 @@
     {
       "id": "model:chery:tiggo-8-plus-eplus",
       "brand": "Chery",
-      "names": {"en": "Tiggo 8 Plus Kunpeng e+", "zh-CN": "瑞虎8 PLUS鲲鹏e+", "zh-TW": "Tiggo 8 Pro e+", "ja": "—"},
+      "names": {
+        "en": "Tiggo 8 Plus Kunpeng e+",
+        "zh-CN": "瑞虎8 PLUS鲲鹏e+",
+        "zh-TW": "Tiggo 8 Pro e+",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -315,7 +428,12 @@
     {
       "id": "model:chery:tiggo-8-pro",
       "brand": "Chery",
-      "names": {"en": "Tiggo 8 Pro", "zh-CN": "瑞虎8 PRO", "zh-TW": "Tiggo 8 Pro", "ja": "—"},
+      "names": {
+        "en": "Tiggo 8 Pro",
+        "zh-CN": "瑞虎8 PRO",
+        "zh-TW": "Tiggo 8 Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -327,7 +445,12 @@
     {
       "id": "model:chery:tiggo-8l",
       "brand": "Chery",
-      "names": {"en": "Tiggo 8L", "zh-CN": "瑞虎8L", "zh-TW": "Tiggo 8L", "ja": "—"},
+      "names": {
+        "en": "Tiggo 8L",
+        "zh-CN": "瑞虎8L",
+        "zh-TW": "Tiggo 8L",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -339,7 +462,12 @@
     {
       "id": "model:chery:arrizo-3",
       "brand": "Chery",
-      "names": {"en": "Arrizo 3", "zh-CN": "艾瑞泽3", "zh-TW": "Arrizo 3", "ja": "—"},
+      "names": {
+        "en": "Arrizo 3",
+        "zh-CN": "艾瑞泽3",
+        "zh-TW": "Arrizo 3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -351,7 +479,12 @@
     {
       "id": "model:chery:arrizo-5-gt",
       "brand": "Chery",
-      "names": {"en": "Arrizo 5 GT", "zh-CN": "艾瑞泽5 GT", "zh-TW": "Arrizo 5 GT", "ja": "—"},
+      "names": {
+        "en": "Arrizo 5 GT",
+        "zh-CN": "艾瑞泽5 GT",
+        "zh-TW": "Arrizo 5 GT",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -363,7 +496,12 @@
     {
       "id": "model:chery:arrizo-7",
       "brand": "Chery",
-      "names": {"en": "Arrizo 7", "zh-CN": "艾瑞泽7", "zh-TW": "Arrizo 7", "ja": "—"},
+      "names": {
+        "en": "Arrizo 7",
+        "zh-CN": "艾瑞泽7",
+        "zh-TW": "Arrizo 7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -375,7 +513,12 @@
     {
       "id": "model:chery:arrizo-7e",
       "brand": "Chery",
-      "names": {"en": "Arrizo 7e", "zh-CN": "艾瑞泽7e", "zh-TW": "Arrizo 7e", "ja": "—"},
+      "names": {
+        "en": "Arrizo 7e",
+        "zh-CN": "艾瑞泽7e",
+        "zh-TW": "Arrizo 7e",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -387,7 +530,12 @@
     {
       "id": "model:chery:arrizo-8-pro",
       "brand": "Chery",
-      "names": {"en": "Arrizo 8 Pro", "zh-CN": "艾瑞泽8 PRO", "zh-TW": "Arrizo 8 Pro", "ja": "—"},
+      "names": {
+        "en": "Arrizo 8 Pro",
+        "zh-CN": "艾瑞泽8 PRO",
+        "zh-TW": "Arrizo 8 Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -399,7 +547,12 @@
     {
       "id": "model:chery:arrizo-m7",
       "brand": "Chery",
-      "names": {"en": "Arrizo M7", "zh-CN": "艾瑞泽M7", "zh-TW": "Arrizo M7", "ja": "—"},
+      "names": {
+        "en": "Arrizo M7",
+        "zh-CN": "艾瑞泽M7",
+        "zh-TW": "Arrizo M7",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -411,7 +564,12 @@
     {
       "id": "model:chery:explore-06",
       "brand": "Chery",
-      "names": {"en": "Explore 06", "zh-CN": "探索06", "zh-TW": "Explore 06", "ja": "—"},
+      "names": {
+        "en": "Explore 06",
+        "zh-CN": "探索06",
+        "zh-TW": "Explore 06",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -423,7 +581,12 @@
     {
       "id": "model:chery:jetour-x70",
       "brand": "Chery",
-      "names": {"en": "Jetour X70", "zh-CN": "捷途X70", "zh-TW": "Jetour X70", "ja": "—"},
+      "names": {
+        "en": "Jetour X70",
+        "zh-CN": "捷途X70",
+        "zh-TW": "Jetour X70",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -435,7 +598,12 @@
     {
       "id": "model:chery:jetour-x90",
       "brand": "Chery",
-      "names": {"en": "Jetour X90", "zh-CN": "捷途X90", "zh-TW": "Jetour X90", "ja": "—"},
+      "names": {
+        "en": "Jetour X90",
+        "zh-CN": "捷途X90",
+        "zh-TW": "Jetour X90",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -447,7 +615,12 @@
     {
       "id": "model:chery:jetour-dasheng",
       "brand": "Chery",
-      "names": {"en": "Jetour Dasheng", "zh-CN": "捷途大圣", "zh-TW": "Jetour Dasheng", "ja": "—"},
+      "names": {
+        "en": "Jetour Dasheng",
+        "zh-CN": "捷途大圣",
+        "zh-TW": "Jetour Dasheng",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -459,7 +632,12 @@
     {
       "id": "model:chery:jetour-ziyouzhe",
       "brand": "Chery",
-      "names": {"en": "Jetour Ziyouzhe", "zh-CN": "捷途自由者", "zh-TW": "Jetour Ziyouzhe", "ja": "—"},
+      "names": {
+        "en": "Jetour Ziyouzhe",
+        "zh-CN": "捷途自由者",
+        "zh-TW": "Jetour Ziyouzhe",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -471,7 +649,12 @@
     {
       "id": "model:chery:exeed-lingyun",
       "brand": "Chery",
-      "names": {"en": "Exeed Lingyun", "zh-CN": "星途凌云", "zh-TW": "Exeed Lingyun", "ja": "—"},
+      "names": {
+        "en": "Exeed Lingyun",
+        "zh-CN": "星途凌云",
+        "zh-TW": "Exeed Lingyun",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -483,7 +666,12 @@
     {
       "id": "model:chery:exeed-zhufeng",
       "brand": "Chery",
-      "names": {"en": "Exeed Zhufeng", "zh-CN": "星途追风", "zh-TW": "Exeed Zhufeng", "ja": "—"},
+      "names": {
+        "en": "Exeed Zhufeng",
+        "zh-CN": "星途追风",
+        "zh-TW": "Exeed Zhufeng",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -491,6 +679,519 @@
       "years": "2021–present",
       "note": "星途(Exeed)子品牌紧凑型SUV(燃油),2021年上市(原星途LX改名追风)",
       "verified": "verified"
+    },
+    {
+      "id": "model:chery:ant",
+      "brand": "Chery",
+      "names": {
+        "en": "@ANT",
+        "zh-CN": "@ANT",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "奇瑞@ANT(2025-),奇瑞小型纯电车",
+      "verified": "verified",
+      "en": "@ANT",
+      "zh-CN": "@ANT"
+    },
+    {
+      "id": "model:chery:chery-a1",
+      "brand": "Chery",
+      "names": {
+        "en": "A1",
+        "zh-CN": "A1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007-2015",
+      "note": "奇瑞A1(2007-2015),奇瑞微型两厢车,2015年停产",
+      "verified": "verified",
+      "en": "A1",
+      "zh-CN": "奇瑞A1"
+    },
+    {
+      "id": "model:chery:chery-a3",
+      "brand": "Chery",
+      "names": {
+        "en": "A3",
+        "zh-CN": "A3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008-2015",
+      "note": "奇瑞A3(2008-2015),奇瑞紧凑型轿车,2015年停产",
+      "verified": "verified",
+      "en": "A3",
+      "zh-CN": "奇瑞A3"
+    },
+    {
+      "id": "model:chery:chery-a5",
+      "brand": "Chery",
+      "names": {
+        "en": "A5",
+        "zh-CN": "A5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2010",
+      "note": "奇瑞A5(2006-2010),奇瑞紧凑型轿车,2010年停产",
+      "verified": "verified",
+      "en": "A5",
+      "zh-CN": "奇瑞A5"
+    },
+    {
+      "id": "model:chery:chery-x1",
+      "brand": "Chery",
+      "names": {
+        "en": "X1",
+        "zh-CN": "X1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009-2014",
+      "note": "奇瑞X1(2009-2014),奇瑞微型跨界车,2014年停产",
+      "verified": "verified",
+      "en": "X1",
+      "zh-CN": "奇瑞X1"
+    },
+    {
+      "id": "model:chery:0a443f55f9",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery Oriental Son",
+        "zh-CN": "东方之子",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003-2012",
+      "note": "东方之子(2003-2012),奇瑞首款B级轿车,2012年停产",
+      "verified": "verified",
+      "en": "Oriental Son",
+      "zh-CN": "东方之子"
+    },
+    {
+      "id": "model:chery:chery-6",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery Oriental Son 6",
+        "zh-CN": "东方之子6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2012",
+      "note": "东方之子6(2010-2012),东方之子换代车型,2012年停产",
+      "verified": "verified",
+      "en": "Oriental Son 6",
+      "zh-CN": "东方之子6"
+    },
+    {
+      "id": "model:chery:cross",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery Oriental Son Cross",
+        "zh-CN": "东方之子Cross",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007-2012",
+      "note": "东方之子Cross(2007-2012),奇瑞MPV,2012年停产",
+      "verified": "verified",
+      "en": "Oriental Son Cross",
+      "zh-CN": "东方之子Cross"
+    },
+    {
+      "id": "model:chery:chery-e2",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery E2",
+        "zh-CN": "奇瑞E2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015-2018",
+      "note": "奇瑞E2(2015-2018),奇瑞紧凑型轿车(开瑞E2),2018年停产",
+      "verified": "verified",
+      "en": "E2",
+      "zh-CN": "奇瑞E2"
+    },
+    {
+      "id": "model:chery:chery-e3",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery E3",
+        "zh-CN": "奇瑞E3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2018",
+      "note": "奇瑞E3(2013-2018),奇瑞紧凑型轿车,2018年停产",
+      "verified": "verified",
+      "en": "E3",
+      "zh-CN": "奇瑞E3"
+    },
+    {
+      "id": "model:chery:qq3",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery QQ3",
+        "zh-CN": "奇瑞QQ3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003-2013",
+      "note": "奇瑞QQ3(2003-2013),奇瑞经典微型车,2013年停产",
+      "verified": "verified",
+      "en": "QQ3",
+      "zh-CN": "奇瑞QQ3"
+    },
+    {
+      "id": "model:chery:qq6",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery QQ6",
+        "zh-CN": "奇瑞QQ6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006-2012",
+      "note": "奇瑞QQ6(2006-2012),QQ系列三厢变体,2012年停产",
+      "verified": "verified",
+      "en": "QQ6",
+      "zh-CN": "奇瑞QQ6"
+    },
+    {
+      "id": "model:chery:qqme",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery QQme",
+        "zh-CN": "奇瑞QQme",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009-2013",
+      "note": "奇瑞QQme(2009-2013),QQ系列时尚微型车,2013年停产",
+      "verified": "verified",
+      "en": "QQme",
+      "zh-CN": "奇瑞QQme"
+    },
+    {
+      "id": "model:chery:chery-tx",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery TX",
+        "zh-CN": "奇瑞TX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "奇瑞TX(2025-),奇瑞中大型SUV(风云T系列)",
+      "verified": "verified",
+      "en": "TX",
+      "zh-CN": "奇瑞TX"
+    },
+    {
+      "id": "model:chery:06-c-dm",
+      "brand": "Chery",
+      "names": {
+        "en": "Explore 06 C-DM",
+        "zh-CN": "探索06 C-DM",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "探索06 C-DM(2024-),探索06插电混动版",
+      "verified": "verified",
+      "en": "Explore 06 C-DM",
+      "zh-CN": "探索06 C-DM"
+    },
+    {
+      "id": "model:chery:1f33a2d9d5",
+      "brand": "Chery",
+      "names": {
+        "en": "Qiyun",
+        "zh-CN": "旗云",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001-2010",
+      "note": "旗云(2001-2010),奇瑞紧凑型轿车,2010年停产",
+      "verified": "verified",
+      "en": "Qiyun",
+      "zh-CN": "旗云"
+    },
+    {
+      "id": "model:chery:chery-3",
+      "brand": "Chery",
+      "names": {
+        "en": "Qiyun 3",
+        "zh-CN": "旗云3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2013",
+      "note": "旗云3(2010-2013),旗云系列改款,2013年停产",
+      "verified": "verified",
+      "en": "Qiyun 3",
+      "zh-CN": "旗云3"
+    },
+    {
+      "id": "model:chery:d9982a84e3",
+      "brand": "Chery",
+      "names": {
+        "en": "Aika",
+        "zh-CN": "爱卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2018",
+      "note": "奇瑞爱卡(2013-2018),奇瑞皮卡,2018年停产",
+      "verified": "verified",
+      "en": "Aika",
+      "zh-CN": "爱卡"
+    },
+    {
+      "id": "model:chery:7-c-dm",
+      "brand": "Chery",
+      "names": {
+        "en": "Tiggo 7 C-DM",
+        "zh-CN": "瑞虎7 C-DM",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "瑞虎7 C-DM(2024-),瑞虎7插电混动版",
+      "verified": "verified",
+      "en": "Tiggo 7 C-DM",
+      "zh-CN": "瑞虎7 C-DM"
+    },
+    {
+      "id": "model:chery:chery-7l",
+      "brand": "Chery",
+      "names": {
+        "en": "Tiggo 7L",
+        "zh-CN": "瑞虎7L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025-present",
+      "note": "瑞虎7L(2025-),瑞虎7的长轴版",
+      "verified": "verified",
+      "en": "Tiggo 7L",
+      "zh-CN": "瑞虎7L"
+    },
+    {
+      "id": "model:chery:8-plus-c-dm",
+      "brand": "Chery",
+      "names": {
+        "en": "Tiggo 8 Plus C-DM",
+        "zh-CN": "瑞虎8 PLUS C-DM",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "瑞虎8 PLUS C-DM(2024-),瑞虎8 PLUS插电混动版",
+      "verified": "verified",
+      "en": "Tiggo 8 Plus C-DM",
+      "zh-CN": "瑞虎8 PLUS C-DM"
+    },
+    {
+      "id": "model:chery:9-c-dm",
+      "brand": "Chery",
+      "names": {
+        "en": "Tiggo 9 C-DM",
+        "zh-CN": "瑞虎9 C-DM",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "瑞虎9 C-DM(2024-),瑞虎9插电混动版",
+      "verified": "verified",
+      "en": "Tiggo 9 C-DM",
+      "zh-CN": "瑞虎9 C-DM"
+    },
+    {
+      "id": "model:chery:5-plus",
+      "brand": "Chery",
+      "names": {
+        "en": "Arrizo 5 Plus",
+        "zh-CN": "艾瑞泽5 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020-present",
+      "note": "艾瑞泽5 PLUS(2020-),艾瑞泽5的升级版",
+      "verified": "verified",
+      "en": "Arrizo 5 Plus",
+      "zh-CN": "艾瑞泽5 PLUS"
+    },
+    {
+      "id": "model:chery:1ab63dcf56",
+      "brand": "Chery",
+      "names": {
+        "en": "Fengyun",
+        "zh-CN": "风云",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2001-2010",
+      "note": "风云(2001-2010),奇瑞首款轿车系列,2010年停产",
+      "verified": "verified",
+      "en": "Fengyun",
+      "zh-CN": "风云"
+    },
+    {
+      "id": "model:chery:chery-qq",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery QQ Ice Cream",
+        "zh-CN": "QQ冰淇淋",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021-present",
+      "note": "QQ冰淇淋(2021-),奇瑞新能源纯电微型车",
+      "verified": "verified",
+      "en": "QQ Ice Cream",
+      "zh-CN": "QQ冰淇淋"
+    },
+    {
+      "id": "model:chery:b2046a4c8e",
+      "brand": "Chery",
+      "names": {
+        "en": "Duomi",
+        "zh-CN": "多米",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025-present",
+      "note": "奇瑞多米(2025-),奇瑞纯电MINI SUV,QQ小车家族新成员",
+      "verified": "verified",
+      "en": "Duomi",
+      "zh-CN": "多米"
+    },
+    {
+      "id": "model:chery:0623cc3e6b",
+      "brand": "Chery",
+      "names": {
+        "en": "Chery eQ1 (Ant)",
+        "zh-CN": "小蚂蚁",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2017-present",
+      "note": "奇瑞小蚂蚁(eQ1,2017-),奇瑞新能源纯电微型车",
+      "verified": "verified",
+      "en": "eQ1",
+      "zh-CN": "小蚂蚁"
     }
   ]
 }

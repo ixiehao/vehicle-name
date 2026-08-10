@@ -3,7 +3,12 @@
     {
       "id": "model:skoda:octavia",
       "brand": "Škoda",
-      "names": {"en": "Octavia", "zh-CN": "明锐", "zh-TW": "Octavia", "ja": "オクタヴィア"},
+      "names": {
+        "en": "Octavia",
+        "zh-CN": "明锐",
+        "zh-TW": "Octavia",
+        "ja": "オクタヴィア"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:skoda:superb",
       "brand": "Škoda",
-      "names": {"en": "Superb", "zh-CN": "速派", "zh-TW": "Superb", "ja": "シューパーブ"},
+      "names": {
+        "en": "Superb",
+        "zh-CN": "速派",
+        "zh-TW": "Superb",
+        "ja": "シューパーブ"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:skoda:kodiaq",
       "brand": "Škoda",
-      "names": {"en": "Kodiaq", "zh-CN": "柯迪亚克", "zh-TW": "Kodiaq", "ja": "コディアック"},
+      "names": {
+        "en": "Kodiaq",
+        "zh-CN": "柯迪亚克",
+        "zh-TW": "Kodiaq",
+        "ja": "コディアック"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:skoda:karoq",
       "brand": "Škoda",
-      "names": {"en": "Karoq", "zh-CN": "柯珞克", "zh-TW": "Karoq", "ja": "カローク"},
+      "names": {
+        "en": "Karoq",
+        "zh-CN": "柯珞克",
+        "zh-TW": "Karoq",
+        "ja": "カローク"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:skoda:fabia",
       "brand": "Škoda",
-      "names": {"en": "Fabia", "zh-CN": "晶锐", "zh-TW": "Fabia", "ja": "ファビア"},
+      "names": {
+        "en": "Fabia",
+        "zh-CN": "晶锐",
+        "zh-TW": "Fabia",
+        "ja": "ファビア"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:skoda:enyaq-iv",
       "brand": "Škoda",
-      "names": {"en": "Enyaq iV", "zh-CN": "ENYAQ iV", "zh-TW": "Enyaq iV", "ja": "エンヤク iV"},
+      "names": {
+        "en": "Enyaq iV",
+        "zh-CN": "ENYAQ iV",
+        "zh-TW": "Enyaq iV",
+        "ja": "エンヤク iV"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:skoda:elroq",
       "brand": "Škoda",
-      "names": {"en": "Elroq", "zh-CN": "Elroq", "zh-TW": "Elroq", "ja": "エルロク"},
+      "names": {
+        "en": "Elroq",
+        "zh-CN": "Elroq",
+        "zh-TW": "Elroq",
+        "ja": "エルロク"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -87,7 +122,12 @@
     {
       "id": "model:skoda:yeti",
       "brand": "Škoda",
-      "names": {"en": "Yeti", "zh-CN": "野帝", "zh-TW": "Yeti", "ja": "—"},
+      "names": {
+        "en": "Yeti",
+        "zh-CN": "野帝",
+        "zh-TW": "Yeti",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,19 +139,29 @@
     {
       "id": "model:skoda:rapid-spaceback",
       "brand": "Škoda",
-      "names": {"en": "Rapid Spaceback", "zh-CN": "昕动", "zh-TW": "Rapid Spaceback", "ja": "—"},
+      "names": {
+        "en": "Rapid Spaceback",
+        "zh-CN": "昕动",
+        "zh-TW": "Rapid Spaceback",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2014–present",
-      "note": "昕锐的两厢版,2014年国产上市(大陆特供)", 
+      "note": "昕锐的两厢版,2014年国产上市(大陆特供)",
       "verified": "verified"
     },
     {
       "id": "model:skoda:rapid",
       "brand": "Škoda",
-      "names": {"en": "Rapid", "zh-CN": "昕锐", "zh-TW": "Rapid", "ja": "—"},
+      "names": {
+        "en": "Rapid",
+        "zh-CN": "昕锐",
+        "zh-TW": "Rapid",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:skoda:kamiq",
       "brand": "Škoda",
-      "names": {"en": "Kamiq", "zh-CN": "柯米克", "zh-TW": "Kamiq", "ja": "—"},
+      "names": {
+        "en": "Kamiq",
+        "zh-CN": "柯米克",
+        "zh-TW": "Kamiq",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:skoda:kodiaq-gt",
       "brand": "Škoda",
-      "names": {"en": "Kodiaq GT", "zh-CN": "柯迪亚克GT", "zh-TW": "Kodiaq GT", "ja": "—"},
+      "names": {
+        "en": "Kodiaq GT",
+        "zh-CN": "柯迪亚克GT",
+        "zh-TW": "Kodiaq GT",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:skoda:superb-combi",
       "brand": "Škoda",
-      "names": {"en": "Superb Combi", "zh-CN": "速尊", "zh-TW": "Superb Combi", "ja": "—"},
+      "names": {
+        "en": "Superb Combi",
+        "zh-CN": "速尊",
+        "zh-TW": "Superb Combi",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:wagon",
       "powertrain": "pt:ice",

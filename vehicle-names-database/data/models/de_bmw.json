@@ -3,7 +3,12 @@
     {
       "id": "model:bmw:1-series",
       "brand": "BMW",
-      "names": {"en": "1 Series", "zh-CN": "宝马1系", "zh-TW": "BMW 1系列", "ja": "BMW 1シリーズ"},
+      "names": {
+        "en": "1 Series",
+        "zh-CN": "宝马1系",
+        "zh-TW": "BMW 1系列",
+        "ja": "BMW 1シリーズ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:bmw:2-series",
       "brand": "BMW",
-      "names": {"en": "2 Series", "zh-CN": "宝马2系", "zh-TW": "BMW 2系列", "ja": "BMW 2シリーズ"},
+      "names": {
+        "en": "2 Series",
+        "zh-CN": "宝马2系",
+        "zh-TW": "BMW 2系列",
+        "ja": "BMW 2シリーズ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:bmw:2-series-active-tourer",
       "brand": "BMW",
-      "names": {"en": "2 Series Active Tourer", "zh-CN": "宝马2系多功能旅行车", "zh-TW": "BMW 2系列Active Tourer", "ja": "BMW 2シリーズ アクティブツアラー"},
+      "names": {
+        "en": "2 Series Active Tourer",
+        "zh-CN": "宝马2系多功能旅行车",
+        "zh-TW": "BMW 2系列Active Tourer",
+        "ja": "BMW 2シリーズ アクティブツアラー"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:bmw:3-series",
       "brand": "BMW",
-      "names": {"en": "3 Series", "zh-CN": "宝马3系", "zh-TW": "BMW 3系列", "ja": "BMW 3シリーズ"},
+      "names": {
+        "en": "3 Series",
+        "zh-CN": "宝马3系",
+        "zh-TW": "BMW 3系列",
+        "ja": "BMW 3シリーズ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:bmw:4-series",
       "brand": "BMW",
-      "names": {"en": "4 Series", "zh-CN": "宝马4系", "zh-TW": "BMW 4系列", "ja": "BMW 4シリーズ"},
+      "names": {
+        "en": "4 Series",
+        "zh-CN": "宝马4系",
+        "zh-TW": "BMW 4系列",
+        "ja": "BMW 4シリーズ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:bmw:5-series",
       "brand": "BMW",
-      "names": {"en": "5 Series", "zh-CN": "宝马5系", "zh-TW": "BMW 5系列", "ja": "BMW 5シリーズ"},
+      "names": {
+        "en": "5 Series",
+        "zh-CN": "宝马5系",
+        "zh-TW": "BMW 5系列",
+        "ja": "BMW 5シリーズ"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:bmw:6-series",
       "brand": "BMW",
-      "names": {"en": "6 Series", "zh-CN": "宝马6系", "zh-TW": "BMW 6系列", "ja": "BMW 6シリーズ"},
+      "names": {
+        "en": "6 Series",
+        "zh-CN": "宝马6系",
+        "zh-TW": "BMW 6系列",
+        "ja": "BMW 6シリーズ"
+      },
       "segment": "class:eu:e",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:bmw:7-series",
       "brand": "BMW",
-      "names": {"en": "7 Series", "zh-CN": "宝马7系", "zh-TW": "BMW 7系列", "ja": "BMW 7シリーズ"},
+      "names": {
+        "en": "7 Series",
+        "zh-CN": "宝马7系",
+        "zh-TW": "BMW 7系列",
+        "ja": "BMW 7シリーズ"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:bmw:8-series",
       "brand": "BMW",
-      "names": {"en": "8 Series", "zh-CN": "宝马8系", "zh-TW": "BMW 8系列", "ja": "BMW 8シリーズ"},
+      "names": {
+        "en": "8 Series",
+        "zh-CN": "宝马8系",
+        "zh-TW": "BMW 8系列",
+        "ja": "BMW 8シリーズ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:bmw:x1",
       "brand": "BMW",
-      "names": {"en": "X1", "zh-CN": "宝马X1", "zh-TW": "BMW X1", "ja": "BMW X1"},
+      "names": {
+        "en": "X1",
+        "zh-CN": "宝马X1",
+        "zh-TW": "BMW X1",
+        "ja": "BMW X1"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:bmw:x2",
       "brand": "BMW",
-      "names": {"en": "X2", "zh-CN": "宝马X2", "zh-TW": "BMW X2", "ja": "BMW X2"},
+      "names": {
+        "en": "X2",
+        "zh-CN": "宝马X2",
+        "zh-TW": "BMW X2",
+        "ja": "BMW X2"
+      },
       "segment": "class:eu:c",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:bmw:x3",
       "brand": "BMW",
-      "names": {"en": "X3", "zh-CN": "宝马X3", "zh-TW": "BMW X3", "ja": "BMW X3"},
+      "names": {
+        "en": "X3",
+        "zh-CN": "宝马X3",
+        "zh-TW": "BMW X3",
+        "ja": "BMW X3"
+      },
       "segment": "class:eu:d",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:bmw:x4",
       "brand": "BMW",
-      "names": {"en": "X4", "zh-CN": "宝马X4", "zh-TW": "BMW X4", "ja": "BMW X4"},
+      "names": {
+        "en": "X4",
+        "zh-CN": "宝马X4",
+        "zh-TW": "BMW X4",
+        "ja": "BMW X4"
+      },
       "segment": "class:eu:d",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:bmw:x5",
       "brand": "BMW",
-      "names": {"en": "X5", "zh-CN": "宝马X5", "zh-TW": "BMW X5", "ja": "BMW X5"},
+      "names": {
+        "en": "X5",
+        "zh-CN": "宝马X5",
+        "zh-TW": "BMW X5",
+        "ja": "BMW X5"
+      },
       "segment": "class:eu:e",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:bmw:x6",
       "brand": "BMW",
-      "names": {"en": "X6", "zh-CN": "宝马X6", "zh-TW": "BMW X6", "ja": "BMW X6"},
+      "names": {
+        "en": "X6",
+        "zh-CN": "宝马X6",
+        "zh-TW": "BMW X6",
+        "ja": "BMW X6"
+      },
       "segment": "class:eu:e",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:bmw:x7",
       "brand": "BMW",
-      "names": {"en": "X7", "zh-CN": "宝马X7", "zh-TW": "BMW X7", "ja": "BMW X7"},
+      "names": {
+        "en": "X7",
+        "zh-CN": "宝马X7",
+        "zh-TW": "BMW X7",
+        "ja": "BMW X7"
+      },
       "segment": "class:eu:f",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:bmw:xm",
       "brand": "BMW",
-      "names": {"en": "XM", "zh-CN": "宝马XM", "zh-TW": "BMW XM", "ja": "BMW XM"},
+      "names": {
+        "en": "XM",
+        "zh-CN": "宝马XM",
+        "zh-TW": "BMW XM",
+        "ja": "BMW XM"
+      },
       "segment": "class:eu:f",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -207,7 +292,12 @@
     {
       "id": "model:bmw:i3",
       "brand": "BMW",
-      "names": {"en": "i3", "zh-CN": "宝马i3", "zh-TW": "BMW i3", "ja": "BMW i3"},
+      "names": {
+        "en": "i3",
+        "zh-CN": "宝马i3",
+        "zh-TW": "BMW i3",
+        "ja": "BMW i3"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -219,7 +309,12 @@
     {
       "id": "model:bmw:i4",
       "brand": "BMW",
-      "names": {"en": "i4", "zh-CN": "宝马i4", "zh-TW": "BMW i4", "ja": "BMW i4"},
+      "names": {
+        "en": "i4",
+        "zh-CN": "宝马i4",
+        "zh-TW": "BMW i4",
+        "ja": "BMW i4"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -231,7 +326,12 @@
     {
       "id": "model:bmw:i5",
       "brand": "BMW",
-      "names": {"en": "i5", "zh-CN": "宝马i5", "zh-TW": "BMW i5", "ja": "BMW i5"},
+      "names": {
+        "en": "i5",
+        "zh-CN": "宝马i5",
+        "zh-TW": "BMW i5",
+        "ja": "BMW i5"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -243,7 +343,12 @@
     {
       "id": "model:bmw:i7",
       "brand": "BMW",
-      "names": {"en": "i7", "zh-CN": "宝马i7", "zh-TW": "BMW i7", "ja": "BMW i7"},
+      "names": {
+        "en": "i7",
+        "zh-CN": "宝马i7",
+        "zh-TW": "BMW i7",
+        "ja": "BMW i7"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -255,7 +360,12 @@
     {
       "id": "model:bmw:i8",
       "brand": "BMW",
-      "names": {"en": "i8", "zh-CN": "宝马i8", "zh-TW": "BMW i8", "ja": "BMW i8"},
+      "names": {
+        "en": "i8",
+        "zh-CN": "宝马i8",
+        "zh-TW": "BMW i8",
+        "ja": "BMW i8"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:phev",
@@ -267,7 +377,12 @@
     {
       "id": "model:bmw:ix",
       "brand": "BMW",
-      "names": {"en": "iX", "zh-CN": "宝马iX", "zh-TW": "BMW iX", "ja": "BMW iX"},
+      "names": {
+        "en": "iX",
+        "zh-CN": "宝马iX",
+        "zh-TW": "BMW iX",
+        "ja": "BMW iX"
+      },
       "segment": "class:eu:e",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -279,7 +394,12 @@
     {
       "id": "model:bmw:ix1",
       "brand": "BMW",
-      "names": {"en": "iX1", "zh-CN": "宝马iX1", "zh-TW": "BMW iX1", "ja": "BMW iX1"},
+      "names": {
+        "en": "iX1",
+        "zh-CN": "宝马iX1",
+        "zh-TW": "BMW iX1",
+        "ja": "BMW iX1"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -291,7 +411,12 @@
     {
       "id": "model:bmw:ix2",
       "brand": "BMW",
-      "names": {"en": "iX2", "zh-CN": "宝马iX2", "zh-TW": "BMW iX2", "ja": "BMW iX2"},
+      "names": {
+        "en": "iX2",
+        "zh-CN": "宝马iX2",
+        "zh-TW": "BMW iX2",
+        "ja": "BMW iX2"
+      },
       "segment": "class:eu:c",
       "body_style": "body:coupe",
       "powertrain": "pt:bev",
@@ -303,7 +428,12 @@
     {
       "id": "model:bmw:ix3",
       "brand": "BMW",
-      "names": {"en": "iX3", "zh-CN": "宝马iX3", "zh-TW": "BMW iX3", "ja": "BMW iX3"},
+      "names": {
+        "en": "iX3",
+        "zh-CN": "宝马iX3",
+        "zh-TW": "BMW iX3",
+        "ja": "BMW iX3"
+      },
       "segment": "class:eu:d",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -315,7 +445,12 @@
     {
       "id": "model:bmw:z4",
       "brand": "BMW",
-      "names": {"en": "Z4", "zh-CN": "宝马Z4", "zh-TW": "BMW Z4", "ja": "BMW Z4"},
+      "names": {
+        "en": "Z4",
+        "zh-CN": "宝马Z4",
+        "zh-TW": "BMW Z4",
+        "ja": "BMW Z4"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:bmw:z3",
       "brand": "BMW",
-      "names": {"en": "Z3", "zh-CN": "宝马Z3", "zh-TW": "BMW Z3", "ja": "BMW Z3"},
+      "names": {
+        "en": "Z3",
+        "zh-CN": "宝马Z3",
+        "zh-TW": "BMW Z3",
+        "ja": "BMW Z3"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -339,7 +479,12 @@
     {
       "id": "model:bmw:z8",
       "brand": "BMW",
-      "names": {"en": "Z8", "zh-CN": "宝马Z8", "zh-TW": "BMW Z8", "ja": "BMW Z8"},
+      "names": {
+        "en": "Z8",
+        "zh-CN": "宝马Z8",
+        "zh-TW": "BMW Z8",
+        "ja": "BMW Z8"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:bmw:m1",
       "brand": "BMW",
-      "names": {"en": "M1", "zh-CN": "宝马M1", "zh-TW": "BMW M1", "ja": "BMW M1"},
+      "names": {
+        "en": "M1",
+        "zh-CN": "宝马M1",
+        "zh-TW": "BMW M1",
+        "ja": "BMW M1"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -359,6 +509,595 @@
       "years": "1978–1981",
       "note": "M部门首款独立跑车,中置后驱",
       "verified": "verified"
+    },
+    {
+      "id": "model:bmw:1-m",
+      "brand": "BMW",
+      "names": {
+        "en": "1 Series M",
+        "zh-CN": "1系M",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2012",
+      "note": "1系M(2011–2012),1系的M性能版(E82),限量生产",
+      "verified": "verified",
+      "en": "1 Series M",
+      "zh-CN": "1系M"
+    },
+    {
+      "id": "model:bmw:3-gt",
+      "brand": "BMW",
+      "names": {
+        "en": "3 Series GT",
+        "zh-CN": "3系GT",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2020",
+      "note": "3系GT(F34,2013–2020),3系的掀背GT版,2020年停产",
+      "verified": "verified",
+      "en": "3 Series GT",
+      "zh-CN": "3系GT"
+    },
+    {
+      "id": "model:bmw:5-gt",
+      "brand": "BMW",
+      "names": {
+        "en": "5 Series GT",
+        "zh-CN": "5系GT",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2017",
+      "note": "5系GT(F07,2010–2017),5系的掀背GT版,2017年由6系GT接替",
+      "verified": "verified",
+      "en": "5 Series GT",
+      "zh-CN": "5系GT"
+    },
+    {
+      "id": "model:bmw:6-gt",
+      "brand": "BMW",
+      "names": {
+        "en": "6 Series GT",
+        "zh-CN": "6系GT",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2023",
+      "note": "6系GT(G32,2017–2023),5系GT继任者,2023年停产",
+      "verified": "verified",
+      "en": "6 Series GT",
+      "zh-CN": "6系GT"
+    },
+    {
+      "id": "model:bmw:x1-m35li",
+      "brand": "BMW",
+      "names": {
+        "en": "X1 M35Li",
+        "zh-CN": "X1 M35Li",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "X1 M35Li(2024–),中国特供长轴X1的M性能版",
+      "verified": "verified",
+      "en": "X1 M35Li",
+      "zh-CN": "X1 M35Li"
+    },
+    {
+      "id": "model:bmw:x2-m35i",
+      "brand": "BMW",
+      "names": {
+        "en": "X2 M35i",
+        "zh-CN": "X2 M35i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "X2 M35i(2024–),第二代X2的M性能版",
+      "verified": "verified",
+      "en": "X2 M35i",
+      "zh-CN": "X2 M35i"
+    },
+    {
+      "id": "model:bmw:x3-m",
+      "brand": "BMW",
+      "names": {
+        "en": "X3 M",
+        "zh-CN": "X3 M",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "X3 M(F97,2019–),X3的M性能版",
+      "verified": "verified",
+      "en": "X3 M",
+      "zh-CN": "X3 M"
+    },
+    {
+      "id": "model:bmw:x3-m40i",
+      "brand": "BMW",
+      "names": {
+        "en": "X3 M40i",
+        "zh-CN": "X3 M40i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "X3 M40i(2018–),X3的M Performance版",
+      "verified": "verified",
+      "en": "X3 M40i",
+      "zh-CN": "X3 M40i"
+    },
+    {
+      "id": "model:bmw:x3-m50",
+      "brand": "BMW",
+      "names": {
+        "en": "X3 M50",
+        "zh-CN": "X3 M50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "X3 M50(2025–),第四代X3的M Performance版",
+      "verified": "verified",
+      "en": "X3 M50",
+      "zh-CN": "X3 M50"
+    },
+    {
+      "id": "model:bmw:x5-m",
+      "brand": "BMW",
+      "names": {
+        "en": "X5 M",
+        "zh-CN": "X5 M",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2009–present",
+      "note": "X5 M(F95,2019–),X5的M性能版,初代2009年上市",
+      "verified": "verified",
+      "en": "X5 M",
+      "zh-CN": "X5 M"
+    },
+    {
+      "id": "model:bmw:x6-m",
+      "brand": "BMW",
+      "names": {
+        "en": "X6 M",
+        "zh-CN": "X6 M",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2009–present",
+      "note": "X6 M(F96,2019–),X6轿跑SUV的M性能版,初代2009年上市",
+      "verified": "verified",
+      "en": "X6 M",
+      "zh-CN": "X6 M"
+    },
+    {
+      "id": "model:bmw:x7-m60i",
+      "brand": "BMW",
+      "names": {
+        "en": "X7 M60i",
+        "zh-CN": "X7 M60i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "X7 M60i(2023–),X7的M Performance版(改款后替代M50i)",
+      "verified": "verified",
+      "en": "X7 M60i",
+      "zh-CN": "X7 M60i"
+    },
+    {
+      "id": "model:bmw:i4-m",
+      "brand": "BMW",
+      "names": {
+        "en": "i4 M",
+        "zh-CN": "i4 M",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "i4 M(2025–),i4的M性能纯电版",
+      "verified": "verified",
+      "en": "i4 M",
+      "zh-CN": "i4 M"
+    },
+    {
+      "id": "model:bmw:i5-m60",
+      "brand": "BMW",
+      "names": {
+        "en": "i5 M60",
+        "zh-CN": "i5 M60",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "i5 M60(2023–),i5的M Performance纯电版",
+      "verified": "verified",
+      "en": "i5 M60",
+      "zh-CN": "i5 M60"
+    },
+    {
+      "id": "model:bmw:i7-m70l",
+      "brand": "BMW",
+      "names": {
+        "en": "i7 M70L",
+        "zh-CN": "i7 M70L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "i7 M70L(2023–),i7长轴的M Performance纯电版",
+      "verified": "verified",
+      "en": "i7 M70L",
+      "zh-CN": "i7 M70L"
+    },
+    {
+      "id": "model:bmw:ix-m60",
+      "brand": "BMW",
+      "names": {
+        "en": "iX M60",
+        "zh-CN": "iX M60",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "iX M60(2022–),iX的M Performance纯电版",
+      "verified": "verified",
+      "en": "iX M60",
+      "zh-CN": "iX M60"
+    },
+    {
+      "id": "model:bmw:328",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW 328",
+        "zh-CN": "宝马328",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1936–1940",
+      "note": "328(1936–1940),宝马经典赛车,战前高性能跑车",
+      "verified": "verified",
+      "en": "328",
+      "zh-CN": "宝马328"
+    },
+    {
+      "id": "model:bmw:502",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW 502",
+        "zh-CN": "宝马502",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1952–1963",
+      "note": "502(1952–1963),宝马战后V8豪华轿车",
+      "verified": "verified",
+      "en": "502",
+      "zh-CN": "宝马502"
+    },
+    {
+      "id": "model:bmw:bmw-m2",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M2",
+        "zh-CN": "宝马M2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "M2(F87/G87,2016–),2系的M性能版",
+      "verified": "verified",
+      "en": "M2",
+      "zh-CN": "宝马M2"
+    },
+    {
+      "id": "model:bmw:m235l",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M235L",
+        "zh-CN": "宝马M235L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024–present",
+      "note": "M235L(2024–),中国特供长轴2系四门轿车的M Performance版",
+      "verified": "verified",
+      "en": "M235L",
+      "zh-CN": "宝马M235L"
+    },
+    {
+      "id": "model:bmw:m240i",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M240i",
+        "zh-CN": "宝马M240i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "M240i(2016–),2系的M Performance版",
+      "verified": "verified",
+      "en": "M240i",
+      "zh-CN": "宝马M240i"
+    },
+    {
+      "id": "model:bmw:bmw-m3",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M3",
+        "zh-CN": "宝马M3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1986–present",
+      "note": "M3(1986–),3系的M性能版,宝马性能标杆",
+      "verified": "verified",
+      "en": "M3",
+      "zh-CN": "宝马M3"
+    },
+    {
+      "id": "model:bmw:bmw-m4",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M4",
+        "zh-CN": "宝马M4",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "M4(F82/G82,2014–),4系的M性能版",
+      "verified": "verified",
+      "en": "M4",
+      "zh-CN": "宝马M4"
+    },
+    {
+      "id": "model:bmw:bmw-m5-2",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M5",
+        "zh-CN": "宝马M5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "1985–present",
+      "note": "M5(1985–),5系的M性能版",
+      "verified": "verified",
+      "en": "M5",
+      "zh-CN": "宝马M5"
+    },
+    {
+      "id": "model:bmw:bmw-m6",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M6",
+        "zh-CN": "宝马M6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1983–2018",
+      "note": "M6(1983–2018),6系的M性能版(含M635CSi),2018年停产",
+      "verified": "verified",
+      "en": "M6",
+      "zh-CN": "宝马M6"
+    },
+    {
+      "id": "model:bmw:m760le",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M760Le",
+        "zh-CN": "宝马M760Le",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "M760Le(2022–),7系长轴的M Performance插混版",
+      "verified": "verified",
+      "en": "M760Le",
+      "zh-CN": "宝马M760Le"
+    },
+    {
+      "id": "model:bmw:bmw-m8",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW M8",
+        "zh-CN": "宝马M8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "M8(F91/F92,2019–),8系的M性能版",
+      "verified": "verified",
+      "en": "M8",
+      "zh-CN": "宝马M8"
+    },
+    {
+      "id": "model:bmw:x4-m",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW X4 M",
+        "zh-CN": "宝马X4 M",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "X4 M(F98,2019–),X4轿跑SUV的M性能版",
+      "verified": "verified",
+      "en": "X4 M",
+      "zh-CN": "宝马X4 M"
+    },
+    {
+      "id": "model:bmw:x4-m40i",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW X4 M40i",
+        "zh-CN": "宝马X4 M40i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "X4 M40i(2018–),X4轿跑SUV的M Performance版",
+      "verified": "verified",
+      "en": "X4 M40i",
+      "zh-CN": "宝马X4 M40i"
+    },
+    {
+      "id": "model:bmw:z4-m40i-2",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW Z4 M40i",
+        "zh-CN": "宝马Z4 M40i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2018–present",
+      "note": "Z4 M40i(G29,2018–),Z4敞篷跑车的M Performance版",
+      "verified": "verified",
+      "en": "Z4 M40i",
+      "zh-CN": "宝马Z4 M40i"
+    },
+    {
+      "id": "model:bmw:ix5",
+      "brand": "BMW",
+      "names": {
+        "en": "BMW iX5",
+        "zh-CN": "宝马iX5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:fcev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "iX5 Hydrogen(2022–),X5的氢燃料电池车,2022年小规模量产",
+      "verified": "verified",
+      "en": "iX5 Hydrogen",
+      "zh-CN": "宝马iX5"
     }
   ]
 }

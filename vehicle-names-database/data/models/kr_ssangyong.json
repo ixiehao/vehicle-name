@@ -3,7 +3,12 @@
     {
       "id": "model:ssangyong:rexton",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Rexton", "zh-CN": "双龙雷斯特", "zh-TW": "雙龍Rexton", "ja": "サンヨン・レックスターン"},
+      "names": {
+        "en": "SsangYong Rexton",
+        "zh-CN": "双龙雷斯特",
+        "zh-TW": "雙龍Rexton",
+        "ja": "サンヨン・レックスターン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:ssangyong:korando",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Korando", "zh-CN": "双龙柯兰多", "zh-TW": "雙龍Korando", "ja": "サンヨン・コランド"},
+      "names": {
+        "en": "SsangYong Korando",
+        "zh-CN": "双龙柯兰多",
+        "zh-TW": "雙龍Korando",
+        "ja": "サンヨン・コランド"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:ssangyong:tivoli",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Tivoli", "zh-CN": "双龙蒂维拉", "zh-TW": "雙龍Tivoli", "ja": "サンヨン・ティボリ"},
+      "names": {
+        "en": "SsangYong Tivoli",
+        "zh-CN": "双龙蒂维拉",
+        "zh-TW": "雙龍Tivoli",
+        "ja": "サンヨン・ティボリ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:ssangyong:torres",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Torres", "zh-CN": "双龙Torres", "zh-TW": "雙龍Torres", "ja": "サンヨン・トレス"},
+      "names": {
+        "en": "SsangYong Torres",
+        "zh-CN": "双龙Torres",
+        "zh-TW": "雙龍Torres",
+        "ja": "サンヨン・トレス"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:ssangyong:chairman",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Chairman", "zh-CN": "双龙主席", "zh-TW": "雙龍Chairman", "ja": "サンヨン・チェアマン"},
+      "names": {
+        "en": "SsangYong Chairman",
+        "zh-CN": "双龙主席",
+        "zh-TW": "雙龍Chairman",
+        "ja": "サンヨン・チェアマン"
+      },
       "segment": "class:cn:d",
       "body_style": "body:limousine",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:ssangyong:actyon",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Actyon", "zh-CN": "双龙爱腾", "zh-TW": "雙龍Actyon", "ja": "サンヨン・アクティオン"},
+      "names": {
+        "en": "SsangYong Actyon",
+        "zh-CN": "双龙爱腾",
+        "zh-TW": "雙龍Actyon",
+        "ja": "サンヨン・アクティオン"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:ssangyong:rodius",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Rodius", "zh-CN": "双龙路帝", "zh-TW": "雙龍Rodius", "ja": "サンヨン・ロディウス"},
+      "names": {
+        "en": "SsangYong Rodius",
+        "zh-CN": "双龙路帝",
+        "zh-TW": "雙龍Rodius",
+        "ja": "サンヨン・ロディウス"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:ssangyong:rexton-w",
       "brand": "SsangYong",
-      "names": {"en": "SsangYong Rexton W", "zh-CN": "双龙雷斯特W", "zh-TW": "雙龍Rexton W", "ja": "サンヨン・レックスターンW"},
+      "names": {
+        "en": "SsangYong Rexton W",
+        "zh-CN": "双龙雷斯特W",
+        "zh-TW": "雙龍Rexton W",
+        "ja": "サンヨン・レックスターンW"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -95,6 +135,44 @@
       "years": "2013–2018",
       "note": "进口中大型SUV,第二代Rexton的改款版,中国市场名雷斯特W;2018年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:ssangyong:5664c8706f",
+      "brand": "SsangYong",
+      "names": {
+        "en": "Kyron",
+        "zh-CN": "享御",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2011",
+      "note": "享御(Kyron,2005-2011),双龙中型SUV,中国以进口销售",
+      "verified": "verified",
+      "en": "SsangYong Kyron",
+      "zh-TW": "雙龍Kyron"
+    },
+    {
+      "id": "model:ssangyong:123084448d",
+      "brand": "SsangYong",
+      "names": {
+        "en": "XLV",
+        "zh-CN": "途凌",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2020",
+      "note": "途凌(XLV,2016-2020),Tivoli加长版跨界SUV,双龙进口中国市场",
+      "verified": "verified",
+      "en": "SsangYong XLV",
+      "zh-TW": "雙龍XLV"
     }
   ]
 }

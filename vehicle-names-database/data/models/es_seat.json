@@ -3,7 +3,12 @@
     {
       "id": "model:seat:ibiza",
       "brand": "SEAT",
-      "names": {"en": "SEAT Ibiza", "zh-CN": "西雅特Ibiza", "zh-TW": "SEAT Ibiza", "ja": "セアト・イビサ"},
+      "names": {
+        "en": "SEAT Ibiza",
+        "zh-CN": "西雅特Ibiza",
+        "zh-TW": "SEAT Ibiza",
+        "ja": "セアト・イビサ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:seat:leon",
       "brand": "SEAT",
-      "names": {"en": "SEAT León", "zh-CN": "西雅特León", "zh-TW": "SEAT León", "ja": "セアト・レオン"},
+      "names": {
+        "en": "SEAT León",
+        "zh-CN": "西雅特León",
+        "zh-TW": "SEAT León",
+        "ja": "セアト・レオン"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:seat:arona",
       "brand": "SEAT",
-      "names": {"en": "SEAT Arona", "zh-CN": "西雅特Arona", "zh-TW": "SEAT Arona", "ja": "セアト・アロナ"},
+      "names": {
+        "en": "SEAT Arona",
+        "zh-CN": "西雅特Arona",
+        "zh-TW": "SEAT Arona",
+        "ja": "セアト・アロナ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:seat:ateca",
       "brand": "SEAT",
-      "names": {"en": "SEAT Ateca", "zh-CN": "西雅特Ateca", "zh-TW": "SEAT Ateca", "ja": "セアト・アテカ"},
+      "names": {
+        "en": "SEAT Ateca",
+        "zh-CN": "西雅特Ateca",
+        "zh-TW": "SEAT Ateca",
+        "ja": "セアト・アテカ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:seat:tarraco",
       "brand": "SEAT",
-      "names": {"en": "SEAT Tarraco", "zh-CN": "西雅特Tarraco", "zh-TW": "SEAT Tarraco", "ja": "セアト・タラコ"},
+      "names": {
+        "en": "SEAT Tarraco",
+        "zh-CN": "西雅特Tarraco",
+        "zh-TW": "SEAT Tarraco",
+        "ja": "セアト・タラコ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

@@ -3,7 +3,12 @@
     {
       "id": "model:huanghai:qisheng-f1",
       "brand": "Huanghai",
-      "names": {"en": "Huanghai Qisheng F1", "zh-CN": "旗胜F1", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Huanghai Qisheng F1",
+        "zh-CN": "旗胜F1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:huanghai:jiaolong",
       "brand": "Huanghai",
-      "names": {"en": "Huanghai Jiaolong", "zh-CN": "蛟龙", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Huanghai Jiaolong",
+        "zh-CN": "蛟龙",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:huanghai:n2",
       "brand": "Huanghai",
-      "names": {"en": "Huanghai N2", "zh-CN": "N2", "zh-TW": "N2", "ja": "—"},
+      "names": {
+        "en": "Huanghai N2",
+        "zh-CN": "N2",
+        "zh-TW": "N2",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:huanghai:n3",
       "brand": "Huanghai",
-      "names": {"en": "Huanghai N3", "zh-CN": "N3", "zh-TW": "N3", "ja": "—"},
+      "names": {
+        "en": "Huanghai N3",
+        "zh-CN": "N3",
+        "zh-TW": "N3",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -47,6 +67,168 @@
       "years": "2017–2020",
       "note": "中型皮卡,黄海大尺寸皮卡",
       "verified": "verified"
+    },
+    {
+      "id": "model:huanghai:1db6cbb4c7",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Aojun",
+        "zh-CN": "傲骏",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2012",
+      "note": "傲骏(2005-2012),黄海皮卡,已停产",
+      "verified": "verified",
+      "zh-TW": "傲駿"
+    },
+    {
+      "id": "model:huanghai:2b9fc35ae2",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Daichaishen",
+        "zh-CN": "大柴神",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2018",
+      "note": "大柴神(2011-2018),黄海皮卡,已停产",
+      "verified": "verified",
+      "zh-TW": "大柴神"
+    },
+    {
+      "id": "model:huanghai:cca12ee4b9",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Xiaochaishen",
+        "zh-CN": "小柴神",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2014",
+      "note": "小柴神(2009-2014),黄海皮卡,已停产",
+      "verified": "verified",
+      "zh-TW": "小柴神"
+    },
+    {
+      "id": "model:huanghai:suv",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Challenger SUV",
+        "zh-CN": "挑战者SUV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2016",
+      "note": "挑战者SUV(2010-2016),黄海SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "挑戰者SUV"
+    },
+    {
+      "id": "model:huanghai:huanghai-v3",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Qisheng V3",
+        "zh-CN": "旗胜V3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2017",
+      "note": "旗胜V3(2011-2017),黄海SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "旗勝V3"
+    },
+    {
+      "id": "model:huanghai:cuv",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Aolong CUV",
+        "zh-CN": "翱龙CUV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2012",
+      "note": "翱龙CUV(2008-2012),黄海早期SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "翱龍CUV"
+    },
+    {
+      "id": "model:huanghai:05476672bd",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Huanghai Big Bull",
+        "zh-CN": "黄海·大牛",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "黄海大牛(2018-2021),黄海SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "黃海大牛"
+    },
+    {
+      "id": "model:huanghai:68b5840e21",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Huanghai Little Bull",
+        "zh-CN": "黄海·小牛",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "黄海小牛(2018-2021),黄海SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "黃海小牛"
+    },
+    {
+      "id": "model:huanghai:37d47dafd3",
+      "brand": "Huanghai",
+      "names": {
+        "en": "Huanghai Wild Bull",
+        "zh-CN": "黄海·野牛",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2020–2022",
+      "note": "黄海野牛(2020-2022),黄海SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "黃海野牛"
     }
   ]
 }

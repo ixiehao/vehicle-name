@@ -134,7 +134,7 @@ def main():
             if "status" in m and m["status"] not in VALID_STATUS:
                 errors.append(f"车型 {mid} status 非法: {m['status']}")
             if "years" in m and not re.match(
-                r"^(\d{4}\s*[-–—~]\s*(\d{4}|present|至今|現行)(\s*[,;]\s*\d{4}\s*[-–—~]\s*(\d{4}|present|至今|現行))*|\d{4})$",
+                r"^(\d{4}\s*[-–—~]\s*(\d{4}|present|至今|現行)(\s*[,;]\s*\d{4}\s*[-–—~]\s*(\d{4}|present|至今|現行))*|\d{4}|—)$",
                 str(m["years"]).strip(),
             ):
                 warnings.append(f"车型 {mid} years 格式待规范: {m['years']}")

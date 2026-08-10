@@ -3,7 +3,12 @@
     {
       "id": "model:foton:jiatu-ix5",
       "brand": "Foton",
-      "names": {"en": "Foton Gratour ix5", "zh-CN": "伽途ix5", "zh-TW": "伽途ix5", "ja": "—"},
+      "names": {
+        "en": "Foton Gratour ix5",
+        "zh-CN": "伽途ix5",
+        "zh-TW": "伽途ix5",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:foton:jiatu-ix7",
       "brand": "Foton",
-      "names": {"en": "Foton Gratour ix7", "zh-CN": "伽途ix7", "zh-TW": "伽途ix7", "ja": "—"},
+      "names": {
+        "en": "Foton Gratour ix7",
+        "zh-CN": "伽途ix7",
+        "zh-TW": "伽途ix7",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:foton:tuyano",
       "brand": "Foton",
-      "names": {"en": "Foton Tunland V", "zh-CN": "图雅诺", "zh-TW": "圖雅諾", "ja": "—"},
+      "names": {
+        "en": "Foton Tunland V",
+        "zh-CN": "图雅诺",
+        "zh-TW": "圖雅諾",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:foton:fengjing",
       "brand": "Foton",
-      "names": {"en": "Foton Fengjing", "zh-CN": "风景", "zh-TW": "風景", "ja": "—"},
+      "names": {
+        "en": "Foton Fengjing",
+        "zh-CN": "风景",
+        "zh-TW": "風景",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:foton:fengjing-g7",
       "brand": "Foton",
-      "names": {"en": "Foton Fengjing G7", "zh-CN": "风景G7", "zh-TW": "風景G7", "ja": "—"},
+      "names": {
+        "en": "Foton Fengjing G7",
+        "zh-CN": "风景G7",
+        "zh-TW": "風景G7",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -63,19 +88,29 @@
     {
       "id": "model:foton:mengpaike-e",
       "brand": "Foton",
-      "names": {"en": "Foton MP-X E", "zh-CN": "蒙派克E", "zh-TW": "蒙派克E", "ja": "—"},
+      "names": {
+        "en": "Foton MP-X E",
+        "zh-CN": "蒙派克E",
+        "zh-TW": "蒙派克E",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2014–2020",
       "note": "福田蒙派克E商务MPV(轻客),MP-X系列,源自丰田海狮技术平台",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:foton:xiangling-m",
       "brand": "Foton",
-      "names": {"en": "Foton Xiangling M", "zh-CN": "祥菱M", "zh-TW": "祥菱M", "ja": "—"},
+      "names": {
+        "en": "Foton Xiangling M",
+        "zh-CN": "祥菱M",
+        "zh-TW": "祥菱M",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:foton:xiangling-s",
       "brand": "Foton",
-      "names": {"en": "Foton Xiangling S", "zh-CN": "祥菱S", "zh-TW": "祥菱S", "ja": "—"},
+      "names": {
+        "en": "Foton Xiangling S",
+        "zh-CN": "祥菱S",
+        "zh-TW": "祥菱S",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:foton:xiangling-v",
       "brand": "Foton",
-      "names": {"en": "Foton Xiangling V", "zh-CN": "祥菱V", "zh-TW": "祥菱V", "ja": "—"},
+      "names": {
+        "en": "Foton Xiangling V",
+        "zh-CN": "祥菱V",
+        "zh-TW": "祥菱V",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -107,6 +152,287 @@
       "years": "2018–present",
       "note": "福田祥菱V微卡(微面式货车)",
       "verified": "verified"
+    },
+    {
+      "id": "model:foton:foton-ev",
+      "brand": "Foton",
+      "names": {
+        "en": "General EV",
+        "zh-CN": "大将军EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "大将军EV(2021-),福田大将军皮卡纯电版",
+      "verified": "verified",
+      "en": "General EV",
+      "zh-TW": "大將軍EV"
+    },
+    {
+      "id": "model:foton:foton-f9",
+      "brand": "Foton",
+      "names": {
+        "en": "General F9",
+        "zh-CN": "大将军F9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "大将军F9(2021-),福田大将军皮卡系列",
+      "verified": "verified",
+      "en": "General F9",
+      "zh-TW": "大將軍F9"
+    },
+    {
+      "id": "model:foton:foton-g7",
+      "brand": "Foton",
+      "names": {
+        "en": "General G7",
+        "zh-CN": "大将军G7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "大将军G7(2020-),福田大将军皮卡系列",
+      "verified": "verified",
+      "en": "General G7",
+      "zh-TW": "大將軍G7"
+    },
+    {
+      "id": "model:foton:foton-g9",
+      "brand": "Foton",
+      "names": {
+        "en": "General G9",
+        "zh-CN": "大将军G9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "大将军G9(2021-),福田大将军皮卡系列",
+      "verified": "verified",
+      "en": "General G9",
+      "zh-TW": "大將軍G9"
+    },
+    {
+      "id": "model:foton:g9suv",
+      "brand": "Foton",
+      "names": {
+        "en": "General G9SUV",
+        "zh-CN": "大将军G9SUV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "大将军G9 SUV(2021-),大将军G9皮卡衍生SUV版",
+      "verified": "verified",
+      "en": "General G9 SUV",
+      "zh-TW": "大將軍G9 SUV"
+    },
+    {
+      "id": "model:foton:33ec5a64ed",
+      "brand": "Foton",
+      "names": {
+        "en": "Foton",
+        "zh-CN": "拓陆者",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2020",
+      "note": "拓陆者(Tunland,2014-2020),福田皮卡,含E5/S等系列,已停产",
+      "verified": "verified",
+      "en": "Tunland",
+      "zh-TW": "拓陸者"
+    },
+    {
+      "id": "model:foton:7b68693848",
+      "brand": "Foton",
+      "names": {
+        "en": "Tunland Shengtu",
+        "zh-CN": "拓陆者胜途",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "拓陆者胜途(2020-),福田皮卡",
+      "verified": "verified",
+      "en": "Tunland Shengtu",
+      "zh-TW": "拓陸者勝途"
+    },
+    {
+      "id": "model:foton:e1ad78f9f4",
+      "brand": "Foton",
+      "names": {
+        "en": "Tunland Yutu",
+        "zh-CN": "拓陆者驭途",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "拓陆者驭途(2020-),福田皮卡",
+      "verified": "verified",
+      "en": "Tunland Yutu",
+      "zh-TW": "拓陸者馭途"
+    },
+    {
+      "id": "model:foton:foton-3-2",
+      "brand": "Foton",
+      "names": {
+        "en": "Conqueror 3",
+        "zh-CN": "福田征服者3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "征服者3(2021-),福田皮卡",
+      "verified": "verified",
+      "zh-TW": "征服者3"
+    },
+    {
+      "id": "model:foton:foton-5-2",
+      "brand": "Foton",
+      "names": {
+        "en": "Conqueror 5",
+        "zh-CN": "福田征服者5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "征服者5(2021-),福田皮卡",
+      "verified": "verified",
+      "zh-TW": "征服者5"
+    },
+    {
+      "id": "model:foton:foton-7-2",
+      "brand": "Foton",
+      "names": {
+        "en": "Conqueror 7",
+        "zh-CN": "福田征服者7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "征服者7(2021-),福田皮卡",
+      "verified": "verified",
+      "zh-TW": "征服者7"
+    },
+    {
+      "id": "model:foton:plus-2",
+      "brand": "Foton",
+      "names": {
+        "en": "Conqueror PLUS",
+        "zh-CN": "福田征服者PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "征服者PLUS(2021-),福田皮卡",
+      "verified": "verified",
+      "zh-TW": "征服者PLUS"
+    },
+    {
+      "id": "model:foton:7008502ca1",
+      "brand": "Foton",
+      "names": {
+        "en": "Foton Mars",
+        "zh-CN": "福田火星",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "福田火星(2023-),福田新一代皮卡,含火星7/火星9",
+      "verified": "verified",
+      "en": "Mars",
+      "zh-TW": "火星"
+    },
+    {
+      "id": "model:foton:phev",
+      "brand": "Foton",
+      "names": {
+        "en": "Mars PHEV",
+        "zh-CN": "福田火星 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "火星PHEV(2024-),火星皮卡插混版",
+      "verified": "verified",
+      "en": "Mars PHEV",
+      "zh-TW": "火星PHEV"
+    },
+    {
+      "id": "model:foton:f70107fdf7",
+      "brand": "Foton",
+      "names": {
+        "en": "Sapu",
+        "zh-CN": "萨普",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2020",
+      "note": "萨普(Sapu,2007-2020),福田经典皮卡,已停产",
+      "verified": "verified",
+      "en": "Sapu",
+      "zh-TW": "薩普"
     }
   ]
 }

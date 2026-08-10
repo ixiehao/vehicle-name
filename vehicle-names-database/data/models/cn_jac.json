@@ -3,7 +3,12 @@
     {
       "id": "model:jac:tongyue",
       "brand": "JAC",
-      "names": {"en": "JAC Tongyue", "zh-CN": "同悦", "zh-TW": "同悅", "ja": "—"},
+      "names": {
+        "en": "JAC Tongyue",
+        "zh-CN": "同悦",
+        "zh-TW": "同悅",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:jac:heyue",
       "brand": "JAC",
-      "names": {"en": "JAC Heyue", "zh-CN": "和悦", "zh-TW": "和悅", "ja": "—"},
+      "names": {
+        "en": "JAC Heyue",
+        "zh-CN": "和悦",
+        "zh-TW": "和悅",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:jac:yueyue",
       "brand": "JAC",
-      "names": {"en": "JAC Yueyue", "zh-CN": "悦悦", "zh-TW": "悅悅", "ja": "—"},
+      "names": {
+        "en": "JAC Yueyue",
+        "zh-CN": "悦悦",
+        "zh-TW": "悅悅",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:jac:jiayue-a5",
       "brand": "JAC",
-      "names": {"en": "JAC Jiayue A5", "zh-CN": "嘉悦A5", "zh-TW": "嘉悅A5", "ja": "—"},
+      "names": {
+        "en": "JAC Jiayue A5",
+        "zh-CN": "嘉悦A5",
+        "zh-TW": "嘉悅A5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -51,115 +71,165 @@
     {
       "id": "model:jac:jiayue-x4",
       "brand": "JAC",
-      "names": {"en": "JAC Jiayue X4", "zh-CN": "嘉悦X4", "zh-TW": "嘉悅X4", "ja": "—"},
+      "names": {
+        "en": "JAC Jiayue X4",
+        "zh-CN": "嘉悦X4",
+        "zh-TW": "嘉悅X4",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2020–2022",
-      "note": "小型SUV,江淮乘用车3.0时代嘉悦X系列",
-      "verified": "pending"
+      "years": "2020-2022",
+      "note": "嘉悦X4(2020-2022),江淮乘用车3.0时代小型SUV,2022年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:jiayue-x7",
       "brand": "JAC",
-      "names": {"en": "JAC Jiayue X7", "zh-CN": "嘉悦X7", "zh-TW": "嘉悅X7", "ja": "—"},
+      "names": {
+        "en": "JAC Jiayue X7",
+        "zh-CN": "嘉悦X7",
+        "zh-TW": "嘉悅X7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2020–2022",
-      "note": "中型SUV,与思皓X7同源,已停产",
-      "verified": "pending"
+      "years": "2019-2021",
+      "note": "嘉悦X7(2019-2021),江淮中型SUV,与思皓X7同源,2021年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-a60",
       "brand": "JAC",
-      "names": {"en": "JAC Refine A60", "zh-CN": "瑞风A60", "zh-TW": "瑞風A60", "ja": "—"},
+      "names": {
+        "en": "JAC Refine A60",
+        "zh-CN": "瑞风A60",
+        "zh-TW": "瑞風A60",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2016–2020",
-      "note": "中大型轿车,江淮旗舰轿车,销量低迷提前停产",
-      "verified": "pending"
+      "years": "2015-2019",
+      "note": "瑞风A60(2015-2019),江淮旗舰轿车,销量低迷提前停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-m2",
       "brand": "JAC",
-      "names": {"en": "JAC Refine M2", "zh-CN": "瑞风M2", "zh-TW": "瑞風M2", "ja": "—"},
+      "names": {
+        "en": "JAC Refine M2",
+        "zh-CN": "瑞风M2",
+        "zh-TW": "瑞風M2",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2009–2015",
-      "note": "紧凑型MPV,原为江淮和悦RS(2009年发布),2014年更名瑞风M2",
-      "verified": "pending"
+      "years": "2014-2019",
+      "note": "瑞风M2(2014-2019),紧凑型MPV,原为江淮和悦RS(2009年发布),2014年更名瑞风M2,2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-m3",
       "brand": "JAC",
-      "names": {"en": "JAC Refine M3", "zh-CN": "瑞风M3", "zh-TW": "瑞風M3", "ja": "—"},
+      "names": {
+        "en": "JAC Refine M3",
+        "zh-CN": "瑞风M3",
+        "zh-TW": "瑞風M3",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2015–present",
-      "note": "紧凑型商务MPV,瑞风品牌主力车型,现售状态待核实",
-      "verified": "pending"
+      "years": "2015-present",
+      "note": "瑞风M3(2015-),江淮紧凑型商务MPV,瑞风品牌主力车型",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-m4",
       "brand": "JAC",
-      "names": {"en": "JAC Refine M4", "zh-CN": "瑞风M4", "zh-TW": "瑞風M4", "ja": "—"},
+      "names": {
+        "en": "JAC Refine M4",
+        "zh-CN": "瑞风M4",
+        "zh-TW": "瑞風M4",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2016–present",
-      "note": "中型商务MPV,现售状态待核实",
-      "verified": "pending"
+      "years": "2016-present",
+      "note": "瑞风M4(2016-),江淮中型商务MPV",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-m5",
       "brand": "JAC",
-      "names": {"en": "JAC Refine M5", "zh-CN": "瑞风M5", "zh-TW": "瑞風M5", "ja": "—"},
+      "names": {
+        "en": "JAC Refine M5",
+        "zh-CN": "瑞风M5",
+        "zh-TW": "瑞風M5",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2011–2022",
-      "note": "中大型MPV,承继初代瑞风(2002),2022年更名瑞风L5",
-      "verified": "pending"
+      "years": "2012-2022",
+      "note": "瑞风M5(2012-2022),中大型MPV,承继初代瑞风(2002),2022年更名瑞风L5",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-r3",
       "brand": "JAC",
-      "names": {"en": "JAC Refine R3", "zh-CN": "瑞风R3", "zh-TW": "瑞風R3", "ja": "—"},
+      "names": {
+        "en": "JAC Refine R3",
+        "zh-CN": "瑞风R3",
+        "zh-TW": "瑞風R3",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2018–2019",
-      "note": "7座家用MPV,2018年上市后不久即停产",
-      "verified": "pending"
+      "years": "2018-2019",
+      "note": "瑞风R3(2018-2019),7座家用MPV,2018年上市后不久即停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-s2",
       "brand": "JAC",
-      "names": {"en": "JAC Refine S2", "zh-CN": "瑞风S2", "zh-TW": "瑞風S2", "ja": "—"},
+      "names": {
+        "en": "JAC Refine S2",
+        "zh-CN": "瑞风S2",
+        "zh-TW": "瑞風S2",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2015–2019",
-      "note": "小型SUV,含瑞风S2mini版(2017年起)",
-      "verified": "pending"
+      "years": "2015-2019",
+      "note": "瑞风S2(2015-2019),小型SUV,含瑞风S2mini版(2017年起),2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-s3",
       "brand": "JAC",
-      "names": {"en": "JAC Refine S3", "zh-CN": "瑞风S3", "zh-TW": "瑞風S3", "ja": "—"},
+      "names": {
+        "en": "JAC Refine S3",
+        "zh-CN": "瑞风S3",
+        "zh-TW": "瑞風S3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -171,43 +241,63 @@
     {
       "id": "model:jac:refine-s4",
       "brand": "JAC",
-      "names": {"en": "JAC Refine S4", "zh-CN": "瑞风S4", "zh-TW": "瑞風S4", "ja": "—"},
+      "names": {
+        "en": "JAC Refine S4",
+        "zh-CN": "瑞风S4",
+        "zh-TW": "瑞風S4",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2018–2021",
-      "note": "紧凑型SUV",
-      "verified": "pending"
+      "years": "2018-2021",
+      "note": "瑞风S4(2018-2021),江淮紧凑型SUV,2021年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-s5",
       "brand": "JAC",
-      "names": {"en": "JAC Refine S5", "zh-CN": "瑞风S5", "zh-TW": "瑞風S5", "ja": "—"},
+      "names": {
+        "en": "JAC Refine S5",
+        "zh-CN": "瑞风S5",
+        "zh-TW": "瑞風S5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2013–2020",
-      "note": "紧凑型SUV",
-      "verified": "pending"
+      "years": "2013-2018",
+      "note": "瑞风S5(2013-2018),江淮紧凑型SUV,2018年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:refine-s7",
       "brand": "JAC",
-      "names": {"en": "JAC Refine S7", "zh-CN": "瑞风S7", "zh-TW": "瑞風S7", "ja": "—"},
+      "names": {
+        "en": "JAC Refine S7",
+        "zh-CN": "瑞风S7",
+        "zh-TW": "瑞風S7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2017–2021",
-      "note": "中型SUV",
-      "verified": "pending"
+      "years": "2017-2020",
+      "note": "瑞风S7(2017-2020),江淮中型SUV,2020年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:ruiying",
       "brand": "JAC",
-      "names": {"en": "JAC Rein", "zh-CN": "瑞鹰", "zh-TW": "瑞鷹", "ja": "—"},
+      "names": {
+        "en": "JAC Rein",
+        "zh-CN": "瑞鹰",
+        "zh-TW": "瑞鷹",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -219,43 +309,63 @@
     {
       "id": "model:jac:iev6e",
       "brand": "JAC",
-      "names": {"en": "JAC iEV6E", "zh-CN": "iEV6E", "zh-TW": "iEV6E", "ja": "—"},
+      "names": {
+        "en": "JAC iEV6E",
+        "zh-CN": "iEV6E",
+        "zh-TW": "iEV6E",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
       "status": "discontinued",
-      "years": "2017–2022",
-      "note": "纯电微型车,iEV系列主力车型",
-      "verified": "pending"
+      "years": "2017-2021",
+      "note": "iEV6E(2017-2021),江淮纯电微型车,iEV系列主力车型,2021年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:iev7s",
       "brand": "JAC",
-      "names": {"en": "JAC iEV7S", "zh-CN": "iEV7S", "zh-TW": "iEV7S", "ja": "—"},
+      "names": {
+        "en": "JAC iEV7S",
+        "zh-CN": "iEV7S",
+        "zh-TW": "iEV7S",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
       "status": "discontinued",
-      "years": "2017–2021",
-      "note": "纯电小型SUV,取代iEV6S,已停售",
-      "verified": "pending"
+      "years": "2017-2020",
+      "note": "iEV7S(2017-2020),江淮纯电小型SUV,取代iEV6S,2020年停产",
+      "verified": "verified"
     },
     {
       "id": "model:jac:sunray",
       "brand": "JAC",
-      "names": {"en": "JAC Sunray", "zh-CN": "星锐", "zh-TW": "星銳", "ja": "—"},
+      "names": {
+        "en": "JAC Sunray",
+        "zh-CN": "星锐",
+        "zh-TW": "星銳",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2011–present",
-      "note": "轻客(欧系Van),江淮商用车主力,现售状态待核实",
-      "verified": "pending"
+      "years": "2010-present",
+      "note": "星锐(Sunray,2010-),江淮轻客(欧系Van),商用车主力",
+      "verified": "verified"
     },
     {
       "id": "model:jac:t6",
       "brand": "JAC",
-      "names": {"en": "JAC T6", "zh-CN": "T6", "zh-TW": "T6", "ja": "—"},
+      "names": {
+        "en": "JAC T6",
+        "zh-CN": "T6",
+        "zh-TW": "T6",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -263,6 +373,272 @@
       "years": "2015–present",
       "note": "中型皮卡,2023款在售;商用皮卡4R3/K5并入本条",
       "verified": "verified"
+    },
+    {
+      "id": "model:jac:jac-e3",
+      "brand": "JAC",
+      "names": {
+        "en": "Refine E3",
+        "zh-CN": "瑞风E3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "瑞风E3(2022-),瑞风M3的纯电版",
+      "verified": "verified",
+      "en": "Refine E3",
+      "zh-CN": "瑞风E3"
+    },
+    {
+      "id": "model:jac:jac-e4",
+      "brand": "JAC",
+      "names": {
+        "en": "Refine E4",
+        "zh-CN": "瑞风E4",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "瑞风E4(2023-),瑞风M4的纯电版",
+      "verified": "verified",
+      "en": "Refine E4",
+      "zh-CN": "瑞风E4"
+    },
+    {
+      "id": "model:jac:jac-l5",
+      "brand": "JAC",
+      "names": {
+        "en": "Refine L5",
+        "zh-CN": "瑞风L5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "瑞风L5(2022-),瑞风M5的更名车型",
+      "verified": "verified",
+      "en": "Refine L5",
+      "zh-CN": "瑞风L5"
+    },
+    {
+      "id": "model:jac:l6-max",
+      "brand": "JAC",
+      "names": {
+        "en": "Refine L6 MAX",
+        "zh-CN": "瑞风L6 MAX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021-present",
+      "note": "瑞风L6 MAX(2021-),江淮大型商务MPV",
+      "verified": "verified",
+      "en": "Refine L6 MAX",
+      "zh-CN": "瑞风L6 MAX"
+    },
+    {
+      "id": "model:jac:m3-phev",
+      "brand": "JAC",
+      "names": {
+        "en": "Refine M3 PHEV",
+        "zh-CN": "瑞风M3 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "瑞风M3 PHEV(2023-),瑞风M3插电混动版",
+      "verified": "verified",
+      "en": "Refine M3 PHEV",
+      "zh-CN": "瑞风M3 PHEV"
+    },
+    {
+      "id": "model:jac:rf8",
+      "brand": "JAC",
+      "names": {
+        "en": "Refine RF8",
+        "zh-CN": "瑞风RF8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "瑞风RF8(2024-),江淮高端MPV",
+      "verified": "verified",
+      "en": "Refine RF8",
+      "zh-CN": "瑞风RF8"
+    },
+    {
+      "id": "model:jac:rf8-phev",
+      "brand": "JAC",
+      "names": {
+        "en": "Refine RF8 PHEV",
+        "zh-CN": "瑞风RF8 PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "瑞风RF8 PHEV(2024-),瑞风RF8插电混动版",
+      "verified": "verified",
+      "en": "Refine RF8 PHEV",
+      "zh-CN": "瑞风RF8 PHEV"
+    },
+    {
+      "id": "model:jac:d2f3702a23",
+      "brand": "JAC",
+      "names": {
+        "en": "Aipao",
+        "zh-CN": "爱跑",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "思皓爱跑(2022-),江汽集团纯电轿车(思皓品牌)",
+      "verified": "verified",
+      "en": "Aipao",
+      "zh-CN": "爱跑"
+    },
+    {
+      "id": "model:jac:jac-3",
+      "brand": "JAC",
+      "names": {
+        "en": "Yiwei 3",
+        "zh-CN": "钇为3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "钇为3(2023-),江淮钇为子品牌纯电小型车",
+      "verified": "verified",
+      "en": "Yiwei 3",
+      "zh-CN": "钇为3"
+    },
+    {
+      "id": "model:jac:ed7250e7b2",
+      "brand": "JAC",
+      "names": {
+        "en": "Yiwei Flower Fairy",
+        "zh-CN": "钇为花仙子",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "钇为花仙子(2024-),江淮钇为子品牌纯电微型车(原思皓E10X更名)",
+      "verified": "verified",
+      "en": "Yiwei Flower Fairy",
+      "zh-CN": "钇为花仙子"
+    },
+    {
+      "id": "model:jac:a5-plus",
+      "brand": "JAC",
+      "names": {
+        "en": "JAC A5 PLUS",
+        "zh-CN": "江淮A5 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "江淮A5 PLUS(2023-),江淮紧凑型轿车",
+      "verified": "verified",
+      "en": "A5 Plus",
+      "zh-CN": "江淮A5 PLUS"
+    },
+    {
+      "id": "model:jac:qx-phev",
+      "brand": "JAC",
+      "names": {
+        "en": "JAC QX PHEV",
+        "zh-CN": "江淮QX PHEV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "江淮QX PHEV(2024-),江淮X8系列的插电混动版",
+      "verified": "verified",
+      "en": "QX PHEV",
+      "zh-CN": "江淮QX PHEV"
+    },
+    {
+      "id": "model:jac:x8-e",
+      "brand": "JAC",
+      "names": {
+        "en": "JAC X8 E-Family",
+        "zh-CN": "江淮X8 E家",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "江淮X8 E家(2024-),江淮X8系列的插混SUV",
+      "verified": "verified",
+      "en": "X8 E-Family",
+      "zh-CN": "江淮X8 E家"
+    },
+    {
+      "id": "model:jac:x8-plus",
+      "brand": "JAC",
+      "names": {
+        "en": "JAC X8 PLUS",
+        "zh-CN": "江淮X8 PLUS",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2024-present",
+      "note": "江淮X8 PLUS(2024-),江淮X8系列换代SUV",
+      "verified": "verified",
+      "en": "X8 Plus",
+      "zh-CN": "江淮X8 PLUS"
     }
   ]
 }

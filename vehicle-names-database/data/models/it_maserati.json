@@ -3,7 +3,12 @@
     {
       "id": "model:maserati:ghibli",
       "brand": "Maserati",
-      "names": {"en": "Maserati Ghibli", "zh-CN": "玛莎拉蒂Ghibli", "zh-TW": "瑪莎拉蒂Ghibli", "ja": "マセラティ ギブリ"},
+      "names": {
+        "en": "Maserati Ghibli",
+        "zh-CN": "玛莎拉蒂Ghibli",
+        "zh-TW": "瑪莎拉蒂Ghibli",
+        "ja": "マセラティ ギブリ"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:maserati:levante",
       "brand": "Maserati",
-      "names": {"en": "Maserati Levante", "zh-CN": "玛莎拉蒂Levante", "zh-TW": "瑪莎拉蒂Levante", "ja": "マセラティ レヴァンテ"},
+      "names": {
+        "en": "Maserati Levante",
+        "zh-CN": "玛莎拉蒂Levante",
+        "zh-TW": "瑪莎拉蒂Levante",
+        "ja": "マセラティ レヴァンテ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:maserati:quattroporte",
       "brand": "Maserati",
-      "names": {"en": "Maserati Quattroporte", "zh-CN": "玛莎拉蒂总裁", "zh-TW": "瑪莎拉蒂Quattroporte", "ja": "マセラティ クアトロポルテ"},
+      "names": {
+        "en": "Maserati Quattroporte",
+        "zh-CN": "玛莎拉蒂总裁",
+        "zh-TW": "瑪莎拉蒂Quattroporte",
+        "ja": "マセラティ クアトロポルテ"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:maserati:granturismo",
       "brand": "Maserati",
-      "names": {"en": "Maserati GranTurismo", "zh-CN": "玛莎拉蒂GranTurismo", "zh-TW": "瑪莎拉蒂GranTurismo", "ja": "マセラティ グラントゥーリズモ"},
+      "names": {
+        "en": "Maserati GranTurismo",
+        "zh-CN": "玛莎拉蒂GranTurismo",
+        "zh-TW": "瑪莎拉蒂GranTurismo",
+        "ja": "マセラティ グラントゥーリズモ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:maserati:grancabrio",
       "brand": "Maserati",
-      "names": {"en": "Maserati GranCabrio", "zh-CN": "玛莎拉蒂GranCabrio", "zh-TW": "瑪莎拉蒂GranCabrio", "ja": "マセラティ グランカブリオ"},
+      "names": {
+        "en": "Maserati GranCabrio",
+        "zh-CN": "玛莎拉蒂GranCabrio",
+        "zh-TW": "瑪莎拉蒂GranCabrio",
+        "ja": "マセラティ グランカブリオ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:convertible",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:maserati:mc20",
       "brand": "Maserati",
-      "names": {"en": "Maserati MC20", "zh-CN": "玛莎拉蒂MC20", "zh-TW": "瑪莎拉蒂MC20", "ja": "マセラティMC20"},
+      "names": {
+        "en": "Maserati MC20",
+        "zh-CN": "玛莎拉蒂MC20",
+        "zh-TW": "瑪莎拉蒂MC20",
+        "ja": "マセラティMC20"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:maserati:grecale",
       "brand": "Maserati",
-      "names": {"en": "Maserati Grecale", "zh-CN": "玛莎拉蒂Grecale", "zh-TW": "瑪莎拉蒂Grecale", "ja": "マセラティ グレカーレ"},
+      "names": {
+        "en": "Maserati Grecale",
+        "zh-CN": "玛莎拉蒂Grecale",
+        "zh-TW": "瑪莎拉蒂Grecale",
+        "ja": "マセラティ グレカーレ"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:maserati:spyder",
       "brand": "Maserati",
-      "names": {"en": "Maserati Spyder", "zh-CN": "玛莎拉蒂Spyder", "zh-TW": "瑪莎拉蒂Spyder", "ja": "マセラティ スパイダー"},
+      "names": {
+        "en": "Maserati Spyder",
+        "zh-CN": "玛莎拉蒂Spyder",
+        "zh-TW": "瑪莎拉蒂Spyder",
+        "ja": "マセラティ スパイダー"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:maserati:coupe",
       "brand": "Maserati",
-      "names": {"en": "Maserati Coupé", "zh-CN": "玛莎拉蒂Coupé", "zh-TW": "瑪莎拉蒂Coupé", "ja": "マセラティ クーペ"},
+      "names": {
+        "en": "Maserati Coupé",
+        "zh-CN": "玛莎拉蒂Coupé",
+        "zh-TW": "瑪莎拉蒂Coupé",
+        "ja": "マセラティ クーペ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:maserati:biturbo",
       "brand": "Maserati",
-      "names": {"en": "Maserati Biturbo", "zh-CN": "玛莎拉蒂Biturbo", "zh-TW": "瑪莎拉蒂Biturbo", "ja": "マセラティ ビトゥルボ"},
+      "names": {
+        "en": "Maserati Biturbo",
+        "zh-CN": "玛莎拉蒂Biturbo",
+        "zh-TW": "瑪莎拉蒂Biturbo",
+        "ja": "マセラティ ビトゥルボ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:maserati:3200-gt",
       "brand": "Maserati",
-      "names": {"en": "Maserati 3200 GT", "zh-CN": "玛莎拉蒂3200 GT", "zh-TW": "瑪莎拉蒂3200 GT", "ja": "マセラティ3200GT"},
+      "names": {
+        "en": "Maserati 3200 GT",
+        "zh-CN": "玛莎拉蒂3200 GT",
+        "zh-TW": "瑪莎拉蒂3200 GT",
+        "ja": "マセラティ3200GT"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:maserati:khamsin",
       "brand": "Maserati",
-      "names": {"en": "Maserati Khamsin", "zh-CN": "玛莎拉蒂Khamsin", "zh-TW": "瑪莎拉蒂Khamsin", "ja": "マセラティ カムシン"},
+      "names": {
+        "en": "Maserati Khamsin",
+        "zh-CN": "玛莎拉蒂Khamsin",
+        "zh-TW": "瑪莎拉蒂Khamsin",
+        "ja": "マセラティ カムシン"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:maserati:mc12",
       "brand": "Maserati",
-      "names": {"en": "Maserati MC12", "zh-CN": "玛莎拉蒂MC12", "zh-TW": "瑪莎拉蒂MC12", "ja": "マセラティMC12"},
+      "names": {
+        "en": "Maserati MC12",
+        "zh-CN": "玛莎拉蒂MC12",
+        "zh-TW": "瑪莎拉蒂MC12",
+        "ja": "マセラティMC12"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:ice",

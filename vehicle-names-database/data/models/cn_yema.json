@@ -3,7 +3,12 @@
     {
       "id": "model:yema:f12",
       "brand": "Yema",
-      "names": {"en": "Yema F12", "zh-CN": "F12", "zh-TW": "F12", "ja": "—"},
+      "names": {
+        "en": "Yema F12",
+        "zh-CN": "F12",
+        "zh-TW": "F12",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:yema:t70",
       "brand": "Yema",
-      "names": {"en": "Yema T70", "zh-CN": "T70", "zh-TW": "T70", "ja": "—"},
+      "names": {
+        "en": "Yema T70",
+        "zh-CN": "T70",
+        "zh-TW": "T70",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:yema:t80",
       "brand": "Yema",
-      "names": {"en": "Yema T80", "zh-CN": "T80", "zh-TW": "T80", "ja": "—"},
+      "names": {
+        "en": "Yema T80",
+        "zh-CN": "T80",
+        "zh-TW": "T80",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:yema:spica",
       "brand": "Yema",
-      "names": {"en": "Yema Spica", "zh-CN": "斯派卡", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Yema Spica",
+        "zh-CN": "斯派卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -47,6 +67,187 @@
       "years": "2018–2020",
       "note": "紧凑型MPV(7座),野马品牌首款MPV",
       "verified": "verified"
+    },
+    {
+      "id": "model:yema:493a57203e",
+      "brand": "Yema",
+      "names": {
+        "en": "Bojun",
+        "zh-CN": "博骏",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2019–present",
+      "note": "博骏(2019-),野马紧凑型SUV,2021款在售",
+      "verified": "verified",
+      "zh-TW": "博駿"
+    },
+    {
+      "id": "model:yema:622fae2d61",
+      "brand": "Yema",
+      "names": {
+        "en": "Spaika New Energy",
+        "zh-CN": "斯派卡新能源",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2023",
+      "note": "斯派卡新能源(2020-),纯电MPV(斯派卡EV版),随品牌停产",
+      "verified": "verified",
+      "en": "Spica New Energy",
+      "zh-TW": "斯派卡新能源"
+    },
+    {
+      "id": "model:yema:c30",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema C30",
+        "zh-CN": "野马C30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "—",
+      "note": "C30,野马纯电动出租车,曾投放成都市场",
+      "verified": "verified",
+      "zh-TW": "C30"
+    },
+    {
+      "id": "model:yema:ec30",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema EC30",
+        "zh-CN": "野马EC30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "EC30(2017-),纯电动MPV,基于野马M70,综合续航255公里",
+      "verified": "verified",
+      "zh-TW": "EC30"
+    },
+    {
+      "id": "model:yema:ec70",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema EC70",
+        "zh-CN": "野马EC70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "EC70(2016-2018),纯电紧凑型SUV",
+      "verified": "verified",
+      "zh-TW": "EC70"
+    },
+    {
+      "id": "model:yema:f10",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema F10",
+        "zh-CN": "野马F10",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2014",
+      "note": "F10(2010-2014),小型SUV,F系列早期车型",
+      "verified": "verified",
+      "zh-TW": "F10"
+    },
+    {
+      "id": "model:yema:f16",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema F16",
+        "zh-CN": "野马F16",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "F16(2014-),小型SUV,2014成都车展上市",
+      "verified": "verified",
+      "zh-TW": "F16"
+    },
+    {
+      "id": "model:yema:f19",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema F19",
+        "zh-CN": "野马F19",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013–2016",
+      "note": "F19(2013-),小型SUV,F系列中期车型",
+      "verified": "verified",
+      "zh-TW": "F19"
+    },
+    {
+      "id": "model:yema:f99",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema F99",
+        "zh-CN": "野马F99",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2012",
+      "note": "F99(2009-2012),野马首款量产SUV",
+      "verified": "verified",
+      "zh-TW": "F99"
+    },
+    {
+      "id": "model:yema:mini",
+      "brand": "Yema",
+      "names": {
+        "en": "Yema Mini Truck",
+        "zh-CN": "野马MINI卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2021–present",
+      "note": "MINI卡(2021-),微卡,单排两座,1.5L动力",
+      "verified": "verified",
+      "zh-TW": "MINI卡"
     }
   ]
 }

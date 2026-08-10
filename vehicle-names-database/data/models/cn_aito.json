@@ -3,7 +3,12 @@
     {
       "id": "model:aito:m5",
       "brand": "AITO",
-      "names": {"en": "AITO M5", "zh-CN": "问界M5", "zh-TW": "AITO M5(未导入)", "ja": "—"},
+      "names": {
+        "en": "AITO M5",
+        "zh-CN": "问界M5",
+        "zh-TW": "AITO M5(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -15,7 +20,12 @@
     {
       "id": "model:aito:m7",
       "brand": "AITO",
-      "names": {"en": "AITO M7", "zh-CN": "问界M7", "zh-TW": "AITO M7(未导入)", "ja": "—"},
+      "names": {
+        "en": "AITO M7",
+        "zh-CN": "问界M7",
+        "zh-TW": "AITO M7(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -27,7 +37,12 @@
     {
       "id": "model:aito:m9",
       "brand": "AITO",
-      "names": {"en": "AITO M9", "zh-CN": "问界M9", "zh-TW": "AITO M9(未导入)", "ja": "—"},
+      "names": {
+        "en": "AITO M9",
+        "zh-CN": "问界M9",
+        "zh-TW": "AITO M9(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:d",
       "body_style": "body:suv",
       "powertrain": "pt:erev",

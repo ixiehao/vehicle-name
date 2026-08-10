@@ -3,31 +3,46 @@
     {
       "id": "model:byd:han",
       "brand": "BYD",
-      "names": {"en": "Han", "zh-CN": "汉", "zh-TW": "Han(台湾导入状态待核实)", "ja": "ハン"},
+      "names": {
+        "en": "Han",
+        "zh-CN": "汉",
+        "zh-TW": "Han(台湾导入状态待核实)",
+        "ja": "ハン"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
       "status": "current",
       "years": "2020–present",
-      "note": "王朝系列旗舰中大型轿车,EV/DM-i/DM-p多动力;海外市场沿用Han;台湾导入状态待核实",
-      "verified": "pending"
+      "note": "王朝系列旗舰中大型轿车,EV/DM-i/DM-p多动力;海外市场沿用Han;2025年推出汉L",
+      "verified": "verified"
     },
     {
       "id": "model:byd:tang",
       "brand": "BYD",
-      "names": {"en": "Tang", "zh-CN": "唐", "zh-TW": "Tang(台湾导入状态待核实)", "ja": "タン"},
+      "names": {
+        "en": "Tang",
+        "zh-CN": "唐",
+        "zh-TW": "Tang(台湾导入状态待核实)",
+        "ja": "タン"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
       "status": "current",
       "years": "2018–present",
-      "note": "王朝系列中型SUV,DM-i/DM-p/EV多动力;初代2015–2018;海外名Tang(部分市场Tan/Sealion 8)",
-      "verified": "pending"
+      "note": "王朝系列中型SUV,DM-i/DM-p/EV多动力;初代2015-2018;海外名Tang(部分市场Tan/Sealion 8)",
+      "verified": "verified"
     },
     {
       "id": "model:byd:song-plus",
       "brand": "BYD",
-      "names": {"en": "Song Plus", "zh-CN": "宋PLUS", "zh-TW": "Song Plus", "ja": "—"},
+      "names": {
+        "en": "Song Plus",
+        "zh-CN": "宋PLUS",
+        "zh-TW": "Song Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -39,7 +54,12 @@
     {
       "id": "model:byd:song-pro",
       "brand": "BYD",
-      "names": {"en": "Song Pro", "zh-CN": "宋Pro", "zh-TW": "Song Pro", "ja": "—"},
+      "names": {
+        "en": "Song Pro",
+        "zh-CN": "宋Pro",
+        "zh-TW": "Song Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -51,7 +71,12 @@
     {
       "id": "model:byd:song-l",
       "brand": "BYD",
-      "names": {"en": "Song L", "zh-CN": "宋L", "zh-TW": "Song L", "ja": "—"},
+      "names": {
+        "en": "Song L",
+        "zh-CN": "宋L",
+        "zh-TW": "Song L",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -63,7 +88,12 @@
     {
       "id": "model:byd:yuan-plus",
       "brand": "BYD",
-      "names": {"en": "Yuan Plus (Atto 3)", "zh-CN": "元PLUS", "zh-TW": "Atto 3", "ja": "アット3(ATTO 3)"},
+      "names": {
+        "en": "Yuan Plus (Atto 3)",
+        "zh-CN": "元PLUS",
+        "zh-TW": "Atto 3",
+        "ja": "アット3(ATTO 3)"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -75,19 +105,29 @@
     {
       "id": "model:byd:yuan-up",
       "brand": "BYD",
-      "names": {"en": "Yuan Up (Atto 2)", "zh-CN": "元UP", "zh-TW": "Atto 2", "ja": "—"},
+      "names": {
+        "en": "Yuan Up (Atto 2)",
+        "zh-CN": "元UP",
+        "zh-TW": "Atto 2",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
       "status": "current",
       "years": "2024–present",
-      "note": "小型纯电SUV;海外称Atto 2(2025年欧洲上市);日本导入状态待核实",
-      "verified": "pending"
+      "note": "元UP(2024-),小型纯电SUV;海外称Atto 2(2025年欧洲上市)",
+      "verified": "verified"
     },
     {
       "id": "model:byd:qin-plus",
       "brand": "BYD",
-      "names": {"en": "Qin Plus", "zh-CN": "秦PLUS", "zh-TW": "Qin Plus", "ja": "—"},
+      "names": {
+        "en": "Qin Plus",
+        "zh-CN": "秦PLUS",
+        "zh-TW": "Qin Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -99,7 +139,12 @@
     {
       "id": "model:byd:qin-l",
       "brand": "BYD",
-      "names": {"en": "Qin L", "zh-CN": "秦L", "zh-TW": "Qin L", "ja": "—"},
+      "names": {
+        "en": "Qin L",
+        "zh-CN": "秦L",
+        "zh-TW": "Qin L",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -111,7 +156,12 @@
     {
       "id": "model:byd:seal",
       "brand": "BYD",
-      "names": {"en": "Seal", "zh-CN": "海豹", "zh-TW": "Seal", "ja": "シール(SEAL)"},
+      "names": {
+        "en": "Seal",
+        "zh-CN": "海豹",
+        "zh-TW": "Seal",
+        "ja": "シール(SEAL)"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -123,7 +173,12 @@
     {
       "id": "model:byd:sealion-07",
       "brand": "BYD",
-      "names": {"en": "Sealion 07", "zh-CN": "海狮07", "zh-TW": "Sealion 7", "ja": "シーライオン7(Sealion 7)"},
+      "names": {
+        "en": "Sealion 07",
+        "zh-CN": "海狮07",
+        "zh-TW": "Sealion 7",
+        "ja": "シーライオン7(Sealion 7)"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -135,7 +190,12 @@
     {
       "id": "model:byd:dolphin",
       "brand": "BYD",
-      "names": {"en": "Dolphin", "zh-CN": "海豚", "zh-TW": "Dolphin", "ja": "ドルフィン(DOLPHIN)"},
+      "names": {
+        "en": "Dolphin",
+        "zh-CN": "海豚",
+        "zh-TW": "Dolphin",
+        "ja": "ドルフィン(DOLPHIN)"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -147,7 +207,12 @@
     {
       "id": "model:byd:seagull",
       "brand": "BYD",
-      "names": {"en": "Seagull", "zh-CN": "海鸥", "zh-TW": "Seagull", "ja": "シーガル(SEAGULL)"},
+      "names": {
+        "en": "Seagull",
+        "zh-CN": "海鸥",
+        "zh-TW": "Seagull",
+        "ja": "シーガル(SEAGULL)"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -159,7 +224,12 @@
     {
       "id": "model:byd:destroyer-05",
       "brand": "BYD",
-      "names": {"en": "Destroyer 05", "zh-CN": "驱逐舰05", "zh-TW": "Destroyer 05", "ja": "—"},
+      "names": {
+        "en": "Destroyer 05",
+        "zh-CN": "驱逐舰05",
+        "zh-TW": "Destroyer 05",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -171,7 +241,12 @@
     {
       "id": "model:byd:frigate-07",
       "brand": "BYD",
-      "names": {"en": "Frigate 07", "zh-CN": "护卫舰07", "zh-TW": "Frigate 07", "ja": "—"},
+      "names": {
+        "en": "Frigate 07",
+        "zh-CN": "护卫舰07",
+        "zh-TW": "Frigate 07",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -183,7 +258,12 @@
     {
       "id": "model:byd:denza-d9",
       "brand": "BYD",
-      "names": {"en": "Denza D9", "zh-CN": "腾势D9", "zh-TW": "Denza D9", "ja": "—"},
+      "names": {
+        "en": "Denza D9",
+        "zh-CN": "腾势D9",
+        "zh-TW": "Denza D9",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:phev",
@@ -195,7 +275,12 @@
     {
       "id": "model:byd:yangwang-u8",
       "brand": "BYD",
-      "names": {"en": "Yangwang U8", "zh-CN": "仰望U8", "zh-TW": "Yangwang U8", "ja": "—"},
+      "names": {
+        "en": "Yangwang U8",
+        "zh-CN": "仰望U8",
+        "zh-TW": "Yangwang U8",
+        "ja": "—"
+      },
       "segment": "class:cn:d",
       "body_style": "body:suv",
       "powertrain": "pt:erev",
@@ -207,7 +292,12 @@
     {
       "id": "model:byd:yangwang-u9",
       "brand": "BYD",
-      "names": {"en": "Yangwang U9", "zh-CN": "仰望U9", "zh-TW": "Yangwang U9", "ja": "—"},
+      "names": {
+        "en": "Yangwang U9",
+        "zh-CN": "仰望U9",
+        "zh-TW": "Yangwang U9",
+        "ja": "—"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:bev",
@@ -219,7 +309,12 @@
     {
       "id": "model:byd:denza-n7",
       "brand": "BYD",
-      "names": {"en": "Denza N7", "zh-CN": "腾势N7", "zh-TW": "Denza N7", "ja": "—"},
+      "names": {
+        "en": "Denza N7",
+        "zh-CN": "腾势N7",
+        "zh-TW": "Denza N7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -231,7 +326,12 @@
     {
       "id": "model:byd:denza-n8",
       "brand": "BYD",
-      "names": {"en": "Denza N8", "zh-CN": "腾势N8", "zh-TW": "Denza N8", "ja": "—"},
+      "names": {
+        "en": "Denza N8",
+        "zh-CN": "腾势N8",
+        "zh-TW": "Denza N8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -243,7 +343,12 @@
     {
       "id": "model:byd:denza-z9",
       "brand": "BYD",
-      "names": {"en": "Denza Z9", "zh-CN": "腾势Z9", "zh-TW": "Denza Z9", "ja": "—"},
+      "names": {
+        "en": "Denza Z9",
+        "zh-CN": "腾势Z9",
+        "zh-TW": "Denza Z9",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -255,7 +360,12 @@
     {
       "id": "model:byd:fangchengbao-bao-5",
       "brand": "BYD",
-      "names": {"en": "Fangchengbao Bao 5", "zh-CN": "方程豹豹5", "zh-TW": "Fangchengbao Bao 5", "ja": "—"},
+      "names": {
+        "en": "Fangchengbao Bao 5",
+        "zh-CN": "方程豹豹5",
+        "zh-TW": "Fangchengbao Bao 5",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -267,7 +377,12 @@
     {
       "id": "model:byd:fangchengbao-bao-8",
       "brand": "BYD",
-      "names": {"en": "Fangchengbao Bao 8", "zh-CN": "方程豹豹8", "zh-TW": "Fangchengbao Bao 8", "ja": "—"},
+      "names": {
+        "en": "Fangchengbao Bao 8",
+        "zh-CN": "方程豹豹8",
+        "zh-TW": "Fangchengbao Bao 8",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -279,7 +394,12 @@
     {
       "id": "model:byd:f3",
       "brand": "BYD",
-      "names": {"en": "F3", "zh-CN": "F3", "zh-TW": "F3", "ja": "—"},
+      "names": {
+        "en": "F3",
+        "zh-CN": "F3",
+        "zh-TW": "F3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:byd:f0",
       "brand": "BYD",
-      "names": {"en": "F0", "zh-CN": "F0", "zh-TW": "F0", "ja": "—"},
+      "names": {
+        "en": "F0",
+        "zh-CN": "F0",
+        "zh-TW": "F0",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -303,7 +428,12 @@
     {
       "id": "model:byd:s6",
       "brand": "BYD",
-      "names": {"en": "S6", "zh-CN": "S6", "zh-TW": "S6", "ja": "—"},
+      "names": {
+        "en": "S6",
+        "zh-CN": "S6",
+        "zh-TW": "S6",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -315,7 +445,12 @@
     {
       "id": "model:byd:s7",
       "brand": "BYD",
-      "names": {"en": "S7", "zh-CN": "S7", "zh-TW": "S7", "ja": "—"},
+      "names": {
+        "en": "S7",
+        "zh-CN": "S7",
+        "zh-TW": "S7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -327,7 +462,12 @@
     {
       "id": "model:byd:e6",
       "brand": "BYD",
-      "names": {"en": "e6", "zh-CN": "e6", "zh-TW": "e6", "ja": "—"},
+      "names": {
+        "en": "e6",
+        "zh-CN": "e6",
+        "zh-TW": "e6",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -339,19 +479,29 @@
     {
       "id": "model:byd:e2",
       "brand": "BYD",
-      "names": {"en": "e2", "zh-CN": "e2", "zh-TW": "e2", "ja": "—"},
+      "names": {
+        "en": "e2",
+        "zh-CN": "e2",
+        "zh-TW": "e2",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
       "status": "discontinued",
       "years": "2019–2023",
-      "note": "紧凑型纯电两厢,主供出租/网约车;中国市场已停产,停产时间待核实",
-      "verified": "pending"
+      "note": "e2(2019-2022),紧凑型纯电两厢,主供出租/网约车,2022年停产",
+      "verified": "verified"
     },
     {
       "id": "model:byd:song-max",
       "brand": "BYD",
-      "names": {"en": "Song Max", "zh-CN": "宋MAX", "zh-TW": "Song Max", "ja": "—"},
+      "names": {
+        "en": "Song Max",
+        "zh-CN": "宋MAX",
+        "zh-TW": "Song Max",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:byd:yuan",
       "brand": "BYD",
-      "names": {"en": "Yuan", "zh-CN": "元", "zh-TW": "Yuan", "ja": "—"},
+      "names": {
+        "en": "Yuan",
+        "zh-CN": "元",
+        "zh-TW": "Yuan",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -375,19 +530,29 @@
     {
       "id": "model:byd:yuan-pro",
       "brand": "BYD",
-      "names": {"en": "Yuan Pro", "zh-CN": "元Pro", "zh-TW": "Yuan Pro", "ja": "—"},
+      "names": {
+        "en": "Yuan Pro",
+        "zh-CN": "元Pro",
+        "zh-TW": "Yuan Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
       "status": "current",
       "years": "2018–present",
-      "note": "王朝系列小型纯电SUV;本条合并元新能源(元EV,2018年上市),2021年改款更名元Pro;当前在售状态待核实",
-      "verified": "pending"
+      "note": "元Pro(2021-),王朝系列小型纯电SUV;本条合并元新能源(元EV,2018年上市),2021年改款更名元Pro",
+      "verified": "verified"
     },
     {
       "id": "model:byd:song",
       "brand": "BYD",
-      "names": {"en": "Song", "zh-CN": "宋", "zh-TW": "Song", "ja": "—"},
+      "names": {
+        "en": "Song",
+        "zh-CN": "宋",
+        "zh-TW": "Song",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:byd:song-l-dmi",
       "brand": "BYD",
-      "names": {"en": "Song L DM-i", "zh-CN": "宋L DM-i", "zh-TW": "Song L DM-i", "ja": "—"},
+      "names": {
+        "en": "Song L DM-i",
+        "zh-CN": "宋L DM-i",
+        "zh-TW": "Song L DM-i",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -411,7 +581,12 @@
     {
       "id": "model:byd:song-nev",
       "brand": "BYD",
-      "names": {"en": "Song New Energy", "zh-CN": "宋新能源", "zh-TW": "Song", "ja": "—"},
+      "names": {
+        "en": "Song New Energy",
+        "zh-CN": "宋新能源",
+        "zh-TW": "Song",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -423,7 +598,12 @@
     {
       "id": "model:byd:sirui",
       "brand": "BYD",
-      "names": {"en": "Sirui", "zh-CN": "思锐", "zh-TW": "Sirui", "ja": "—"},
+      "names": {
+        "en": "Sirui",
+        "zh-CN": "思锐",
+        "zh-TW": "Sirui",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:byd:e5",
       "brand": "BYD",
-      "names": {"en": "e5", "zh-CN": "e5", "zh-TW": "e5", "ja": "—"},
+      "names": {
+        "en": "e5",
+        "zh-CN": "e5",
+        "zh-TW": "e5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -447,7 +632,12 @@
     {
       "id": "model:byd:g5",
       "brand": "BYD",
-      "names": {"en": "G5", "zh-CN": "G5", "zh-TW": "G5", "ja": "—"},
+      "names": {
+        "en": "G5",
+        "zh-CN": "G5",
+        "zh-TW": "G5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -459,7 +649,12 @@
     {
       "id": "model:byd:l3",
       "brand": "BYD",
-      "names": {"en": "L3", "zh-CN": "L3", "zh-TW": "L3", "ja": "—"},
+      "names": {
+        "en": "L3",
+        "zh-CN": "L3",
+        "zh-TW": "L3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -471,7 +666,12 @@
     {
       "id": "model:byd:m6",
       "brand": "BYD",
-      "names": {"en": "M6", "zh-CN": "M6", "zh-TW": "M6", "ja": "—"},
+      "names": {
+        "en": "M6",
+        "zh-CN": "M6",
+        "zh-TW": "M6",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -483,7 +683,12 @@
     {
       "id": "model:byd:seal-05",
       "brand": "BYD",
-      "names": {"en": "Seal 05 DM-i", "zh-CN": "海豹05 DM-i", "zh-TW": "Seal 5", "ja": "—"},
+      "names": {
+        "en": "Seal 05 DM-i",
+        "zh-CN": "海豹05 DM-i",
+        "zh-TW": "Seal 5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -495,7 +700,12 @@
     {
       "id": "model:byd:seal-06",
       "brand": "BYD",
-      "names": {"en": "Seal 06", "zh-CN": "海豹06", "zh-TW": "Seal 06", "ja": "—"},
+      "names": {
+        "en": "Seal 06",
+        "zh-CN": "海豹06",
+        "zh-TW": "Seal 06",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -507,7 +717,12 @@
     {
       "id": "model:byd:qin",
       "brand": "BYD",
-      "names": {"en": "Qin", "zh-CN": "秦", "zh-TW": "Qin", "ja": "—"},
+      "names": {
+        "en": "Qin",
+        "zh-CN": "秦",
+        "zh-TW": "Qin",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -519,7 +734,12 @@
     {
       "id": "model:byd:suru",
       "brand": "BYD",
-      "names": {"en": "Surui", "zh-CN": "速锐", "zh-TW": "Surui", "ja": "—"},
+      "names": {
+        "en": "Surui",
+        "zh-CN": "速锐",
+        "zh-TW": "Surui",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -531,7 +751,12 @@
     {
       "id": "model:byd:denza-x",
       "brand": "BYD",
-      "names": {"en": "Denza X", "zh-CN": "腾势X", "zh-TW": "Denza X", "ja": "—"},
+      "names": {
+        "en": "Denza X",
+        "zh-CN": "腾势X",
+        "zh-TW": "Denza X",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -543,7 +768,12 @@
     {
       "id": "model:byd:fangchengbao-tai-7",
       "brand": "BYD",
-      "names": {"en": "Fangchengbao Tai 7", "zh-CN": "方程豹钛7", "zh-TW": "Fangchengbao Tai 7", "ja": "—"},
+      "names": {
+        "en": "Fangchengbao Tai 7",
+        "zh-CN": "方程豹钛7",
+        "zh-TW": "Fangchengbao Tai 7",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -551,6 +781,498 @@
       "years": "2025–present",
       "note": "方程豹(Fangchengbao)子品牌钛系列中大型SUV(2025年9月上市,承载式车身,1.5T插混,车长4999mm)",
       "verified": "verified"
+    },
+    {
+      "id": "model:byd:byd-c6",
+      "brand": "BYD",
+      "names": {
+        "en": "C6",
+        "zh-CN": "C6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "—",
+      "note": "C6(2015-),比亚迪纯电动中巴客车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:byd:byd-l",
+      "brand": "BYD",
+      "names": {
+        "en": "Tang L",
+        "zh-CN": "唐L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "—",
+      "note": "唐L(2025-),王朝系列中大型SUV,唐的旗舰版",
+      "verified": "verified",
+      "en": "Tang L",
+      "zh-CN": "唐L"
+    },
+    {
+      "id": "model:byd:l-ev",
+      "brand": "BYD",
+      "names": {
+        "en": "Song L EV",
+        "zh-CN": "宋L EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "—",
+      "note": "宋L EV(2023-),王朝系列中大型纯电SUV(猎装风格)",
+      "verified": "verified",
+      "en": "Song L EV",
+      "zh-CN": "宋L EV"
+    },
+    {
+      "id": "model:byd:ultra",
+      "brand": "BYD",
+      "names": {
+        "en": "Song Ultra",
+        "zh-CN": "宋Ultra",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "—",
+      "note": "宋Ultra(2025-),王朝系列中大型SUV",
+      "verified": "verified",
+      "en": "Song Ultra",
+      "zh-CN": "宋Ultra"
+    },
+    {
+      "id": "model:byd:byd-d1",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD D1",
+        "zh-CN": "比亚迪D1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "—",
+      "note": "D1(2020-),比亚迪纯电MPV(滴滴定制网约车)",
+      "verified": "verified",
+      "en": "D1",
+      "zh-CN": "比亚迪D1"
+    },
+    {
+      "id": "model:byd:f3r",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD F3R",
+        "zh-CN": "比亚迪F3R",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "F3R(2008-2013),F3的两厢版,2013年停产",
+      "verified": "verified",
+      "en": "F3R",
+      "zh-CN": "比亚迪F3R"
+    },
+    {
+      "id": "model:byd:byd-f6",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD F6",
+        "zh-CN": "比亚迪F6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "F6(2008-2013),比亚迪B级轿车,2013年停产",
+      "verified": "verified",
+      "en": "F6",
+      "zh-CN": "比亚迪F6"
+    },
+    {
+      "id": "model:byd:byd-g3",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD G3",
+        "zh-CN": "比亚迪G3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "G3(2009-2014),比亚迪紧凑型轿车(网约车),2014年停产",
+      "verified": "verified",
+      "en": "G3",
+      "zh-CN": "比亚迪G3"
+    },
+    {
+      "id": "model:byd:g3r",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD G3R",
+        "zh-CN": "比亚迪G3R",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "G3R(2011-2014),G3的两厢版,2014年停产",
+      "verified": "verified",
+      "en": "G3R",
+      "zh-CN": "比亚迪G3R"
+    },
+    {
+      "id": "model:byd:byd-g6",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD G6",
+        "zh-CN": "比亚迪G6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "G6(2011-2016),比亚迪B级轿车,2016年停产",
+      "verified": "verified",
+      "en": "G6",
+      "zh-CN": "比亚迪G6"
+    },
+    {
+      "id": "model:byd:byd-m9",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD M9",
+        "zh-CN": "比亚迪M9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "—",
+      "note": "M9(2025-),比亚迪夏的出口版中大型插混MPV(先面向墨西哥)",
+      "verified": "verified",
+      "en": "M9",
+      "zh-CN": "比亚迪M9"
+    },
+    {
+      "id": "model:byd:byd-s2",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD S2",
+        "zh-CN": "比亚迪S2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "—",
+      "note": "S2(2019-2021),比亚迪纯电小型SUV,2021年停产",
+      "verified": "verified",
+      "en": "S2",
+      "zh-CN": "比亚迪S2"
+    },
+    {
+      "id": "model:byd:byd-s8",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD S8",
+        "zh-CN": "比亚迪S8",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:convertible",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "S8(2009-2013),比亚迪硬顶敞篷跑车,2013年停产",
+      "verified": "verified",
+      "en": "S8",
+      "zh-CN": "比亚迪S8"
+    },
+    {
+      "id": "model:byd:byd-e1",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD e1",
+        "zh-CN": "比亚迪e1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "—",
+      "note": "e1(2019-2021),比亚迪纯电微型车(基于F0),2021年停产",
+      "verified": "verified",
+      "en": "e1",
+      "zh-CN": "比亚迪e1"
+    },
+    {
+      "id": "model:byd:byd-e3",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD e3",
+        "zh-CN": "比亚迪e3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "—",
+      "note": "e3(2019-2022),比亚迪纯电紧凑型轿车(网约车),2022年停产",
+      "verified": "verified",
+      "en": "e3",
+      "zh-CN": "比亚迪e3"
+    },
+    {
+      "id": "model:byd:byd-e7",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD e7",
+        "zh-CN": "比亚迪e7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "—",
+      "note": "e7(2025-),比亚迪纯电紧凑型轿车(网约车)",
+      "verified": "verified",
+      "en": "e7",
+      "zh-CN": "比亚迪e7"
+    },
+    {
+      "id": "model:byd:byd-e9",
+      "brand": "BYD",
+      "names": {
+        "en": "BYD e9",
+        "zh-CN": "比亚迪e9",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "—",
+      "note": "e9(2021-2023),比亚迪纯电轿车(网约车),2023年停产",
+      "verified": "verified",
+      "en": "e9",
+      "zh-CN": "比亚迪e9"
+    },
+    {
+      "id": "model:byd:byd-l-2",
+      "brand": "BYD",
+      "names": {
+        "en": "Han L",
+        "zh-CN": "汉L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "—",
+      "note": "汉L(2025-),王朝系列旗舰轿车,汉的换代",
+      "verified": "verified",
+      "en": "Han L",
+      "zh-CN": "汉L"
+    },
+    {
+      "id": "model:byd:06-dm-i",
+      "brand": "BYD",
+      "names": {
+        "en": "Seal 06 DM-i Touring",
+        "zh-CN": "海豹06 DM-i旅行版",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:wagon",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "—",
+      "note": "海豹06 DM-i旅行版(2025-),海洋网插混旅行车",
+      "verified": "verified",
+      "en": "Seal 06 DM-i",
+      "zh-CN": "海豹06 DM-i旅行版"
+    },
+    {
+      "id": "model:byd:06gt",
+      "brand": "BYD",
+      "names": {
+        "en": "Seal 06 GT",
+        "zh-CN": "海豹06GT",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "—",
+      "note": "海豹06GT(2024-),海洋网纯电运动两厢车",
+      "verified": "verified",
+      "en": "Seal 06 GT",
+      "zh-CN": "海豹06GT"
+    },
+    {
+      "id": "model:byd:07-dm-i",
+      "brand": "BYD",
+      "names": {
+        "en": "Seal 07 DM-i",
+        "zh-CN": "海豹07 DM-i",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "—",
+      "note": "海豹07 DM-i(2024-),海洋网插混轿车",
+      "verified": "verified",
+      "en": "Seal 07 DM-i",
+      "zh-CN": "海豹07 DM-i"
+    },
+    {
+      "id": "model:byd:07-ev",
+      "brand": "BYD",
+      "names": {
+        "en": "Seal 07 EV",
+        "zh-CN": "海豹07 EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "—",
+      "note": "海豹07 EV(2024-),海洋网纯电轿车",
+      "verified": "verified",
+      "en": "Seal 07 EV",
+      "zh-CN": "海豹07 EV"
+    },
+    {
+      "id": "model:byd:byd-08",
+      "brand": "BYD",
+      "names": {
+        "en": "Seal 08",
+        "zh-CN": "海豹08",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "—",
+      "note": "海豹08(2026-),海洋网旗舰SUV",
+      "verified": "verified",
+      "en": "Seal 08",
+      "zh-CN": "海豹08"
+    },
+    {
+      "id": "model:byd:476da0fa0d",
+      "brand": "BYD",
+      "names": {
+        "en": "Flyer",
+        "zh-CN": "福莱尔",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "福莱尔(2002-2008),比亚迪收购秦川后首款车型(源自秦川福莱尔),2008年停产",
+      "verified": "verified",
+      "en": "Flyer",
+      "zh-CN": "福莱尔"
+    },
+    {
+      "id": "model:byd:max-2",
+      "brand": "BYD",
+      "names": {
+        "en": "Qin MAX",
+        "zh-CN": "秦MAX",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "—",
+      "note": "秦MAX(2026-),王朝系列MPV",
+      "verified": "verified",
+      "en": "Qin MAX",
+      "zh-CN": "秦MAX"
+    },
+    {
+      "id": "model:byd:pro-2",
+      "brand": "BYD",
+      "names": {
+        "en": "Qin Pro",
+        "zh-CN": "秦Pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "—",
+      "note": "秦Pro(2018-2021),秦的换代,2021年由秦PLUS接替",
+      "verified": "verified",
+      "en": "Qin Pro",
+      "zh-CN": "秦Pro"
     }
   ]
 }

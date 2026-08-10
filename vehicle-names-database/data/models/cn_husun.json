@@ -3,7 +3,12 @@
     {
       "id": "model:husun:h2",
       "brand": "Husun",
-      "names": {"en": "Husun H2", "zh-CN": "H2", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun H2",
+        "zh-CN": "H2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:husun:h2v",
       "brand": "Husun",
-      "names": {"en": "Husun H2V", "zh-CN": "H2V", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun H2V",
+        "zh-CN": "H2V",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:husun:h3",
       "brand": "Husun",
-      "names": {"en": "Husun H3", "zh-CN": "H3", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun H3",
+        "zh-CN": "H3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:husun:s2",
       "brand": "Husun",
-      "names": {"en": "Husun S2", "zh-CN": "S2", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun S2",
+        "zh-CN": "S2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:husun:s3",
       "brand": "Husun",
-      "names": {"en": "Husun S3", "zh-CN": "S3", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun S3",
+        "zh-CN": "S3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:husun:s5",
       "brand": "Husun",
-      "names": {"en": "Husun S5", "zh-CN": "S5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun S5",
+        "zh-CN": "S5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:husun:s6",
       "brand": "Husun",
-      "names": {"en": "Husun S6", "zh-CN": "S6", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun S6",
+        "zh-CN": "S6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,13 +122,137 @@
     {
       "id": "model:husun:s7",
       "brand": "Husun",
-      "names": {"en": "Husun S7", "zh-CN": "S7", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Husun S7",
+        "zh-CN": "S7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2017–2019",
       "note": "北汽幻速中型SUV,七座布局,幻速品牌旗舰车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:c21",
+      "brand": "Husun",
+      "names": {
+        "en": "Husun C21",
+        "zh-CN": "北汽幻速C21",
+        "zh-TW": "北汽幻速C21",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2019",
+      "note": "北汽幻速紧凑型轿车,2018年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:c60",
+      "brand": "Husun",
+      "names": {
+        "en": "Husun C60",
+        "zh-CN": "北汽幻速C60",
+        "zh-TW": "北汽幻速C60",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2019",
+      "note": "北汽幻速紧凑型SUV,2018年亮相但未大规模量产",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:husun-h5",
+      "brand": "Husun",
+      "names": {
+        "en": "Husun H5",
+        "zh-CN": "北汽幻速H5",
+        "zh-TW": "北汽幻速H5",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2019",
+      "note": "北汽幻速紧凑型MPV,2018年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:husun-h6",
+      "brand": "Husun",
+      "names": {
+        "en": "Husun H6",
+        "zh-CN": "北汽幻速H6",
+        "zh-TW": "北汽幻速H6",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "北汽幻速轻型客车/厢式货车,2017年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:h6-ev",
+      "brand": "Husun",
+      "names": {
+        "en": "Husun H6-EV",
+        "zh-CN": "北汽幻速H6-EV",
+        "zh-TW": "北汽幻速H6-EV",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "北汽幻速H6纯电动版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:husun-s4",
+      "brand": "Husun",
+      "names": {
+        "en": "Husun S4",
+        "zh-CN": "北汽幻速S4",
+        "zh-TW": "北汽幻速S4",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2019",
+      "note": "北汽幻速小型SUV,2018年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:husun:s5-ev",
+      "brand": "Husun",
+      "names": {
+        "en": "Husun S5-EV",
+        "zh-CN": "北汽幻速S5-EV",
+        "zh-TW": "北汽幻速S5-EV",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "北汽幻速S5纯电动版",
       "verified": "verified"
     }
   ]

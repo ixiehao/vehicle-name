@@ -3,7 +3,12 @@
     {
       "id": "model:karoo:youyou",
       "brand": "Karoo",
-      "names": {"en": "Karoo Youyou", "zh-CN": "优优", "zh-TW": "優優", "ja": "—"},
+      "names": {
+        "en": "Karoo Youyou",
+        "zh-CN": "优优",
+        "zh-TW": "優優",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:karoo:youyou-2",
       "brand": "Karoo",
-      "names": {"en": "Karoo Youyou 2", "zh-CN": "优优2代", "zh-TW": "優優2代", "ja": "—"},
+      "names": {
+        "en": "Karoo Youyou 2",
+        "zh-CN": "优优2代",
+        "zh-TW": "優優2代",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:karoo:youjin",
       "brand": "Karoo",
-      "names": {"en": "Karoo Youjin", "zh-CN": "优劲", "zh-TW": "優勁", "ja": "—"},
+      "names": {
+        "en": "Karoo Youjin",
+        "zh-CN": "优劲",
+        "zh-TW": "優勁",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:karoo:youya",
       "brand": "Karoo",
-      "names": {"en": "Karoo Youya", "zh-CN": "优雅", "zh-TW": "優雅", "ja": "—"},
+      "names": {
+        "en": "Karoo Youya",
+        "zh-CN": "优雅",
+        "zh-TW": "優雅",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:karoo:youya-2",
       "brand": "Karoo",
-      "names": {"en": "Karoo Youya 2", "zh-CN": "优雅2代", "zh-TW": "優雅2代", "ja": "—"},
+      "names": {
+        "en": "Karoo Youya 2",
+        "zh-CN": "优雅2代",
+        "zh-TW": "優雅2代",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -63,19 +88,31 @@
     {
       "id": "model:karoo:k50",
       "brand": "Karoo",
-      "names": {"en": "Karoo K50", "zh-CN": "K50", "zh-TW": "K50", "ja": "—"},
+      "names": {
+        "en": "Karoo K50",
+        "zh-CN": "K50",
+        "zh-TW": "K50",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
-      "status": "current",
-      "years": "2014–present",
-      "note": "开瑞K50紧凑型MPV(7座家用)",
-      "verified": "pending"
+      "status": "discontinued",
+      "years": "2015-2020",
+      "note": "开瑞K50(2015-2020),开瑞紧凑型MPV(7座家用),2020年停产",
+      "verified": "verified",
+      "en": "K50",
+      "zh-CN": "开瑞K50"
     },
     {
       "id": "model:karoo:k60",
       "brand": "Karoo",
-      "names": {"en": "Karoo K60", "zh-CN": "K60", "zh-TW": "K60", "ja": "—"},
+      "names": {
+        "en": "Karoo K60",
+        "zh-CN": "K60",
+        "zh-TW": "K60",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -83,6 +120,405 @@
       "years": "2016–present",
       "note": "开瑞K60紧凑型SUV/MPV跨界(7座)",
       "verified": "verified"
+    },
+    {
+      "id": "model:karoo:karoo-x6",
+      "brand": "Karoo",
+      "names": {
+        "en": "X6",
+        "zh-CN": "X6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016-2020",
+      "note": "开瑞X6(2016-2020),开瑞紧凑型SUV,2020年停产",
+      "verified": "verified",
+      "en": "X6",
+      "zh-CN": "开瑞X6"
+    },
+    {
+      "id": "model:karoo:karoo-ev",
+      "brand": "Karoo",
+      "names": {
+        "en": "Youyou EV",
+        "zh-CN": "优优EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019-present",
+      "note": "优优EV(2019-),开瑞纯电微面",
+      "verified": "verified",
+      "en": "Youyou EV",
+      "zh-CN": "优优EV"
+    },
+    {
+      "id": "model:karoo:karoo-ev-2",
+      "brand": "Karoo",
+      "names": {
+        "en": "Youjin EV",
+        "zh-CN": "优劲EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019-present",
+      "note": "优劲EV(2019-),开瑞纯电微卡",
+      "verified": "verified",
+      "en": "Youjin EV",
+      "zh-CN": "优劲EV"
+    },
+    {
+      "id": "model:karoo:karoo-t5",
+      "brand": "Karoo",
+      "names": {
+        "en": "Youjin T5",
+        "zh-CN": "优劲T5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015-2020",
+      "note": "优劲T5(2015-2020),开瑞微卡,2020年停产",
+      "verified": "verified",
+      "en": "Youjin T5",
+      "zh-CN": "优劲T5"
+    },
+    {
+      "id": "model:karoo:48796f165c",
+      "brand": "Karoo",
+      "names": {
+        "en": "Youpai",
+        "zh-CN": "优派",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011-2015",
+      "note": "优派(2011-2015),开瑞微面,2015年停产",
+      "verified": "verified",
+      "en": "Youpai",
+      "zh-CN": "优派"
+    },
+    {
+      "id": "model:karoo:13ec2d777c",
+      "brand": "Karoo",
+      "names": {
+        "en": "Youyi",
+        "zh-CN": "优翼",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2015",
+      "note": "优翼(2010-2015),开瑞微面,2015年停产",
+      "verified": "verified",
+      "en": "Youyi",
+      "zh-CN": "优翼"
+    },
+    {
+      "id": "model:karoo:32d0b228d4",
+      "brand": "Karoo",
+      "names": {
+        "en": "Yousheng",
+        "zh-CN": "优胜",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2015",
+      "note": "优胜(2010-2015),开瑞微面,2015年停产",
+      "verified": "verified",
+      "en": "Yousheng",
+      "zh-CN": "优胜"
+    },
+    {
+      "id": "model:karoo:karoo-2",
+      "brand": "Karoo",
+      "names": {
+        "en": "Yousheng 2 Gen",
+        "zh-CN": "优胜2代",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012-2016",
+      "note": "优胜2代(2012-2016),开瑞微面,2016年停产",
+      "verified": "verified",
+      "en": "Yousheng 2 Gen",
+      "zh-CN": "优胜2代"
+    },
+    {
+      "id": "model:karoo:s-ev",
+      "brand": "Karoo",
+      "names": {
+        "en": "Elephant S Card EV",
+        "zh-CN": "小象S卡EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "小象S卡EV(2022-),开瑞纯电微卡",
+      "verified": "verified",
+      "en": "Elephant S Card EV",
+      "zh-CN": "小象S卡EV"
+    },
+    {
+      "id": "model:karoo:karoo-x3",
+      "brand": "Karoo",
+      "names": {
+        "en": "Elephant X3",
+        "zh-CN": "小象X3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "小象X3(2022-),开瑞微卡",
+      "verified": "verified",
+      "en": "Elephant X3",
+      "zh-CN": "小象X3"
+    },
+    {
+      "id": "model:karoo:karoo-x5",
+      "brand": "Karoo",
+      "names": {
+        "en": "Elephant X5",
+        "zh-CN": "小象X5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "小象X5(2022-),开瑞微卡",
+      "verified": "verified",
+      "en": "Elephant X5",
+      "zh-CN": "小象X5"
+    },
+    {
+      "id": "model:karoo:karoo-x7",
+      "brand": "Karoo",
+      "names": {
+        "en": "Elephant X7",
+        "zh-CN": "小象X7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022-present",
+      "note": "小象X7(2022-),开瑞微卡",
+      "verified": "verified",
+      "en": "Elephant X7",
+      "zh-CN": "小象X7"
+    },
+    {
+      "id": "model:karoo:ek1",
+      "brand": "Karoo",
+      "names": {
+        "en": "Karoo EK1",
+        "zh-CN": "开瑞EK1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022-present",
+      "note": "开瑞EK1(2022-),开瑞纯电微型车",
+      "verified": "verified",
+      "en": "EK1",
+      "zh-CN": "开瑞EK1"
+    },
+    {
+      "id": "model:karoo:k50ev",
+      "brand": "Karoo",
+      "names": {
+        "en": "Karoo K50EV",
+        "zh-CN": "开瑞K50EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019-2021",
+      "note": "开瑞K50EV(2019-2021),K50纯电版,2021年停产",
+      "verified": "verified",
+      "en": "K50EV",
+      "zh-CN": "开瑞K50EV"
+    },
+    {
+      "id": "model:karoo:k60ev",
+      "brand": "Karoo",
+      "names": {
+        "en": "Karoo K60EV",
+        "zh-CN": "开瑞K60EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2019-present",
+      "note": "开瑞K60EV(2019-),K60纯电版",
+      "verified": "verified",
+      "en": "K60EV",
+      "zh-CN": "开瑞K60EV"
+    },
+    {
+      "id": "model:karoo:x70",
+      "brand": "Karoo",
+      "names": {
+        "en": "Karoo X70",
+        "zh-CN": "开瑞X70",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023-present",
+      "note": "开瑞X70(2023-),开瑞轻客",
+      "verified": "verified",
+      "en": "X70",
+      "zh-CN": "开瑞X70"
+    },
+    {
+      "id": "model:karoo:37950c1f12",
+      "brand": "Karoo",
+      "names": {
+        "en": "Jiehu",
+        "zh-CN": "杰虎",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2018",
+      "note": "杰虎(2013-2018),开瑞皮卡,2018年停产",
+      "verified": "verified",
+      "en": "Jiehu",
+      "zh-CN": "杰虎"
+    },
+    {
+      "id": "model:karoo:edad7c4850",
+      "brand": "Karoo",
+      "names": {
+        "en": "Finless Porpoise",
+        "zh-CN": "江豚",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "江豚(2023-),开瑞纯电物流车",
+      "verified": "verified",
+      "en": "Finless Porpoise",
+      "zh-CN": "江豚"
+    },
+    {
+      "id": "model:karoo:karoo-e5",
+      "brand": "Karoo",
+      "names": {
+        "en": "Finless Porpoise E5",
+        "zh-CN": "江豚E5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "江豚E5(2023-),开瑞纯电物流车",
+      "verified": "verified",
+      "en": "Finless Porpoise E5",
+      "zh-CN": "江豚E5"
+    },
+    {
+      "id": "model:karoo:karoo-e6",
+      "brand": "Karoo",
+      "names": {
+        "en": "Finless Porpoise E6",
+        "zh-CN": "江豚E6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "江豚E6(2023-),开瑞纯电物流车",
+      "verified": "verified",
+      "en": "Finless Porpoise E6",
+      "zh-CN": "江豚E6"
+    },
+    {
+      "id": "model:karoo:karoo-e7",
+      "brand": "Karoo",
+      "names": {
+        "en": "Finless Porpoise E7",
+        "zh-CN": "江豚E7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023-present",
+      "note": "江豚E7(2023-),开瑞纯电物流车",
+      "verified": "verified",
+      "en": "Finless Porpoise E7",
+      "zh-CN": "江豚E7"
     }
   ]
 }

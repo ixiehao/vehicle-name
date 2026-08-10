@@ -3,7 +3,12 @@
     {
       "id": "model:isuzu:d-max",
       "brand": "Isuzu",
-      "names": {"en": "D-MAX", "zh-CN": "D-MAX", "zh-TW": "D-MAX", "ja": "D-MAX(ディーマックス)"},
+      "names": {
+        "en": "D-MAX",
+        "zh-CN": "D-MAX",
+        "zh-TW": "D-MAX",
+        "ja": "D-MAX(ディーマックス)"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:isuzu:mu-x",
       "brand": "Isuzu",
-      "names": {"en": "MU-X", "zh-CN": "牧游侠(MU-X)", "zh-TW": "MU-X", "ja": "MU-X(エムユーエックス)"},
+      "names": {
+        "en": "MU-X",
+        "zh-CN": "牧游侠(MU-X)",
+        "zh-TW": "MU-X",
+        "ja": "MU-X(エムユーエックス)"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:isuzu:trooper",
       "brand": "Isuzu",
-      "names": {"en": "Trooper", "zh-CN": "竞技者(庆铃)", "zh-TW": "Trooper", "ja": "ビッグホーン"},
+      "names": {
+        "en": "Trooper",
+        "zh-CN": "竞技者(庆铃)",
+        "zh-TW": "Trooper",
+        "ja": "ビッグホーン"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:isuzu:gemini",
       "brand": "Isuzu",
-      "names": {"en": "Gemini", "zh-CN": "—", "zh-TW": "—", "ja": "ジェミニ"},
+      "names": {
+        "en": "Gemini",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ジェミニ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:isuzu:aska",
       "brand": "Isuzu",
-      "names": {"en": "Aska", "zh-CN": "—", "zh-TW": "—", "ja": "アスカ"},
+      "names": {
+        "en": "Aska",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "アスカ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:isuzu:impulse",
       "brand": "Isuzu",
-      "names": {"en": "Impulse", "zh-CN": "—", "zh-TW": "—", "ja": "ピアッツァ"},
+      "names": {
+        "en": "Impulse",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "ピアッツァ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:isuzu:117-coupe",
       "brand": "Isuzu",
-      "names": {"en": "117 Coupe", "zh-CN": "—", "zh-TW": "—", "ja": "117クーペ"},
+      "names": {
+        "en": "117 Coupe",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "117クーペ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:isuzu:elf",
       "brand": "Isuzu",
-      "names": {"en": "Elf", "zh-CN": "—", "zh-TW": "—", "ja": "エルフ"},
+      "names": {
+        "en": "Elf",
+        "zh-CN": "—",
+        "zh-TW": "—",
+        "ja": "エルフ"
+      },
       "segment": "class:jp:normal",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:isuzu:taga",
       "brand": "Isuzu",
-      "names": {"en": "TAGA", "zh-CN": "达咖(TAGA)", "zh-TW": "TAGA", "ja": "TAGA"},
+      "names": {
+        "en": "TAGA",
+        "zh-CN": "达咖(TAGA)",
+        "zh-TW": "TAGA",
+        "ja": "TAGA"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
@@ -111,13 +156,137 @@
     {
       "id": "model:isuzu:t17",
       "brand": "Isuzu",
-      "names": {"en": "T17", "zh-CN": "庆铃T17", "zh-TW": "T17", "ja": "T17"},
+      "names": {
+        "en": "T17",
+        "zh-CN": "庆铃T17",
+        "zh-TW": "T17",
+        "ja": "T17"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2017–present",
       "note": "庆铃五十铃生产的皮卡(基于五十铃TF系列技术),2017年上市,2023年仍推出新款",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:re-max",
+      "brand": "Isuzu",
+      "names": {
+        "en": "Isuzu RE-MAX",
+        "zh-CN": "五十铃瑞迈",
+        "zh-TW": "五十鈴瑞邁",
+        "ja": "いすゞ リーマックス"
+      },
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2015–present",
+      "note": "江西五十铃生产的皮卡,基于D-MAX平台,定位低于D-MAX;含加长版瑞迈S",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:t28",
+      "brand": "Isuzu",
+      "names": {
+        "en": "Qingling Isuzu T28",
+        "zh-CN": "庆铃T28",
+        "zh-TW": "慶鈴T28",
+        "ja": "ケイレイ T28"
+      },
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "庆铃五十铃生产的皮卡,2020年上市,搭载五十铃4K系列柴油发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:t30",
+      "brand": "Isuzu",
+      "names": {
+        "en": "Qingling Isuzu T30",
+        "zh-CN": "庆铃五十铃T30",
+        "zh-TW": "慶鈴五十鈴T30",
+        "ja": "ケイレイ T30"
+      },
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2023–present",
+      "note": "庆铃五十铃生产的全新皮卡,2023年上市,搭载五十铃3.0T柴油发动机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:isuzu-ev",
+      "brand": "Isuzu",
+      "names": {
+        "en": "Isuzu Ruimai EV",
+        "zh-CN": "瑞迈EV",
+        "zh-TW": "瑞邁EV",
+        "ja": "リーマックスEV"
+      },
+      "segment": "class:us:pickup",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2020–present",
+      "note": "江西五十铃瑞迈纯电动版,纯电皮卡",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:203c3b61be",
+      "brand": "Isuzu",
+      "names": {
+        "en": "Isuzu Rodeo",
+        "zh-CN": "五十铃竞技者",
+        "zh-TW": "五十鈴競技者",
+        "ja": "いすゞ ロデオ"
+      },
+      "segment": "class:us:standard-suv",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1999–2005",
+      "note": "庆铃五十铃国产SUV,原型为Isuzu Rodeo(北美)/MU(日本);非承载式,含柴油版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:805d752b28",
+      "brand": "Isuzu",
+      "names": {
+        "en": "Isuzu Yifang",
+        "zh-CN": "五十铃翼放",
+        "zh-TW": "五十鈴翼放",
+        "ja": "いすゞ イーファン"
+      },
+      "segment": "class:jp:normal",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2020–present",
+      "note": "江西五十铃生产的轻卡,基于Isuzu ELF平台,2020年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:isuzu:isuzu-ev-2",
+      "brand": "Isuzu",
+      "names": {
+        "en": "Isuzu Yifang EV",
+        "zh-CN": "五十铃翼放EV",
+        "zh-TW": "五十鈴翼放EV",
+        "ja": "いすゞ イーファンEV"
+      },
+      "segment": "class:jp:normal",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2021–present",
+      "note": "江西五十铃翼放纯电动轻卡",
       "verified": "verified"
     }
   ]

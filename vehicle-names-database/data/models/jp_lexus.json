@@ -3,7 +3,12 @@
     {
       "id": "model:lexus:ls",
       "brand": "Lexus",
-      "names": {"en": "LS", "zh-CN": "LS", "zh-TW": "LS", "ja": "LS(エルエス)"},
+      "names": {
+        "en": "LS",
+        "zh-CN": "LS",
+        "zh-TW": "LS",
+        "ja": "LS(エルエス)"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:hev",
@@ -15,7 +20,12 @@
     {
       "id": "model:lexus:es",
       "brand": "Lexus",
-      "names": {"en": "ES", "zh-CN": "ES", "zh-TW": "ES", "ja": "ES"},
+      "names": {
+        "en": "ES",
+        "zh-CN": "ES",
+        "zh-TW": "ES",
+        "ja": "ES"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:hev",
@@ -27,7 +37,12 @@
     {
       "id": "model:lexus:is",
       "brand": "Lexus",
-      "names": {"en": "IS", "zh-CN": "IS", "zh-TW": "IS", "ja": "IS"},
+      "names": {
+        "en": "IS",
+        "zh-CN": "IS",
+        "zh-TW": "IS",
+        "ja": "IS"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:lexus:gs",
       "brand": "Lexus",
-      "names": {"en": "GS", "zh-CN": "GS", "zh-TW": "GS", "ja": "GS"},
+      "names": {
+        "en": "GS",
+        "zh-CN": "GS",
+        "zh-TW": "GS",
+        "ja": "GS"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:lexus:rc",
       "brand": "Lexus",
-      "names": {"en": "RC", "zh-CN": "RC", "zh-TW": "RC", "ja": "RC"},
+      "names": {
+        "en": "RC",
+        "zh-CN": "RC",
+        "zh-TW": "RC",
+        "ja": "RC"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:lexus:lc",
       "brand": "Lexus",
-      "names": {"en": "LC", "zh-CN": "LC", "zh-TW": "LC", "ja": "LC"},
+      "names": {
+        "en": "LC",
+        "zh-CN": "LC",
+        "zh-TW": "LC",
+        "ja": "LC"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:hev",
@@ -75,7 +105,12 @@
     {
       "id": "model:lexus:ux",
       "brand": "Lexus",
-      "names": {"en": "UX", "zh-CN": "UX", "zh-TW": "UX", "ja": "UX"},
+      "names": {
+        "en": "UX",
+        "zh-CN": "UX",
+        "zh-TW": "UX",
+        "ja": "UX"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:hev",
@@ -87,7 +122,12 @@
     {
       "id": "model:lexus:nx",
       "brand": "Lexus",
-      "names": {"en": "NX", "zh-CN": "NX", "zh-TW": "NX", "ja": "NX"},
+      "names": {
+        "en": "NX",
+        "zh-CN": "NX",
+        "zh-TW": "NX",
+        "ja": "NX"
+      },
       "segment": "class:us:compact",
       "body_style": "body:crossover",
       "powertrain": "pt:hev",
@@ -99,7 +139,12 @@
     {
       "id": "model:lexus:rx",
       "brand": "Lexus",
-      "names": {"en": "RX", "zh-CN": "RX", "zh-TW": "RX", "ja": "RX"},
+      "names": {
+        "en": "RX",
+        "zh-CN": "RX",
+        "zh-TW": "RX",
+        "ja": "RX"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:crossover",
       "powertrain": "pt:hev",
@@ -111,7 +156,12 @@
     {
       "id": "model:lexus:gx",
       "brand": "Lexus",
-      "names": {"en": "GX", "zh-CN": "GX", "zh-TW": "GX", "ja": "GX"},
+      "names": {
+        "en": "GX",
+        "zh-CN": "GX",
+        "zh-TW": "GX",
+        "ja": "GX"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:lexus:lx",
       "brand": "Lexus",
-      "names": {"en": "LX", "zh-CN": "LX", "zh-TW": "LX", "ja": "LX"},
+      "names": {
+        "en": "LX",
+        "zh-CN": "LX",
+        "zh-TW": "LX",
+        "ja": "LX"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:lexus:lm",
       "brand": "Lexus",
-      "names": {"en": "LM", "zh-CN": "LM", "zh-TW": "LM", "ja": "LM"},
+      "names": {
+        "en": "LM",
+        "zh-CN": "LM",
+        "zh-TW": "LM",
+        "ja": "LM"
+      },
       "segment": "class:eu:m",
       "body_style": "body:minivan",
       "powertrain": "pt:hev",
@@ -147,7 +207,12 @@
     {
       "id": "model:lexus:lbx",
       "brand": "Lexus",
-      "names": {"en": "LBX", "zh-CN": "LBX", "zh-TW": "LBX", "ja": "LBX"},
+      "names": {
+        "en": "LBX",
+        "zh-CN": "LBX",
+        "zh-TW": "LBX",
+        "ja": "LBX"
+      },
       "segment": "class:us:small-suv",
       "body_style": "body:crossover",
       "powertrain": "pt:hev",
@@ -159,7 +224,12 @@
     {
       "id": "model:lexus:rz",
       "brand": "Lexus",
-      "names": {"en": "RZ", "zh-CN": "RZ", "zh-TW": "RZ", "ja": "RZ"},
+      "names": {
+        "en": "RZ",
+        "zh-CN": "RZ",
+        "zh-TW": "RZ",
+        "ja": "RZ"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -171,7 +241,12 @@
     {
       "id": "model:lexus:tx",
       "brand": "Lexus",
-      "names": {"en": "TX", "zh-CN": "TX", "zh-TW": "TX", "ja": "TX"},
+      "names": {
+        "en": "TX",
+        "zh-CN": "TX",
+        "zh-TW": "TX",
+        "ja": "TX"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:lexus:hs",
       "brand": "Lexus",
-      "names": {"en": "HS", "zh-CN": "HS", "zh-TW": "HS", "ja": "HS"},
+      "names": {
+        "en": "HS",
+        "zh-CN": "HS",
+        "zh-TW": "HS",
+        "ja": "HS"
+      },
       "segment": "class:eu:c",
       "body_style": "body:sedan",
       "powertrain": "pt:hev",
@@ -195,7 +275,12 @@
     {
       "id": "model:lexus:ct",
       "brand": "Lexus",
-      "names": {"en": "CT", "zh-CN": "CT", "zh-TW": "CT", "ja": "CT"},
+      "names": {
+        "en": "CT",
+        "zh-CN": "CT",
+        "zh-TW": "CT",
+        "ja": "CT"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:hev",
@@ -203,6 +288,82 @@
       "years": "2010-2022",
       "note": "紧凑型混动两厢车(CT 200h),曾以进口身份在中国销售;2022年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:lexus:gs-f",
+      "brand": "Lexus",
+      "names": {
+        "en": "GS F",
+        "zh-CN": "GS F",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:e",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2020",
+      "note": "GS F(2015-2020),GS高性能版,5.0L V8(467马力),2020年随GS停产",
+      "verified": "verified",
+      "zh-TW": "GS F",
+      "ja": "GS F"
+    },
+    {
+      "id": "model:lexus:is-f",
+      "brand": "Lexus",
+      "names": {
+        "en": "IS F",
+        "zh-CN": "IS F",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2014",
+      "note": "IS F(2008-2014),IS高性能版,5.0L V8(416马力)",
+      "verified": "verified",
+      "zh-TW": "IS F",
+      "ja": "IS F"
+    },
+    {
+      "id": "model:lexus:lfa",
+      "brand": "Lexus",
+      "names": {
+        "en": "Lexus LFA",
+        "zh-CN": "雷克萨斯LFA",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2012",
+      "note": "LFA(2010-2012),雷克萨斯旗舰超级跑车,V10自吸(560马力),限量500台",
+      "verified": "verified",
+      "zh-TW": "LFA",
+      "ja": "LFA"
+    },
+    {
+      "id": "model:lexus:lexus-sc",
+      "brand": "Lexus",
+      "names": {
+        "en": "Lexus SC",
+        "zh-CN": "雷克萨斯SC",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1991–2010",
+      "note": "SC(1991-2010),雷克萨斯豪华轿跑(SC 300/400/430),含敞篷版",
+      "verified": "verified",
+      "zh-TW": "SC",
+      "ja": "SC"
     }
   ]
 }

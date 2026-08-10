@@ -3,7 +3,12 @@
     {
       "id": "model:baw:212",
       "brand": "BAW",
-      "names": {"en": "BAW 212", "zh-CN": "212", "zh-TW": "BAW 212", "ja": "—"},
+      "names": {
+        "en": "BAW 212",
+        "zh-CN": "212",
+        "zh-TW": "BAW 212",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:baw:bw007",
       "brand": "BAW",
-      "names": {"en": "BAW BW007", "zh-CN": "BW007", "zh-TW": "BAW BW007", "ja": "—"},
+      "names": {
+        "en": "BAW BW007",
+        "zh-CN": "BW007",
+        "zh-TW": "BAW BW007",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:baw:t01",
       "brand": "BAW",
-      "names": {"en": "212 T01", "zh-CN": "212 T01", "zh-TW": "212 T01", "ja": "—"},
+      "names": {
+        "en": "212 T01",
+        "zh-CN": "212 T01",
+        "zh-TW": "212 T01",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,14 +54,145 @@
     {
       "id": "model:baw:warrior",
       "brand": "BAW",
-      "names": {"en": "BAW Warrior", "zh-CN": "勇士", "zh-TW": "BAW Warrior", "ja": "—"},
+      "names": {
+        "en": "BAW Warrior",
+        "zh-CN": "勇士",
+        "zh-TW": "BAW Warrior",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2007–2020",
       "note": "中型硬派越野车,军用勇士民用化产品,2007年前后上市;2020年前后停产",
-      "verified": "pending"
+      "verified": "verified"
+    },
+    {
+      "id": "model:baw:82104fd1e0",
+      "brand": "BAW",
+      "names": {
+        "en": "Yuanbao",
+        "zh-CN": "元宝",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:city-car",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2023–present",
+      "note": "元宝(2023-),北汽制造纯电微型车",
+      "verified": "verified",
+      "zh-TW": "元寶"
+    },
+    {
+      "id": "model:baw:f4da434a6a",
+      "brand": "BAW",
+      "names": {
+        "en": "Brave Warrior Pickup",
+        "zh-CN": "勇士皮卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2014–present",
+      "note": "勇士皮卡,勇士系列皮卡版",
+      "verified": "verified",
+      "zh-TW": "勇士皮卡"
+    },
+    {
+      "id": "model:baw:cebb8550b6",
+      "brand": "BAW",
+      "names": {
+        "en": "Calorie",
+        "zh-CN": "卡路里",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "卡路里(2022-),北汽制造小型皮卡",
+      "verified": "verified",
+      "zh-TW": "卡路里"
+    },
+    {
+      "id": "model:baw:d8394ba5f7",
+      "brand": "BAW",
+      "names": {
+        "en": "Zhanqi",
+        "zh-CN": "战旗",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "战旗(2005-2015),北汽制造经典越野SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "戰旗"
+    },
+    {
+      "id": "model:baw:2aed7f4f9b",
+      "brand": "BAW",
+      "names": {
+        "en": "Zhanqi Pickup",
+        "zh-CN": "战旗皮卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2015",
+      "note": "战旗皮卡,战旗系列皮卡版,已停产",
+      "verified": "verified",
+      "zh-TW": "戰旗皮卡"
+    },
+    {
+      "id": "model:baw:d6099cd5d6",
+      "brand": "BAW",
+      "names": {
+        "en": "Luba",
+        "zh-CN": "陆霸",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2010",
+      "note": "陆霸(2003-2010),北汽SUV,基于丰田普拉多(90系)技术,已停产",
+      "verified": "verified",
+      "zh-TW": "陸霸"
+    },
+    {
+      "id": "model:baw:s12",
+      "brand": "BAW",
+      "names": {
+        "en": "Knight S12",
+        "zh-CN": "骑士S12",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011–2015",
+      "note": "骑士S12(2011-2015),北汽SUV,已停产",
+      "verified": "verified",
+      "zh-TW": "騎士S12"
     }
   ]
 }

@@ -3,7 +3,12 @@
     {
       "id": "model:weiwang:205",
       "brand": "Weiwang",
-      "names": {"en": "Weiwang 205", "zh-CN": "205", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Weiwang 205",
+        "zh-CN": "205",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:weiwang:306",
       "brand": "Weiwang",
-      "names": {"en": "Weiwang 306", "zh-CN": "306", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Weiwang 306",
+        "zh-CN": "306",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:weiwang:307",
       "brand": "Weiwang",
-      "names": {"en": "Weiwang 307", "zh-CN": "307", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Weiwang 307",
+        "zh-CN": "307",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:weiwang:m20",
       "brand": "Weiwang",
-      "names": {"en": "Weiwang M20", "zh-CN": "M20", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Weiwang M20",
+        "zh-CN": "M20",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:weiwang:m30",
       "brand": "Weiwang",
-      "names": {"en": "Weiwang M30", "zh-CN": "M30", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Weiwang M30",
+        "zh-CN": "M30",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:weiwang:m50f",
       "brand": "Weiwang",
-      "names": {"en": "Weiwang M50F", "zh-CN": "M50F", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Weiwang M50F",
+        "zh-CN": "M50F",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -75,13 +105,137 @@
     {
       "id": "model:weiwang:s50",
       "brand": "Weiwang",
-      "names": {"en": "Weiwang S50", "zh-CN": "S50", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Weiwang S50",
+        "zh-CN": "S50",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2016–2019",
       "note": "北汽威旺紧凑型SUV,威旺品牌首款SUV",
+      "verified": "verified"
+    },
+    {
+      "id": "model:weiwang:307ev",
+      "brand": "Weiwang",
+      "names": {
+        "en": "Weiwang 307EV",
+        "zh-CN": "北汽威旺307EV",
+        "zh-TW": "北汽威旺307EV",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "威旺307纯电动版,微面/厢式货车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:weiwang:407ev",
+      "brand": "Weiwang",
+      "names": {
+        "en": "Weiwang 407EV",
+        "zh-CN": "北汽威旺407EV",
+        "zh-TW": "北汽威旺407EV",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "威旺407纯电动版,微面/厢式货车",
+      "verified": "verified"
+    },
+    {
+      "id": "model:weiwang:608ev",
+      "brand": "Weiwang",
+      "names": {
+        "en": "Weiwang 608EV",
+        "zh-CN": "北汽威旺608EV",
+        "zh-TW": "北汽威旺608EV",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "威旺608纯电动版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:weiwang:bq5",
+      "brand": "Weiwang",
+      "names": {
+        "en": "Weiwang BQ5",
+        "zh-CN": "北汽威旺BQ5",
+        "zh-TW": "北汽威旺BQ5",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "威旺紧凑型SUV,2018年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:weiwang:m35",
+      "brand": "Weiwang",
+      "names": {
+        "en": "Weiwang M35",
+        "zh-CN": "北汽威旺M35",
+        "zh-TW": "北汽威旺M35",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016–2019",
+      "note": "威旺紧凑型MPV,M20的升级版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:weiwang:m60",
+      "brand": "Weiwang",
+      "names": {
+        "en": "Weiwang M60",
+        "zh-CN": "北汽威旺M60",
+        "zh-TW": "北汽威旺M60",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "威旺紧凑型SUV,7座布局",
+      "verified": "verified"
+    },
+    {
+      "id": "model:weiwang:t205-d",
+      "brand": "Weiwang",
+      "names": {
+        "en": "Weiwang T205-D",
+        "zh-CN": "北汽威旺T205-D",
+        "zh-TW": "北汽威旺T205-D",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "威旺微型卡车",
       "verified": "verified"
     }
   ]

@@ -3,7 +3,12 @@
     {
       "id": "model:lifan:320",
       "brand": "Lifan",
-      "names": {"en": "Lifan 320", "zh-CN": "320", "zh-TW": "320", "ja": "—"},
+      "names": {
+        "en": "Lifan 320",
+        "zh-CN": "320",
+        "zh-TW": "320",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:lifan:330",
       "brand": "Lifan",
-      "names": {"en": "Lifan 330", "zh-CN": "330", "zh-TW": "330", "ja": "—"},
+      "names": {
+        "en": "Lifan 330",
+        "zh-CN": "330",
+        "zh-TW": "330",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:lifan:520",
       "brand": "Lifan",
-      "names": {"en": "Lifan 520", "zh-CN": "520", "zh-TW": "520", "ja": "—"},
+      "names": {
+        "en": "Lifan 520",
+        "zh-CN": "520",
+        "zh-TW": "520",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:lifan:620",
       "brand": "Lifan",
-      "names": {"en": "Lifan 620", "zh-CN": "620", "zh-TW": "620", "ja": "—"},
+      "names": {
+        "en": "Lifan 620",
+        "zh-CN": "620",
+        "zh-TW": "620",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:lifan:720",
       "brand": "Lifan",
-      "names": {"en": "Lifan 720", "zh-CN": "720", "zh-TW": "720", "ja": "—"},
+      "names": {
+        "en": "Lifan 720",
+        "zh-CN": "720",
+        "zh-TW": "720",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:lifan:820",
       "brand": "Lifan",
-      "names": {"en": "Lifan 820", "zh-CN": "820", "zh-TW": "820", "ja": "—"},
+      "names": {
+        "en": "Lifan 820",
+        "zh-CN": "820",
+        "zh-TW": "820",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:lifan:x50",
       "brand": "Lifan",
-      "names": {"en": "Lifan X50", "zh-CN": "X50", "zh-TW": "X50", "ja": "—"},
+      "names": {
+        "en": "Lifan X50",
+        "zh-CN": "X50",
+        "zh-TW": "X50",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:lifan:x60",
       "brand": "Lifan",
-      "names": {"en": "Lifan X60", "zh-CN": "X60", "zh-TW": "X60", "ja": "—"},
+      "names": {
+        "en": "Lifan X60",
+        "zh-CN": "X60",
+        "zh-TW": "X60",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:lifan:x80",
       "brand": "Lifan",
-      "names": {"en": "Lifan X80", "zh-CN": "X80", "zh-TW": "X80", "ja": "—"},
+      "names": {
+        "en": "Lifan X80",
+        "zh-CN": "X80",
+        "zh-TW": "X80",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:lifan:xuanlang",
       "brand": "Lifan",
-      "names": {"en": "Lifan Xuanlang", "zh-CN": "轩朗", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Lifan Xuanlang",
+        "zh-CN": "轩朗",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:lifan:maiwei",
       "brand": "Lifan",
-      "names": {"en": "Lifan Maiwei", "zh-CN": "迈威", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Lifan Maiwei",
+        "zh-CN": "迈威",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:lifan:letu",
       "brand": "Lifan",
-      "names": {"en": "Lifan Letu", "zh-CN": "乐途", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Lifan Letu",
+        "zh-CN": "乐途",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -143,6 +203,150 @@
       "years": "2015–2017",
       "note": "紧凑型MPV/微面,主打多功能车市场",
       "verified": "verified"
+    },
+    {
+      "id": "model:lifan:330ev",
+      "brand": "Lifan",
+      "names": {
+        "en": "Lifan 330EV",
+        "zh-CN": "力帆330EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017–2019",
+      "note": "力帆330EV(2017-2019),330纯电版,已停产",
+      "verified": "verified",
+      "zh-TW": "330EV"
+    },
+    {
+      "id": "model:lifan:530",
+      "brand": "Lifan",
+      "names": {
+        "en": "Lifan 530",
+        "zh-CN": "力帆530",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "力帆530(2015-2018),紧凑型轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "530"
+    },
+    {
+      "id": "model:lifan:620ev",
+      "brand": "Lifan",
+      "names": {
+        "en": "Lifan 620EV",
+        "zh-CN": "力帆620EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "力帆620EV(2016-2018),620纯电版,已停产",
+      "verified": "verified",
+      "zh-TW": "620EV"
+    },
+    {
+      "id": "model:lifan:630",
+      "brand": "Lifan",
+      "names": {
+        "en": "Lifan 630",
+        "zh-CN": "力帆630",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2014–2018",
+      "note": "力帆630(2014-2018),620改款轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "630"
+    },
+    {
+      "id": "model:lifan:650",
+      "brand": "Lifan",
+      "names": {
+        "en": "Lifan 650",
+        "zh-CN": "力帆650",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2019",
+      "note": "力帆650(2015-2019),紧凑型轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "650"
+    },
+    {
+      "id": "model:lifan:650ev",
+      "brand": "Lifan",
+      "names": {
+        "en": "Lifan 650EV",
+        "zh-CN": "力帆650EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2019",
+      "note": "力帆650EV(2018-2019),650纯电版,已停产",
+      "verified": "verified",
+      "zh-TW": "650EV"
+    },
+    {
+      "id": "model:lifan:820ev",
+      "brand": "Lifan",
+      "names": {
+        "en": "Lifan 820EV",
+        "zh-CN": "力帆820EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "力帆820EV(2016-2018),820纯电版,续航约400公里,已停产",
+      "verified": "verified",
+      "zh-TW": "820EV"
+    },
+    {
+      "id": "model:lifan:80v",
+      "brand": "Lifan",
+      "names": {
+        "en": "Maple 80v",
+        "zh-CN": "力帆枫叶80v",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2022",
+      "note": "枫叶80v(2020-2022),力帆/枫叶品牌纯电MPV,支持换电,已停产",
+      "verified": "verified",
+      "zh-TW": "楓葉80v"
     }
   ]
 }

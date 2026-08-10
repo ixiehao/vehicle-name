@@ -356,6 +356,108 @@
       "years": "1992–2002",
       "note": "K-car小型车;官方历史资料库收录",
       "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:ayla",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Ayla",
+        "zh-CN": "大发Ayla",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2013–present",
+      "note": "大发印尼市场微型掀背车,2013年上市,与丰田Agya同源;马来西亚Perodua Axia同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:sigra",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Sigra",
+        "zh-CN": "大发Sigra",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2016–present",
+      "note": "大发印尼市场紧凑MPV,2016年上市,与丰田Calya同源",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:xenia",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Xenia",
+        "zh-CN": "大发Xenia",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2003–present",
+      "note": "大发印尼市场三排座MPV,2003年上市,与丰田Avanza同源;马来西亚Perodua Alza亦同平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:luxio",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Luxio",
+        "zh-CN": "大发Luxio",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2009–present",
+      "note": "大发印尼市场厢式MPV,2009年上市,基于Gran Max平台",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:gran-max",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Gran Max",
+        "zh-CN": "大发Gran Max",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2007–present",
+      "note": "大发印尼市场厢式货车/微卡,2007年上市,与丰田LiteAce同源;含货车(Gran Max Truck)与厢式(Gran Max Van)版",
+      "verified": "verified"
+    },
+    {
+      "id": "model:daihatsu:sirion",
+      "brand": "Daihatsu",
+      "names": {
+        "en": "Sirion",
+        "zh-CN": "大发Sirion",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2004–present",
+      "note": "大发东南亚市场小型掀背车(日本名Boon,另行收录),2004年上市,印尼生产,2017年改款",
+      "verified": "verified"
     }
   ]
 }

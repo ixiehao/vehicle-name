@@ -3,7 +3,12 @@
     {
       "id": "model:brilliance:h220",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance H220", "zh-CN": "中华H220", "zh-TW": "Brilliance H220", "ja": "—"},
+      "names": {
+        "en": "Brilliance H220",
+        "zh-CN": "中华H220",
+        "zh-TW": "Brilliance H220",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:brilliance:h230",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance H230", "zh-CN": "中华H230", "zh-TW": "Brilliance H230", "ja": "—"},
+      "names": {
+        "en": "Brilliance H230",
+        "zh-CN": "中华H230",
+        "zh-TW": "Brilliance H230",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:brilliance:h320",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance H320", "zh-CN": "中华H320", "zh-TW": "Brilliance H320", "ja": "—"},
+      "names": {
+        "en": "Brilliance H320",
+        "zh-CN": "中华H320",
+        "zh-TW": "Brilliance H320",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:brilliance:h330",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance H330", "zh-CN": "中华H330", "zh-TW": "Brilliance H330", "ja": "—"},
+      "names": {
+        "en": "Brilliance H330",
+        "zh-CN": "中华H330",
+        "zh-TW": "Brilliance H330",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:brilliance:h530",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance H530", "zh-CN": "中华H530", "zh-TW": "Brilliance H530", "ja": "—"},
+      "names": {
+        "en": "Brilliance H530",
+        "zh-CN": "中华H530",
+        "zh-TW": "Brilliance H530",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:brilliance:h3",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance H3", "zh-CN": "中华H3", "zh-TW": "Brilliance H3", "ja": "—"},
+      "names": {
+        "en": "Brilliance H3",
+        "zh-CN": "中华H3",
+        "zh-TW": "Brilliance H3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:brilliance:v3",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance V3", "zh-CN": "中华V3", "zh-TW": "Brilliance V3", "ja": "—"},
+      "names": {
+        "en": "Brilliance V3",
+        "zh-CN": "中华V3",
+        "zh-TW": "Brilliance V3",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:brilliance:v5",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance V5", "zh-CN": "中华V5", "zh-TW": "Brilliance V5", "ja": "—"},
+      "names": {
+        "en": "Brilliance V5",
+        "zh-CN": "中华V5",
+        "zh-TW": "Brilliance V5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:brilliance:v6",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance V6", "zh-CN": "中华V6", "zh-TW": "Brilliance V6", "ja": "—"},
+      "names": {
+        "en": "Brilliance V6",
+        "zh-CN": "中华V6",
+        "zh-TW": "Brilliance V6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:brilliance:v7",
       "brand": "Brilliance",
-      "names": {"en": "Brilliance V7", "zh-CN": "中华V7", "zh-TW": "Brilliance V7", "ja": "—"},
+      "names": {
+        "en": "Brilliance V7",
+        "zh-CN": "中华V7",
+        "zh-TW": "Brilliance V7",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -119,6 +169,132 @@
       "years": "2018–2020",
       "note": "中型SUV,华晨中华末期旗舰车型",
       "verified": "verified"
+    },
+    {
+      "id": "model:brilliance:h230ev",
+      "brand": "Brilliance",
+      "names": {
+        "en": "Brilliance H230EV",
+        "zh-CN": "中华H230EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2016–2018",
+      "note": "中华H230EV(2016-2018),H230纯电版,已停产",
+      "verified": "verified",
+      "zh-TW": "H230EV"
+    },
+    {
+      "id": "model:brilliance:b7634eed47",
+      "brand": "Brilliance",
+      "names": {
+        "en": "Brilliance Coupe",
+        "zh-CN": "中华酷宝",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007–2010",
+      "note": "酷宝(2007-2010),中华双门轿跑,已停产",
+      "verified": "verified",
+      "zh-TW": "酷寶"
+    },
+    {
+      "id": "model:brilliance:cross",
+      "brand": "Brilliance",
+      "names": {
+        "en": "Brilliance Junjie Cross",
+        "zh-CN": "中华骏捷Cross",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:crossover",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2011",
+      "note": "骏捷Cross(2009-2011),骏捷FRV跨界版,已停产",
+      "verified": "verified",
+      "zh-TW": "駿捷Cross"
+    },
+    {
+      "id": "model:brilliance:frv",
+      "brand": "Brilliance",
+      "names": {
+        "en": "Brilliance Junjie FRV",
+        "zh-CN": "中华骏捷FRV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2008–2013",
+      "note": "骏捷FRV(2008-2013),中华紧凑型两厢车,被H320接替,已停产",
+      "verified": "verified",
+      "zh-TW": "駿捷FRV"
+    },
+    {
+      "id": "model:brilliance:fsv",
+      "brand": "Brilliance",
+      "names": {
+        "en": "Brilliance Junjie FSV",
+        "zh-CN": "中华骏捷FSV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009–2013",
+      "note": "骏捷FSV(2009-2013),骏捷FRV三厢版,已停产",
+      "verified": "verified",
+      "zh-TW": "駿捷FSV"
+    },
+    {
+      "id": "model:brilliance:3195a14684",
+      "brand": "Brilliance",
+      "names": {
+        "en": "Zunchi",
+        "zh-CN": "尊驰",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2004–2012",
+      "note": "尊驰(2004-2012),中华中型轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "尊馳"
+    },
+    {
+      "id": "model:brilliance:3fc6138a87",
+      "brand": "Brilliance",
+      "names": {
+        "en": "Junjie",
+        "zh-CN": "骏捷",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2011",
+      "note": "骏捷(2006-2011),中华经典中型轿车,已停产",
+      "verified": "verified",
+      "zh-TW": "駿捷"
     }
   ]
 }

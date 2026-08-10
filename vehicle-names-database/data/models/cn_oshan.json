@@ -3,7 +3,12 @@
     {
       "id": "model:oshan:ouliwei",
       "brand": "Oshan",
-      "names": {"en": "Oshan Ouliwei", "zh-CN": "欧力威", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Oshan Ouliwei",
+        "zh-CN": "欧力威",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:oshan:ounuo",
       "brand": "Oshan",
-      "names": {"en": "Oshan Ounuo", "zh-CN": "欧诺", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Oshan Ounuo",
+        "zh-CN": "欧诺",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:oshan:a600",
       "brand": "Oshan",
-      "names": {"en": "Oshan A600", "zh-CN": "长安欧尚A600", "zh-TW": "A600", "ja": "—"},
+      "names": {
+        "en": "Oshan A600",
+        "zh-CN": "长安欧尚A600",
+        "zh-TW": "A600",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:oshan:a800",
       "brand": "Oshan",
-      "names": {"en": "Oshan A800", "zh-CN": "长安欧尚A800", "zh-TW": "A800", "ja": "—"},
+      "names": {
+        "en": "Oshan A800",
+        "zh-CN": "长安欧尚A800",
+        "zh-TW": "A800",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:oshan:cx70",
       "brand": "Oshan",
-      "names": {"en": "Oshan CX70", "zh-CN": "长安欧尚CX70", "zh-TW": "CX70", "ja": "—"},
+      "names": {
+        "en": "Oshan CX70",
+        "zh-CN": "长安欧尚CX70",
+        "zh-TW": "CX70",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:oshan:x70a",
       "brand": "Oshan",
-      "names": {"en": "Oshan X70A", "zh-CN": "长安欧尚X70A", "zh-TW": "X70A", "ja": "—"},
+      "names": {
+        "en": "Oshan X70A",
+        "zh-CN": "长安欧尚X70A",
+        "zh-TW": "X70A",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,79 +105,114 @@
     {
       "id": "model:oshan:x5",
       "brand": "Oshan",
-      "names": {"en": "Oshan X5", "zh-CN": "长安欧尚X5", "zh-TW": "X5", "ja": "—"},
+      "names": {
+        "en": "Oshan X5",
+        "zh-CN": "长安欧尚X5",
+        "zh-TW": "X5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2020–2023",
       "note": "长安欧尚X5紧凑型SUV(2020年上市),欧尚品牌销量主力;品牌整合进长安后停产,继任为长安X5 PLUS",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:oshan:x5-plus",
       "brand": "Oshan",
-      "names": {"en": "Oshan X5 Plus", "zh-CN": "长安欧尚X5 PLUS", "zh-TW": "X5 Plus", "ja": "—"},
+      "names": {
+        "en": "Oshan X5 Plus",
+        "zh-CN": "长安欧尚X5 PLUS",
+        "zh-TW": "X5 Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2022–2024",
       "note": "长安欧尚X5 PLUS紧凑型SUV(2022年上市),2024年欧尚品牌并入长安后以长安X5 PLUS之名继续销售",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:oshan:x7",
       "brand": "Oshan",
-      "names": {"en": "Oshan X7", "zh-CN": "长安欧尚X7", "zh-TW": "X7", "ja": "—"},
+      "names": {
+        "en": "Oshan X7",
+        "zh-CN": "长安欧尚X7",
+        "zh-TW": "X7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2019–2023",
       "note": "长安欧尚X7紧凑型SUV(2019年上市),品牌整合后停产,继任为长安X7 PLUS",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:oshan:x7-plus",
       "brand": "Oshan",
-      "names": {"en": "Oshan X7 Plus", "zh-CN": "长安欧尚X7 PLUS", "zh-TW": "X7 Plus", "ja": "—"},
+      "names": {
+        "en": "Oshan X7 Plus",
+        "zh-CN": "长安欧尚X7 PLUS",
+        "zh-TW": "X7 Plus",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2021–2024",
       "note": "长安欧尚X7 PLUS紧凑型SUV(2021年上市),2024年以长安X7 PLUS之名继续销售",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:oshan:z6",
       "brand": "Oshan",
-      "names": {"en": "Oshan Z6", "zh-CN": "长安欧尚Z6", "zh-TW": "Z6", "ja": "—"},
+      "names": {
+        "en": "Oshan Z6",
+        "zh-CN": "长安欧尚Z6",
+        "zh-TW": "Z6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2022–2024",
       "note": "长安欧尚Z6紧凑型SUV(2022年上市,燃油版),品牌整合后并入长安Z6系列",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:oshan:z6-idd",
       "brand": "Oshan",
-      "names": {"en": "Oshan Z6 iDD", "zh-CN": "长安欧尚Z6新能源", "zh-TW": "Z6 iDD", "ja": "—"},
+      "names": {
+        "en": "Oshan Z6 iDD",
+        "zh-CN": "长安欧尚Z6新能源",
+        "zh-TW": "Z6 iDD",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
       "status": "discontinued",
       "years": "2022–2024",
       "note": "长安欧尚Z6新能源(2022年上市),智电iDD插电混动版",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:oshan:keshan",
       "brand": "Oshan",
-      "names": {"en": "Oshan Keshan", "zh-CN": "长安欧尚科尚", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Oshan Keshan",
+        "zh-CN": "长安欧尚科尚",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:oshan:kesai",
       "brand": "Oshan",
-      "names": {"en": "Oshan Kesai", "zh-CN": "长安欧尚科赛", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Oshan Kesai",
+        "zh-CN": "长安欧尚科赛",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:oshan:kesai-5",
       "brand": "Oshan",
-      "names": {"en": "Oshan Kesai 5", "zh-CN": "长安欧尚科赛5", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Oshan Kesai 5",
+        "zh-CN": "长安欧尚科赛5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:oshan:kesai-pro",
       "brand": "Oshan",
-      "names": {"en": "Oshan Kesai Pro", "zh-CN": "长安欧尚科赛Pro", "zh-TW": "—", "ja": "—"},
+      "names": {
+        "en": "Oshan Kesai Pro",
+        "zh-CN": "长安欧尚科赛Pro",
+        "zh-TW": "—",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -191,6 +271,136 @@
       "years": "2020–2021",
       "note": "长安欧尚科赛Pro中型SUV(2020年上市),约2021年停产",
       "verified": "verified"
+    },
+    {
+      "id": "model:oshan:x7-ev",
+      "brand": "Oshan",
+      "names": {
+        "en": "X7 EV",
+        "zh-CN": "X7 EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2022",
+      "note": "长安欧尚X7 EV(2020-),X7纯电版,续航405公里,已停产",
+      "verified": "verified",
+      "zh-TW": "X7 EV"
+    },
+    {
+      "id": "model:oshan:oshan-ii",
+      "brand": "Oshan",
+      "names": {
+        "en": "Nio II",
+        "zh-CN": "尼欧II",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a00",
+      "body_style": "body:city-car",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2020",
+      "note": "尼欧II(2018-2020),长安欧尚纯电微型车,已停产",
+      "verified": "verified",
+      "en": "Nio II",
+      "zh-CN": "尼欧II",
+      "zh-TW": "尼歐II"
+    },
+    {
+      "id": "model:oshan:oshan-ev",
+      "brand": "Oshan",
+      "names": {
+        "en": "Eulove EV",
+        "zh-CN": "欧力威EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2015–2017",
+      "note": "欧力威EV(2015-),欧力威纯电版,已停产",
+      "verified": "verified",
+      "en": "Eulove EV",
+      "zh-TW": "歐力威EV"
+    },
+    {
+      "id": "model:oshan:oshan-ev-2",
+      "brand": "Oshan",
+      "names": {
+        "en": "Keshang EV",
+        "zh-CN": "科尚EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2020",
+      "note": "科尚EV(2019-2020),科尚纯电版,已停产",
+      "verified": "verified",
+      "en": "Keshang EV",
+      "zh-TW": "科尚EV"
+    },
+    {
+      "id": "model:oshan:520",
+      "brand": "Oshan",
+      "names": {
+        "en": "Oshan 520",
+        "zh-CN": "长安欧尚520",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "长安欧尚520(2024-),纯电紧凑型轿车,基于长安逸动平台,含换电版",
+      "verified": "verified",
+      "zh-TW": "520"
+    },
+    {
+      "id": "model:oshan:530",
+      "brand": "Oshan",
+      "names": {
+        "en": "Oshan 530",
+        "zh-CN": "长安欧尚530",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2025–present",
+      "note": "长安欧尚530(2025-),紧凑型轿车,含网约版",
+      "verified": "verified",
+      "zh-TW": "530"
+    },
+    {
+      "id": "model:oshan:oshan-3-2",
+      "brand": "Oshan",
+      "names": {
+        "en": "Kesai 3",
+        "zh-CN": "长安欧尚科赛3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2019–2021",
+      "note": "科赛3(2019-),小型SUV,2019年上市,已停产",
+      "verified": "verified",
+      "zh-TW": "科賽3"
     }
   ]
 }

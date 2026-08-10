@@ -3,7 +3,12 @@
     {
       "id": "model:cadillac:ct4",
       "brand": "Cadillac",
-      "names": {"en": "CT4", "zh-CN": "CT4", "zh-TW": "CT4", "ja": "CT4"},
+      "names": {
+        "en": "CT4",
+        "zh-CN": "CT4",
+        "zh-TW": "CT4",
+        "ja": "CT4"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:cadillac:ct5",
       "brand": "Cadillac",
-      "names": {"en": "CT5", "zh-CN": "CT5", "zh-TW": "CT5", "ja": "CT5"},
+      "names": {
+        "en": "CT5",
+        "zh-CN": "CT5",
+        "zh-TW": "CT5",
+        "ja": "CT5"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:cadillac:ct6",
       "brand": "Cadillac",
-      "names": {"en": "CT6", "zh-CN": "CT6", "zh-TW": "CT6", "ja": "CT6"},
+      "names": {
+        "en": "CT6",
+        "zh-CN": "CT6",
+        "zh-TW": "CT6",
+        "ja": "CT6"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:cadillac:xt4",
       "brand": "Cadillac",
-      "names": {"en": "XT4", "zh-CN": "XT4", "zh-TW": "XT4", "ja": "XT4"},
+      "names": {
+        "en": "XT4",
+        "zh-CN": "XT4",
+        "zh-TW": "XT4",
+        "ja": "XT4"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:cadillac:xt5",
       "brand": "Cadillac",
-      "names": {"en": "XT5", "zh-CN": "XT5", "zh-TW": "XT5", "ja": "XT5"},
+      "names": {
+        "en": "XT5",
+        "zh-CN": "XT5",
+        "zh-TW": "XT5",
+        "ja": "XT5"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:cadillac:xt6",
       "brand": "Cadillac",
-      "names": {"en": "XT6", "zh-CN": "XT6", "zh-TW": "XT6", "ja": "XT6"},
+      "names": {
+        "en": "XT6",
+        "zh-CN": "XT6",
+        "zh-TW": "XT6",
+        "ja": "XT6"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:cadillac:escalade",
       "brand": "Cadillac",
-      "names": {"en": "Escalade", "zh-CN": "凯雷德", "zh-TW": "Escalade(凱雷德)", "ja": "エスカレード"},
+      "names": {
+        "en": "Escalade",
+        "zh-CN": "凯雷德",
+        "zh-TW": "Escalade(凱雷德)",
+        "ja": "エスカレード"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:cadillac:celestiq",
       "brand": "Cadillac",
-      "names": {"en": "Celestiq", "zh-CN": "Celestiq", "zh-TW": "Celestiq", "ja": "セレスティーク"},
+      "names": {
+        "en": "Celestiq",
+        "zh-CN": "Celestiq",
+        "zh-TW": "Celestiq",
+        "ja": "セレスティーク"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -99,7 +139,12 @@
     {
       "id": "model:cadillac:lyriq",
       "brand": "Cadillac",
-      "names": {"en": "Lyriq", "zh-CN": "锐歌", "zh-TW": "Lyriq", "ja": "リリック"},
+      "names": {
+        "en": "Lyriq",
+        "zh-CN": "锐歌",
+        "zh-TW": "Lyriq",
+        "ja": "リリック"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -111,7 +156,12 @@
     {
       "id": "model:cadillac:optiq",
       "brand": "Cadillac",
-      "names": {"en": "Optiq", "zh-CN": "傲歌", "zh-TW": "Optiq", "ja": "オプティック"},
+      "names": {
+        "en": "Optiq",
+        "zh-CN": "傲歌",
+        "zh-TW": "Optiq",
+        "ja": "オプティック"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -123,7 +173,12 @@
     {
       "id": "model:cadillac:vistiq",
       "brand": "Cadillac",
-      "names": {"en": "Vistiq", "zh-CN": "Vistiq", "zh-TW": "Vistiq", "ja": "ビスティック"},
+      "names": {
+        "en": "Vistiq",
+        "zh-CN": "Vistiq",
+        "zh-TW": "Vistiq",
+        "ja": "ビスティック"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -135,7 +190,12 @@
     {
       "id": "model:cadillac:xts",
       "brand": "Cadillac",
-      "names": {"en": "XTS", "zh-CN": "XTS", "zh-TW": "XTS", "ja": "XTS"},
+      "names": {
+        "en": "XTS",
+        "zh-CN": "XTS",
+        "zh-TW": "XTS",
+        "ja": "XTS"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:cadillac:ats",
       "brand": "Cadillac",
-      "names": {"en": "ATS", "zh-CN": "ATS(ATS-L)", "zh-TW": "ATS", "ja": "ATS"},
+      "names": {
+        "en": "ATS",
+        "zh-CN": "ATS(ATS-L)",
+        "zh-TW": "ATS",
+        "ja": "ATS"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:cadillac:sts",
       "brand": "Cadillac",
-      "names": {"en": "STS", "zh-CN": "STS", "zh-TW": "STS", "ja": "STS"},
+      "names": {
+        "en": "STS",
+        "zh-CN": "STS",
+        "zh-TW": "STS",
+        "ja": "STS"
+      },
       "segment": "class:us:midsize",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:cadillac:dts",
       "brand": "Cadillac",
-      "names": {"en": "DTS", "zh-CN": "DTS", "zh-TW": "DTS", "ja": "DTS"},
+      "names": {
+        "en": "DTS",
+        "zh-CN": "DTS",
+        "zh-TW": "DTS",
+        "ja": "DTS"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:cadillac:srx",
       "brand": "Cadillac",
-      "names": {"en": "SRX", "zh-CN": "SRX", "zh-TW": "SRX", "ja": "SRX"},
+      "names": {
+        "en": "SRX",
+        "zh-CN": "SRX",
+        "zh-TW": "SRX",
+        "ja": "SRX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:cadillac:devill",
       "brand": "Cadillac",
-      "names": {"en": "DeVille", "zh-CN": "帝威", "zh-TW": "DeVille", "ja": "デビル"},
+      "names": {
+        "en": "DeVille",
+        "zh-CN": "帝威",
+        "zh-TW": "DeVille",
+        "ja": "デビル"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:cadillac:fleetwood",
       "brand": "Cadillac",
-      "names": {"en": "Fleetwood", "zh-CN": "弗雷特伍德", "zh-TW": "Fleetwood", "ja": "フリートウッド"},
+      "names": {
+        "en": "Fleetwood",
+        "zh-CN": "弗雷特伍德",
+        "zh-TW": "Fleetwood",
+        "ja": "フリートウッド"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:cadillac:eldorado",
       "brand": "Cadillac",
-      "names": {"en": "Eldorado", "zh-CN": "埃尔多拉多", "zh-TW": "Eldorado", "ja": "エルドラド"},
+      "names": {
+        "en": "Eldorado",
+        "zh-CN": "埃尔多拉多",
+        "zh-TW": "Eldorado",
+        "ja": "エルドラド"
+      },
       "segment": "class:us:large",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:cadillac:brougham",
       "brand": "Cadillac",
-      "names": {"en": "Brougham", "zh-CN": "Brougham", "zh-TW": "Brougham", "ja": "ブロアム"},
+      "names": {
+        "en": "Brougham",
+        "zh-CN": "Brougham",
+        "zh-TW": "Brougham",
+        "ja": "ブロアム"
+      },
       "segment": "class:us:large",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:cadillac:sls",
       "brand": "Cadillac",
-      "names": {"en": "SLS", "zh-CN": "SLS赛威", "zh-TW": "SLS", "ja": "SLS"},
+      "names": {
+        "en": "SLS",
+        "zh-CN": "SLS赛威",
+        "zh-TW": "SLS",
+        "ja": "SLS"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:cadillac:cts",
       "brand": "Cadillac",
-      "names": {"en": "CTS", "zh-CN": "CTS", "zh-TW": "CTS", "ja": "CTS"},
+      "names": {
+        "en": "CTS",
+        "zh-CN": "CTS",
+        "zh-TW": "CTS",
+        "ja": "CTS"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -267,13 +377,103 @@
     {
       "id": "model:cadillac:gt4",
       "brand": "Cadillac",
-      "names": {"en": "GT4", "zh-CN": "GT4", "zh-TW": "GT4", "ja": "GT4"},
+      "names": {
+        "en": "GT4",
+        "zh-CN": "GT4",
+        "zh-TW": "GT4",
+        "ja": "GT4"
+      },
       "segment": "class:cn:a",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
       "status": "current",
       "years": "2023–present",
       "note": "上汽通用国产紧凑型轿跑SUV(2023年上市),凯迪拉克最入门车型",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:ct6-plug-in",
+      "brand": "Cadillac",
+      "names": {
+        "en": "Cadillac CT6 Plug-in",
+        "zh-CN": "凯迪拉克CT6插电混动",
+        "zh-TW": "凱迪拉克CT6插電混動",
+        "ja": "キャデラックCT6プラグインハイブリッド"
+      },
+      "segment": "class:eu:f",
+      "body_style": "body:sedan",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2017–2020",
+      "note": "CT6插电混动版,2.0T+电机,纯电续航约80km(中国版)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:xt5-phev",
+      "brand": "Cadillac",
+      "names": {
+        "en": "Cadillac XT5 PHEV",
+        "zh-CN": "凯迪拉克XT5插电混动",
+        "zh-TW": "凱迪拉克XT5插電混動",
+        "ja": "キャデラックXT5プラグインハイブリッド"
+      },
+      "segment": "class:eu:j",
+      "body_style": "body:crossover",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "XT5插电混动版,中国特供,2.0T+电机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:bls",
+      "brand": "Cadillac",
+      "names": {
+        "en": "Cadillac BLS",
+        "zh-CN": "凯迪拉克BLS",
+        "zh-TW": "凱迪拉克BLS",
+        "ja": "キャデラックBLS"
+      },
+      "segment": "class:eu:d",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2005–2009",
+      "note": "基于萨博9-3平台打造的紧凑型豪华轿车,主攻欧洲市场;含 wagon 版 BLS SportWagon",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:elr",
+      "brand": "Cadillac",
+      "names": {
+        "en": "Cadillac ELR",
+        "zh-CN": "凯迪拉克ELR",
+        "zh-TW": "凱迪拉克ELR",
+        "ja": "キャデラックELR"
+      },
+      "segment": "class:eu:d",
+      "body_style": "body:coupe",
+      "powertrain": "pt:phev",
+      "status": "discontinued",
+      "years": "2014–2016",
+      "note": "插电混动豪华双门轿跑,基于雪佛兰Volt平台,1.4L+电机",
+      "verified": "verified"
+    },
+    {
+      "id": "model:cadillac:xlr",
+      "brand": "Cadillac",
+      "names": {
+        "en": "Cadillac XLR",
+        "zh-CN": "凯迪拉克XLR",
+        "zh-TW": "凱迪拉克XLR",
+        "ja": "キャデラックXLR"
+      },
+      "segment": "class:eu:s",
+      "body_style": "body:roadster",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2009",
+      "note": "豪华硬顶敞篷跑车,与雪佛兰Corvette C6同平台,4.6L/4.4L V8北极星发动机",
       "verified": "verified"
     }
   ]

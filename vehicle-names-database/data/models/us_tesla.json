@@ -3,7 +3,12 @@
     {
       "id": "model:tesla:model-3",
       "brand": "Tesla",
-      "names": {"en": "Model 3", "zh-CN": "Model 3", "zh-TW": "Model 3", "ja": "モデル3"},
+      "names": {
+        "en": "Model 3",
+        "zh-CN": "Model 3",
+        "zh-TW": "Model 3",
+        "ja": "モデル3"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:tesla:model-y",
       "brand": "Tesla",
-      "names": {"en": "Model Y", "zh-CN": "Model Y", "zh-TW": "Model Y", "ja": "モデルY"},
+      "names": {
+        "en": "Model Y",
+        "zh-CN": "Model Y",
+        "zh-TW": "Model Y",
+        "ja": "モデルY"
+      },
       "segment": "class:eu:j",
       "body_style": "body:crossover",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:tesla:model-s",
       "brand": "Tesla",
-      "names": {"en": "Model S", "zh-CN": "Model S", "zh-TW": "Model S", "ja": "モデルS"},
+      "names": {
+        "en": "Model S",
+        "zh-CN": "Model S",
+        "zh-TW": "Model S",
+        "ja": "モデルS"
+      },
       "segment": "class:eu:f",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:tesla:model-x",
       "brand": "Tesla",
-      "names": {"en": "Model X", "zh-CN": "Model X", "zh-TW": "Model X", "ja": "モデルX"},
+      "names": {
+        "en": "Model X",
+        "zh-CN": "Model X",
+        "zh-TW": "Model X",
+        "ja": "モデルX"
+      },
       "segment": "class:eu:j",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:tesla:cybertruck",
       "brand": "Tesla",
-      "names": {"en": "Cybertruck", "zh-CN": "Cybertruck(赛博皮卡)", "zh-TW": "Cybertruck", "ja": "サイバートラック"},
+      "names": {
+        "en": "Cybertruck",
+        "zh-CN": "Cybertruck(赛博皮卡)",
+        "zh-TW": "Cybertruck",
+        "ja": "サイバートラック"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:tesla:roadster",
       "brand": "Tesla",
-      "names": {"en": "Roadster", "zh-CN": "Roadster", "zh-TW": "Roadster", "ja": "ロードスター"},
+      "names": {
+        "en": "Roadster",
+        "zh-CN": "Roadster",
+        "zh-TW": "Roadster",
+        "ja": "ロードスター"
+      },
       "segment": "class:eu:s",
       "body_style": "body:roadster",
       "powertrain": "pt:bev",
@@ -75,7 +105,12 @@
     {
       "id": "model:tesla:semi",
       "brand": "Tesla",
-      "names": {"en": "Semi", "zh-CN": "Tesla Semi", "zh-TW": "Tesla Semi", "ja": "テスラ セミ"},
+      "names": {
+        "en": "Semi",
+        "zh-CN": "Tesla Semi",
+        "zh-TW": "Tesla Semi",
+        "ja": "テスラ セミ"
+      },
       "segment": "class:us:pickup",
       "body_style": "body:pickup",
       "powertrain": "pt:bev",

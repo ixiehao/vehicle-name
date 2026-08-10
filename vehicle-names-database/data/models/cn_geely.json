@@ -3,7 +3,12 @@
     {
       "id": "model:geely:xingyue-l",
       "brand": "Geely",
-      "names": {"en": "Xingyue L", "zh-CN": "星越L", "zh-TW": "Xingyue L", "ja": "—"},
+      "names": {
+        "en": "Xingyue L",
+        "zh-CN": "星越L",
+        "zh-TW": "Xingyue L",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:geely:xingrui",
       "brand": "Geely",
-      "names": {"en": "Xingrui", "zh-CN": "星瑞", "zh-TW": "Xingrui", "ja": "—"},
+      "names": {
+        "en": "Xingrui",
+        "zh-CN": "星瑞",
+        "zh-TW": "Xingrui",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:geely:binyue",
       "brand": "Geely",
-      "names": {"en": "Binyue", "zh-CN": "缤越", "zh-TW": "Binyue", "ja": "—"},
+      "names": {
+        "en": "Binyue",
+        "zh-CN": "缤越",
+        "zh-TW": "Binyue",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:geely:binrui",
       "brand": "Geely",
-      "names": {"en": "Binrui", "zh-CN": "缤瑞", "zh-TW": "Binrui", "ja": "—"},
+      "names": {
+        "en": "Binrui",
+        "zh-CN": "缤瑞",
+        "zh-TW": "Binrui",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:geely:boyue",
       "brand": "Geely",
-      "names": {"en": "Boyue", "zh-CN": "博越", "zh-TW": "Boyue", "ja": "—"},
+      "names": {
+        "en": "Boyue",
+        "zh-CN": "博越",
+        "zh-TW": "Boyue",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:geely:borui",
       "brand": "Geely",
-      "names": {"en": "Borui", "zh-CN": "博瑞", "zh-TW": "Borui", "ja": "—"},
+      "names": {
+        "en": "Borui",
+        "zh-CN": "博瑞",
+        "zh-TW": "Borui",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:geely:emgrand",
       "brand": "Geely",
-      "names": {"en": "Emgrand", "zh-CN": "帝豪", "zh-TW": "Emgrand", "ja": "—"},
+      "names": {
+        "en": "Emgrand",
+        "zh-CN": "帝豪",
+        "zh-TW": "Emgrand",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:geely:emgrand-gl",
       "brand": "Geely",
-      "names": {"en": "Emgrand GL", "zh-CN": "帝豪GL", "zh-TW": "Emgrand GL", "ja": "—"},
+      "names": {
+        "en": "Emgrand GL",
+        "zh-CN": "帝豪GL",
+        "zh-TW": "Emgrand GL",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:geely:yuanjing",
       "brand": "Geely",
-      "names": {"en": "Yuanjing", "zh-CN": "远景", "zh-TW": "Yuanjing", "ja": "—"},
+      "names": {
+        "en": "Yuanjing",
+        "zh-CN": "远景",
+        "zh-TW": "Yuanjing",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:geely:panda-mini",
       "brand": "Geely",
-      "names": {"en": "Panda Mini EV", "zh-CN": "熊猫mini", "zh-TW": "Panda Mini EV", "ja": "—"},
+      "names": {
+        "en": "Panda Mini EV",
+        "zh-CN": "熊猫mini",
+        "zh-TW": "Panda Mini EV",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -123,7 +173,12 @@
     {
       "id": "model:geely:galaxy-e5",
       "brand": "Geely",
-      "names": {"en": "Galaxy E5", "zh-CN": "银河E5", "zh-TW": "Galaxy E5", "ja": "—"},
+      "names": {
+        "en": "Galaxy E5",
+        "zh-CN": "银河E5",
+        "zh-TW": "Galaxy E5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -135,7 +190,12 @@
     {
       "id": "model:geely:galaxy-e8",
       "brand": "Geely",
-      "names": {"en": "Galaxy E8", "zh-CN": "银河E8", "zh-TW": "Galaxy E8", "ja": "—"},
+      "names": {
+        "en": "Galaxy E8",
+        "zh-CN": "银河E8",
+        "zh-TW": "Galaxy E8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -147,7 +207,12 @@
     {
       "id": "model:geely:galaxy-l7",
       "brand": "Geely",
-      "names": {"en": "Galaxy L7", "zh-CN": "银河L7", "zh-TW": "Galaxy L7", "ja": "—"},
+      "names": {
+        "en": "Galaxy L7",
+        "zh-CN": "银河L7",
+        "zh-TW": "Galaxy L7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -159,7 +224,12 @@
     {
       "id": "model:geely:zeekr-001",
       "brand": "Geely",
-      "names": {"en": "Zeekr 001", "zh-CN": "极氪001", "zh-TW": "Zeekr 001", "ja": "—"},
+      "names": {
+        "en": "Zeekr 001",
+        "zh-CN": "极氪001",
+        "zh-TW": "Zeekr 001",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:wagon",
       "powertrain": "pt:bev",
@@ -171,7 +241,12 @@
     {
       "id": "model:geely:zeekr-007",
       "brand": "Geely",
-      "names": {"en": "Zeekr 007", "zh-CN": "极氪007", "zh-TW": "Zeekr 007", "ja": "—"},
+      "names": {
+        "en": "Zeekr 007",
+        "zh-CN": "极氪007",
+        "zh-TW": "Zeekr 007",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -183,7 +258,12 @@
     {
       "id": "model:geely:zeekr-009",
       "brand": "Geely",
-      "names": {"en": "Zeekr 009", "zh-CN": "极氪009", "zh-TW": "Zeekr 009", "ja": "—"},
+      "names": {
+        "en": "Zeekr 009",
+        "zh-CN": "极氪009",
+        "zh-TW": "Zeekr 009",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -195,7 +275,12 @@
     {
       "id": "model:geely:zeekr-x",
       "brand": "Geely",
-      "names": {"en": "Zeekr X", "zh-CN": "极氪X", "zh-TW": "Zeekr X", "ja": "—"},
+      "names": {
+        "en": "Zeekr X",
+        "zh-CN": "极氪X",
+        "zh-TW": "Zeekr X",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -207,7 +292,12 @@
     {
       "id": "model:geely:lynk-01",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 01", "zh-CN": "领克01", "zh-TW": "Lynk & Co 01", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 01",
+        "zh-CN": "领克01",
+        "zh-TW": "Lynk & Co 01",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:geely:lynk-03",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 03", "zh-CN": "领克03", "zh-TW": "Lynk & Co 03", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 03",
+        "zh-CN": "领克03",
+        "zh-TW": "Lynk & Co 03",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:geely:lynk-05",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 05", "zh-CN": "领克05", "zh-TW": "Lynk & Co 05", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 05",
+        "zh-CN": "领克05",
+        "zh-TW": "Lynk & Co 05",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:geely:lynk-06",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 06", "zh-CN": "领克06", "zh-TW": "Lynk & Co 06", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 06",
+        "zh-CN": "领克06",
+        "zh-TW": "Lynk & Co 06",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:geely:lynk-08",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 08", "zh-CN": "领克08", "zh-TW": "Lynk & Co 08", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 08",
+        "zh-CN": "领克08",
+        "zh-TW": "Lynk & Co 08",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -267,7 +377,12 @@
     {
       "id": "model:geely:lynk-09",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 09", "zh-CN": "领克09", "zh-TW": "Lynk & Co 09", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 09",
+        "zh-CN": "领克09",
+        "zh-TW": "Lynk & Co 09",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -279,7 +394,12 @@
     {
       "id": "model:geely:jiaji",
       "brand": "Geely",
-      "names": {"en": "Jiaji", "zh-CN": "嘉际", "zh-TW": "Jiaji", "ja": "—"},
+      "names": {
+        "en": "Jiaji",
+        "zh-CN": "嘉际",
+        "zh-TW": "Jiaji",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -291,7 +411,12 @@
     {
       "id": "model:geely:zeekr-7x",
       "brand": "Geely",
-      "names": {"en": "Zeekr 7X", "zh-CN": "极氪7X", "zh-TW": "極氪7X(未导入)", "ja": "—"},
+      "names": {
+        "en": "Zeekr 7X",
+        "zh-CN": "极氪7X",
+        "zh-TW": "極氪7X(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -303,7 +428,12 @@
     {
       "id": "model:geely:zeekr-mix",
       "brand": "Geely",
-      "names": {"en": "Zeekr MIX", "zh-CN": "极氪MIX", "zh-TW": "極氪MIX(未导入)", "ja": "—"},
+      "names": {
+        "en": "Zeekr MIX",
+        "zh-CN": "极氪MIX",
+        "zh-TW": "極氪MIX(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:bev",
@@ -315,7 +445,12 @@
     {
       "id": "model:geely:zeekr-007-gt",
       "brand": "Geely",
-      "names": {"en": "Zeekr 007 GT", "zh-CN": "极氪007 GT", "zh-TW": "極氪007 GT(未导入)", "ja": "—"},
+      "names": {
+        "en": "Zeekr 007 GT",
+        "zh-CN": "极氪007 GT",
+        "zh-TW": "極氪007 GT(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:wagon",
       "powertrain": "pt:bev",
@@ -327,7 +462,12 @@
     {
       "id": "model:geely:geometry-a",
       "brand": "Geely",
-      "names": {"en": "Geometry A", "zh-CN": "几何A", "zh-TW": "幾何A", "ja": "—"},
+      "names": {
+        "en": "Geometry A",
+        "zh-CN": "几何A",
+        "zh-TW": "幾何A",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -339,7 +479,12 @@
     {
       "id": "model:geely:ec8",
       "brand": "Geely",
-      "names": {"en": "Emgrand EC8", "zh-CN": "帝豪EC8", "zh-TW": "Emgrand EC8", "ja": "—"},
+      "names": {
+        "en": "Emgrand EC8",
+        "zh-CN": "帝豪EC8",
+        "zh-TW": "Emgrand EC8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -351,7 +496,12 @@
     {
       "id": "model:geely:gc7",
       "brand": "Geely",
-      "names": {"en": "GC7", "zh-CN": "GC7", "zh-TW": "GC7", "ja": "—"},
+      "names": {
+        "en": "GC7",
+        "zh-CN": "GC7",
+        "zh-TW": "GC7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -363,7 +513,12 @@
     {
       "id": "model:geely:gx2",
       "brand": "Geely",
-      "names": {"en": "GX2", "zh-CN": "GX2", "zh-TW": "GX2", "ja": "—"},
+      "names": {
+        "en": "GX2",
+        "zh-CN": "GX2",
+        "zh-TW": "GX2",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -375,7 +530,12 @@
     {
       "id": "model:geely:gx7",
       "brand": "Geely",
-      "names": {"en": "GX7", "zh-CN": "GX7", "zh-TW": "GX7", "ja": "—"},
+      "names": {
+        "en": "GX7",
+        "zh-CN": "GX7",
+        "zh-TW": "GX7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -387,7 +547,12 @@
     {
       "id": "model:geely:sx7",
       "brand": "Geely",
-      "names": {"en": "SX7", "zh-CN": "SX7", "zh-TW": "SX7", "ja": "—"},
+      "names": {
+        "en": "SX7",
+        "zh-CN": "SX7",
+        "zh-TW": "SX7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -399,7 +564,12 @@
     {
       "id": "model:geely:icon",
       "brand": "Geely",
-      "names": {"en": "ICON", "zh-CN": "ICON", "zh-TW": "ICON", "ja": "—"},
+      "names": {
+        "en": "ICON",
+        "zh-CN": "ICON",
+        "zh-TW": "ICON",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -411,7 +581,12 @@
     {
       "id": "model:geely:sc3",
       "brand": "Geely",
-      "names": {"en": "SC3", "zh-CN": "SC3", "zh-TW": "SC3", "ja": "—"},
+      "names": {
+        "en": "SC3",
+        "zh-CN": "SC3",
+        "zh-TW": "SC3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -423,7 +598,12 @@
     {
       "id": "model:geely:cowboy",
       "brand": "Geely",
-      "names": {"en": "Cowboy", "zh-CN": "牛仔", "zh-TW": "Cowboy", "ja": "—"},
+      "names": {
+        "en": "Cowboy",
+        "zh-CN": "牛仔",
+        "zh-TW": "Cowboy",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -435,7 +615,12 @@
     {
       "id": "model:geely:emgrand-gs",
       "brand": "Geely",
-      "names": {"en": "Emgrand GS", "zh-CN": "帝豪GS", "zh-TW": "Emgrand GS", "ja": "—"},
+      "names": {
+        "en": "Emgrand GS",
+        "zh-CN": "帝豪GS",
+        "zh-TW": "Emgrand GS",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -447,7 +632,12 @@
     {
       "id": "model:geely:emgrand-l",
       "brand": "Geely",
-      "names": {"en": "Emgrand L", "zh-CN": "帝豪L", "zh-TW": "Emgrand L", "ja": "—"},
+      "names": {
+        "en": "Emgrand L",
+        "zh-CN": "帝豪L",
+        "zh-TW": "Emgrand L",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -459,7 +649,12 @@
     {
       "id": "model:geely:emgrand-l-hip",
       "brand": "Geely",
-      "names": {"en": "Emgrand L HiP", "zh-CN": "帝豪L HiP", "zh-TW": "Emgrand L HiP", "ja": "—"},
+      "names": {
+        "en": "Emgrand L HiP",
+        "zh-CN": "帝豪L HiP",
+        "zh-TW": "Emgrand L HiP",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -471,7 +666,12 @@
     {
       "id": "model:geely:emgrand-s",
       "brand": "Geely",
-      "names": {"en": "Emgrand S", "zh-CN": "帝豪S", "zh-TW": "Emgrand S", "ja": "—"},
+      "names": {
+        "en": "Emgrand S",
+        "zh-CN": "帝豪S",
+        "zh-TW": "Emgrand S",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -483,7 +683,12 @@
     {
       "id": "model:geely:xingyue",
       "brand": "Geely",
-      "names": {"en": "Xingyue", "zh-CN": "星越", "zh-TW": "Xingyue", "ja": "—"},
+      "names": {
+        "en": "Xingyue",
+        "zh-CN": "星越",
+        "zh-TW": "Xingyue",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -495,19 +700,29 @@
     {
       "id": "model:geely:xingyue-s",
       "brand": "Geely",
-      "names": {"en": "Xingyue S", "zh-CN": "星越S", "zh-TW": "Xingyue S", "ja": "—"},
+      "names": {
+        "en": "Xingyue S",
+        "zh-CN": "星越S",
+        "zh-TW": "Xingyue S",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2021–2023",
       "note": "星越S(2021–2023),星越的运动版,紧凑型SUV,约2023年停产",
-      "verified": "pending"
+      "verified": "verified"
     },
     {
       "id": "model:geely:haijing",
       "brand": "Geely",
-      "names": {"en": "Haijing", "zh-CN": "海景", "zh-TW": "Haijing", "ja": "—"},
+      "names": {
+        "en": "Haijing",
+        "zh-CN": "海景",
+        "zh-TW": "Haijing",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -519,7 +734,12 @@
     {
       "id": "model:geely:panda",
       "brand": "Geely",
-      "names": {"en": "Panda", "zh-CN": "熊猫经典", "zh-TW": "Panda", "ja": "—"},
+      "names": {
+        "en": "Panda",
+        "zh-CN": "熊猫经典",
+        "zh-TW": "Panda",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -531,7 +751,12 @@
     {
       "id": "model:geely:ziyoujian",
       "brand": "Geely",
-      "names": {"en": "Ziyoujian", "zh-CN": "自由舰", "zh-TW": "Ziyoujian", "ja": "—"},
+      "names": {
+        "en": "Ziyoujian",
+        "zh-CN": "自由舰",
+        "zh-TW": "Ziyoujian",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -543,19 +768,29 @@
     {
       "id": "model:geely:englon-c5",
       "brand": "Geely",
-      "names": {"en": "Englon C5", "zh-CN": "英伦C5", "zh-TW": "Englon C5", "ja": "—"},
+      "names": {
+        "en": "Englon C5",
+        "zh-CN": "英伦C5",
+        "zh-TW": "Englon C5",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2011–2013",
-      "note": "英伦C5(2011–2013),英伦(Englon)子品牌微型两厢车,约2013年停产",
-      "verified": "pending"
+      "years": "2015–2018",
+      "note": "英伦C5(2015–2018),英伦(Englon)子品牌A0级轿车,2015年4月上市,基于美日改款,两厢/三厢,2018年停产",
+      "verified": "verified"
     },
     {
       "id": "model:geely:haoqing-suv",
       "brand": "Geely",
-      "names": {"en": "Haoqing SUV", "zh-CN": "豪情SUV", "zh-TW": "Haoqing SUV", "ja": "—"},
+      "names": {
+        "en": "Haoqing SUV",
+        "zh-CN": "豪情SUV",
+        "zh-TW": "Haoqing SUV",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -567,7 +802,12 @@
     {
       "id": "model:geely:haoyue",
       "brand": "Geely",
-      "names": {"en": "Haoyue", "zh-CN": "豪越", "zh-TW": "Haoyue", "ja": "—"},
+      "names": {
+        "en": "Haoyue",
+        "zh-CN": "豪越",
+        "zh-TW": "Haoyue",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -579,7 +819,12 @@
     {
       "id": "model:geely:haoyue-l",
       "brand": "Geely",
-      "names": {"en": "Haoyue L", "zh-CN": "豪越L", "zh-TW": "Haoyue L", "ja": "—"},
+      "names": {
+        "en": "Haoyue L",
+        "zh-CN": "豪越L",
+        "zh-TW": "Haoyue L",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -591,7 +836,12 @@
     {
       "id": "model:geely:haoyue-pro",
       "brand": "Geely",
-      "names": {"en": "Haoyue Pro", "zh-CN": "豪越PRO", "zh-TW": "Haoyue Pro", "ja": "—"},
+      "names": {
+        "en": "Haoyue Pro",
+        "zh-CN": "豪越PRO",
+        "zh-TW": "Haoyue Pro",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -603,7 +853,12 @@
     {
       "id": "model:geely:yuanjing-s1",
       "brand": "Geely",
-      "names": {"en": "Yuanjing S1", "zh-CN": "远景S1", "zh-TW": "Yuanjing S1", "ja": "—"},
+      "names": {
+        "en": "Yuanjing S1",
+        "zh-CN": "远景S1",
+        "zh-TW": "Yuanjing S1",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:crossover",
       "powertrain": "pt:ice",
@@ -615,7 +870,12 @@
     {
       "id": "model:geely:yuanjing-x1",
       "brand": "Geely",
-      "names": {"en": "Yuanjing X1", "zh-CN": "远景X1", "zh-TW": "Yuanjing X1", "ja": "—"},
+      "names": {
+        "en": "Yuanjing X1",
+        "zh-CN": "远景X1",
+        "zh-TW": "Yuanjing X1",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -627,7 +887,12 @@
     {
       "id": "model:geely:yuanjing-x6",
       "brand": "Geely",
-      "names": {"en": "Yuanjing X6", "zh-CN": "远景X6", "zh-TW": "Yuanjing X6", "ja": "—"},
+      "names": {
+        "en": "Yuanjing X6",
+        "zh-CN": "远景X6",
+        "zh-TW": "Yuanjing X6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -639,7 +904,12 @@
     {
       "id": "model:geely:jingang",
       "brand": "Geely",
-      "names": {"en": "King Kong", "zh-CN": "金刚", "zh-TW": "King Kong", "ja": "—"},
+      "names": {
+        "en": "King Kong",
+        "zh-CN": "金刚",
+        "zh-TW": "King Kong",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -651,19 +921,29 @@
     {
       "id": "model:geely:jingang-caifu",
       "brand": "Geely",
-      "names": {"en": "Jingang Caifu", "zh-CN": "金刚财富", "zh-TW": "Jingang Caifu", "ja": "—"},
+      "names": {
+        "en": "Jingang Caifu",
+        "zh-CN": "金刚财富",
+        "zh-TW": "Jingang Caifu",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
       "status": "discontinued",
       "years": "2014–2016",
-      "note": "金刚财富(2014–2016),金刚两厢版,2016年停产",
-      "verified": "pending"
+      "note": "金刚财富(2014–2016),金刚两厢版,2014年11月上市,2016年停产",
+      "verified": "verified"
     },
     {
       "id": "model:geely:lynk-02",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 02", "zh-CN": "领克02", "zh-TW": "Lynk & Co 02", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 02",
+        "zh-CN": "领克02",
+        "zh-TW": "Lynk & Co 02",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -675,7 +955,12 @@
     {
       "id": "model:geely:lynk-07",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 07", "zh-CN": "领克07", "zh-TW": "Lynk & Co 07", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 07",
+        "zh-CN": "领克07",
+        "zh-TW": "Lynk & Co 07",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -687,7 +972,12 @@
     {
       "id": "model:geely:lynk-900",
       "brand": "Geely",
-      "names": {"en": "Lynk & Co 900", "zh-CN": "领克900", "zh-TW": "Lynk & Co 900", "ja": "—"},
+      "names": {
+        "en": "Lynk & Co 900",
+        "zh-CN": "领克900",
+        "zh-TW": "Lynk & Co 900",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -699,7 +989,12 @@
     {
       "id": "model:geely:galaxy-a7",
       "brand": "Geely",
-      "names": {"en": "Galaxy A7 EM", "zh-CN": "银河A7", "zh-TW": "Galaxy A7", "ja": "—"},
+      "names": {
+        "en": "Galaxy A7 EM",
+        "zh-CN": "银河A7",
+        "zh-TW": "Galaxy A7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -711,7 +1006,12 @@
     {
       "id": "model:geely:galaxy-l6",
       "brand": "Geely",
-      "names": {"en": "Galaxy L6", "zh-CN": "银河L6", "zh-TW": "Galaxy L6", "ja": "—"},
+      "names": {
+        "en": "Galaxy L6",
+        "zh-CN": "银河L6",
+        "zh-TW": "Galaxy L6",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:phev",
@@ -723,7 +1023,12 @@
     {
       "id": "model:geely:galaxy-m9",
       "brand": "Geely",
-      "names": {"en": "Galaxy M9", "zh-CN": "银河M9", "zh-TW": "Galaxy M9", "ja": "—"},
+      "names": {
+        "en": "Galaxy M9",
+        "zh-CN": "银河M9",
+        "zh-TW": "Galaxy M9",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -735,7 +1040,12 @@
     {
       "id": "model:geely:galaxy-starship-7",
       "brand": "Geely",
-      "names": {"en": "Galaxy Starship 7", "zh-CN": "银河星舰7", "zh-TW": "Galaxy Starship 7", "ja": "—"},
+      "names": {
+        "en": "Galaxy Starship 7",
+        "zh-CN": "银河星舰7",
+        "zh-TW": "Galaxy Starship 7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:phev",
@@ -743,6 +1053,443 @@
       "years": "2024–present",
       "note": "银河(Galaxy)子品牌紧凑型插混SUV(EM-i),2024年上市,接替银河L7",
       "verified": "verified"
+    },
+    {
+      "id": "model:geely:8115b559a5",
+      "brand": "Geely",
+      "names": {
+        "en": "China Dragon",
+        "zh-CN": "中国龙",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2009",
+      "note": "中国龙(2006–2009),吉利双门跑车,1.5L/1.8L发动机",
+      "verified": "verified",
+      "en": "China Dragon",
+      "zh-CN": "中国龙"
+    },
+    {
+      "id": "model:geely:b00079c898",
+      "brand": "Geely",
+      "names": {
+        "en": "Youliou",
+        "zh-CN": "优利欧",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2002–2008",
+      "note": "优利欧(2002–2008),吉利入门三厢轿车,与豪情/美日并称吉利老三样",
+      "verified": "verified",
+      "en": "Youliou",
+      "zh-CN": "优利欧"
+    },
+    {
+      "id": "model:geely:geely-l",
+      "brand": "Geely",
+      "names": {
+        "en": "Boyue L",
+        "zh-CN": "博越L",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2022–present",
+      "note": "博越L(2022–),紧凑型SUV,博越家族换代车型(CMA架构),燃油/雷神混动",
+      "verified": "verified",
+      "en": "Boyue L",
+      "zh-CN": "博越L"
+    },
+    {
+      "id": "model:geely:rev",
+      "brand": "Geely",
+      "names": {
+        "en": "Boyue REV",
+        "zh-CN": "博越REV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "博越REV(2026–),博越的增程式SUV,2026年3月上市,纯电续航375km,综合续航1525km",
+      "verified": "verified",
+      "en": "Boyue REV",
+      "zh-CN": "博越REV"
+    },
+    {
+      "id": "model:geely:sc5-rv",
+      "brand": "Geely",
+      "names": {
+        "en": "Geely SC5-RV",
+        "zh-CN": "吉利SC5-RV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010–2014",
+      "note": "英伦SC5-RV(2010–2014),英伦(Englon)子品牌A0级两厢家轿,2010年11月上市",
+      "verified": "verified",
+      "en": "Englon SC5-RV",
+      "zh-CN": "英伦SC5-RV"
+    },
+    {
+      "id": "model:geely:gse",
+      "brand": "Geely",
+      "names": {
+        "en": "Emgrand GSe",
+        "zh-CN": "帝豪GSe",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018–2021",
+      "note": "帝豪GSe(2018–2021),帝豪系列纯电紧凑型SUV,2021年停产",
+      "verified": "verified",
+      "en": "Emgrand GSe",
+      "zh-CN": "帝豪GSe"
+    },
+    {
+      "id": "model:geely:ead4930f97",
+      "brand": "Geely",
+      "names": {
+        "en": "Emgrand Methanol",
+        "zh-CN": "帝豪甲醇",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2015–2018",
+      "note": "帝豪甲醇版(2015–2018),吉利甲醇燃料汽车,面向出租车市场",
+      "verified": "verified",
+      "en": "Emgrand Methanol",
+      "zh-CN": "帝豪甲醇"
+    },
+    {
+      "id": "model:geely:9780e424e8",
+      "brand": "Geely",
+      "names": {
+        "en": "Beauty Leopard",
+        "zh-CN": "美人豹",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2003–2006",
+      "note": "美人豹(2003–2006),吉利首款跑车,1.3L/1.5L发动机,中国品牌首款跑车",
+      "verified": "verified",
+      "en": "Beauty Leopard",
+      "zh-CN": "美人豹"
+    },
+    {
+      "id": "model:geely:tx4",
+      "brand": "Geely",
+      "names": {
+        "en": "British TX4",
+        "zh-CN": "英伦TX4",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2006–2013",
+      "note": "英伦TX4(2006–2013),吉利上海英伦投产的伦敦出租车,2.5L柴油/汽油,2013年停产",
+      "verified": "verified",
+      "en": "British TX4",
+      "zh-CN": "英伦TX4"
+    },
+    {
+      "id": "model:geely:e28247827f",
+      "brand": "Geely",
+      "names": {
+        "en": "Haoqing",
+        "zh-CN": "豪情",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "1998–2008",
+      "note": "豪情(1998–2008),吉利早期经济型轿车,与豪情SUV为不同车型,2008年停产",
+      "verified": "verified",
+      "en": "Haoqing",
+      "zh-CN": "豪情"
+    },
+    {
+      "id": "model:geely:geely-x3",
+      "brand": "Geely",
+      "names": {
+        "en": "Vision X3",
+        "zh-CN": "远景X3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "current",
+      "years": "2017–present",
+      "note": "远景X3(2017–),小型SUV,远景系列衍生车型",
+      "verified": "verified",
+      "en": "Vision X3",
+      "zh-CN": "远景X3"
+    },
+    {
+      "id": "model:geely:ex3",
+      "brand": "Geely",
+      "names": {
+        "en": "EX3 Kongfu Niu",
+        "zh-CN": "EX3 功夫牛",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2021–2022",
+      "note": "几何EX3功夫牛(2021–2022),几何品牌纯电小型SUV,2022年停产",
+      "verified": "verified",
+      "en": "EX3 Kongfu Niu",
+      "zh-CN": "EX3 功夫牛"
+    },
+    {
+      "id": "model:geely:geely-c",
+      "brand": "Geely",
+      "names": {
+        "en": "Geometry C",
+        "zh-CN": "吉利几何C",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2020–2023",
+      "note": "几何C(2020–2023),几何品牌纯电紧凑型SUV,2023年停产",
+      "verified": "verified",
+      "en": "Geometry C",
+      "zh-CN": "几何C"
+    },
+    {
+      "id": "model:geely:geely-e-2",
+      "brand": "Geely",
+      "names": {
+        "en": "Geometry E Firefly",
+        "zh-CN": "吉利几何E萤火虫",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2022–2024",
+      "note": "几何E萤火虫(2022–2024),几何品牌纯电小型SUV",
+      "verified": "verified",
+      "en": "Geometry E Firefly",
+      "zh-CN": "几何E萤火虫"
+    },
+    {
+      "id": "model:geely:geely-g6",
+      "brand": "Geely",
+      "names": {
+        "en": "Geometry G6",
+        "zh-CN": "吉利几何G6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "几何G6(2022–),几何品牌纯电紧凑型轿车",
+      "verified": "verified",
+      "en": "Geometry G6",
+      "zh-CN": "几何G6"
+    },
+    {
+      "id": "model:geely:geely-m6",
+      "brand": "Geely",
+      "names": {
+        "en": "Geometry M6",
+        "zh-CN": "吉利几何M6",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2022–present",
+      "note": "几何M6(2022–),几何品牌纯电紧凑型SUV",
+      "verified": "verified",
+      "en": "Geometry M6",
+      "zh-CN": "几何M6"
+    },
+    {
+      "id": "model:geely:5da07f1d6e",
+      "brand": "Geely",
+      "names": {
+        "en": "Geely Radar Horizon",
+        "zh-CN": "吉利雷达地平线",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:d",
+      "body_style": "body:pickup",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "雷达地平线(2024–),吉利雷达品牌四驱纯电皮卡,2024年4月上市",
+      "verified": "verified",
+      "en": "Radar Horizon",
+      "zh-CN": "雷达地平线"
+    },
+    {
+      "id": "model:geely:6ccadc12c1",
+      "brand": "Geely",
+      "names": {
+        "en": "Xingyuan",
+        "zh-CN": "星愿",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a0",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "星愿(2024–),吉利小型纯电轿车,2024年上市",
+      "verified": "verified",
+      "en": "Xingyuan",
+      "zh-CN": "星愿"
+    },
+    {
+      "id": "model:geely:l380",
+      "brand": "Geely",
+      "names": {
+        "en": "Yizhen L380",
+        "zh-CN": "翼真L380",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024–present",
+      "note": "翼真L380(2024–),LEVC翼真品牌(吉利旗下)大型纯电MPV,2025年并入吉利银河序列",
+      "verified": "verified",
+      "en": "Yizhen L380",
+      "zh-CN": "翼真L380"
+    },
+    {
+      "id": "model:geely:a7-ev",
+      "brand": "Geely",
+      "names": {
+        "en": "Galaxy A7 EV",
+        "zh-CN": "银河A7 EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "银河A7 EV(2025–),银河子品牌纯电轿车,与A7 EM(插混)为同系不同动力",
+      "verified": "verified",
+      "en": "Galaxy A7 EV",
+      "zh-CN": "银河A7 EV"
+    },
+    {
+      "id": "model:geely:geely-m7",
+      "brand": "Geely",
+      "names": {
+        "en": "Galaxy M7",
+        "zh-CN": "银河M7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:b",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "银河M7(2026–),银河子品牌中大型SUV(EM-i插混),2026年上市",
+      "verified": "verified",
+      "en": "Galaxy M7",
+      "zh-CN": "银河M7"
+    },
+    {
+      "id": "model:geely:geely-tt",
+      "brand": "Geely",
+      "names": {
+        "en": "Galaxy TT",
+        "zh-CN": "银河TT",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:c",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2026–present",
+      "note": "银河TT(2026–),银河子品牌中大型纯电轿跑(C级,四座),2026年上市",
+      "verified": "verified",
+      "en": "Galaxy TT",
+      "zh-CN": "银河TT"
+    },
+    {
+      "id": "model:geely:v900",
+      "brand": "Geely",
+      "names": {
+        "en": "Galaxy V900",
+        "zh-CN": "银河V900",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:mpv",
+      "body_style": "body:mpv",
+      "powertrain": "pt:erev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "银河V900(2025–),银河子品牌大型增程MPV,翼真L380的增程姊妹车,6/7/8座",
+      "verified": "verified",
+      "en": "Galaxy V900",
+      "zh-CN": "银河V900"
     }
   ]
 }

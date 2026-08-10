@@ -3,7 +3,12 @@
     {
       "id": "model:aion:s",
       "brand": "Aion",
-      "names": {"en": "Aion S", "zh-CN": "埃安S", "zh-TW": "Aion S(未导入)", "ja": "—"},
+      "names": {
+        "en": "Aion S",
+        "zh-CN": "埃安S",
+        "zh-TW": "Aion S(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:aion:y",
       "brand": "Aion",
-      "names": {"en": "Aion Y", "zh-CN": "埃安Y", "zh-TW": "Aion Y(未导入)", "ja": "—"},
+      "names": {
+        "en": "Aion Y",
+        "zh-CN": "埃安Y",
+        "zh-TW": "Aion Y(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:aion:v",
       "brand": "Aion",
-      "names": {"en": "Aion V", "zh-CN": "埃安V", "zh-TW": "Aion V(未导入)", "ja": "—"},
+      "names": {
+        "en": "Aion V",
+        "zh-CN": "埃安V",
+        "zh-TW": "Aion V(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:aion:lx",
       "brand": "Aion",
-      "names": {"en": "Aion LX", "zh-CN": "埃安LX", "zh-TW": "Aion LX(未导入)", "ja": "—"},
+      "names": {
+        "en": "Aion LX",
+        "zh-CN": "埃安LX",
+        "zh-TW": "Aion LX(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:aion:hyper-gt",
       "brand": "Aion",
-      "names": {"en": "Aion Hyper GT", "zh-CN": "昊铂GT", "zh-TW": "Aion Hyper GT(未导入)", "ja": "—"},
+      "names": {
+        "en": "Aion Hyper GT",
+        "zh-CN": "昊铂GT",
+        "zh-TW": "Aion Hyper GT(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -63,7 +88,12 @@
     {
       "id": "model:aion:hyper-ssr",
       "brand": "Aion",
-      "names": {"en": "Aion Hyper SSR", "zh-CN": "昊铂SSR", "zh-TW": "Aion Hyper SSR(未导入)", "ja": "—"},
+      "names": {
+        "en": "Aion Hyper SSR",
+        "zh-CN": "昊铂SSR",
+        "zh-TW": "Aion Hyper SSR(未导入)",
+        "ja": "—"
+      },
       "segment": "class:eu:s",
       "body_style": "body:supercar",
       "powertrain": "pt:bev",

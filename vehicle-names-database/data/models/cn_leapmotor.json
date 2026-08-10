@@ -3,7 +3,12 @@
     {
       "id": "model:leapmotor:t03",
       "brand": "Leapmotor",
-      "names": {"en": "Leapmotor T03", "zh-CN": "零跑T03", "zh-TW": "Leapmotor T03(未导入)", "ja": "—"},
+      "names": {
+        "en": "Leapmotor T03",
+        "zh-CN": "零跑T03",
+        "zh-TW": "Leapmotor T03(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:bev",
@@ -15,7 +20,12 @@
     {
       "id": "model:leapmotor:c11",
       "brand": "Leapmotor",
-      "names": {"en": "Leapmotor C11", "zh-CN": "零跑C11", "zh-TW": "Leapmotor C11(未导入)", "ja": "—"},
+      "names": {
+        "en": "Leapmotor C11",
+        "zh-CN": "零跑C11",
+        "zh-TW": "Leapmotor C11(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -27,7 +37,12 @@
     {
       "id": "model:leapmotor:c01",
       "brand": "Leapmotor",
-      "names": {"en": "Leapmotor C01", "zh-CN": "零跑C01", "zh-TW": "Leapmotor C01(未导入)", "ja": "—"},
+      "names": {
+        "en": "Leapmotor C01",
+        "zh-CN": "零跑C01",
+        "zh-TW": "Leapmotor C01(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:sedan",
       "powertrain": "pt:bev",
@@ -39,7 +54,12 @@
     {
       "id": "model:leapmotor:c10",
       "brand": "Leapmotor",
-      "names": {"en": "Leapmotor C10", "zh-CN": "零跑C10", "zh-TW": "Leapmotor C10(未导入)", "ja": "—"},
+      "names": {
+        "en": "Leapmotor C10",
+        "zh-CN": "零跑C10",
+        "zh-TW": "Leapmotor C10(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -51,7 +71,12 @@
     {
       "id": "model:leapmotor:c16",
       "brand": "Leapmotor",
-      "names": {"en": "Leapmotor C16", "zh-CN": "零跑C16", "zh-TW": "Leapmotor C16(未导入)", "ja": "—"},
+      "names": {
+        "en": "Leapmotor C16",
+        "zh-CN": "零跑C16",
+        "zh-TW": "Leapmotor C16(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:c",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
@@ -63,13 +88,86 @@
     {
       "id": "model:leapmotor:b10",
       "brand": "Leapmotor",
-      "names": {"en": "Leapmotor B10", "zh-CN": "零跑B10", "zh-TW": "Leapmotor B10(未导入)", "ja": "—"},
+      "names": {
+        "en": "Leapmotor B10",
+        "zh-CN": "零跑B10",
+        "zh-TW": "Leapmotor B10(未导入)",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:bev",
       "status": "current",
       "years": "2025–present",
       "note": "B系列首款全球车型(2025年上市,纯电紧凑SUV)",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:a05",
+      "brand": "Leapmotor",
+      "names": {
+        "en": "Leapmotor A05",
+        "zh-CN": "零跑A05",
+        "zh-TW": "零跑A05",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "零跑A系列紧凑型纯电轿车,2025年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:a10",
+      "brand": "Leapmotor",
+      "names": {
+        "en": "Leapmotor A10",
+        "zh-CN": "零跑A10",
+        "zh-TW": "零跑A10",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "零跑A系列紧凑型纯电SUV,2025年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:b01",
+      "brand": "Leapmotor",
+      "names": {
+        "en": "Leapmotor B01",
+        "zh-CN": "零跑B01",
+        "zh-TW": "零跑B01",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2025–present",
+      "note": "零跑B系列纯电轿车,2025年上市",
+      "verified": "verified"
+    },
+    {
+      "id": "model:leapmotor:s01",
+      "brand": "Leapmotor",
+      "names": {
+        "en": "Leapmotor S01",
+        "zh-CN": "零跑S01",
+        "zh-TW": "零跑S01",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:coupe",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019–2022",
+      "note": "零跑品牌首款车型,纯电双门轿跑,2019年上市",
       "verified": "verified"
     }
   ]

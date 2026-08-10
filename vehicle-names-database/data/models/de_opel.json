@@ -3,7 +3,12 @@
     {
       "id": "model:opel:corsa",
       "brand": "Opel",
-      "names": {"en": "Corsa", "zh-CN": "可赛", "zh-TW": "Corsa", "ja": "オペル・コルサ"},
+      "names": {
+        "en": "Corsa",
+        "zh-CN": "可赛",
+        "zh-TW": "Corsa",
+        "ja": "オペル・コルサ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:opel:astra",
       "brand": "Opel",
-      "names": {"en": "Astra", "zh-CN": "雅特", "zh-TW": "Astra", "ja": "オペル・アストラ"},
+      "names": {
+        "en": "Astra",
+        "zh-CN": "雅特",
+        "zh-TW": "Astra",
+        "ja": "オペル・アストラ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:opel:insignia",
       "brand": "Opel",
-      "names": {"en": "Insignia", "zh-CN": "Insignia", "zh-TW": "Insignia", "ja": "オペル・インシグニア"},
+      "names": {
+        "en": "Insignia",
+        "zh-CN": "Insignia",
+        "zh-TW": "Insignia",
+        "ja": "オペル・インシグニア"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -39,7 +54,12 @@
     {
       "id": "model:opel:mokka",
       "brand": "Opel",
-      "names": {"en": "Mokka", "zh-CN": "Mokka", "zh-TW": "Mokka", "ja": "オペル・モッカ"},
+      "names": {
+        "en": "Mokka",
+        "zh-CN": "Mokka",
+        "zh-TW": "Mokka",
+        "ja": "オペル・モッカ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:opel:crossland",
       "brand": "Opel",
-      "names": {"en": "Crossland", "zh-CN": "Crossland", "zh-TW": "Crossland", "ja": "オペル・クロスランド"},
+      "names": {
+        "en": "Crossland",
+        "zh-CN": "Crossland",
+        "zh-TW": "Crossland",
+        "ja": "オペル・クロスランド"
+      },
       "segment": "class:eu:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:opel:grandland",
       "brand": "Opel",
-      "names": {"en": "Grandland", "zh-CN": "Grandland", "zh-TW": "Grandland", "ja": "オペル・グランドランド"},
+      "names": {
+        "en": "Grandland",
+        "zh-CN": "Grandland",
+        "zh-TW": "Grandland",
+        "ja": "オペル・グランドランド"
+      },
       "segment": "class:eu:c",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -75,7 +105,12 @@
     {
       "id": "model:opel:frontera",
       "brand": "Opel",
-      "names": {"en": "Frontera", "zh-CN": "Frontera", "zh-TW": "Frontera", "ja": "オペル・フロンテラ"},
+      "names": {
+        "en": "Frontera",
+        "zh-CN": "Frontera",
+        "zh-TW": "Frontera",
+        "ja": "オペル・フロンテラ"
+      },
       "segment": "class:eu:b",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -87,7 +122,12 @@
     {
       "id": "model:opel:combo",
       "brand": "Opel",
-      "names": {"en": "Combo", "zh-CN": "Combo", "zh-TW": "Combo", "ja": "オペル・コンボ"},
+      "names": {
+        "en": "Combo",
+        "zh-CN": "Combo",
+        "zh-TW": "Combo",
+        "ja": "オペル・コンボ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -99,7 +139,12 @@
     {
       "id": "model:opel:vivaro",
       "brand": "Opel",
-      "names": {"en": "Vivaro", "zh-CN": "Vivaro", "zh-TW": "Vivaro", "ja": "オペル・ヴィヴァーロ"},
+      "names": {
+        "en": "Vivaro",
+        "zh-CN": "Vivaro",
+        "zh-TW": "Vivaro",
+        "ja": "オペル・ヴィヴァーロ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:van",
       "powertrain": "pt:ice",
@@ -111,7 +156,12 @@
     {
       "id": "model:opel:zafira-life",
       "brand": "Opel",
-      "names": {"en": "Zafira Life", "zh-CN": "Zafira Life", "zh-TW": "Zafira Life", "ja": "オペル・ザフィーラ・ライフ"},
+      "names": {
+        "en": "Zafira Life",
+        "zh-CN": "Zafira Life",
+        "zh-TW": "Zafira Life",
+        "ja": "オペル・ザフィーラ・ライフ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -123,7 +173,12 @@
     {
       "id": "model:opel:zafira",
       "brand": "Opel",
-      "names": {"en": "Zafira", "zh-CN": "赛飞利", "zh-TW": "Zafira", "ja": "オペル・ザフィーラ"},
+      "names": {
+        "en": "Zafira",
+        "zh-CN": "赛飞利",
+        "zh-TW": "Zafira",
+        "ja": "オペル・ザフィーラ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -135,7 +190,12 @@
     {
       "id": "model:opel:kadett",
       "brand": "Opel",
-      "names": {"en": "Kadett", "zh-CN": "卡德特", "zh-TW": "Kadett", "ja": "オペル・カデット"},
+      "names": {
+        "en": "Kadett",
+        "zh-CN": "卡德特",
+        "zh-TW": "Kadett",
+        "ja": "オペル・カデット"
+      },
       "segment": "class:eu:c",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -147,7 +207,12 @@
     {
       "id": "model:opel:ascona",
       "brand": "Opel",
-      "names": {"en": "Ascona", "zh-CN": "Ascona", "zh-TW": "Ascona", "ja": "オペル・アスコナ"},
+      "names": {
+        "en": "Ascona",
+        "zh-CN": "Ascona",
+        "zh-TW": "Ascona",
+        "ja": "オペル・アスコナ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -159,7 +224,12 @@
     {
       "id": "model:opel:vectra",
       "brand": "Opel",
-      "names": {"en": "Vectra", "zh-CN": "威达", "zh-TW": "Vectra", "ja": "オペル・ベクトラ"},
+      "names": {
+        "en": "Vectra",
+        "zh-CN": "威达",
+        "zh-TW": "Vectra",
+        "ja": "オペル・ベクトラ"
+      },
       "segment": "class:eu:d",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -171,7 +241,12 @@
     {
       "id": "model:opel:omega",
       "brand": "Opel",
-      "names": {"en": "Omega", "zh-CN": "欧米茄", "zh-TW": "Omega", "ja": "オペル・オメガ"},
+      "names": {
+        "en": "Omega",
+        "zh-CN": "欧米茄",
+        "zh-TW": "Omega",
+        "ja": "オペル・オメガ"
+      },
       "segment": "class:eu:e",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:opel:calibra",
       "brand": "Opel",
-      "names": {"en": "Calibra", "zh-CN": "Calibra", "zh-TW": "Calibra", "ja": "オペル・カリブラ"},
+      "names": {
+        "en": "Calibra",
+        "zh-CN": "Calibra",
+        "zh-TW": "Calibra",
+        "ja": "オペル・カリブラ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -195,7 +275,12 @@
     {
       "id": "model:opel:adam",
       "brand": "Opel",
-      "names": {"en": "Adam", "zh-CN": "Adam", "zh-TW": "Adam", "ja": "オペル・アダム"},
+      "names": {
+        "en": "Adam",
+        "zh-CN": "Adam",
+        "zh-TW": "Adam",
+        "ja": "オペル・アダム"
+      },
       "segment": "class:eu:a",
       "body_style": "body:city-car",
       "powertrain": "pt:ice",
@@ -207,7 +292,12 @@
     {
       "id": "model:opel:karl",
       "brand": "Opel",
-      "names": {"en": "Karl", "zh-CN": "Karl", "zh-TW": "Karl", "ja": "オペル・カール"},
+      "names": {
+        "en": "Karl",
+        "zh-CN": "Karl",
+        "zh-TW": "Karl",
+        "ja": "オペル・カール"
+      },
       "segment": "class:eu:a",
       "body_style": "body:city-car",
       "powertrain": "pt:ice",
@@ -219,7 +309,12 @@
     {
       "id": "model:opel:gt",
       "brand": "Opel",
-      "names": {"en": "GT", "zh-CN": "GT", "zh-TW": "GT", "ja": "オペル・GT"},
+      "names": {
+        "en": "GT",
+        "zh-CN": "GT",
+        "zh-TW": "GT",
+        "ja": "オペル・GT"
+      },
       "segment": "class:eu:s",
       "body_style": "body:sports",
       "powertrain": "pt:ice",
@@ -231,7 +326,12 @@
     {
       "id": "model:opel:manta",
       "brand": "Opel",
-      "names": {"en": "Manta", "zh-CN": "Manta", "zh-TW": "Manta", "ja": "オペル・マンタ"},
+      "names": {
+        "en": "Manta",
+        "zh-CN": "Manta",
+        "zh-TW": "Manta",
+        "ja": "オペル・マンタ"
+      },
       "segment": "class:eu:s",
       "body_style": "body:coupe",
       "powertrain": "pt:ice",
@@ -243,7 +343,12 @@
     {
       "id": "model:opel:meriva",
       "brand": "Opel",
-      "names": {"en": "Meriva", "zh-CN": "Meriva", "zh-TW": "Meriva", "ja": "オペル・メリーバ"},
+      "names": {
+        "en": "Meriva",
+        "zh-CN": "Meriva",
+        "zh-TW": "Meriva",
+        "ja": "オペル・メリーバ"
+      },
       "segment": "class:eu:m",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -255,7 +360,12 @@
     {
       "id": "model:opel:ampera",
       "brand": "Opel",
-      "names": {"en": "Ampera", "zh-CN": "Ampera", "zh-TW": "Ampera", "ja": "オペル・アンペラ"},
+      "names": {
+        "en": "Ampera",
+        "zh-CN": "Ampera",
+        "zh-TW": "Ampera",
+        "ja": "オペル・アンペラ"
+      },
       "segment": "class:eu:c",
       "body_style": "body:hatchback",
       "powertrain": "pt:erev",

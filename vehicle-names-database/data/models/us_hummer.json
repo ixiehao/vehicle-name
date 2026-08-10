@@ -3,7 +3,12 @@
     {
       "id": "model:hummer:h1",
       "brand": "Hummer",
-      "names": {"en": "Hummer H1", "zh-CN": "悍马H1", "zh-TW": "Hummer H1", "ja": "ハマーH1"},
+      "names": {
+        "en": "Hummer H1",
+        "zh-CN": "悍马H1",
+        "zh-TW": "Hummer H1",
+        "ja": "ハマーH1"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -15,7 +20,12 @@
     {
       "id": "model:hummer:h2",
       "brand": "Hummer",
-      "names": {"en": "Hummer H2", "zh-CN": "悍马H2", "zh-TW": "Hummer H2", "ja": "ハマーH2"},
+      "names": {
+        "en": "Hummer H2",
+        "zh-CN": "悍马H2",
+        "zh-TW": "Hummer H2",
+        "ja": "ハマーH2"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -27,7 +37,12 @@
     {
       "id": "model:hummer:h3",
       "brand": "Hummer",
-      "names": {"en": "Hummer H3", "zh-CN": "悍马H3", "zh-TW": "Hummer H3", "ja": "ハマーH3"},
+      "names": {
+        "en": "Hummer H3",
+        "zh-CN": "悍马H3",
+        "zh-TW": "Hummer H3",
+        "ja": "ハマーH3"
+      },
       "segment": "class:us:standard-suv",
       "body_style": "body:suv",
       "powertrain": "pt:ice",

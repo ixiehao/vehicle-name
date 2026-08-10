@@ -3,7 +3,12 @@
     {
       "id": "model:haima:family",
       "brand": "Haima",
-      "names": {"en": "Haima Family", "zh-CN": "福美来", "zh-TW": "福美來", "ja": "—"},
+      "names": {
+        "en": "Haima Family",
+        "zh-CN": "福美来",
+        "zh-TW": "福美來",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -15,31 +20,46 @@
     {
       "id": "model:haima:family-f5",
       "brand": "Haima",
-      "names": {"en": "Haima Family F5", "zh-CN": "福美来F5", "zh-TW": "福美來F5", "ja": "—"},
+      "names": {
+        "en": "Haima Family F5",
+        "zh-CN": "福美来F5",
+        "zh-TW": "福美來F5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2018–2021",
-      "note": "紧凑型轿车,福美来系列的后续车型",
-      "verified": "pending"
+      "years": "2018-2020",
+      "note": "福美来F5(2018-2020),海马紧凑型轿车,福美来系列后续车型,2020年停产",
+      "verified": "verified"
     },
     {
       "id": "model:haima:family-f7",
       "brand": "Haima",
-      "names": {"en": "Haima Family F7", "zh-CN": "福美来F7", "zh-TW": "福美來F7", "ja": "—"},
+      "names": {
+        "en": "Haima Family F7",
+        "zh-CN": "福美来F7",
+        "zh-TW": "福美來F7",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
-      "status": "discontinued",
-      "years": "2017–2020",
-      "note": "7座紧凑型MPV",
-      "verified": "pending"
+      "status": "current",
+      "years": "2017-present",
+      "note": "福美来F7(2017-),海马7座紧凑型MPV,2019年换代",
+      "verified": "verified"
     },
     {
       "id": "model:haima:haifuxing",
       "brand": "Haima",
-      "names": {"en": "Haima Haifuxing", "zh-CN": "海福星", "zh-TW": "海福星", "ja": "—"},
+      "names": {
+        "en": "Haima Haifuxing",
+        "zh-CN": "海福星",
+        "zh-TW": "海福星",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -51,7 +71,12 @@
     {
       "id": "model:haima:qiubeite",
       "brand": "Haima",
-      "names": {"en": "Haima Qiubeite", "zh-CN": "丘比特", "zh-TW": "丘比特", "ja": "—"},
+      "names": {
+        "en": "Haima Qiubeite",
+        "zh-CN": "丘比特",
+        "zh-TW": "丘比特",
+        "ja": "—"
+      },
       "segment": "class:cn:a0",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -63,7 +88,12 @@
     {
       "id": "model:haima:pulima",
       "brand": "Haima",
-      "names": {"en": "Haima Pulima", "zh-CN": "普力马", "zh-TW": "普力馬", "ja": "—"},
+      "names": {
+        "en": "Haima Pulima",
+        "zh-CN": "普力马",
+        "zh-TW": "普力馬",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -75,31 +105,46 @@
     {
       "id": "model:haima:m3",
       "brand": "Haima",
-      "names": {"en": "Haima M3", "zh-CN": "海马M3", "zh-TW": "海馬M3", "ja": "—"},
+      "names": {
+        "en": "Haima M3",
+        "zh-CN": "海马M3",
+        "zh-TW": "海馬M3",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2013–2019",
-      "note": "紧凑型轿车",
-      "verified": "pending"
+      "years": "2013-2019",
+      "note": "海马M3(2013-2019),海马紧凑型轿车,2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:haima:m6",
       "brand": "Haima",
-      "names": {"en": "Haima M6", "zh-CN": "海马M6", "zh-TW": "海馬M6", "ja": "—"},
+      "names": {
+        "en": "Haima M6",
+        "zh-CN": "海马M6",
+        "zh-TW": "海馬M6",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2015–2019",
-      "note": "中型轿车",
-      "verified": "pending"
+      "years": "2015-2019",
+      "note": "海马M6(2015-2019),海马中型轿车,2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:haima:m8",
       "brand": "Haima",
-      "names": {"en": "Haima M8", "zh-CN": "海马M8", "zh-TW": "海馬M8", "ja": "—"},
+      "names": {
+        "en": "Haima M8",
+        "zh-CN": "海马M8",
+        "zh-TW": "海馬M8",
+        "ja": "—"
+      },
       "segment": "class:cn:b",
       "body_style": "body:sedan",
       "powertrain": "pt:ice",
@@ -111,43 +156,63 @@
     {
       "id": "model:haima:s5",
       "brand": "Haima",
-      "names": {"en": "Haima S5", "zh-CN": "海马S5", "zh-TW": "海馬S5", "ja": "—"},
+      "names": {
+        "en": "Haima S5",
+        "zh-CN": "海马S5",
+        "zh-TW": "海馬S5",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2014–2019",
-      "note": "紧凑型SUV,含S5青春版",
-      "verified": "pending"
+      "years": "2014-2019",
+      "note": "海马S5(2014-2019),海马紧凑型SUV,含S5青春版,2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:haima:s7",
       "brand": "Haima",
-      "names": {"en": "Haima S7", "zh-CN": "海马S7", "zh-TW": "海馬S7", "ja": "—"},
+      "names": {
+        "en": "Haima S7",
+        "zh-CN": "海马S7",
+        "zh-TW": "海馬S7",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
       "status": "discontinued",
-      "years": "2013–2018",
-      "note": "紧凑型SUV,海马骑士的继任车型",
-      "verified": "pending"
+      "years": "2013-2019",
+      "note": "海马S7(2013-2019),海马紧凑型SUV,骑士的继任车型,2019年停产",
+      "verified": "verified"
     },
     {
       "id": "model:haima:8s",
       "brand": "Haima",
-      "names": {"en": "Haima 8S", "zh-CN": "海马8S", "zh-TW": "海馬8S", "ja": "—"},
+      "names": {
+        "en": "Haima 8S",
+        "zh-CN": "海马8S",
+        "zh-TW": "海馬8S",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
-      "status": "discontinued",
-      "years": "2019–2022",
-      "note": "紧凑型SUV,海马后期主力SUV",
-      "verified": "pending"
+      "status": "current",
+      "years": "2019-present",
+      "note": "海马8S(2019-),海马紧凑型SUV,后期主力",
+      "verified": "verified"
     },
     {
       "id": "model:haima:v70",
       "brand": "Haima",
-      "names": {"en": "Haima V70", "zh-CN": "海马V70", "zh-TW": "海馬V70", "ja": "—"},
+      "names": {
+        "en": "Haima V70",
+        "zh-CN": "海马V70",
+        "zh-TW": "海馬V70",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
@@ -159,19 +224,29 @@
     {
       "id": "model:haima:7x",
       "brand": "Haima",
-      "names": {"en": "Haima 7X", "zh-CN": "海马7X", "zh-TW": "海馬7X", "ja": "—"},
+      "names": {
+        "en": "Haima 7X",
+        "zh-CN": "海马7X",
+        "zh-TW": "海馬7X",
+        "ja": "—"
+      },
       "segment": "class:cn:mpv",
       "body_style": "body:mpv",
       "powertrain": "pt:ice",
       "status": "current",
-      "years": "2020–present",
-      "note": "7座紧凑型MPV,含7X-E纯电版;在售状态待核实",
-      "verified": "pending"
+      "years": "2020-present",
+      "note": "海马7X(2020-),海马7座紧凑型MPV,含7X-E纯电版",
+      "verified": "verified"
     },
     {
       "id": "model:haima:qishi",
       "brand": "Haima",
-      "names": {"en": "Haima Qishi", "zh-CN": "海马骑士", "zh-TW": "海馬騎士", "ja": "—"},
+      "names": {
+        "en": "Haima Qishi",
+        "zh-CN": "海马骑士",
+        "zh-TW": "海馬騎士",
+        "ja": "—"
+      },
       "segment": "class:cn:a",
       "body_style": "body:suv",
       "powertrain": "pt:ice",
@@ -183,7 +258,12 @@
     {
       "id": "model:haima:aishang",
       "brand": "Haima",
-      "names": {"en": "Haima Aishang", "zh-CN": "海马爱尚", "zh-TW": "海馬愛尚", "ja": "—"},
+      "names": {
+        "en": "Haima Aishang",
+        "zh-CN": "海马爱尚",
+        "zh-TW": "海馬愛尚",
+        "ja": "—"
+      },
       "segment": "class:cn:a00",
       "body_style": "body:hatchback",
       "powertrain": "pt:ice",
@@ -191,6 +271,424 @@
       "years": "2012–2015",
       "note": "微型两厢车",
       "verified": "verified"
+    },
+    {
+      "id": "model:haima:haima-3",
+      "brand": "Haima",
+      "names": {
+        "en": "3",
+        "zh-CN": "3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2007-2010",
+      "note": "海马3(2007-2010),海马紧凑型轿车(源自马自达323平台),2010年停产",
+      "verified": "verified",
+      "en": "Haima 3",
+      "zh-CN": "海马3"
+    },
+    {
+      "id": "model:haima:haima-c3",
+      "brand": "Haima",
+      "names": {
+        "en": "C3",
+        "zh-CN": "C3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2016",
+      "note": "海马C3(2013-2016),海马微型车,2016年停产",
+      "verified": "verified",
+      "en": "C3",
+      "zh-CN": "海马C3"
+    },
+    {
+      "id": "model:haima:haima-ev",
+      "brand": "Haima",
+      "names": {
+        "en": "Prelude EV",
+        "zh-CN": "普力马EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2015-2018",
+      "note": "普力马EV(2015-2018),普力马纯电动版,2018年停产",
+      "verified": "verified",
+      "en": "Prelude EV",
+      "zh-CN": "普力马EV"
+    },
+    {
+      "id": "model:haima:ef5c030e7d",
+      "brand": "Haima",
+      "names": {
+        "en": "Huandong",
+        "zh-CN": "欢动",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2009-2011",
+      "note": "欢动(2009-2011),海马紧凑型两厢车,2011年停产",
+      "verified": "verified",
+      "en": "Huandong",
+      "zh-CN": "欢动"
+    },
+    {
+      "id": "model:haima:haima-6p",
+      "brand": "Haima",
+      "names": {
+        "en": "Haima 6P",
+        "zh-CN": "海马6P",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:phev",
+      "status": "current",
+      "years": "2020-present",
+      "note": "海马6P(2020-),海马首款插混SUV",
+      "verified": "verified",
+      "en": "6P",
+      "zh-CN": "海马6P"
+    },
+    {
+      "id": "model:haima:haima-c2",
+      "brand": "Haima",
+      "names": {
+        "en": "Haima C2",
+        "zh-CN": "海马C2",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2013-2016",
+      "note": "海马C2(2013-2016),海马小型SUV,2016年停产",
+      "verified": "verified",
+      "en": "C2",
+      "zh-CN": "海马C2"
+    },
+    {
+      "id": "model:haima:haima-e1",
+      "brand": "Haima",
+      "names": {
+        "en": "Haima E1",
+        "zh-CN": "海马E1",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2018-present",
+      "note": "海马E1(2018-),海马A00级纯电微型车",
+      "verified": "verified",
+      "en": "E1",
+      "zh-CN": "海马E1"
+    },
+    {
+      "id": "model:haima:haima-e3",
+      "brand": "Haima",
+      "names": {
+        "en": "Haima E3",
+        "zh-CN": "海马E3",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:sedan",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2019-2021",
+      "note": "海马E3(2019-2021),海马纯电轿车,2021年停产",
+      "verified": "verified",
+      "en": "E3",
+      "zh-CN": "海马E3"
+    },
+    {
+      "id": "model:haima:haima-e5",
+      "brand": "Haima",
+      "names": {
+        "en": "Haima E5",
+        "zh-CN": "海马E5",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018-2021",
+      "note": "海马E5(2018-2021),海马纯电SUV,2021年停产",
+      "verified": "verified",
+      "en": "E5",
+      "zh-CN": "海马E5"
+    },
+    {
+      "id": "model:haima:injoy",
+      "brand": "Haima",
+      "names": {
+        "en": "Haima INJOY",
+        "zh-CN": "海马INJOY",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "current",
+      "years": "2024-present",
+      "note": "海马INJOY(2024-),海马与智行盒子合作的纯电MPV(含INJOY L/U)",
+      "verified": "verified",
+      "en": "INJOY",
+      "zh-CN": "海马INJOY"
+    },
+    {
+      "id": "model:haima:haima-s5-2",
+      "brand": "Haima",
+      "names": {
+        "en": "S5 Youth",
+        "zh-CN": "海马S5青春版",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2017-2019",
+      "note": "海马S5青春版(2017-2019),S5的年轻化版,2019年停产",
+      "verified": "verified",
+      "en": "S5 Youth",
+      "zh-CN": "海马S5青春版"
+    },
+    {
+      "id": "model:haima:haima-ev-2",
+      "brand": "Haima",
+      "names": {
+        "en": "Aishang EV",
+        "zh-CN": "海马爱尚EV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2017-2021",
+      "note": "海马爱尚EV(2017-2021),海马纯电微型车,2021年停产",
+      "verified": "verified",
+      "en": "Aishang EV",
+      "zh-CN": "海马爱尚EV"
+    },
+    {
+      "id": "model:haima:00a8fcfc9d",
+      "brand": "Haima",
+      "names": {
+        "en": "Prince",
+        "zh-CN": "王子",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2013",
+      "note": "海马王子(2010-2013),海马郑州A00级微型车,2013年停产",
+      "verified": "verified",
+      "en": "Prince",
+      "zh-CN": "王子"
+    },
+    {
+      "id": "model:haima:675cca5bc3",
+      "brand": "Haima",
+      "names": {
+        "en": "White Horse Prince",
+        "zh-CN": "白马王子",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2013",
+      "note": "白马王子M1-T(2010-2013),海马王子同平台车型,2013年停产",
+      "verified": "verified",
+      "en": "White Horse Prince",
+      "zh-CN": "白马王子"
+    },
+    {
+      "id": "model:haima:28896bc134",
+      "brand": "Haima",
+      "names": {
+        "en": "Fushida Fukka",
+        "zh-CN": "福仕达福卡",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:pickup",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2011-2015",
+      "note": "福仕达福卡(2011-2015),海马郑州微卡,2015年停产",
+      "verified": "verified",
+      "en": "Fushida Fukka",
+      "zh-CN": "福仕达福卡"
+    },
+    {
+      "id": "model:haima:5ea38480fa",
+      "brand": "Haima",
+      "names": {
+        "en": "Fushida Tengda",
+        "zh-CN": "福仕达腾达",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2015",
+      "note": "福仕达腾达(2010-2015),海马郑州微面,2015年停产",
+      "verified": "verified",
+      "en": "Fushida Tengda",
+      "zh-CN": "福仕达腾达"
+    },
+    {
+      "id": "model:haima:c03a5dcb74",
+      "brand": "Haima",
+      "names": {
+        "en": "Fushida Rongda",
+        "zh-CN": "福仕达荣达",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2015",
+      "note": "福仕达荣达(2010-2015),海马郑州微面,2015年停产",
+      "verified": "verified",
+      "en": "Fushida Rongda",
+      "zh-CN": "福仕达荣达"
+    },
+    {
+      "id": "model:haima:13a9382f64",
+      "brand": "Haima",
+      "names": {
+        "en": "Fushida Hongda",
+        "zh-CN": "福仕达鸿达",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:van",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2012-2015",
+      "note": "福仕达鸿达(2012-2015),海马郑州微面,2015年停产",
+      "verified": "verified",
+      "en": "Fushida Hongda",
+      "zh-CN": "福仕达鸿达"
+    },
+    {
+      "id": "model:haima:haima-e7",
+      "brand": "Haima",
+      "names": {
+        "en": "Family E7",
+        "zh-CN": "福美来E7",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:bev",
+      "status": "discontinued",
+      "years": "2018-2021",
+      "note": "福美来E7(2018-2021),海马纯电MPV,2021年停产",
+      "verified": "verified",
+      "en": "Family E7",
+      "zh-CN": "福美来E7"
+    },
+    {
+      "id": "model:haima:mpv",
+      "brand": "Haima",
+      "names": {
+        "en": "Family MPV",
+        "zh-CN": "福美来MPV",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:mpv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2016-2019",
+      "note": "福美来MPV(2016-2019),海马7座MPV,2019年停产",
+      "verified": "verified",
+      "en": "Family MPV",
+      "zh-CN": "福美来MPV"
+    },
+    {
+      "id": "model:haima:2b3c169ea1",
+      "brand": "Haima",
+      "names": {
+        "en": "Frog Prince",
+        "zh-CN": "青蛙王子",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:hatchback",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2013",
+      "note": "青蛙王子M1-Q(2010-2013),海马王子同平台车型,2013年停产",
+      "verified": "verified",
+      "en": "Frog Prince",
+      "zh-CN": "青蛙王子"
+    },
+    {
+      "id": "model:haima:777bd240aa",
+      "brand": "Haima",
+      "names": {
+        "en": "Knight",
+        "zh-CN": "骑士",
+        "zh-TW": "—",
+        "ja": "—"
+      },
+      "segment": "class:cn:a",
+      "body_style": "body:suv",
+      "powertrain": "pt:ice",
+      "status": "discontinued",
+      "years": "2010-2013",
+      "note": "海马骑士(2010-2013),海马首款SUV,2013年由S7接替",
+      "verified": "verified",
+      "en": "Knight",
+      "zh-CN": "骑士"
     }
   ]
 }
