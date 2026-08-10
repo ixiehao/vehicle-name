@@ -9,6 +9,30 @@ This project loosely follows Semantic Versioning 2.0.0 (MAJOR.MINOR.PATCH):
 
 ---
 
+## [1.2.0] — 2026-08-10
+
+### 新增 Added
+
+- **补充铃木印度市场车型**:新增 Maruti Suzuki 在印度市场生产/销售的 12 款车型(Dzire、Vitara Brezza、S-Presso、Fronx、Ciaz、Eeco、Omni、Alto 800、Ritz、XL6、S-Cross、Maruti 800),均标注中国市场对应关系。
+- **补充铃木东南亚车型**:新增印尼市场商用厢式车 APV。
+- **补充大发东南亚车型**:新增印尼/马来西亚市场 6 款(Ayla、Sigra、Xenia、Luxio、Gran Max、Sirion),注明与丰田姊妹车关系。
+
+### 清理 Cleanup
+
+- 删除 183 条补录脚本误加的未核实条目(概念车/赛车/重复条目/字段默认值,`verified: pending` 且注明"参考封面车系数据补充")。
+- 清理大发品牌 7 个概念车(DN 系列、D-R、D-Base、FX)及归属错误条目(森雅属一汽品牌,已由一汽数据覆盖)。
+
+### 修正 Fixed
+
+- 修正 `meta.json` 车型统计与 dist 产物对齐;`.gitignore` 忽略临时脚本与 Obsidian 配置。
+
+### 统计 Statistics
+
+- 车型总数:3030(清理垃圾 + 补充海外车型后净增 989)
+- 覆盖品牌:164 个 | 术语:72 条 | 跨市场异名:24 组
+
+---
+
 ## [1.1.0] — 2026-08-09
 
 ### 项目 Project

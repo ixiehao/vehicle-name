@@ -34,7 +34,7 @@ The database covers four areas of automotive terminology, each with names in 4 l
 | **Vehicle classes** `vehicle_classes` | CN/EU/JP/US classification systems + body styles + powertrain types | 6 subsystems |
 | **Glossary** `glossary` | 10 categories: powertrain, transmission, chassis, braking, safety, driver assist, new energy, body, lighting/comfort, tire/wheel | 72 terms |
 | **Brands** `brands` | 164 mainstream brands grouped by country | 164 entries |
-| **Models** `models` | Current + discontinued models (split per brand, with production years & status) | 2041 entries |
+| **Models** `models` | Current + discontinued models (split per brand, with production years & status) | 3030 entries |
 | **Cross-market aliases** `cross_market` | Same car under different names in different markets | 24 groups |
 
 Goals:
@@ -183,6 +183,12 @@ Full responsibility and privacy statements: [DISCLAIMER.md](DISCLAIMER.md) and [
 
 ## 9. Release Notes
 
+**v1.2.0 (2026-08-10) — Overseas market models & data cleanup**, key updates:
+
+- **Suzuki India / SE Asia**: 12 Maruti Suzuki India-market models (Dzire, Vitara Brezza, S-Presso, Fronx, Ciaz, etc.) plus the Indonesian APV; **Daihatsu SE Asia**: 6 models (Ayla, Sigra, Xenia, Luxio, Gran Max, Sirion).
+- **Data cleanup**: removed 190 unverified entries (concepts/racers/duplicates/mis-attributed) added by an earlier bulk script.
+- **Statistics aligned**: model count corrected to match dist artifacts, 2041 → 3030.
+
 **v1.1.0 (2026-08-09) — First official release**, key updates:
 
 - **Data scale**: brands 63 → 164 (16 country groups), models 84 → 2041 (historical models since 1955 plus current models).
@@ -196,5 +202,6 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 | Version | Date | Notes |
 |---------|------|-------|
+| 1.2.0 | 2026-08-10 | Suzuki India/SE Asia & Daihatsu SE Asia models added; bulk junk entries cleaned; models 2041 → 3030 |
 | 1.1.0 | 2026-08-09 | Project vehiclename with internationalized naming vehicle-names-database; open-source restructure (license/CI/templates); brands expanded to 164, models expanded to 2041 |
 | 1.0.0 | 2026-08-09 | Initial release: class systems, 72 terms, 63 brands, 84 models, 24 alias groups |
