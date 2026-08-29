@@ -1,6 +1,6 @@
 # 贡献指南(Contributing Guide)
 
-English: [CONTRIBUTING.en.md](CONTRIBUTING.en.md)
+语言 / Languages: [English](CONTRIBUTING.en.md) · [简体中文](CONTRIBUTING.md) · [繁體中文](CONTRIBUTING.zh-TW.md) · [日本語](CONTRIBUTING.ja.md)
 
 欢迎全球网友参与本资料库的补充与修改!感谢您的贡献。
 

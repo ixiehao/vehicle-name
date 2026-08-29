@@ -2,7 +2,7 @@
 
 > 面向 AI 与人类的 4 语言(en / zh-CN / zh-TW / ja)汽车名词资料库:车型、品牌、术语、级别分类与跨市场异名。
 
-English: [vehicle-names-database/README.en.md](vehicle-names-database/README.en.md) · 中文: [vehicle-names-database/README.md](vehicle-names-database/README.md)
+语言 / Languages: [English](vehicle-names-database/README.en.md) · [简体中文](vehicle-names-database/README.md) · [繁體中文](vehicle-names-database/README.zh-TW.md) · [日本語](vehicle-names-database/README.ja.md)
 
 ![Data version](https://img.shields.io/badge/data-v1.2.0-2ea44f)
 ![Brands](https://img.shields.io/badge/brands-164-blue)

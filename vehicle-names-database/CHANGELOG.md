@@ -9,6 +9,13 @@ This project loosely follows Semantic Versioning 2.0.0 (MAJOR.MINOR.PATCH):
 
 ---
 
+## [Unreleased]
+
+### Documentation
+
+- 新增繁體中文與日語的 README、貢獻指南，並在所有入口文件建立四語導航。
+- Added Traditional Chinese and Japanese README/contribution guides, with four-language navigation across entry documents.
+
 ## [1.2.0] — 2026-08-10
 
 ### 新增 Added

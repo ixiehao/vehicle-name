@@ -4,7 +4,7 @@
 > Languages: English (`en`), Simplified Chinese (`zh-CN`), Traditional Chinese (`zh-TW`, Taiwan usage), Japanese (`ja`).
 > Open source: contributions from the global community are welcome — see [CONTRIBUTING.en.md](CONTRIBUTING.en.md).
 
-中文版:[README.md](README.md)
+Languages: [English](README.en.md) · [简体中文](README.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md)
 
 ---
 
@@ -51,8 +51,12 @@ Goals:
 vehicle-names-database/
 ├── README.md                    # This document (overview, schema, usage, maintenance)
 ├── README.en.md                 # English version
+├── README.zh-TW.md              # Traditional Chinese version
+├── README.ja.md                 # Japanese version
 ├── CONTRIBUTING.md              # Contribution guide (Chinese)
 ├── CONTRIBUTING.en.md           # Contribution guide (English)
+├── CONTRIBUTING.zh-TW.md        # Contribution guide (Traditional Chinese)
+├── CONTRIBUTING.ja.md           # Contribution guide (Japanese)
 ├── CODE_OF_CONDUCT.md           # Code of conduct
 ├── SECURITY.md                  # Security policy
 ├── PRIVACY.md                   # Privacy statement (multilingual)

@@ -1,6 +1,6 @@
 # Contributing Guide
 
-中文版:[CONTRIBUTING.md](CONTRIBUTING.md)
+Languages: [English](CONTRIBUTING.en.md) · [简体中文](CONTRIBUTING.md) · [繁體中文](CONTRIBUTING.zh-TW.md) · [日本語](CONTRIBUTING.ja.md)
 
 Welcome, contributors from around the world! Thank you for helping to grow and improve this database.
 

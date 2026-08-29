@@ -4,7 +4,7 @@
 > 覆盖语言:英文(`en`)、简体中文(`zh-CN`)、繁体中文(`zh-TW`,以台湾地区用法为主)、日语(`ja`)。
 > 开源协作:欢迎全球网友参与补充与修改,详见 [CONTRIBUTING.md](CONTRIBUTING.md) / [CONTRIBUTING.en.md](CONTRIBUTING.en.md)。
 
-English version: [README.en.md](README.en.md)
+语言 / Languages: [English](README.en.md) · [简体中文](README.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md)
 
 ---
 
@@ -51,8 +51,12 @@ English version: [README.en.md](README.en.md)
 vehicle-names-database/
 ├── README.md                    # 本文档(总览、Schema、调用与维护指南)
 ├── README.en.md                 # 英文版
+├── README.zh-TW.md              # 繁體中文版
+├── README.ja.md                 # 日文版
 ├── CONTRIBUTING.md              # 贡献指南(中文)
 ├── CONTRIBUTING.en.md           # 贡献指南(English)
+├── CONTRIBUTING.zh-TW.md        # 貢獻指南(繁體中文)
+├── CONTRIBUTING.ja.md           # コントリビューションガイド(日本語)
 ├── CODE_OF_CONDUCT.md           # 行为准则
 ├── SECURITY.md                  # 安全策略
 ├── PRIVACY.md                   # 隐私声明(多语言)
